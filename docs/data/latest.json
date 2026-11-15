@@ -5,114 +5,87 @@
     "date": "2026-11-15",
     "date_long": "Sunday, 15 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-15T11:45+05:30",
-    "is_sample": false
+    "generated_at": "2026-11-15T11:46+05:30",
+    "is_sample": true
   },
   "dashboard": {
-    "total_articles": 39,
-    "reading_minutes": 8,
-    "source_count": 22,
-    "full_text_count": 2,
+    "total_articles": 14,
+    "reading_minutes": 2,
+    "source_count": 1,
+    "full_text_count": 0,
     "per_section": {
-      "vertical-thinking": 10,
-      "medicine": 7,
-      "surgery": 4,
-      "medical-trends": 8,
+      "vertical-thinking": 2,
+      "medicine": 2,
+      "surgery": 2,
+      "gastroenterology": 2,
+      "medical-trends": 2,
       "lectures": 2,
-      "related-articles": 8
+      "related-articles": 2
     },
     "keywords": [
       {
-        "term": "health",
-        "count": 7
+        "term": "sample headline",
+        "count": 14
       },
       {
-        "term": "patients",
+        "term": "workflow scripts",
+        "count": 14
+      },
+      {
+        "term": "placeholder text",
+        "count": 14
+      },
+      {
+        "term": "scripts fetch",
+        "count": 14
+      },
+      {
+        "term": "attributed",
+        "count": 14
+      },
+      {
+        "term": "stories",
+        "count": 14
+      },
+      {
+        "term": "replace",
+        "count": 14
+      },
+      {
+        "term": "real",
+        "count": 14
+      },
+      {
+        "term": "feeds",
+        "count": 14
+      },
+      {
+        "term": "medical",
+        "count": 6
+      },
+      {
+        "term": "science",
         "count": 4
       },
       {
-        "term": "treatment",
-        "count": 4
-      },
-      {
-        "term": "clinical",
-        "count": 4
-      },
-      {
-        "term": "study",
-        "count": 4
-      },
-      {
-        "term": "time",
-        "count": 3
-      },
-      {
-        "term": "american",
-        "count": 3
-      },
-      {
-        "term": "administration",
-        "count": 3
-      },
-      {
-        "term": "endometrial cancer",
-        "count": 2
-      },
-      {
-        "term": "published online",
-        "count": 2
-      },
-      {
-        "term": "online november",
-        "count": 2
-      },
-      {
-        "term": "medicine published",
+        "term": "thinking",
         "count": 2
       }
     ],
     "markets": [
       {
-        "label": "USD/EUR",
-        "group": "Currencies",
-        "display": "0.9048",
-        "change_pct": 0.26,
-        "source": "ECB via Frankfurter"
-      },
-      {
-        "label": "USD/GBP",
-        "group": "Currencies",
-        "display": "0.7560",
-        "change_pct": 0.22,
-        "source": "ECB via Frankfurter"
+        "label": "S&P 500",
+        "group": "Indices",
+        "display": "0.00",
+        "change_pct": null,
+        "source": "sample"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "94.25",
-        "change_pct": 0.22,
-        "source": "ECB via Frankfurter"
-      },
-      {
-        "label": "USD/JPY",
-        "group": "Currencies",
-        "display": "160.00",
-        "change_pct": 0.19,
-        "source": "ECB via Frankfurter"
-      },
-      {
-        "label": "Bitcoin (USD)",
-        "group": "Crypto",
-        "display": "64,276.00",
-        "change_pct": -4.39,
-        "source": "CoinGecko"
-      },
-      {
-        "label": "Ethereum (USD)",
-        "group": "Crypto",
-        "display": "1,789.67",
-        "change_pct": -5.98,
-        "source": "CoinGecko"
+        "display": "0.00",
+        "change_pct": null,
+        "source": "sample"
       }
     ]
   },
@@ -123,14 +96,7 @@
     "definition": "A drug class that mimics the gut hormone glucagon-like peptide-1 to raise insulin release, slow gastric emptying and reduce appetite; used in type 2 diabetes and obesity.",
     "source": "The Daily Differential glossary"
   },
-  "dictionary_word": {
-    "word": "Word of the day for November 15",
-    "definition": "edit · refresh · view Word of the day for November 15 bungee v (transitive) To secure (luggage, etc.) using a bungee (noun sense 2.2.1). (intransitive) Synonym of bungee jump (“to participate in bungee jumping”). bungee n (slang, archaic) A…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261115000000/en",
-    "source": "Wiktionary",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
-  },
+  "dictionary_word": null,
   "sections": [
     {
       "id": "vertical-thinking",
@@ -138,144 +104,32 @@
       "kicker": "Depth Over Breadth",
       "articles": [
         {
-          "id": "a2f3707bdb6a",
-          "title": "[Comment] Is chemotherapy still needed in all patients with mismatch repair-deficient advanced or recurrent endometrial cancer?",
-          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02199-9/fulltext?rss=yes",
-          "source": "The Lancet",
-          "section": "vertical-thinking",
-          "author": "Chel Hun Choi, Byoung-Gie Kim",
-          "published": "2026-11-14T00:00:00+00:00",
-          "summary": "Around a quarter of advanced or recurrent endometrial carcinomas are mismatch repair deficient (dMMR).1 Addition of a PD-1 or PD-L1 inhibitor to carboplatin plus paclitaxel has transformed first-line treatment for this subgroup, with the RUBY,1 NRG-GY018,2 AtTEnd,3 and DUO-E4 trials reporting hazard ratios (HRs) for…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "0ad4486c064a",
-          "title": "[Comment] The overlooked role of CMV in pneumonia in infants with HIV",
-          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01546-1/fulltext?rss=yes",
-          "source": "The Lancet",
-          "section": "vertical-thinking",
-          "author": "Sara Gianella, Peter W Hunt",
-          "published": "2026-11-14T00:00:00+00:00",
-          "summary": "For decades, severe pneumonia in infants with HIV has been treated as a race against time.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
-          "id": "57516e208680",
-          "title": "New addiction society guidance on medetomidine’s brutal withdrawal",
-          "url": "https://www.statnews.com/2026/11/13/medetomidine-withdrawal-asam-new-treatment-guidance/?utm_campaign=rss",
-          "source": "STAT – Research",
-          "section": "vertical-thinking",
-          "author": "Theresa Gaffney",
-          "published": "2026-11-13T20:45:42+00:00",
-          "summary": "The American Society of Addiction Medicine has released the first national guidance for recognizing and treating patients who have taken medetomidine.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "2f3452451cc7",
-          "title": "Gaza: US doctor condemns “shocking murder” of fellow surgeon in Israeli attack on hospital",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101452.short?rss=1",
-          "source": "The BMJ",
-          "section": "vertical-thinking",
-          "author": "Elisabeth Mahase",
-          "published": "2026-11-13T16:01:18+00:00",
-          "summary": "Six people, including a surgeon featured in a documentary on American doctors in Gaza, have been killed in an Israeli attack on a hospital.Rizk Abu Shaaira, a Palestinian surgeon, was killed when the surgical department at Nasser Hospital was hit by an Israeli airstrike in…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "84933877812f",
-          "title": "“I’m not like other medics:” deconstructing the medical student stereotype",
-          "url": "http://www.bmj.com/content/395/bmj-2026-100996.short?rss=1",
-          "source": "The BMJ",
-          "section": "vertical-thinking",
-          "author": "Zaynah Khan",
-          "published": "2026-11-13T15:56:20+00:00",
-          "summary": "Medical school often comes with a heavy set of unspoken expectations. From how you spend your free time to what you’re “supposed” to be good at, the pressure to fit a specific mould can be exhausting.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 36
-        },
-        {
-          "id": "f547f26c4751",
-          "title": "Analysis of antimicrobial resistance in the LAKANA trial of azithromycin administration in Mali: A sub-study of a cluster randomized clinical trial",
-          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005296",
-          "source": "PLOS Medicine",
-          "section": "vertical-thinking",
-          "author": "Dagmar G. Alber",
-          "published": "2026-11-13T14:00:00+00:00",
-          "summary": "by Jane Juma, Juho Luoma, Awa Traore, Aminata Sangare, Oumou Bouare, Fadima Cheick Haidara, Oumar Samaké, Laura Adubra, Rikhard Ihamuotila, Owen Martell, Tiia Haapaniemi, Kaisa Ylikruuvi, Camilla Ducker, Ulla Ashorn, Samba Sow, Per Ashorn, Yin Bun Cheung, Nigel Klein, Elaine Cloutman-Green, Yue-Mei Fan, Dagmar G.",
-          "full_html": "<p>by Jane Juma, Juho Luoma, Awa Traore, Aminata Sangare, Oumou Bouare, Fadima Cheick Haidara, Oumar Samaké, Laura Adubra, Rikhard Ihamuotila, Owen Martell, Tiia Haapaniemi, Kaisa Ylikruuvi, Camilla Ducker, Ulla Ashorn, Samba Sow, Per Ashorn, Yin Bun Cheung, Nigel Klein, Elaine Cloutman-Green, Yue-Mei Fan, Dagmar G. Alber</p>\nBackground <p>Mass azithromycin administration has been used to reduce under-five mortality in sub-Saharan Africa, but concerns remain about its potential impact on antimicrobial resistance (AMR).</p> Methods and findings <p>The Large-scale Assessment of the Key health-promoting Activities of two New mass drug administration regiments with Azithromycin (LAKANA) trial was a cluster-randomized, placebo-controlled trial conducted in Mali, enrolling infants aged 1−11 months randomized to placebo, twice-yearly azithromycin, or quarterly azithromycin for 2 years. The trial did not find any mortality benefit amongst treated children. The current analysis is a sub-study of the parent trial examining AMR outcomes. Repeated cross-sectional nasopharyngeal and rectal swabs were collected from children aged 4–14-months in villages randomized to placebo, twice-yearly or quarterly azithromycin, and from untreated contacts aged 49–59-months at baseline, 12-, 24-, and 36-months post-village enrollment across 59 LAKANA trial villages. Phenotypic resistance to macrolide and nonmacrolide antibiotics was assessed in <i>Streptococcus pneumoniae</i> (<i>S. pneumoniae</i>) and <i>Escherichia coli</i> (<i>E. coli</i>) isolates using disk diffusion or E-tests. The primary noninferiority analysis evaluated macrolide resistance prevalence at 36-months among younger children and at 24-months among older contacts, with predefined margin of +10 percentage points. A total of 5,025 nasopharyngeal and 5,021 rectal samples were analyzed. At baseline, among 4–14-month-old children, macrolide resistance in <i>S. pneumoniae</i> was 16.6%, 15.5%, and 11.1% in the placebo, twice-yearly and quarterly azithromycin groups, respectively, and 5.0%, 5.0%, and 0.0% in <i>E. coli</i>. At 36-months, corresponding prevalences were 13.4%, 14.5%, and 17.2% for <i>S. pneumoniae</i>, and 5.1%, 6.4%, and 9.1% for <i>E. coli</i>. The difference between placebo and twice-yearly groups was 1.0% (95% CI [−4.7, 6.8]) for <i>S. pneumoniae</i> and 1.3% (95% CI [−2.4, 4.9]) for <i>E. coli</i>; corresponding differences for quarterly azithromycin group was 3.8% (95% CI [−3.3, 10.9]) for <i>S. pneumoniae</i> and 4.0% (95% CI [−0.7, 8.7]) for <i>E. coli.</i> Among untreated older children, there were no marked inter-group differences in macrolide resistance either at baseline or at 24-months. The study may not have been large enough to detect a small increase in macrolide resistance in <i>S. pneumoniae</i> among young children in villages that received quarterly azithromycin.</p> Conclusions <p>Twice-yearly azithromycin administration to 1–11-month-old infants for 2 years in Mali did not increase macrolide resistance in treated children or untreated contacts and met the predefined noninferiority margin in tested isolates. Quarterly administration, however, cannot exclude a modest dose-dependent increase of macrolide resistance in <i>S. pneumoniae</i> and <i>E. coli</i>.</p>",
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 441
-        },
-        {
-          "id": "5bd8dcfffd0a",
-          "title": "Vaccines could be a new frontier in KRAS targeting",
-          "url": "https://www.nature.com/articles/s41591-026-04772-1",
-          "source": "Nature Medicine",
-          "section": "vertical-thinking",
-          "author": "Shivan Sivakumar",
-          "published": "2026-11-13T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 13 November 2026; doi:10.1038/s41591-026-04772-1 A convergence of therapeutic and technological advances reveals KRAS-targeting vaccination as a potential new approach to preventing the recurrence of pancreatic cancer, but many hurdles remain.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 34
-        },
-        {
-          "id": "30c3768c2833",
-          "title": "Gut and urogenital microbiomes influence menopausal hormone therapy outcomes",
-          "url": "https://www.nature.com/articles/s41591-026-04789-6",
-          "source": "Nature Medicine",
+          "id": "580e68ca4541",
+          "title": "Sample headline 1: Vertical Thinking in Medical Science",
+          "url": "https://example.com/sample/vertical-thinking-1",
+          "source": "Sample Source",
           "section": "vertical-thinking",
           "author": "",
-          "published": "2026-11-13T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 13 November 2026; doi:10.1038/s41591-026-04789-6 A 6-month study shows that menopausal hormone therapy induces multi-site microbiome remodeling, including rejuvenation of the vaginal microbial community toward a reproductive-age-like state. In turn, baseline gut and vaginal community types affect the clinical response to therapy.",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 19
         },
         {
-          "id": "6e99e16242e4",
-          "title": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement",
-          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602435?af=R&rss=currentIssue",
-          "source": "NEJM",
+          "id": "b717d0fa0b7e",
+          "title": "Sample headline 2: Vertical Thinking in Medical Science",
+          "url": "https://example.com/sample/vertical-thinking-2",
+          "source": "Sample Source",
           "section": "vertical-thinking",
-          "author": "Vincent D. Pellegrini Carol A. Lambourne Laurence S. Magder Patricia D. Franklin Jay S. Magaziner Brook I. Martin Richard Iorio Kevin L. Garvin Michael A. Mont Wayne E. Moschetti Antonia F. Chen David Warwick C. McCollister Evarts Adina Harri Laura M. Kernan Samuel Z. Goldhaber William J. Maloney Zeke J. Walton James A. Browne Harry A. Demos James I. Huddleston Stephen L. Kates Peter J. Brooks Navin D. Fernando Brock A. Lindsey Matthew J. Dietz James Nace Ronald E. Delanois Michael S. Kain Mark J. Spangehl Brent A. Lanting Eric M. Cohen Lisa K. Moores William L. Healy and Charles W. Francisthe PEPPER Trial Investigators and the Steering Committee of the PEPPER Trial*",
-          "published": "2026-11-11T10:00:03+00:00",
-          "summary": "New England Journal of Medicine, Volume 395, Issue 19, Page 1896-1910, November 12, 2026.",
+          "author": "",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 14
-        },
-        {
-          "id": "e5991b8a35b3",
-          "title": "Estimating bone marrow adiposity from head MRI and identifying its genetic architecture",
-          "url": "https://elifesciences.org/articles/101499",
-          "source": "eLife – Medicine",
-          "section": "vertical-thinking",
-          "author": "tobias.kaufmann@med.uni-tuebingen.de (Tobias Kaufmann)",
-          "published": "2026-11-04T00:00:00+00:00",
-          "summary": "Bone marrow (BM) adiposity changes radically through the lifespan, but this phenomenon is poorly characterized and understood in humans.",
-          "full_html": "Bone marrow (BM) adiposity changes radically through the lifespan, but this phenomenon is poorly characterized and understood in humans. Large datasets of magnetic resonance imaging (MRI) scans of the head have been collected to study the human brain, but also contain unexploited information about other organs. We developed an artificial neural network that localizes calvarial BM in T1-weighted MRI head scans, enabling us to study its composition in several large MRI datasets, and to model sex-dimorphic age trajectories, including the effect of menopause. We revealed high heritability in single-nucleotide polymorphism and twin data, and identified 41 genetic loci significantly associated with the trait, including six sex-specific loci. Integrating mapped genes with existing BM single-cell RNA-sequencing data revealed patterns of adipogenic lineage differentiation and lipid loading. Finally, we identified significant genetic correlations with several human traits, including cognitive ability and Parkinson’s disease, which is intriguing in light of the recently discovered channels that link calvarial BM to the meninges.",
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 158
+          "words": 19
         }
       ]
     },
@@ -285,102 +139,32 @@
       "kicker": "The Clinic",
       "articles": [
         {
-          "id": "c483ec2db561",
-          "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
-          "source": "ScienceDaily – Health & Medicine",
+          "id": "6b6d24fa44f5",
+          "title": "Sample headline 1: Medicine & Therapeutics",
+          "url": "https://example.com/sample/medicine-1",
+          "source": "Sample Source",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-15T04:31:56+00:00",
-          "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins.",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 22
+          "words": 19
         },
         {
-          "id": "1d795f884f56",
-          "title": "AI discovers a hidden heart signal that could predict sudden death",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
-          "source": "ScienceDaily – Health & Medicine",
+          "id": "d2af92a3d15b",
+          "title": "Sample headline 2: Medicine & Therapeutics",
+          "url": "https://example.com/sample/medicine-2",
+          "source": "Sample Source",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-15T01:05:10+00:00",
-          "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might otherwise miss.",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 44
-        },
-        {
-          "id": "df42fd5a2698",
-          "title": "Scientists find a simple daily routine linked to less pain and depression",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-14T12:48:01+00:00",
-          "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "75235c37d759",
-          "title": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk",
-          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk",
-          "source": "FDA – Press Announcements",
-          "section": "medicine",
-          "author": "FDA",
-          "published": "2026-11-09T22:15:46+00:00",
-          "summary": "FDA today approved Sunharbo (asundexian) 50 mg tablets, the first factor XIa (FXIa) inhibitor for use in combination with antiplatelet therapy to reduce the risk of stroke in adults following a recent mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack.",
-          "full_html": null,
-          "license": "US Government work (public domain)",
-          "license_url": "",
-          "words": 42
-        },
-        {
-          "id": "867051790657",
-          "title": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
-          "url": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
-          "source": "FDA – Press Announcements",
-          "section": "medicine",
-          "author": "FDA",
-          "published": "2026-11-05T22:30:38+00:00",
-          "summary": "The U.S. Food and Drug Administration today granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for the treatment of adults with recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) whose disease has progressed on or after platinum-based chemotherap",
-          "full_html": null,
-          "license": "US Government work (public domain)",
-          "license_url": "",
-          "words": 41
-        },
-        {
-          "id": "e4e6ec5a6c0c",
-          "title": "Charles River pays $470M for 2 Frontage bioanalysis labs in Pennsylvania",
-          "url": "https://www.fiercebiotech.com/cro/charles-river-shells-out-470m-tigermed-owned-frontage-bioanalysis-business",
-          "source": "Fierce Biotech",
-          "section": "medicine",
-          "author": "Marissa Russo",
-          "published": null,
-          "summary": "Charles River Laboratories has acquired Tigermed’s Frontage laboratory sites for $470 million upfront to advance its bioanalysis footprint.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
-        },
-        {
-          "id": "c46ea745ef1f",
-          "title": "The promise of molecular gates and what comes next",
-          "url": "https://www.fiercebiotech.com/biotech/promise-molecular-gates-and-what-comes-next",
-          "source": "Fierce Biotech",
-          "section": "medicine",
-          "author": "Marissa Russo, Ayla Ellison",
-          "published": null,
-          "summary": "Gate Bioscience is developing a new class of medicines designed to eliminate disease-causing proteins at their source.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
+          "words": 19
         }
       ]
     },
@@ -390,60 +174,67 @@
       "kicker": "The Theatre",
       "articles": [
         {
-          "id": "4713d9202de2",
-          "title": "Dyania and NVIDIA partner to scale AI-driven clinical reasoning across health systems",
-          "url": "https://www.news-medical.net/news/20261113/Dyania-and-NVIDIA-partner-to-scale-AI-driven-clinical-reasoning-across-health-systems.aspx",
-          "source": "News-Medical – Surgery",
+          "id": "90fce94be6a6",
+          "title": "Sample headline 1: Surgery & Operative Innovation",
+          "url": "https://example.com/sample/surgery-1",
+          "source": "Sample Source",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-14T03:02:28+00:00",
-          "summary": "Dyania Health today announced a collaboration with NVIDIA to put AI clinical reasoning to work inside health systems, on their own infrastructure, at the scale of their entire patient population.",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
+          "words": 19
         },
         {
-          "id": "d9f7760888ef",
-          "title": "Study finds earlier endometrial cancer diagnoses among Native American and Hispanic women",
-          "url": "https://www.news-medical.net/news/20261113/Study-finds-earlier-endometrial-cancer-diagnoses-among-Native-American-and-Hispanic-women.aspx",
-          "source": "News-Medical – Surgery",
+          "id": "eb51873edf85",
+          "title": "Sample headline 2: Surgery & Operative Innovation",
+          "url": "https://example.com/sample/surgery-2",
+          "source": "Sample Source",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-14T02:52:50+00:00",
-          "summary": "While incidence rates for some cancers have declined among women, endometrial cancer, the most common type of uterine cancer, has increased substantially over the past two decades, with particularly concerning increases among Native American and Hispanic women.",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 37
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "gastroenterology",
+      "title": "Gastroenterology & Hepatology",
+      "kicker": "The Gut Instinct",
+      "articles": [
+        {
+          "id": "0f426d1eea7a",
+          "title": "Sample headline 1: Gastroenterology & Hepatology",
+          "url": "https://example.com/sample/gastroenterology-1",
+          "source": "Sample Source",
+          "section": "gastroenterology",
+          "author": "",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
         },
         {
-          "id": "082e16b44f5c",
-          "title": "New hybrid approach intensifies treatment for liver tumor metastases",
-          "url": "https://www.news-medical.net/news/20261113/New-hybrid-approach-intensifies-treatment-for-liver-tumor-metastases.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
+          "id": "cc20847e7c59",
+          "title": "Sample headline 2: Gastroenterology & Hepatology",
+          "url": "https://example.com/sample/gastroenterology-2",
+          "source": "Sample Source",
+          "section": "gastroenterology",
           "author": "",
-          "published": "2026-11-13T18:49:07+00:00",
-          "summary": "Combining intraarterial and intravenous administration of peptide receptor radionuclide therapy (PRRT) can selectively intensify treatment for liver-dominant metastatic neuroendocrine tumors (NETs) while still effectively delivering treatment throughout the whole body.",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
-        },
-        {
-          "id": "16b9d13967d4",
-          "title": "Stomach cancer is changing: An expert explains surgical approaches",
-          "url": "https://medicalxpress.com/news/2026-11-stomach-cancer-expert-surgical-approaches.html",
-          "source": "Medical Xpress – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-13T13:10:01+00:00",
-          "summary": "Sometimes innovation in cancer care means developing something entirely new. Other times, it means returning to an old idea with the knowledge and tools to make it work better.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
+          "words": 19
         }
       ]
     },
@@ -453,116 +244,32 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "90b841f879d5",
-          "title": "Cross-sectional study of facial bone wall thickness of maxillary incisors in healthy and periodontitis populations based on CBCT analysis",
-          "url": "https://www.nature.com/articles/s41598-026-75510-3",
-          "source": "Nature – Medical Research",
+          "id": "4763d71c1bcf",
+          "title": "Sample headline 1: Emerging Medical Trends & New Vocabulary",
+          "url": "https://example.com/sample/medical-trends-1",
+          "source": "Sample Source",
           "section": "medical-trends",
           "author": "",
-          "published": "2026-11-15T00:00:00+00:00",
-          "summary": "",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 0
+          "words": 19
         },
         {
-          "id": "a1b12e5b4f6e",
-          "title": "Comparison of perceived clinical leadership needs among staff nurses and nurse managers in Iran: a cross-sectional correlational study",
-          "url": "https://www.nature.com/articles/s41598-026-79628-2",
-          "source": "Nature – Medical Research",
+          "id": "505dc31c9c5f",
+          "title": "Sample headline 2: Emerging Medical Trends & New Vocabulary",
+          "url": "https://example.com/sample/medical-trends-2",
+          "source": "Sample Source",
           "section": "medical-trends",
           "author": "",
-          "published": "2026-11-15T00:00:00+00:00",
-          "summary": "",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "acbac1dec4ba",
-          "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
-          "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "John Wilkerson",
-          "published": "2026-11-13T22:21:56+00:00",
-          "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "03a893c83318",
-          "title": "Zus Health Raises $33M to Make Healthcare More Connected",
-          "url": "https://medcitynews.com/2026/11/zus-health-raises-33m-to-make-healthcare-more-connected/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Marissa Plescia",
-          "published": "2026-11-13T22:06:30+00:00",
-          "summary": "The Series B round was led by Drive Capital, with participation from Sanofi Ventures, HealthX Ventures, Alumni Ventures, Andreessen Horowitz (a16z), F-Prime, Maverick Ventures and JAZZ Venture Partners.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
-        },
-        {
-          "id": "3352826055c3",
-          "title": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals",
-          "url": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "John Wilkerson",
-          "published": "2026-11-13T21:46:05+00:00",
-          "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "b036b71fe80d",
-          "title": "Biosensors and Wearables Among MedTech Showcased at INVEST Digital Health",
-          "url": "https://medcitynews.com/2026/11/biosensors-and-wearables-among-medtech-showcased-at-invest-digital-health/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Stephanie Baum",
-          "published": "2026-11-13T20:49:06+00:00",
-          "summary": "[Sponsored] ARPA-H portfolio companies in the Innovation Showcase included biosensor and wearable startups to monitor vital signs and to obtain patient data previously only available through blood tests.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
-        },
-        {
-          "id": "a6ce6c799899",
-          "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
-          "url": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
-          "source": "World Health Organization",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-10-10T07:49:45+00:00",
-          "summary": "Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technical Package.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 40
-        },
-        {
-          "id": "7a2810effc06",
-          "title": "COVID-19 disrupting mental health services in most countries, WHO survey",
-          "url": "https://www.who.int/news/item/05-10-2020-covid-19-disrupting-mental-health-services-in-most-countries-who-survey",
-          "source": "World Health Organization",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2020-10-06T16:42:38+00:00",
-          "summary": "The COVID-19 pandemic has disrupted or halted critical mental health services in 93% of countries worldwide while the demand for mental health is increasing, according to a new WHO survey.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
+          "words": 19
         }
       ]
     },
@@ -572,32 +279,32 @@
       "kicker": "The Lecture Hall",
       "articles": [
         {
-          "id": "1b6349c9741b",
-          "title": "Your phone is disgusting. Here's how to clean it | Lotti Tajouri",
-          "url": "http://go.ted.com/lottitajouri",
-          "source": "TED Talks (health & science)",
+          "id": "9e6edf2dbde5",
+          "title": "Sample headline 1: Thought-Provoking Lectures in Medical Science",
+          "url": "https://example.com/sample/lectures-1",
+          "source": "Sample Source",
           "section": "lectures",
           "author": "",
-          "published": "2026-11-10T17:34:47+00:00",
-          "summary": "What’s dirtier: your phone or your hands? Molecular biologist Lotti Tajouri says there’s a gaping hole in our hygiene routine. We scrub our hands clean, then reach right for the phone — a warm, humid and mobile home for bacteria and viruses.",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 42
+          "words": 19
         },
         {
-          "id": "b7d8d9053ae3",
-          "title": "How to rewire your brain — and find your flow | Heather Berlin",
-          "url": "http://go.ted.com/heatherberlin",
-          "source": "TED Talks (health & science)",
+          "id": "a93a36dae959",
+          "title": "Sample headline 2: Thought-Provoking Lectures in Medical Science",
+          "url": "https://example.com/sample/lectures-2",
+          "source": "Sample Source",
           "section": "lectures",
           "author": "",
-          "published": "2026-11-09T16:07:29+00:00",
-          "summary": "When life gets uncertain, do you grip a little tighter? Neuroscientist Heather Berlin explores a surprising paradox: the harder you try to control everything, the more likely you are to get in your own way.",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 35
+          "words": 19
         }
       ]
     },
@@ -607,286 +314,44 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "f13d26828b9f",
-          "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
-          "url": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Anna Bawden",
-          "published": "2026-11-14T17:00:49+00:00",
-          "summary": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadership Nearly 10,000 more cancer patients in England will not be treated on time because the government will fail to…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "25595b67823a",
-          "title": "US Has Lost Measles Elimination Status, Global Health Authorities Say",
-          "url": "https://kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "Amy Maxmen",
-          "published": "2026-11-14T14:20:01+00:00",
-          "summary": "All but vanquished a quarter century ago, measles has taken root again in the U.S. Compared with prior administrations, President Donald Trump’s second term has been marred by misinformation and actions that stifle public health.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 35
-        },
-        {
-          "id": "149f8f185742",
-          "title": "The abortion doctor who leads with her faith: ‘God is forgiving’",
-          "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/14/arizona-abortion-laws-religion-doctor",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Melissa Hellmann with photographs by Idara Ekpoh",
-          "published": "2026-11-14T12:00:45+00:00",
-          "summary": "Dr DeShawn Taylor runs Arizona’s only Black woman-owned abortion clinic amid rapid legal changes When gynecologist and abortion provider Dr DeShawn Taylor has conversations with patients about the afterlife, they ask her if they will be condemned for their choices.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 40
-        },
-        {
-          "id": "05bd6e74bb8f",
-          "title": "It’s Open Enrollment Season. Hear Reporters Discuss ACA Sign-Ups, High Costs, and More.",
-          "url": "https://kffhealthnews.org/on-air/on-air-november-14-2026-obamacare-aca-open-enrollment-measles-midterms/",
-          "source": "KFF Health News",
+          "id": "36834eac28e0",
+          "title": "Sample headline 1: Related Articles",
+          "url": "https://example.com/sample/related-articles-1",
+          "source": "Sample Source",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-14T10:00:00+00:00",
-          "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "59a903ad25c8",
-          "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Rob Stein",
-          "published": "2026-11-14T10:00:00+00:00",
-          "summary": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "4ffe2d262d4e",
-          "title": "Woman with terminal cancer gets dream wedding on hospital ward",
-          "url": "https://www.bbc.co.uk/news/articles/cm702wjg48k2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-14T07:12:30+00:00",
-          "summary": "Maggie Heginbothom thanked the staff after a \"dream\" ceremony was arranged two days after her partner proposed.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "9c3fe29d2511",
-          "title": "'I cycled across America in memory of my wife - I know she's proud of me'",
-          "url": "https://www.bbc.co.uk/news/articles/cm20v65gye9zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-14T06:39:04+00:00",
-          "summary": "Declan Faulkner cycled 3,800 miles from Portland, Oregon, to Portland, Maine, as a tribute to his late wife Patrina.",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 19
         },
         {
-          "id": "fa67c5920455",
-          "title": "Could you survive without Microsoft? Inside the costs of digital dependence",
-          "url": "https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614",
-          "source": "The Conversation",
+          "id": "9d283a3e3ce7",
+          "title": "Sample headline 2: Related Articles",
+          "url": "https://example.com/sample/related-articles-2",
+          "source": "Sample Source",
           "section": "related-articles",
-          "author": "Narmin Nahidi, Assistant Professor in Finance, University of Exeter",
-          "published": "2026-11-13T12:09:36+00:00",
-          "summary": "Digital choices have huge environmental costs but these are rarely counted up.",
+          "author": "",
+          "published": "2026-11-15T11:46:01+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 12
+          "words": 19
         }
       ]
     }
   ],
   "sources": [
     {
-      "name": "BBC News – Health",
-      "site": "https://feeds.bbci.co.uk",
+      "name": "Sample Source",
+      "site": "",
       "license": "",
       "license_url": "",
       "full_text": false
-    },
-    {
-      "name": "FDA – Press Announcements",
-      "site": "https://www.fda.gov",
-      "license": "US Government work (public domain)",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "Fierce Biotech",
-      "site": "https://www.fiercebiotech.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "KFF Health News",
-      "site": "https://kffhealthnews.org",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "MedCity News",
-      "site": "https://medcitynews.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "Medical Xpress – Surgery",
-      "site": "https://medicalxpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "NEJM",
-      "site": "https://www.nejm.org",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "NPR – Health",
-      "site": "https://feeds.npr.org",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "Nature Medicine",
-      "site": "https://www.nature.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "Nature – Medical Research",
-      "site": "https://www.nature.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "News-Medical – Surgery",
-      "site": "https://www.news-medical.net",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "PLOS Medicine",
-      "site": "https://journals.plos.org",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "full_text": true
-    },
-    {
-      "name": "STAT",
-      "site": "https://www.statnews.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "STAT – Research",
-      "site": "https://www.statnews.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "ScienceDaily – Health & Medicine",
-      "site": "https://www.sciencedaily.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "TED Talks (health & science)",
-      "site": "https://www.ted.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "The BMJ",
-      "site": "https://www.bmj.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "The Conversation",
-      "site": "https://theconversation.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "The Guardian – Health",
-      "site": "https://www.theguardian.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "The Lancet",
-      "site": "https://www.thelancet.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "World Health Organization",
-      "site": "https://www.who.int",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "eLife – Medicine",
-      "site": "https://elifesciences.org",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "full_text": true
     }
   ],
-  "errors": [
-    "NIH – News Releases: 404 Client Error: Not Found for url: https://www.nih.gov/news-events/news-releases/rss.xml",
-    "Medical News Today: 404 Client Error: Not Found for url: https://www.medicalnewstoday.com/rss",
-    "ScienceDaily – Surgery: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/surgery.xml",
-    "Fierce Biotech – Medtech: 404 Client Error: Not Found for url: https://www.fiercebiotech.com/medtech/rss/xml",
-    "BMC Surgery: feed contained no entries",
-    "Healthcare IT News: 403 Client Error: Forbidden for url: https://www.healthcareitnews.com/feed",
-    "Nature Podcast: 404 Client Error: Not Found for url: https://www.nature.com/nature/podcast/current",
-    "The BMJ Podcast: 404 Client Error: Not Found for url: https://feeds.acast.com/public/shows/the-bmj-podcast",
-    "The Lancet Voice: 404 Client Error: Not Found for url: https://feeds.acast.com/public/shows/the-lancet-voice",
-    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
-  ]
+  "errors": []
 }
