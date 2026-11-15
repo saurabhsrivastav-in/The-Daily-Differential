@@ -1,0 +1,271 @@
+{
+  "_readme": "This file controls EVERYTHING the daily fetcher does. You can edit it on github.com (click the pencil icon) without touching any code. JSON rules: keep the double quotes, and put a comma between items but NOT after the last item in a list.",
+  "edition": {
+    "name": "The Daily Differential",
+    "tagline": "Think deep. Diagnose wide.",
+    "timezone": "Asia/Kolkata"
+  },
+  "limits": {
+    "_note": "scan_per_feed = how many newest entries to look at per feed. per_feed = max stories kept from one feed. per_section = max stories in a section. summary_words = excerpt length. min_full_words = a 'full text' item must have at least this many words.",
+    "max_age_hours": 48,
+    "scan_per_feed": 15,
+    "per_feed": 3,
+    "per_section": 8,
+    "summary_words": 45,
+    "min_full_words": 150,
+    "retention_days": 30
+  },
+  "markets": {
+    "_note": "All three sources are free and need no API key. Stooq = index quotes. Frankfurter = European Central Bank reference exchange rates. CoinGecko = crypto prices. Remove a block to hide it. To add an index, add its Stooq symbol (see stooq.com).",
+    "indices": [
+      {
+        "symbol": "^spx",
+        "label": "S&P 500"
+      },
+      {
+        "symbol": "^dji",
+        "label": "Dow Jones"
+      },
+      {
+        "symbol": "^ndq",
+        "label": "Nasdaq"
+      },
+      {
+        "symbol": "^ukx",
+        "label": "FTSE 100"
+      },
+      {
+        "symbol": "^dax",
+        "label": "DAX"
+      },
+      {
+        "symbol": "^nkx",
+        "label": "Nikkei 225"
+      }
+    ],
+    "fx": {
+      "base": "USD",
+      "symbols": [
+        "INR",
+        "EUR",
+        "GBP",
+        "JPY"
+      ]
+    },
+    "crypto": {
+      "ids": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "vs": "usd"
+    }
+  },
+  "sections": [
+    {
+      "id": "vertical-thinking",
+      "title": "Vertical Thinking in Medical Science",
+      "kicker": "Depth Over Breadth",
+      "per_section": 10,
+      "feeds": [
+        {
+          "name": "Nature Medicine",
+          "url": "https://www.nature.com/nm.rss"
+        },
+        {
+          "name": "The Lancet",
+          "url": "https://www.thelancet.com/rssfeed/lancet_current.xml"
+        },
+        {
+          "name": "The BMJ",
+          "url": "https://www.bmj.com/rss/recent.xml"
+        },
+        {
+          "name": "NEJM",
+          "url": "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss"
+        },
+        {
+          "name": "STAT – Research",
+          "url": "https://www.statnews.com/category/health/feed/"
+        },
+        {
+          "name": "PLOS Medicine",
+          "url": "https://journals.plos.org/plosmedicine/feed/atom",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "full_text": true
+        },
+        {
+          "name": "eLife – Medicine",
+          "url": "https://elifesciences.org/rss/subject/medicine.xml",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "full_text": true
+        }
+      ]
+    },
+    {
+      "id": "medicine",
+      "title": "Medicine & Therapeutics",
+      "kicker": "The Clinic",
+      "feeds": [
+        {
+          "name": "FDA – Press Announcements",
+          "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+          "license": "US Government work (public domain)"
+        },
+        {
+          "name": "NIH – News Releases",
+          "url": "https://www.nih.gov/news-events/news-releases/rss.xml",
+          "license": "US Government work (public domain)"
+        },
+        {
+          "name": "Medical News Today",
+          "url": "https://www.medicalnewstoday.com/rss"
+        },
+        {
+          "name": "Fierce Biotech",
+          "url": "https://www.fiercebiotech.com/rss/xml"
+        },
+        {
+          "name": "ScienceDaily – Health & Medicine",
+          "url": "https://www.sciencedaily.com/rss/health_medicine.xml"
+        }
+      ]
+    },
+    {
+      "id": "surgery",
+      "title": "Surgery & Operative Innovation",
+      "kicker": "The Theatre",
+      "feeds": [
+        {
+          "name": "Medical Xpress – Surgery",
+          "url": "https://medicalxpress.com/rss-feed/surgery-news/"
+        },
+        {
+          "name": "ScienceDaily – Surgery",
+          "url": "https://www.sciencedaily.com/rss/health_medicine/surgery.xml"
+        },
+        {
+          "name": "News-Medical – Surgery",
+          "url": "https://www.news-medical.net/tag/feed/Surgery.aspx"
+        },
+        {
+          "name": "Fierce Biotech – Medtech",
+          "url": "https://www.fiercebiotech.com/medtech/rss/xml"
+        },
+        {
+          "name": "BMC Surgery",
+          "url": "https://bmcsurg.biomedcentral.com/articles/most-recent/rss.xml",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "full_text": true
+        }
+      ]
+    },
+    {
+      "id": "medical-trends",
+      "title": "Emerging Medical Trends & New Vocabulary",
+      "kicker": "Frontiers & Phrases",
+      "feeds": [
+        {
+          "name": "STAT",
+          "url": "https://www.statnews.com/feed/"
+        },
+        {
+          "name": "MedCity News",
+          "url": "https://medcitynews.com/feed/"
+        },
+        {
+          "name": "Healthcare IT News",
+          "url": "https://www.healthcareitnews.com/feed"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int/rss-feeds/news-english.xml"
+        },
+        {
+          "name": "Nature – Medical Research",
+          "url": "https://www.nature.com/subjects/medical-research.rss"
+        }
+      ]
+    },
+    {
+      "id": "lectures",
+      "title": "Thought-Provoking Lectures in Medical Science",
+      "kicker": "The Lecture Hall",
+      "feeds": [
+        {
+          "name": "Stanford – The Future of Medicine",
+          "url": "https://feeds.buzzsprout.com/2557755.rss"
+        },
+        {
+          "name": "TED Talks (health & science)",
+          "url": "https://www.ted.com/talks/rss",
+          "keywords": [
+            "medic",
+            "health",
+            "brain",
+            "cancer",
+            "gene",
+            "surg",
+            "doctor",
+            "disease",
+            "patient",
+            "cell",
+            "vaccine",
+            "immune",
+            "biolog",
+            "neuro",
+            "drug",
+            "hospital"
+          ],
+          "_note": "Optional 'keywords' list: only stories whose title or excerpt contains one of these words are kept (useful for general feeds)."
+        },
+        {
+          "name": "Nature Podcast",
+          "url": "https://feeds.nature.com/nature/podcast/current"
+        },
+        {
+          "name": "The BMJ Podcast",
+          "url": "https://feeds.acast.com/public/shows/the-bmj-podcast"
+        },
+        {
+          "name": "The Lancet Voice",
+          "url": "https://feeds.acast.com/public/shows/the-lancet-voice"
+        }
+      ]
+    },
+    {
+      "id": "related-articles",
+      "title": "Related Articles",
+      "kicker": "Further Reading",
+      "feeds": [
+        {
+          "name": "KFF Health News",
+          "url": "https://kffhealthnews.org/feed/"
+        },
+        {
+          "name": "BBC News – Health",
+          "url": "https://feeds.bbci.co.uk/news/health/rss.xml"
+        },
+        {
+          "name": "NPR – Health",
+          "url": "https://feeds.npr.org/1128/rss.xml"
+        },
+        {
+          "name": "The Guardian – Health",
+          "url": "https://www.theguardian.com/society/health/rss"
+        },
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/global/articles.atom"
+        }
+      ]
+    }
+  ],
+  "dictionary_word": {
+    "_note": "Optional second 'word of the day' from the Wiktionary featured feed (CC BY-SA 4.0). Set enabled to false to hide it.",
+    "enabled": true,
+    "url": "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=atom"
+  }
+}

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Daily Differential — Medical Intelligence</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Top Utility Bar -->
+  <div class="topbar">
+    <div class="topbar-left">
+      <span id="mh-updated">Compiling clinical intelligence...</span>
+    </div>
+    <div class="topbar-controls">
+      <button type="button" id="btn-saved">★ Saved Briefs (<span id="saved-count">0</span>)</button>
+      <button type="button" id="btn-smaller" title="Decrease font size">A−</button>
+      <button type="button" id="btn-larger" title="Increase font size">A+</button>
+      <button type="button" id="btn-theme" title="Toggle Day/Night mode">Day/Night</button>
+    </div>
+  </div>
+
+  <!-- Masthead -->
+  <header>
+    <div class="masthead-pre">CLINICAL BRIEFING · PHYSICIAN EDITION</div>
+    <h1 id="mh-title">The Daily Differential</h1>
+    <div class="tagline" id="mh-tagline">Think deep. Diagnose wide.</div>
+    <div class="meta-bar">
+      <span id="mh-date">Loading date...</span> &nbsp;|&nbsp; Prepared exclusively for <strong id="executive-partner-name">Saurabh Srivastav</strong>
+    </div>
+  </header>
+
+  <!-- Navigation -->
+  <nav id="section-nav" aria-label="Sections">
+    <!-- Populated dynamically -->
+  </nav>
+
+  <!-- Live Notice Banner -->
+  <div id="notice" class="notice" hidden></div>
+
+  <!-- Main Newspaper Canvas -->
+  <main id="edition">
+    <div class="loading-pulse">Assembling today's clinical intelligence...</div>
+  </main>
+
+  <!-- Colophon / Footer -->
+  <footer id="colophon"></footer>
+
+  <!-- Saved Articles & Tagged Archive Slide-out / Modal Panel -->
+  <div id="saved-panel" class="saved-panel" hidden>
+    <div class="saved-header">
+      <h2>Your Saved Insights & Clinical Archive</h2>
+      <button type="button" id="saved-close" aria-label="Close archive">✕ Close</button>
+    </div>
+    <div class="saved-body">
+      <div id="profile-area">
+        <form id="profile-form">
+          <label for="profile-name" class="small">Reader Profile:</label>
+          <input type="text" id="profile-name" value="Saurabh Srivastav" required>
+          <button type="submit" class="btn-primary">Set Profile</button>
+        </form>
+        <div class="profile-row">
+          <select id="profile-select" aria-label="Saved profiles"></select>
+          <button type="button" id="profile-delete" class="btn-danger" disabled>Delete Profile</button>
+        </div>
+        <p id="profile-msg" class="small"></p>
+      </div>
+
+      <div class="saved-tools">
+        <input type="search" id="saved-search" placeholder="Search saved briefings..." disabled>
+        <div class="export-buttons">
+          <button type="button" id="export-json" disabled>Export JSON</button>
+          <button type="button" id="export-md" disabled>Export Markdown (.md)</button>
+          <label class="btn-file" title="Import JSON archive">
+            Import <input type="file" id="import-file" accept=".json" hidden>
+          </label>
+        </div>
+      </div>
+
+      <ul id="saved-list"></ul>
+    </div>
+  </div>
+
+  <!-- Article Deep Reader Modal -->
+  <dialog id="reader">
+    <div class="reader-header">
+      <span id="reader-kicker" class="kicker"></span>
+      <form method="dialog"><button type="submit" aria-label="Close reader">✕</button></form>
+    </div>
+    <div class="reader-body">
+      <h2 id="reader-title"></h2>
+      <div id="reader-byline" class="byline"></div>
+      <div id="reader-text" class="text"></div>
+    </div>
+    <div class="reader-footer">
+      <div id="reader-footer-text"></div>
+      <button type="button" id="reader-save" class="save-btn" data-id="">☆ Save</button>
+    </div>
+  </dialog>
+
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>

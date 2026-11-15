@@ -1,0 +1,321 @@
+{
+  "edition": {
+    "name": "The Daily Differential",
+    "tagline": "Think deep. Diagnose wide.",
+    "date": "2026-11-15",
+    "date_long": "Sunday, 15 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-15T11:21+05:30",
+    "is_sample": true
+  },
+  "dashboard": {
+    "total_articles": 12,
+    "reading_minutes": 1,
+    "source_count": 1,
+    "full_text_count": 0,
+    "per_section": {
+      "vertical-thinking": 2,
+      "medicine": 2,
+      "surgery": 2,
+      "medical-trends": 2,
+      "lectures": 2,
+      "related-articles": 2
+    },
+    "keywords": [
+      {
+        "term": "real attributed",
+        "count": 12
+      },
+      {
+        "term": "attributed stories",
+        "count": 12
+      },
+      {
+        "term": "sample headline",
+        "count": 12
+      },
+      {
+        "term": "workflow scripts",
+        "count": 12
+      },
+      {
+        "term": "placeholder",
+        "count": 12
+      },
+      {
+        "term": "replace",
+        "count": 12
+      },
+      {
+        "term": "fetch",
+        "count": 12
+      },
+      {
+        "term": "feeds",
+        "count": 12
+      },
+      {
+        "term": "text",
+        "count": 12
+      },
+      {
+        "term": "medical",
+        "count": 6
+      },
+      {
+        "term": "science",
+        "count": 4
+      },
+      {
+        "term": "thinking",
+        "count": 2
+      }
+    ],
+    "markets": [
+      {
+        "label": "S&P 500",
+        "group": "Indices",
+        "display": "0.00",
+        "change_pct": null,
+        "source": "sample"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "0.00",
+        "change_pct": null,
+        "source": "sample"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "GLP-1 receptor agonist",
+    "pos": "noun",
+    "domain": "Pharmacology",
+    "definition": "A drug class that mimics the gut hormone glucagon-like peptide-1 to raise insulin release, slow gastric emptying and reduce appetite; used in type 2 diabetes and obesity.",
+    "source": "The Daily Differential glossary"
+  },
+  "dictionary_word": null,
+  "sections": [
+    {
+      "id": "vertical-thinking",
+      "title": "Vertical Thinking in Medical Science",
+      "kicker": "Depth Over Breadth",
+      "articles": [
+        {
+          "id": "580e68ca4541",
+          "title": "Sample headline 1: Vertical Thinking in Medical Science",
+          "url": "https://example.com/sample/vertical-thinking-1",
+          "source": "Sample Source",
+          "section": "vertical-thinking",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "b717d0fa0b7e",
+          "title": "Sample headline 2: Vertical Thinking in Medical Science",
+          "url": "https://example.com/sample/vertical-thinking-2",
+          "source": "Sample Source",
+          "section": "vertical-thinking",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "medicine",
+      "title": "Medicine & Therapeutics",
+      "kicker": "The Clinic",
+      "articles": [
+        {
+          "id": "6b6d24fa44f5",
+          "title": "Sample headline 1: Medicine & Therapeutics",
+          "url": "https://example.com/sample/medicine-1",
+          "source": "Sample Source",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "d2af92a3d15b",
+          "title": "Sample headline 2: Medicine & Therapeutics",
+          "url": "https://example.com/sample/medicine-2",
+          "source": "Sample Source",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "surgery",
+      "title": "Surgery & Operative Innovation",
+      "kicker": "The Theatre",
+      "articles": [
+        {
+          "id": "90fce94be6a6",
+          "title": "Sample headline 1: Surgery & Operative Innovation",
+          "url": "https://example.com/sample/surgery-1",
+          "source": "Sample Source",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "eb51873edf85",
+          "title": "Sample headline 2: Surgery & Operative Innovation",
+          "url": "https://example.com/sample/surgery-2",
+          "source": "Sample Source",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "medical-trends",
+      "title": "Emerging Medical Trends & New Vocabulary",
+      "kicker": "Frontiers & Phrases",
+      "articles": [
+        {
+          "id": "4763d71c1bcf",
+          "title": "Sample headline 1: Emerging Medical Trends & New Vocabulary",
+          "url": "https://example.com/sample/medical-trends-1",
+          "source": "Sample Source",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "505dc31c9c5f",
+          "title": "Sample headline 2: Emerging Medical Trends & New Vocabulary",
+          "url": "https://example.com/sample/medical-trends-2",
+          "source": "Sample Source",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "lectures",
+      "title": "Thought-Provoking Lectures in Medical Science",
+      "kicker": "The Lecture Hall",
+      "articles": [
+        {
+          "id": "9e6edf2dbde5",
+          "title": "Sample headline 1: Thought-Provoking Lectures in Medical Science",
+          "url": "https://example.com/sample/lectures-1",
+          "source": "Sample Source",
+          "section": "lectures",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "a93a36dae959",
+          "title": "Sample headline 2: Thought-Provoking Lectures in Medical Science",
+          "url": "https://example.com/sample/lectures-2",
+          "source": "Sample Source",
+          "section": "lectures",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "related-articles",
+      "title": "Related Articles",
+      "kicker": "Further Reading",
+      "articles": [
+        {
+          "id": "36834eac28e0",
+          "title": "Sample headline 1: Related Articles",
+          "url": "https://example.com/sample/related-articles-1",
+          "source": "Sample Source",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "9d283a3e3ce7",
+          "title": "Sample headline 2: Related Articles",
+          "url": "https://example.com/sample/related-articles-2",
+          "source": "Sample Source",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-15T11:21:18+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Sample Source",
+      "site": "",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    }
+  ],
+  "errors": []
+}
