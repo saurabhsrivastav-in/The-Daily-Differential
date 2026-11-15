@@ -222,7 +222,6 @@ $("#profile-form")?.addEventListener("submit", (e) => {
   const nameInput = $("#profile-name");
   const res = store.createProfile(nameInput ? nameInput.value : "Saurabh Srivastav");
   setMsg(res.ok ? (res.switched ? "Welcome back! Switched to your profile." : "Profile created. Happy reading!") : res.error);
-  if (nameInput) $("#executive-partner-name").textContent = store.active;
 });
 
 const stamp = () => `${(store.active || "Saurabh_Srivastav").replace(/[^\w-]+/g, "_")}-${new Date().toISOString().slice(0, 10)}`;
@@ -471,8 +470,6 @@ function render(e) {
   
   const profileNameInput = $("#profile-name");
   if (profileNameInput && store.active) profileNameInput.value = store.active;
-  const partnerNameEl = $("#executive-partner-name");
-  if (partnerNameEl && store.active) partnerNameEl.textContent = store.active;
 }
 
 async function getJson(path) {
