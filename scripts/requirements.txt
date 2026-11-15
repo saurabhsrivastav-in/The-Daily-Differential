@@ -1,6 +1,0 @@
-# Only two small, well-known libraries are needed.
-feedparser>=6.0.11   # reads RSS / Atom feeds
-requests>=2.31.0     # downloads feeds and open-data APIs politely
-beautifulsoup4
-requests
-lxml
