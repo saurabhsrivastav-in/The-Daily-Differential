@@ -5,42 +5,38 @@
     "date": "2026-11-15",
     "date_long": "Sunday, 15 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-15T11:55+05:30",
+    "generated_at": "2026-11-15T19:39+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 49,
-    "reading_minutes": 9,
-    "source_count": 28,
+    "total_articles": 46,
+    "reading_minutes": 8,
+    "source_count": 27,
     "full_text_count": 2,
     "per_section": {
       "vertical-thinking": 10,
-      "medicine": 7,
+      "medicine": 5,
       "surgery": 6,
       "gastroenterology": 8,
       "medical-trends": 8,
-      "lectures": 2,
+      "lectures": 1,
       "related-articles": 8
     },
     "keywords": [
       {
-        "term": "health",
-        "count": 8
-      },
-      {
         "term": "treatment",
-        "count": 7
+        "count": 6
       },
       {
-        "term": "patients",
-        "count": 6
+        "term": "medicine",
+        "count": 5
+      },
+      {
+        "term": "people",
+        "count": 5
       },
       {
         "term": "study",
-        "count": 6
-      },
-      {
-        "term": "clinical",
         "count": 5
       },
       {
@@ -52,6 +48,18 @@
         "count": 4
       },
       {
+        "term": "mental health",
+        "count": 4
+      },
+      {
+        "term": "patients",
+        "count": 4
+      },
+      {
+        "term": "clinical",
+        "count": 4
+      },
+      {
         "term": "nature",
         "count": 4
       },
@@ -60,15 +68,7 @@
         "count": 4
       },
       {
-        "term": "disease",
-        "count": 4
-      },
-      {
         "term": "endometrial cancer",
-        "count": 2
-      },
-      {
-        "term": "medicine published",
         "count": 2
       }
     ],
@@ -104,15 +104,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "64,453.00",
-        "change_pct": -4.25,
+        "display": "65,176.00",
+        "change_pct": -1.94,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,793.76",
-        "change_pct": -5.97,
+        "display": "1,821.33",
+        "change_pct": -2.76,
         "source": "CoinGecko"
       }
     ]
@@ -354,34 +354,6 @@
           "license": "US Government work (public domain)",
           "license_url": "",
           "words": 41
-        },
-        {
-          "id": "e4e6ec5a6c0c",
-          "title": "Charles River pays $470M for 2 Frontage bioanalysis labs in Pennsylvania",
-          "url": "https://www.fiercebiotech.com/cro/charles-river-shells-out-470m-tigermed-owned-frontage-bioanalysis-business",
-          "source": "Fierce Biotech",
-          "section": "medicine",
-          "author": "Marissa Russo",
-          "published": null,
-          "summary": "Charles River Laboratories has acquired Tigermed’s Frontage laboratory sites for $470 million upfront to advance its bioanalysis footprint.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
-        },
-        {
-          "id": "c46ea745ef1f",
-          "title": "The promise of molecular gates and what comes next",
-          "url": "https://www.fiercebiotech.com/biotech/promise-molecular-gates-and-what-comes-next",
-          "source": "Fierce Biotech",
-          "section": "medicine",
-          "author": "Marissa Russo, Ayla Ellison",
-          "published": null,
-          "summary": "Gate Bioscience is developing a new class of medicines designed to eliminate disease-causing proteins at their source.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
         }
       ]
     },
@@ -615,9 +587,9 @@
           "words": 0
         },
         {
-          "id": "a1b12e5b4f6e",
-          "title": "Comparison of perceived clinical leadership needs among staff nurses and nurse managers in Iran: a cross-sectional correlational study",
-          "url": "https://www.nature.com/articles/s41598-026-79628-2",
+          "id": "a6e9d36bf2ca",
+          "title": "Microbiological contamination in an anatomy laboratory: comparison of cadaveric materials and environmental surfaces",
+          "url": "https://www.nature.com/articles/s41598-026-79765-8",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -720,32 +692,18 @@
       "kicker": "The Lecture Hall",
       "articles": [
         {
-          "id": "1b6349c9741b",
-          "title": "Your phone is disgusting. Here's how to clean it | Lotti Tajouri",
-          "url": "http://go.ted.com/lottitajouri",
+          "id": "ed4b299ba199",
+          "title": "Sunday Pick: How to challenge your self-limiting beliefs with Shawn Achor | from ReThinking with Adam Grant",
+          "url": "https://audiocollective.ted.com/",
           "source": "TED Talks (health & science)",
           "section": "lectures",
           "author": "",
-          "published": "2026-11-10T17:34:47+00:00",
-          "summary": "What’s dirtier: your phone or your hands? Molecular biologist Lotti Tajouri says there’s a gaping hole in our hygiene routine. We scrub our hands clean, then reach right for the phone — a warm, humid and mobile home for bacteria and viruses.",
+          "published": "2026-11-15T07:00:00+00:00",
+          "summary": "Your beliefs about yourself and the world have a big impact on your mental health, relationships, and success.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 42
-        },
-        {
-          "id": "b7d8d9053ae3",
-          "title": "How to rewire your brain — and find your flow | Heather Berlin",
-          "url": "http://go.ted.com/heatherberlin",
-          "source": "TED Talks (health & science)",
-          "section": "lectures",
-          "author": "",
-          "published": "2026-11-09T16:07:29+00:00",
-          "summary": "When life gets uncertain, do you grip a little tighter? Neuroscientist Heather Berlin explores a surprising paradox: the harder you try to control everything, the more likely you are to get in your own way.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 35
+          "words": 18
         }
       ]
     },
@@ -755,18 +713,60 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "f13d26828b9f",
-          "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
-          "url": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+          "id": "a991f32641f4",
+          "title": "Gen X is in worse health than boomers – and I have a few theories as to why | Emma Beddington",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/15/gen-x-is-in-worse-health-than-boomers-and-i-have-a-few-theories-as-to-why",
           "source": "The Guardian – Health",
           "section": "related-articles",
-          "author": "Anna Bawden",
-          "published": "2026-11-14T17:00:49+00:00",
-          "summary": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadership Nearly 10,000 more cancer patients in England will not be treated on time because the government will fail to…",
+          "author": "Emma Beddington",
+          "published": "2026-11-15T14:00:15+00:00",
+          "summary": "People in my age group are experiencing poorer physical and mental health than their elders at the same stage. Is this down to UPFs and booze, or something more complicated?",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 30
+        },
+        {
+          "id": "292a54ddee1c",
+          "title": "Cold and health alerts issued for Scotland and northern England as snow and ice expected",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/15/uk-weather-cold-health-alerts-scotland-northern-england-snow-ice",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Harry Taylor",
+          "published": "2026-11-15T13:30:18+00:00",
+          "summary": "UKHSA warns of health impact on those vulnerable to cold and urges people to check in with neighbours Cold weather warnings have been issued for parts of the UK, as alerts for the risk to health services are due to begin on Sunday evening.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 44
+        },
+        {
+          "id": "153ee7df6068",
+          "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Jonaki Mehta",
+          "published": "2026-11-15T10:00:00+00:00",
+          "summary": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "d39410c550fd",
+          "title": "Mental health is no joke - but I've turned it into a stand-up routine",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l05lqjrq6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-15T06:41:46+00:00",
+          "summary": "People who have struggled with mental ill-health are giving stand-up a go to tell their stories.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
         },
         {
           "id": "25595b67823a",
@@ -783,20 +783,6 @@
           "words": 35
         },
         {
-          "id": "149f8f185742",
-          "title": "The abortion doctor who leads with her faith: ‘God is forgiving’",
-          "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/14/arizona-abortion-laws-religion-doctor",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Melissa Hellmann with photographs by Idara Ekpoh",
-          "published": "2026-11-14T12:00:45+00:00",
-          "summary": "Dr DeShawn Taylor runs Arizona’s only Black woman-owned abortion clinic amid rapid legal changes When gynecologist and abortion provider Dr DeShawn Taylor has conversations with patients about the afterlife, they ask her if they will be condemned for their choices.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 40
-        },
-        {
           "id": "05bd6e74bb8f",
           "title": "It’s Open Enrollment Season. Hear Reporters Discuss ACA Sign-Ups, High Costs, and More.",
           "url": "https://kffhealthnews.org/on-air/on-air-november-14-2026-obamacare-aca-open-enrollment-measles-midterms/",
@@ -811,20 +797,6 @@
           "words": 23
         },
         {
-          "id": "59a903ad25c8",
-          "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Rob Stein",
-          "published": "2026-11-14T10:00:00+00:00",
-          "summary": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
           "id": "4ffe2d262d4e",
           "title": "Woman with terminal cancer gets dream wedding on hospital ward",
           "url": "https://www.bbc.co.uk/news/articles/cm702wjg48k2o?at_medium=RSS&at_campaign=rss",
@@ -837,20 +809,6 @@
           "license": "",
           "license_url": "",
           "words": 17
-        },
-        {
-          "id": "9c3fe29d2511",
-          "title": "'I cycled across America in memory of my wife - I know she's proud of me'",
-          "url": "https://www.bbc.co.uk/news/articles/cm20v65gye9zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-14T06:39:04+00:00",
-          "summary": "Declan Faulkner cycled 3,800 miles from Portland, Oregon, to Portland, Maine, as a tribute to his late wife Patrina.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
         },
         {
           "id": "fa67c5920455",
@@ -881,13 +839,6 @@
       "name": "FDA – Press Announcements",
       "site": "https://www.fda.gov",
       "license": "US Government work (public domain)",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "Fierce Biotech",
-      "site": "https://www.fiercebiotech.com",
-      "license": "",
       "license_url": "",
       "full_text": false
     },
@@ -1070,14 +1021,15 @@
   "errors": [
     "NIH – News Releases: 404 Client Error: Not Found for url: https://www.nih.gov/news-events/news-releases/rss.xml",
     "Medical News Today: 404 Client Error: Not Found for url: https://www.medicalnewstoday.com/rss",
+    "Fierce Biotech: 403 Client Error: Forbidden for url: https://www.fiercebiotech.com/rss/xml",
     "ScienceDaily – Surgery: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/surgery.xml",
-    "Fierce Biotech – Medtech: 404 Client Error: Not Found for url: https://www.fiercebiotech.com/medtech/rss/xml",
+    "Fierce Biotech – Medtech: 403 Client Error: Forbidden for url: https://www.fiercebiotech.com/medtech/rss/xml",
     "BMC Surgery: feed contained no entries",
     "ScienceDaily – Digestive Disorders: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/digestive_disorders.xml",
     "Healthcare IT News: 403 Client Error: Forbidden for url: https://www.healthcareitnews.com/feed",
     "Nature Podcast: 404 Client Error: Not Found for url: https://www.nature.com/nature/podcast/current",
     "The BMJ Podcast: 404 Client Error: Not Found for url: https://feeds.acast.com/public/shows/the-bmj-podcast",
     "The Lancet Voice: 404 Client Error: Not Found for url: https://feeds.acast.com/public/shows/the-lancet-voice",
-    "Stooq indices: HTTPSConnectionPool(host='stooq.com', port=443): Max retries exceeded with url: /q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='stooq.com', port=443) at 0x7515c02826c0>, 'Connection to stooq.com timed out. (connect timeout=20)'))"
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
