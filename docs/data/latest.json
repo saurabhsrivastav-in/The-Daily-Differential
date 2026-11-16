@@ -5,43 +5,31 @@
     "date": "2026-11-16",
     "date_long": "Monday, 16 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-16T04:30+05:30",
+    "generated_at": "2026-11-16T21:40+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 46,
-    "reading_minutes": 8,
-    "source_count": 28,
+    "total_articles": 45,
+    "reading_minutes": 9,
+    "source_count": 27,
     "full_text_count": 2,
     "per_section": {
       "vertical-thinking": 10,
-      "medicine": 7,
+      "medicine": 5,
       "surgery": 5,
       "gastroenterology": 8,
-      "medical-trends": 7,
+      "medical-trends": 8,
       "lectures": 1,
       "related-articles": 8
     },
     "keywords": [
       {
-        "term": "treatment",
-        "count": 7
-      },
-      {
         "term": "health",
-        "count": 7
+        "count": 9
       },
       {
-        "term": "patients",
+        "term": "treatment",
         "count": 6
-      },
-      {
-        "term": "medicine",
-        "count": 5
-      },
-      {
-        "term": "common",
-        "count": 5
       },
       {
         "term": "published online",
@@ -52,7 +40,7 @@
         "count": 4
       },
       {
-        "term": "american",
+        "term": "drug",
         "count": 4
       },
       {
@@ -60,59 +48,71 @@
         "count": 4
       },
       {
+        "term": "medicine",
+        "count": 4
+      },
+      {
         "term": "nature",
         "count": 4
       },
       {
-        "term": "study finds",
+        "term": "therapy",
+        "count": 4
+      },
+      {
+        "term": "shows",
+        "count": 4
+      },
+      {
+        "term": "colorectal cancer",
         "count": 3
       },
       {
-        "term": "endometrial cancer",
-        "count": 2
+        "term": "study finds",
+        "count": 3
       }
     ],
     "markets": [
       {
         "label": "USD/EUR",
         "group": "Currencies",
-        "display": "0.9048",
-        "change_pct": 0.26,
+        "display": "0.9079",
+        "change_pct": 0.35,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/GBP",
         "group": "Currencies",
-        "display": "0.7560",
-        "change_pct": 0.22,
+        "display": "0.7577",
+        "change_pct": 0.21,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "94.25",
-        "change_pct": 0.22,
+        "display": "93.93",
+        "change_pct": -0.34,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/JPY",
         "group": "Currencies",
-        "display": "160.00",
-        "change_pct": 0.19,
+        "display": "159.60",
+        "change_pct": -0.25,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "65,155.00",
-        "change_pct": 2.67,
+        "display": "64,382.00",
+        "change_pct": -0.44,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,825.45",
-        "change_pct": 4.78,
+        "display": "1,818.92",
+        "change_pct": 0.55,
         "source": "CoinGecko"
       }
     ]
@@ -125,9 +125,9 @@
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 15",
-    "definition": "edit · refresh · view Word of the day for November 15 bungee v (transitive) To secure (luggage, etc.) using a bungee (noun sense 2.2.1). (intransitive) Synonym of bungee jump (“to participate in bungee jumping”). bungee n (slang, archaic) A…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261115000000/en",
+    "word": "Word of the day for November 16",
+    "definition": "edit · refresh · view Word of the day for November 16 katabasis n (military, historical or literary) A retreat by military forces; specifically, that of Cyrus the Younger's troops from Asia back to Greece in 401–399 B.C.E.; also (generally…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261116000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -139,74 +139,46 @@
       "kicker": "Depth Over Breadth",
       "articles": [
         {
-          "id": "a2f3707bdb6a",
-          "title": "[Comment] Is chemotherapy still needed in all patients with mismatch repair-deficient advanced or recurrent endometrial cancer?",
-          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02199-9/fulltext?rss=yes",
-          "source": "The Lancet",
-          "section": "vertical-thinking",
-          "author": "Chel Hun Choi, Byoung-Gie Kim",
-          "published": "2026-11-14T00:00:00+00:00",
-          "summary": "Around a quarter of advanced or recurrent endometrial carcinomas are mismatch repair deficient (dMMR).1 Addition of a PD-1 or PD-L1 inhibitor to carboplatin plus paclitaxel has transformed first-line treatment for this subgroup, with the RUBY,1 NRG-GY018,2 AtTEnd,3 and DUO-E4 trials reporting hazard ratios (HRs) for…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "0ad4486c064a",
-          "title": "[Comment] The overlooked role of CMV in pneumonia in infants with HIV",
-          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01546-1/fulltext?rss=yes",
-          "source": "The Lancet",
-          "section": "vertical-thinking",
-          "author": "Sara Gianella, Peter W Hunt",
-          "published": "2026-11-14T00:00:00+00:00",
-          "summary": "For decades, severe pneumonia in infants with HIV has been treated as a race against time.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
-          "id": "57516e208680",
-          "title": "New addiction society guidance on medetomidine’s brutal withdrawal",
-          "url": "https://www.statnews.com/2026/11/13/medetomidine-withdrawal-asam-new-treatment-guidance/?utm_campaign=rss",
+          "id": "4994ed9239ba",
+          "title": "Democrats settle on a message: ‘Medicare for More’",
+          "url": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
           "source": "STAT – Research",
           "section": "vertical-thinking",
-          "author": "Theresa Gaffney",
-          "published": "2026-11-13T20:45:42+00:00",
-          "summary": "The American Society of Addiction Medicine has released the first national guidance for recognizing and treating patients who have taken medetomidine.",
+          "author": "Amanda Erickson",
+          "published": "2026-11-16T13:37:10+00:00",
+          "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 21
+          "words": 27
         },
         {
-          "id": "2f3452451cc7",
-          "title": "Gaza: US doctor condemns “shocking murder” of fellow surgeon in Israeli attack on hospital",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101452.short?rss=1",
+          "id": "959b4408d31e",
+          "title": "Chair of government’s Obesity Healthcare Goals programme was paid nearly {pound}80 000 by GLP-1 drug firms",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101434.short?rss=1",
           "source": "The BMJ",
           "section": "vertical-thinking",
-          "author": "Elisabeth Mahase",
-          "published": "2026-11-13T16:01:18+00:00",
-          "summary": "Six people, including a surgeon featured in a documentary on American doctors in Gaza, have been killed in an Israeli attack on a hospital.Rizk Abu Shaaira, a Palestinian surgeon, was killed when the surgical department at Nasser Hospital was hit by an Israeli airstrike in…",
+          "author": "",
+          "published": "2026-11-16T11:21:18+00:00",
+          "summary": "We have amended this news story by Sophie Borland (BMJ 2026;395:e101252, doi:10.1136/bmj-2026-101252, published 27 October 2026) to correct the amount of funding Eli Lilly provided to the Obesity Healthcare Goals programme’s Obesity Pathway Innovation Programme (OPIP), to £35m.The article previously stated that this investment in…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "84933877812f",
-          "title": "“I’m not like other medics:” deconstructing the medical student stereotype",
-          "url": "http://www.bmj.com/content/395/bmj-2026-100996.short?rss=1",
+          "id": "a3e352886d2c",
+          "title": "Doctor suspended for “predatory” behaviour must be struck off, High Court rules",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101458.short?rss=1",
           "source": "The BMJ",
           "section": "vertical-thinking",
-          "author": "Zaynah Khan",
-          "published": "2026-11-13T15:56:20+00:00",
-          "summary": "Medical school often comes with a heavy set of unspoken expectations. From how you spend your free time to what you’re “supposed” to be good at, the pressure to fit a specific mould can be exhausting.",
+          "author": "Clare Dyer",
+          "published": "2026-11-16T11:06:20+00:00",
+          "summary": "A doctor whose behaviour towards two junior colleagues was “predatory” must be struck off the medical register, a High Court judge has ruled.1Khush Zeeshan carried out examinations on the two female coworkers for his own sexual gratification, a medical practitioners tribunal (MPT) decided last March.2But…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 36
+          "words": 45
         },
         {
           "id": "f547f26c4751",
@@ -277,6 +249,34 @@
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0/",
           "words": 158
+        },
+        {
+          "id": "f924f1b2dad2",
+          "title": "[Editorial] Health and poverty: lessons from China",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02186-0/fulltext?rss=yes",
+          "source": "The Lancet",
+          "section": "vertical-thinking",
+          "author": "The Lancet",
+          "published": "2026-10-29T00:01:01+00:00",
+          "summary": "The world has never been wealthier. Yet in 2025, an estimated 831 million people lived on less than US$3 per day. This stark disparity exposes a systemic failure to translate global prosperity into basic security and opportunity for all.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "b2d6fe17f8e8",
+          "title": "[Comment] Optimising late-line treatment administration in metastatic colorectal cancer: an even brighter SUNLIGHT",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02034-9/fulltext?rss=yes",
+          "source": "The Lancet",
+          "section": "vertical-thinking",
+          "author": "Paolo Ciracì, Chiara Cremolini",
+          "published": "2026-10-24T12:45:01+00:00",
+          "summary": "Offering late-line systemic therapy to patients with chemo-refractory metastatic colorectal cancer demands a careful estimation of the balance between the expected treatment benefit and its potential impact on quality of life, including adverse events, hospital visits, and psychosocial consequences.1 In such a comprehensive and individualised…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         }
       ]
     },
@@ -286,46 +286,46 @@
       "kicker": "The Clinic",
       "articles": [
         {
-          "id": "3b08b117bc59",
-          "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+          "id": "8830ea2d8abf",
+          "title": "Vitamin B12 may hold the key to treating a rare genetic disorder",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-15T14:13:18+00:00",
-          "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites.",
+          "published": "2026-11-16T14:31:10+00:00",
+          "summary": "Scientists discovered that vitamin B12 largely reversed developmental abnormalities in worms carrying a genetic mutation linked to Verheij syndrome, a rare disorder that causes growth problems and developmental delays.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 24
+          "words": 29
         },
         {
-          "id": "fcba369e63e0",
-          "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+          "id": "5f808af90a4d",
+          "title": "Scientists discover that the heart doesn't age the way we thought",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-15T14:03:39+00:00",
-          "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
+          "published": "2026-11-16T14:16:56+00:00",
+          "summary": "Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 28
         },
         {
-          "id": "5de1690213dc",
-          "title": "A simple supplement could help your immune system fight cancer and viral infections",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+          "id": "0baf2c27ca6a",
+          "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-15T12:36:52+00:00",
-          "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections.",
+          "published": "2026-11-16T12:41:09+00:00",
+          "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer's risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surprising differences in immune activity and gut-brain interactions, opening the door to more personalized treatments for neurological disorders.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 24
+          "words": 44
         },
         {
           "id": "75235c37d759",
@@ -354,34 +354,6 @@
           "license": "US Government work (public domain)",
           "license_url": "",
           "words": 41
-        },
-        {
-          "id": "93fbc7f9ae64",
-          "title": "FDA rejects Summit’s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class",
-          "url": "https://www.fiercebiotech.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc",
-          "source": "Fierce Biotech",
-          "section": "medicine",
-          "author": "Angus Liu",
-          "published": null,
-          "summary": "The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck & Co.’s Keytruda.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
-        },
-        {
-          "id": "e4e6ec5a6c0c",
-          "title": "Charles River pays $470M for 2 Frontage bioanalysis labs in Pennsylvania",
-          "url": "https://www.fiercebiotech.com/cro/charles-river-shells-out-470m-tigermed-owned-frontage-bioanalysis-business",
-          "source": "Fierce Biotech",
-          "section": "medicine",
-          "author": "Marissa Russo",
-          "published": null,
-          "summary": "Charles River Laboratories has acquired Tigermed’s Frontage laboratory sites for $470 million upfront to advance its bioanalysis footprint.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
         }
       ]
     },
@@ -391,13 +363,27 @@
       "kicker": "The Theatre",
       "articles": [
         {
+          "id": "435be2d86b3f",
+          "title": "Lymph node removal during palliative gastrectomy for stage IV gastric cancer shows no short-term harm",
+          "url": "https://medicalxpress.com/news/2026-11-lymph-node-palliative-gastrectomy-stage.html",
+          "source": "Medical Xpress – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-16T14:40:02+00:00",
+          "summary": "A research team examined the association between lymph node dissection and short-term outcomes after palliative, noncurative gastrectomy for stage IV gastric cancer.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
           "id": "4713d9202de2",
           "title": "Dyania and NVIDIA partner to scale AI-driven clinical reasoning across health systems",
           "url": "https://www.news-medical.net/news/20261113/Dyania-and-NVIDIA-partner-to-scale-AI-driven-clinical-reasoning-across-health-systems.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-14T03:02:28+00:00",
+          "published": "2026-11-14T03:02:00+00:00",
           "summary": "Dyania Health today announced a collaboration with NVIDIA to put AI clinical reasoning to work inside health systems, on their own infrastructure, at the scale of their entire patient population.",
           "full_html": null,
           "license": "",
@@ -411,26 +397,12 @@
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-14T02:52:50+00:00",
+          "published": "2026-11-14T02:52:00+00:00",
           "summary": "While incidence rates for some cancers have declined among women, endometrial cancer, the most common type of uterine cancer, has increased substantially over the past two decades, with particularly concerning increases among Native American and Hispanic women.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 37
-        },
-        {
-          "id": "16b9d13967d4",
-          "title": "Stomach cancer is changing: An expert explains surgical approaches",
-          "url": "https://medicalxpress.com/news/2026-11-stomach-cancer-expert-surgical-approaches.html",
-          "source": "Medical Xpress – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-13T13:10:01+00:00",
-          "summary": "Sometimes innovation in cancer care means developing something entirely new. Other times, it means returning to an old idea with the knowledge and tools to make it work better.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
         },
         {
           "id": "0f97b8a8f53c",
@@ -587,41 +559,69 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "40a2ec682aed",
-          "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
-          "url": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
+          "id": "55dc4aaac4ee",
+          "title": "The Permanente Medical Group Launches Innovation Company To Commercialize Clinicians’ Ideas",
+          "url": "https://medcitynews.com/2026/11/the-permanente-medical-group-launches-innovation-company-to-commercialize-clinicians-ideas/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Jenna Congdon",
+          "published": "2026-11-16T16:00:00+00:00",
+          "summary": "Kaiser Permanente’s physician organization, the largest physician-led medical group in the country, is launching a healthcare innovation company meant to help grow clinicians’ ideas into healthcare realities.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "b870d30b3aaa",
+          "title": "A Complete Medical Record Still Won’t Fix Prior Authorization",
+          "url": "https://medcitynews.com/2026/11/a-complete-medical-record-still-wont-fix-prior-authorization/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Ganesh Padmanabhan",
+          "published": "2026-11-16T14:49:00+00:00",
+          "summary": "The chart may be complete, and two parties may still reach different conclusions. The issue is not always what they know; it is how the organization interprets what it knows.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "b1946bc56a5b",
+          "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
+          "url": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/?utm_campaign=rss",
           "source": "STAT",
           "section": "medical-trends",
-          "author": "Adam Feuerstein",
-          "published": "2026-11-15T15:05:15+00:00",
-          "summary": "The FDA has rejected ivonescimab, a treatment for a type of lung cancer developed by U.S. biotech Summit Therapeutics and the Chinese drugmaker Akeso.",
+          "author": "Ed Silverman",
+          "published": "2026-11-16T14:17:01+00:00",
+          "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "2e8f194bb619",
+          "title": "STAT+: Helus’ psychedelic drug improved depression in study but faces safety questions",
+          "url": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Elaine Chen",
+          "published": "2026-11-16T13:07:47+00:00",
+          "summary": "A psychedelic drug from Helus Pharma improved depression in a study, but is facing safety questions with a number of serious adverse events reported.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 24
         },
         {
-          "id": "96dd39d6f42d",
-          "title": "The Zip Code Trap: Why Geography Might Be a Better Predictor of Cancer Survival Than DNA",
-          "url": "https://medcitynews.com/2026/11/the-zip-code-trap-why-geography-might-be-a-better-predictor-of-cancer-survival-than-dna/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Courtney Bugler",
-          "published": "2026-11-15T14:25:00+00:00",
-          "summary": "We are investing billions in making cancer treatment more precise while too many patients still can’t reliably reach the healthcare system delivering it. That should trouble all of us.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
-        },
-        {
-          "id": "90b841f879d5",
-          "title": "Cross-sectional study of facial bone wall thickness of maxillary incisors in healthy and periodontitis populations based on CBCT analysis",
-          "url": "https://www.nature.com/articles/s41598-026-75510-3",
+          "id": "8572e0a02272",
+          "title": "Development of treatments for sarcopenia: new challenges, opportunities and perspectives",
+          "url": "https://www.nature.com/articles/s41584-026-01457-4",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
-          "published": "2026-11-15T00:00:00+00:00",
+          "published": "2026-11-16T00:00:00+00:00",
           "summary": "",
           "full_html": null,
           "license": "",
@@ -629,27 +629,13 @@
           "words": 0
         },
         {
-          "id": "928a69cd98f5",
-          "title": "Enhancing illness communication between patients with stroke and their spouses: a dyadic coping intervention programme",
-          "url": "https://www.nature.com/articles/s41598-026-75497-x",
+          "id": "dca6f42e16cc",
+          "title": "Comment on: ‘Performance of large language models for ophthalmic literature retrieval’",
+          "url": "https://www.nature.com/articles/s41433-026-04985-1",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
-          "published": "2026-11-15T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "ab7dfb4315e9",
-          "title": "A leakage-controlled multimodal framework for depression detection using audio, visual, and text features",
-          "url": "https://www.nature.com/articles/s41598-026-79352-x",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-15T00:00:00+00:00",
+          "published": "2026-11-16T00:00:00+00:00",
           "summary": "",
           "full_html": null,
           "license": "",
@@ -713,22 +699,106 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "c3cebf5f1ce2",
-          "title": "Women prosecuted for abortions hail ‘historic day’ after receiving pardon",
-          "url": "https://www.theguardian.com/world/2026/nov/15/women-pardoned-abortion-england-wales",
+          "id": "fe125fe61fb0",
+          "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
           "source": "The Guardian – Health",
           "section": "related-articles",
-          "author": "Hannah Al-Othman",
-          "published": "2026-11-15T22:30:25+00:00",
-          "summary": "Calls for government to issue formal apology to those investigated after ending pregnancies in England and Wales Campaigners and women previously convicted of illegal abortions have hailed a “historic day” after the pardoning of every woman who has faced criminal investigation for ending a pregnancy…",
+          "author": "Oliver Milman",
+          "published": "2026-11-16T16:00:47+00:00",
+          "summary": "‘Hyperscaler’ datacenters across country draw upon dirtier power sources to meet vast energy needs, research shows The frantic buildout of “hyperscaler” datacenters in the US has collectively caused planet-heating emissions of about the same scale as Denmark emits in a year, new research has found.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
+          "id": "19da0e543fab",
+          "title": "I had to explain to my teacher what a young carer was - we need more support",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-16T13:00:21+00:00",
+          "summary": "Neraya says young carers such as herself want the chance of \"a childhood of our own\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "ce0451e0b70f",
+          "title": "Women's criminal records wiped for abortion offences",
+          "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-16T11:45:33+00:00",
+          "summary": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "72b66c10f4ae",
+          "title": "These Governors-Elect Campaigned on Expanding Medicaid. It Won’t Be Easy.",
+          "url": "https://kffhealthnews.org/medicaid/democrats-medicaid-expansion-governors-lance-bottoms-hinojosa-crowley-georgia-texas-wisconsin/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "Sam Whitehead",
+          "published": "2026-11-16T10:00:00+00:00",
+          "summary": "A handful of states that haven’t fully expanded Medicaid just elected Democratic candidates for governor who campaigned on broadening access to the government health insurance program for low-income people. But doing so won’t be so simple given recent changes to Medicaid, including looming work requirements.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "3c2ebd024abc",
+          "title": "Why sleep matters when it comes to weight gain and loss",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Maria Godoy",
+          "published": "2026-11-16T10:00:00+00:00",
+          "summary": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "d4a47b67a43d",
+          "title": "States Offer Perks To Attract Healthcare Workers to Rural Areas — With a Catch",
+          "url": "https://kffhealthnews.org/rural-health/rural-healthcare-provider-shortage-incentives-service-requirement-hawaii/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "Ashley Mizuo",
+          "published": "2026-11-16T10:00:00+00:00",
+          "summary": "States are using some of the $50 billion from the Rural Health Transformation Program to provide incentives to healthcare providers to practice in rural America. But the money comes with strings attached: a five-year service commitment.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "428730d65d26",
+          "title": "Eurovision Asia: a diverse and spectacular showcase of Asian pop",
+          "url": "https://theconversation.com/eurovision-asia-a-diverse-and-spectacular-showcase-of-asian-pop-294346",
+          "source": "The Conversation",
+          "section": "related-articles",
+          "author": "Jess Carniel, Associate Professor in Humanities, University of Southern Queensland",
+          "published": "2026-11-16T04:44:27+00:00",
+          "summary": "Some major regional players were missing, but the inaugural Asian edition showed it has the potential to be a powerful global platform for Asian pop.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
           "id": "917b9a52c807",
-          "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
+          "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
           "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
           "source": "NPR – Health",
           "section": "related-articles",
@@ -739,90 +809,6 @@
           "license": "",
           "license_url": "",
           "words": 28
-        },
-        {
-          "id": "94fcee867fdf",
-          "title": "Tories pledge to halt screen-based school exams and cut coursework",
-          "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-15T22:00:37+00:00",
-          "summary": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "19da0e543fab",
-          "title": "I had to explain to my teacher what a young carer was - we need more support",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-15T21:52:08+00:00",
-          "summary": "Neraya says young carers such as herself want the chance of \"a childhood of our own\".",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
-          "id": "7f792e0d7409",
-          "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
-          "url": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Howard Berkes",
-          "published": "2026-11-15T13:11:30+00:00",
-          "summary": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 31
-        },
-        {
-          "id": "25595b67823a",
-          "title": "US Has Lost Measles Elimination Status, Global Health Authorities Say",
-          "url": "https://kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "Amy Maxmen",
-          "published": "2026-11-14T14:20:01+00:00",
-          "summary": "All but vanquished a quarter century ago, measles has taken root again in the U.S. Compared with prior administrations, President Donald Trump’s second term has been marred by misinformation and actions that stifle public health.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 35
-        },
-        {
-          "id": "05bd6e74bb8f",
-          "title": "It’s Open Enrollment Season. Hear Reporters Discuss ACA Sign-Ups, High Costs, and More.",
-          "url": "https://kffhealthnews.org/on-air/on-air-november-14-2026-obamacare-aca-open-enrollment-measles-midterms/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-14T10:00:00+00:00",
-          "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "fa67c5920455",
-          "title": "Could you survive without Microsoft? Inside the costs of digital dependence",
-          "url": "https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614",
-          "source": "The Conversation",
-          "section": "related-articles",
-          "author": "Narmin Nahidi, Assistant Professor in Finance, University of Exeter",
-          "published": "2026-11-13T12:09:36+00:00",
-          "summary": "Digital choices have huge environmental costs but these are rarely counted up.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 12
         }
       ]
     }
@@ -839,13 +825,6 @@
       "name": "FDA – Press Announcements",
       "site": "https://www.fda.gov",
       "license": "US Government work (public domain)",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "Fierce Biotech",
-      "site": "https://www.fiercebiotech.com",
-      "license": "",
       "license_url": "",
       "full_text": false
     },
@@ -1028,8 +1007,9 @@
   "errors": [
     "NIH – News Releases: 404 Client Error: Not Found for url: https://www.nih.gov/news-events/news-releases/rss.xml",
     "Medical News Today: 404 Client Error: Not Found for url: https://www.medicalnewstoday.com/rss",
+    "Fierce Biotech: 403 Client Error: Forbidden for url: https://www.fiercebiotech.com/rss/xml",
     "ScienceDaily – Surgery: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/surgery.xml",
-    "Fierce Biotech – Medtech: 404 Client Error: Not Found for url: https://www.fiercebiotech.com/medtech/rss/xml",
+    "Fierce Biotech – Medtech: 403 Client Error: Forbidden for url: https://www.fiercebiotech.com/medtech/rss/xml",
     "BMC Surgery: feed contained no entries",
     "ScienceDaily – Digestive Disorders: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/digestive_disorders.xml",
     "Healthcare IT News: 403 Client Error: Forbidden for url: https://www.healthcareitnews.com/feed",
