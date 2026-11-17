@@ -2,22 +2,22 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-16",
-    "date_long": "Monday, 16 November 2026",
+    "date": "2026-11-17",
+    "date_long": "Tuesday, 17 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-16T21:40+05:30",
+    "generated_at": "2026-11-17T07:24+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 45,
-    "reading_minutes": 9,
-    "source_count": 27,
-    "full_text_count": 2,
+    "reading_minutes": 7,
+    "source_count": 28,
+    "full_text_count": 1,
     "per_section": {
       "vertical-thinking": 10,
-      "medicine": 5,
-      "surgery": 5,
-      "gastroenterology": 8,
+      "medicine": 7,
+      "surgery": 4,
+      "gastroenterology": 7,
       "medical-trends": 8,
       "lectures": 1,
       "related-articles": 8
@@ -32,44 +32,44 @@
         "count": 6
       },
       {
-        "term": "published online",
+        "term": "people",
+        "count": 5
+      },
+      {
+        "term": "study",
+        "count": 5
+      },
+      {
+        "term": "patients",
+        "count": 5
+      },
+      {
+        "term": "impact",
         "count": 4
+      },
+      {
+        "term": "major",
+        "count": 4
+      },
+      {
+        "term": "help",
+        "count": 4
+      },
+      {
+        "term": "published online",
+        "count": 3
       },
       {
         "term": "online november",
-        "count": 4
-      },
-      {
-        "term": "drug",
-        "count": 4
-      },
-      {
-        "term": "clinical",
-        "count": 4
-      },
-      {
-        "term": "medicine",
-        "count": 4
-      },
-      {
-        "term": "nature",
-        "count": 4
-      },
-      {
-        "term": "therapy",
-        "count": 4
-      },
-      {
-        "term": "shows",
-        "count": 4
+        "count": 3
       },
       {
         "term": "colorectal cancer",
         "count": 3
       },
       {
-        "term": "study finds",
-        "count": 3
+        "term": "nature medicine",
+        "count": 2
       }
     ],
     "markets": [
@@ -104,30 +104,30 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "64,382.00",
-        "change_pct": -0.44,
+        "display": "64,775.00",
+        "change_pct": 0.05,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,818.92",
-        "change_pct": 0.55,
+        "display": "1,820.61",
+        "change_pct": 0.71,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Polygenic risk score",
+    "term": "Liquid biopsy",
     "pos": "noun",
-    "domain": "Genomics",
-    "definition": "A single number that sums the small effects of many genetic variants to estimate a person's inherited susceptibility to a disease.",
+    "domain": "Oncology",
+    "definition": "A blood test that detects tumour-derived DNA or cells, enabling cancer screening and monitoring without surgical tissue sampling.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 16",
-    "definition": "edit · refresh · view Word of the day for November 16 katabasis n (military, historical or literary) A retreat by military forces; specifically, that of Cyrus the Younger's troops from Asia back to Greece in 401–399 B.C.E.; also (generally…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261116000000/en",
+    "word": "Word of the day for November 17",
+    "definition": "edit · refresh · view Word of the day for November 17 promenade v (transitive) Followed by the dummy pronoun it: to walk, or drive or ride, in a leisurely manner, especially in a place where one can be seen…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261117000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -138,6 +138,48 @@
       "title": "Vertical Thinking in Medical Science",
       "kicker": "Depth Over Breadth",
       "articles": [
+        {
+          "id": "4b73ebf01041",
+          "title": "BMI based system may have led to overdiagnosis of obesity, new study suggests",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101464.short?rss=1",
+          "source": "The BMJ",
+          "section": "vertical-thinking",
+          "author": "Rosa Furneaux",
+          "published": "2026-11-16T17:16:21+00:00",
+          "summary": "Tens of millions of people worldwide may have been overdiagnosed or underdiagnosed with obesity because of inaccuracies in the body mass index (BMI) system commonly used to identify the disease, a large international study suggests.1Led by researchers at King’s College London and published in Nature…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "b34aada54567",
+          "title": "Doctor burnout on maternity wards risks “critical impact” on patients, GMC warns",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101471.short?rss=1",
+          "source": "The BMJ",
+          "section": "vertical-thinking",
+          "author": "Gareth Iacobucci",
+          "published": "2026-11-16T16:46:18+00:00",
+          "summary": "Doctors training in obstetrics and gynaecology are experiencing higher rates of burnout than colleagues in other medical specialties, risking a “critical impact” on patients, the UK’s medical regulator warns.The General Medical Council (GMC) said that trainee obstetricians and gynaecologists were also consistently more likely than…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "6d4cbc29f346",
+          "title": "Towards improving the safety of medication use in pregnancy",
+          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005291",
+          "source": "PLOS Medicine",
+          "section": "vertical-thinking",
+          "author": "on behalf of the PLOS Medicine staff editors",
+          "published": "2026-11-16T14:00:00+00:00",
+          "summary": "by Jennifer Jardine, Suzanne de Bruijn, on behalf of the PLOS Medicine staff editors Pregnant people are historically excluded from clinical trials, meaning safety information regarding medication use during pregnancy is scarce. Despite efforts to change this, inclusion of pregnant people in trials is complicated.",
+          "full_html": null,
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "words": 45
+        },
         {
           "id": "4994ed9239ba",
           "title": "Democrats settle on a message: ‘Medicare for More’",
@@ -153,74 +195,32 @@
           "words": 27
         },
         {
-          "id": "959b4408d31e",
-          "title": "Chair of government’s Obesity Healthcare Goals programme was paid nearly {pound}80 000 by GLP-1 drug firms",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101434.short?rss=1",
-          "source": "The BMJ",
-          "section": "vertical-thinking",
-          "author": "",
-          "published": "2026-11-16T11:21:18+00:00",
-          "summary": "We have amended this news story by Sophie Borland (BMJ 2026;395:e101252, doi:10.1136/bmj-2026-101252, published 27 October 2026) to correct the amount of funding Eli Lilly provided to the Obesity Healthcare Goals programme’s Obesity Pathway Innovation Programme (OPIP), to £35m.The article previously stated that this investment in…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "a3e352886d2c",
-          "title": "Doctor suspended for “predatory” behaviour must be struck off, High Court rules",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101458.short?rss=1",
-          "source": "The BMJ",
-          "section": "vertical-thinking",
-          "author": "Clare Dyer",
-          "published": "2026-11-16T11:06:20+00:00",
-          "summary": "A doctor whose behaviour towards two junior colleagues was “predatory” must be struck off the medical register, a High Court judge has ruled.1Khush Zeeshan carried out examinations on the two female coworkers for his own sexual gratification, a medical practitioners tribunal (MPT) decided last March.2But…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "f547f26c4751",
-          "title": "Analysis of antimicrobial resistance in the LAKANA trial of azithromycin administration in Mali: A sub-study of a cluster randomized clinical trial",
-          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005296",
-          "source": "PLOS Medicine",
-          "section": "vertical-thinking",
-          "author": "Dagmar G. Alber",
-          "published": "2026-11-13T14:00:00+00:00",
-          "summary": "by Jane Juma, Juho Luoma, Awa Traore, Aminata Sangare, Oumou Bouare, Fadima Cheick Haidara, Oumar Samaké, Laura Adubra, Rikhard Ihamuotila, Owen Martell, Tiia Haapaniemi, Kaisa Ylikruuvi, Camilla Ducker, Ulla Ashorn, Samba Sow, Per Ashorn, Yin Bun Cheung, Nigel Klein, Elaine Cloutman-Green, Yue-Mei Fan, Dagmar G.",
-          "full_html": "<p>by Jane Juma, Juho Luoma, Awa Traore, Aminata Sangare, Oumou Bouare, Fadima Cheick Haidara, Oumar Samaké, Laura Adubra, Rikhard Ihamuotila, Owen Martell, Tiia Haapaniemi, Kaisa Ylikruuvi, Camilla Ducker, Ulla Ashorn, Samba Sow, Per Ashorn, Yin Bun Cheung, Nigel Klein, Elaine Cloutman-Green, Yue-Mei Fan, Dagmar G. Alber</p>\nBackground <p>Mass azithromycin administration has been used to reduce under-five mortality in sub-Saharan Africa, but concerns remain about its potential impact on antimicrobial resistance (AMR).</p> Methods and findings <p>The Large-scale Assessment of the Key health-promoting Activities of two New mass drug administration regiments with Azithromycin (LAKANA) trial was a cluster-randomized, placebo-controlled trial conducted in Mali, enrolling infants aged 1−11 months randomized to placebo, twice-yearly azithromycin, or quarterly azithromycin for 2 years. The trial did not find any mortality benefit amongst treated children. The current analysis is a sub-study of the parent trial examining AMR outcomes. Repeated cross-sectional nasopharyngeal and rectal swabs were collected from children aged 4–14-months in villages randomized to placebo, twice-yearly or quarterly azithromycin, and from untreated contacts aged 49–59-months at baseline, 12-, 24-, and 36-months post-village enrollment across 59 LAKANA trial villages. Phenotypic resistance to macrolide and nonmacrolide antibiotics was assessed in <i>Streptococcus pneumoniae</i> (<i>S. pneumoniae</i>) and <i>Escherichia coli</i> (<i>E. coli</i>) isolates using disk diffusion or E-tests. The primary noninferiority analysis evaluated macrolide resistance prevalence at 36-months among younger children and at 24-months among older contacts, with predefined margin of +10 percentage points. A total of 5,025 nasopharyngeal and 5,021 rectal samples were analyzed. At baseline, among 4–14-month-old children, macrolide resistance in <i>S. pneumoniae</i> was 16.6%, 15.5%, and 11.1% in the placebo, twice-yearly and quarterly azithromycin groups, respectively, and 5.0%, 5.0%, and 0.0% in <i>E. coli</i>. At 36-months, corresponding prevalences were 13.4%, 14.5%, and 17.2% for <i>S. pneumoniae</i>, and 5.1%, 6.4%, and 9.1% for <i>E. coli</i>. The difference between placebo and twice-yearly groups was 1.0% (95% CI [−4.7, 6.8]) for <i>S. pneumoniae</i> and 1.3% (95% CI [−2.4, 4.9]) for <i>E. coli</i>; corresponding differences for quarterly azithromycin group was 3.8% (95% CI [−3.3, 10.9]) for <i>S. pneumoniae</i> and 4.0% (95% CI [−0.7, 8.7]) for <i>E. coli.</i> Among untreated older children, there were no marked inter-group differences in macrolide resistance either at baseline or at 24-months. The study may not have been large enough to detect a small increase in macrolide resistance in <i>S. pneumoniae</i> among young children in villages that received quarterly azithromycin.</p> Conclusions <p>Twice-yearly azithromycin administration to 1–11-month-old infants for 2 years in Mali did not increase macrolide resistance in treated children or untreated contacts and met the predefined noninferiority margin in tested isolates. Quarterly administration, however, cannot exclude a modest dose-dependent increase of macrolide resistance in <i>S. pneumoniae</i> and <i>E. coli</i>.</p>",
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 441
-        },
-        {
-          "id": "5bd8dcfffd0a",
-          "title": "Vaccines could be a new frontier in KRAS targeting",
-          "url": "https://www.nature.com/articles/s41591-026-04772-1",
+          "id": "cc031e7d82ba",
+          "title": "Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
+          "url": "https://www.nature.com/articles/s41591-026-04798-5",
           "source": "Nature Medicine",
           "section": "vertical-thinking",
-          "author": "Shivan Sivakumar",
-          "published": "2026-11-13T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 13 November 2026; doi:10.1038/s41591-026-04772-1 A convergence of therapeutic and technological advances reveals KRAS-targeting vaccination as a potential new approach to preventing the recurrence of pancreatic cancer, but many hurdles remain.",
+          "author": "Mauro Saddelli",
+          "published": "2026-11-16T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 16 November 2026; doi:10.1038/s41591-026-04798-5 Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 34
+          "words": 21
         },
         {
-          "id": "30c3768c2833",
-          "title": "Gut and urogenital microbiomes influence menopausal hormone therapy outcomes",
-          "url": "https://www.nature.com/articles/s41591-026-04789-6",
+          "id": "8c92f5ac5627",
+          "title": "An open agentic AI co-scientist for clinical and biomedical discovery",
+          "url": "https://www.nature.com/articles/s41591-026-04808-6",
           "source": "Nature Medicine",
           "section": "vertical-thinking",
-          "author": "",
-          "published": "2026-11-13T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 13 November 2026; doi:10.1038/s41591-026-04789-6 A 6-month study shows that menopausal hormone therapy induces multi-site microbiome remodeling, including rejuvenation of the vaginal microbial community toward a reproductive-age-like state. In turn, baseline gut and vaginal community types affect the clinical response to therapy.",
+          "author": "Justin T. Reese",
+          "published": "2026-11-16T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 16 November 2026; doi:10.1038/s41591-026-04808-6 An open agentic AI co-scientist for clinical and biomedical discovery",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 18
         },
         {
           "id": "6e99e16242e4",
@@ -354,6 +354,34 @@
           "license": "US Government work (public domain)",
           "license_url": "",
           "words": 41
+        },
+        {
+          "id": "6e0cf7fdc9e3",
+          "title": "CG preps new, expanded bladder cancer plans with FDA after ph. 3 win",
+          "url": "https://www.fiercebiotech.com/biotech/cgs-newest-late-stage-bladder-cancer-results-broaden-clinical-potential",
+          "source": "Fierce Biotech",
+          "section": "medicine",
+          "author": "Michael Gibney",
+          "published": null,
+          "summary": "CG Oncology showed in a late-stage study that its immunotherapy cretostimogene reduced the risk of tumor recurrence in certain patients with non-muscle invasive bladder cancer following surgery.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "b7d79c188912",
+          "title": "Helus' chemically modified psychedelic hits key goals in phase 3 depression trial",
+          "url": "https://www.fiercebiotech.com/biotech/helus-touts-ph-3-win-its-chemically-modified-psychedelic-depression",
+          "source": "Fierce Biotech",
+          "section": "medicine",
+          "author": "Marissa Russo",
+          "published": null,
+          "summary": "Helus Pharma's oral chemically modified version of psilocybin hit the key goals of a phase 3 study as an adjunctive treatment in major depressive disorder.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
         }
       ]
     },
@@ -362,6 +390,20 @@
       "title": "Surgery & Operative Innovation",
       "kicker": "The Theatre",
       "articles": [
+        {
+          "id": "065d93685e2f",
+          "title": "A small study linked daily strawberries to less period pain. What about other benefits?",
+          "url": "https://www.news-medical.net/news/20261116/A-small-study-linked-daily-strawberries-to-less-period-pain-What-about-other-benefits.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-17T01:40:00+00:00",
+          "summary": "A narrative review examined the potential effects of strawberries and their bioactive compounds on female reproductive health, including fertility, ovarian aging, menstrual pain, PCOS, and reproductive cancers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
         {
           "id": "435be2d86b3f",
           "title": "Lymph node removal during palliative gastrectomy for stage IV gastric cancer shows no short-term harm",
@@ -375,34 +417,6 @@
           "license": "",
           "license_url": "",
           "words": 22
-        },
-        {
-          "id": "4713d9202de2",
-          "title": "Dyania and NVIDIA partner to scale AI-driven clinical reasoning across health systems",
-          "url": "https://www.news-medical.net/news/20261113/Dyania-and-NVIDIA-partner-to-scale-AI-driven-clinical-reasoning-across-health-systems.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-14T03:02:00+00:00",
-          "summary": "Dyania Health today announced a collaboration with NVIDIA to put AI clinical reasoning to work inside health systems, on their own infrastructure, at the scale of their entire patient population.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
-        },
-        {
-          "id": "d9f7760888ef",
-          "title": "Study finds earlier endometrial cancer diagnoses among Native American and Hispanic women",
-          "url": "https://www.news-medical.net/news/20261113/Study-finds-earlier-endometrial-cancer-diagnoses-among-Native-American-and-Hispanic-women.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-14T02:52:00+00:00",
-          "summary": "While incidence rates for some cancers have declined among women, endometrial cancer, the most common type of uterine cancer, has increased substantially over the past two decades, with particularly concerning increases among Native American and Hispanic women.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
         },
         {
           "id": "0f97b8a8f53c",
@@ -454,6 +468,34 @@
           "words": 26
         },
         {
+          "id": "28412663ad12",
+          "title": "Matrix stiffness determines whether liver cells regenerate or scar",
+          "url": "https://www.news-medical.net/news/20261116/Matrix-stiffness-determines-whether-liver-cells-regenerate-or-scar.aspx",
+          "source": "News-Medical – Gastroenterology",
+          "section": "gastroenterology",
+          "author": "",
+          "published": "2026-11-16T16:40:13+00:00",
+          "summary": "Soft and stiff extracellular matrix environments influence how hepatic stellate cells (HSCs) respond during liver injury. Researchers from Science Tokyo investigated how matrix stiffness shapes the direction of HSC activation.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "044a7bf19d5a",
+          "title": "Epigenetics in inflammatory bowel disease: from mechanistic insights to personalized therapeutic strategies",
+          "url": "https://www.nature.com/articles/s41575-026-01275-9",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Jack Satsangi",
+          "published": "2026-11-16T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 16 November 2026; doi:10.1038/s41575-026-01275-9 This Review discusses the complex role of epigenetics in inflammatory bowel disease and provides a comprehensive overview of current and emerging technologies that could enhance the prognostic value of epigenetic biomarkers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
           "id": "7b2e6a1a1ebf",
           "title": "A solitary button-like hepatic lesion",
           "url": "https://www.gastrojournal.org/article/S0016-5085(26)07784-X/fulltext?rss=yes",
@@ -466,20 +508,6 @@
           "license": "",
           "license_url": "",
           "words": 0
-        },
-        {
-          "id": "005b1d4589f4",
-          "title": "PDE4 inhibition at the crossroads of IBD and obesity",
-          "url": "https://www.nature.com/articles/s41575-026-01284-8",
-          "source": "Nature Reviews Gastroenterology & Hepatology",
-          "section": "gastroenterology",
-          "author": "Sailish Honap",
-          "published": "2026-11-13T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 13 November 2026; doi:10.1038/s41575-026-01284-8 Obesity and inflammatory bowel disease are increasingly recognized as interconnected inflammatory and metabolic disorders. New insights into glucagon-like peptide-1 signalling highlight the role of phosphodiesterase 4 in energy balance.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 40
         },
         {
           "id": "080ab3fb78ce",
@@ -522,34 +550,6 @@
           "license": "",
           "license_url": "",
           "words": 37
-        },
-        {
-          "id": "47c6da0db667",
-          "title": "Choosing the right drug for the right patient with steatohepatitis",
-          "url": "https://www.nature.com/articles/s41575-026-01283-9",
-          "source": "Nature Reviews Gastroenterology & Hepatology",
-          "section": "gastroenterology",
-          "author": "Juan Pablo Arab",
-          "published": "2026-11-11T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 11 November 2026; doi:10.1038/s41575-026-01283-9 With resmetirom and semaglutide approved for non-cirrhotic steatohepatitis with fibrosis, new European guidance moves the question from whether to treat to whom to treat, and with what.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 38
-        },
-        {
-          "id": "aa0e5e45456c",
-          "title": "Common blood pressure drugs may improve ulcerative colitis therapy",
-          "url": "https://www.news-medical.net/news/20261110/Common-blood-pressure-drugs-may-improve-ulcerative-colitis-therapy.aspx",
-          "source": "News-Medical – Gastroenterology",
-          "section": "gastroenterology",
-          "author": "",
-          "published": "2026-11-10T16:04:39+00:00",
-          "summary": "A class of blood pressure medications may improve a widely used treatment for ulcerative colitis, the most common type of inflammatory bowel disease, suggests a new study, led by Northwestern Medicine and Kiel University in Germany, of thousands of patients with the disease.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 43
         }
       ]
     },
@@ -558,6 +558,76 @@
       "title": "Emerging Medical Trends & New Vocabulary",
       "kicker": "Frontiers & Phrases",
       "articles": [
+        {
+          "id": "f232a460a7b1",
+          "title": "Randomized noninferiority trial of VasoClip versus WeckClip in robotic urologic surgery",
+          "url": "https://www.nature.com/articles/s41598-026-79203-9",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-17T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "d586f2b2a310",
+          "title": "Engineering signal transduction for closed-loop gene and cell therapies",
+          "url": "https://www.nature.com/articles/s41392-026-03122-4",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-17T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "d576e8be8520",
+          "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
+          "url": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Bob Herman",
+          "published": "2026-11-16T23:45:36+00:00",
+          "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "b585111cd3da",
+          "title": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
+          "url": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Andrew Joseph",
+          "published": "2026-11-16T20:56:47+00:00",
+          "summary": "The FDA approved a new breast cancer drug from Roche, teeing up the launch of a medicine the company has said could become its top-selling product ever.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "b00fdd97d0ac",
+          "title": "J&J’s $2.2B Ollin Buyout Brings Late-Stage Eye Drug; Blackstone Deal Adds Trial Funding",
+          "url": "https://medcitynews.com/2026/11/johnson-johnson-jnj-ollin-biosciences-acquisition-bispecific-antibody-vegf-ang2-wet-amd-dme/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Frank Vinluan",
+          "published": "2026-11-16T18:55:25+00:00",
+          "summary": "Johnson & Johnson’s Ollin Biosciences acquisition comes with a Phase 3-ready bispecific antibody. The companies say this eye drug offers advantages over Vabysmo, a Roche drug approved for wet age-related macular degeneration and diabetic macular edema.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
         {
           "id": "55dc4aaac4ee",
           "title": "The Permanente Medical Group Launches Innovation Company To Commercialize Clinicians’ Ideas",
@@ -571,76 +641,6 @@
           "license": "",
           "license_url": "",
           "words": 27
-        },
-        {
-          "id": "b870d30b3aaa",
-          "title": "A Complete Medical Record Still Won’t Fix Prior Authorization",
-          "url": "https://medcitynews.com/2026/11/a-complete-medical-record-still-wont-fix-prior-authorization/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Ganesh Padmanabhan",
-          "published": "2026-11-16T14:49:00+00:00",
-          "summary": "The chart may be complete, and two parties may still reach different conclusions. The issue is not always what they know; it is how the organization interprets what it knows.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
-        },
-        {
-          "id": "b1946bc56a5b",
-          "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
-          "url": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Ed Silverman",
-          "published": "2026-11-16T14:17:01+00:00",
-          "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "2e8f194bb619",
-          "title": "STAT+: Helus’ psychedelic drug improved depression in study but faces safety questions",
-          "url": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Elaine Chen",
-          "published": "2026-11-16T13:07:47+00:00",
-          "summary": "A psychedelic drug from Helus Pharma improved depression in a study, but is facing safety questions with a number of serious adverse events reported.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
-        },
-        {
-          "id": "8572e0a02272",
-          "title": "Development of treatments for sarcopenia: new challenges, opportunities and perspectives",
-          "url": "https://www.nature.com/articles/s41584-026-01457-4",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-16T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "dca6f42e16cc",
-          "title": "Comment on: ‘Performance of large language models for ophthalmic literature retrieval’",
-          "url": "https://www.nature.com/articles/s41433-026-04985-1",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-16T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
         },
         {
           "id": "a6ce6c799899",
@@ -699,46 +699,46 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "fe125fe61fb0",
-          "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
-          "url": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
+          "id": "1780622a264a",
+          "title": "Woman who got hooked on nasal spray for 10 years says it cost her thousands",
+          "url": "https://www.bbc.co.uk/news/articles/cj93ry10rl11o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-16T22:47:19+00:00",
+          "summary": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "2b77c4b253d6",
+          "title": "Cass report author says she does not support draft conversion practices bill",
+          "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-16T22:08:03+00:00",
+          "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "6ed8ff198f2a",
+          "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
+          "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
           "source": "The Guardian – Health",
           "section": "related-articles",
-          "author": "Oliver Milman",
-          "published": "2026-11-16T16:00:47+00:00",
-          "summary": "‘Hyperscaler’ datacenters across country draw upon dirtier power sources to meet vast energy needs, research shows The frantic buildout of “hyperscaler” datacenters in the US has collectively caused planet-heating emissions of about the same scale as Denmark emits in a year, new research has found.",
+          "author": "Denis Campbell Health policy editor",
+          "published": "2026-11-16T19:59:31+00:00",
+          "summary": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace it Ministers will end the NHS’s contract with the controversial tech firm Palantir – but not until 2029, to allow time to line up…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "19da0e543fab",
-          "title": "I had to explain to my teacher what a young carer was - we need more support",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-16T13:00:21+00:00",
-          "summary": "Neraya says young carers such as herself want the chance of \"a childhood of our own\".",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
-          "id": "ce0451e0b70f",
-          "title": "Women's criminal records wiped for abortion offences",
-          "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-16T11:45:33+00:00",
-          "summary": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 25
         },
         {
           "id": "72b66c10f4ae",
@@ -798,7 +798,7 @@
         },
         {
           "id": "917b9a52c807",
-          "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+          "title": "What's the real cost of fast fashion? Ask the people making your jeans",
           "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
           "source": "NPR – Health",
           "section": "related-articles",
@@ -825,6 +825,13 @@
       "name": "FDA – Press Announcements",
       "site": "https://www.fda.gov",
       "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fierce Biotech",
+      "site": "https://www.fiercebiotech.com",
+      "license": "",
       "license_url": "",
       "full_text": false
     },
@@ -1007,9 +1014,8 @@
   "errors": [
     "NIH – News Releases: 404 Client Error: Not Found for url: https://www.nih.gov/news-events/news-releases/rss.xml",
     "Medical News Today: 404 Client Error: Not Found for url: https://www.medicalnewstoday.com/rss",
-    "Fierce Biotech: 403 Client Error: Forbidden for url: https://www.fiercebiotech.com/rss/xml",
     "ScienceDaily – Surgery: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/surgery.xml",
-    "Fierce Biotech – Medtech: 403 Client Error: Forbidden for url: https://www.fiercebiotech.com/medtech/rss/xml",
+    "Fierce Biotech – Medtech: 404 Client Error: Not Found for url: https://www.fiercebiotech.com/medtech/rss/xml",
     "BMC Surgery: feed contained no entries",
     "ScienceDaily – Digestive Disorders: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/digestive_disorders.xml",
     "Healthcare IT News: 403 Client Error: Forbidden for url: https://www.healthcareitnews.com/feed",
