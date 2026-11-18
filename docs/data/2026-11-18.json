@@ -5,7 +5,7 @@
     "date": "2026-11-18",
     "date_long": "Wednesday, 18 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-18T06:33+05:30",
+    "generated_at": "2026-11-18T21:21+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -25,30 +25,34 @@
     "keywords": [
       {
         "term": "health",
-        "count": 14
+        "count": 8
       },
       {
         "term": "disease",
         "count": 6
       },
       {
-        "term": "study",
-        "count": 5
-      },
-      {
         "term": "treatment",
+        "count": 6
+      },
+      {
+        "term": "less",
         "count": 5
       },
       {
-        "term": "people",
-        "count": 5
-      },
-      {
-        "term": "data",
+        "term": "united states",
         "count": 4
       },
       {
-        "term": "nature",
+        "term": "evidence",
+        "count": 4
+      },
+      {
+        "term": "supporting",
+        "count": 4
+      },
+      {
+        "term": "study",
         "count": 4
       },
       {
@@ -66,53 +70,21 @@
       {
         "term": "colorectal cancer",
         "count": 3
-      },
-      {
-        "term": "gastric cancer",
-        "count": 3
       }
     ],
     "markets": [
       {
-        "label": "USD/EUR",
-        "group": "Currencies",
-        "display": "0.9100",
-        "change_pct": 0.23,
-        "source": "ECB via Frankfurter"
-      },
-      {
-        "label": "USD/GBP",
-        "group": "Currencies",
-        "display": "0.7581",
-        "change_pct": 0.05,
-        "source": "ECB via Frankfurter"
-      },
-      {
-        "label": "USD/INR",
-        "group": "Currencies",
-        "display": "93.48",
-        "change_pct": -0.48,
-        "source": "ECB via Frankfurter"
-      },
-      {
-        "label": "USD/JPY",
-        "group": "Currencies",
-        "display": "159.30",
-        "change_pct": -0.19,
-        "source": "ECB via Frankfurter"
-      },
-      {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "64,648.00",
-        "change_pct": 0.16,
+        "display": "62,992.00",
+        "change_pct": -0.99,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,815.88",
-        "change_pct": 0.21,
+        "display": "1,761.27",
+        "change_pct": 0.05,
         "source": "CoinGecko"
       }
     ]
@@ -139,42 +111,42 @@
       "kicker": "Depth Over Breadth",
       "articles": [
         {
-          "id": "84271186bc73",
-          "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
-          "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
-          "source": "STAT – Research",
-          "section": "vertical-thinking",
-          "author": "Margaret Manto and Chelsea Cirruzzo",
-          "published": "2026-11-17T18:14:50+00:00",
-          "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "7dfdd8030ca6",
-          "title": "Hilary Cass withdraws her backing on conversion practices bill",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101493.short?rss=1",
+          "id": "71803d8cb87b",
+          "title": "US loses measles elimination status as “once beaten” disease sweeps nation",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101505.short?rss=1",
           "source": "The BMJ",
           "section": "vertical-thinking",
-          "author": "Jacqui Wise",
-          "published": "2026-11-17T16:51:10+00:00",
-          "summary": "Hilary Cass, author of the landmark report into NHS children’s gender services, has said that the government’s planned bill to ban conversion practices could put healthcare workers and therapists at risk of “vexatious complaints.”12The draft bill, currently at the committee stage, seeks to ban abusive…",
+          "author": "Luke Taylor",
+          "published": "2026-11-18T13:11:21+00:00",
+          "summary": "The United States has been stripped of its status as a measles-free country for the first time since 2000.Pan American Health Organization (PAHO) officials announced the result on 17 November.1 The decision followed a review of epidemiological, laboratory, and genetic evidence by PAHO’s independent Regional…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "50ed1e5433d0",
-          "title": "Palantir’s NHS contract to end—but not until 2029, ministers say",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101495.short?rss=1",
+          "id": "e6792d7d9b1a",
+          "title": "What redesigning medical school might look like",
+          "url": "https://www.statnews.com/2026/11/18/health-news-what-redesigning-medical-school-might-look-like/?utm_campaign=rss",
+          "source": "STAT – Research",
+          "section": "vertical-thinking",
+          "author": "Theresa Gaffney",
+          "published": "2026-11-18T13:03:55+00:00",
+          "summary": "\"I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,” writes M.D./Ph.D. student Alex Serafini.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "1ec11ac15902",
+          "title": "Menopause: workplace support should complement good healthcare",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101436.short?rss=1",
           "source": "The BMJ",
           "section": "vertical-thinking",
-          "author": "Stephen Armstrong",
-          "published": "2026-11-17T16:11:12+00:00",
-          "summary": "The government has confirmed it plans to put its NHS contract with the controversial US tech giant Palantir out to competitive tender.The move to force Palantir to rebid for the Federated Data Platform (FDP) contract against UK based competitors—reported by The BMJ last week1—was confirmed…",
+          "author": "Leslie A Kenny",
+          "published": "2026-11-18T10:01:38+00:00",
+          "summary": "Goyal and Sacha discuss the UK government proposals “that require large employers to publish their approach to supporting employees through menopause.”1 This is welcome recognition that menopause can profoundly affect women’s working lives, but this is a “both/and” problem.Employers should support women experiencing crippling symptoms…",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -286,6 +258,48 @@
       "kicker": "The Clinic",
       "articles": [
         {
+          "id": "e8d6c936edcf",
+          "title": "A rare disease reveals a hidden flaw in the immune system",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-18T12:33:09+00:00",
+          "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new treatment using existing medications, with one severely affected infant already showing substantial improvement.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "f9401287c2ce",
+          "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-18T12:06:44+00:00",
+          "summary": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "b5128f6cb027",
+          "title": "A little-known protein could be a powerful weapon against Alzheimer’s",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-18T11:53:30+00:00",
+          "summary": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
           "id": "26e7b3b8765d",
           "title": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
           "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide",
@@ -314,74 +328,32 @@
           "words": 24
         },
         {
-          "id": "599756f8f68a",
-          "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-17T11:39:45+00:00",
-          "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "a427f39e1ca5",
-          "title": "Wine, beer, or spirits? Massive study reveals a surprising health divide",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116015104.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-17T04:54:15+00:00",
-          "summary": "A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 35
-        },
-        {
-          "id": "ab5b70f5792b",
-          "title": "Cannabis addiction linked to 57% higher odds of suicidal thoughts",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023342.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-17T02:57:22+00:00",
-          "summary": "A massive study involving more than 415,000 Americans has uncovered a concerning connection between cannabis use disorder and suicidal thoughts. Researchers found that adults with the disorder had 57% higher odds of experiencing suicidal thoughts, with women and younger adults facing particularly elevated risks.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 44
-        },
-        {
-          "id": "8fcb314eedcf",
-          "title": "FDA’s complete response letter for Summit’s ivonescimab cites China-heavy data beyond survival miss",
-          "url": "https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
+          "id": "c2d2df19cc36",
+          "title": "Less than a year into the job, Everett Cunningham steps down as Quanterix CEO",
+          "url": "https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo",
           "source": "Fierce Biotech",
           "section": "medicine",
-          "author": "Angus Liu",
+          "author": "Ben Adams",
           "published": null,
-          "summary": "The FDA’s rejection of Summit Therapeutics’ closely watched PD-1xVEGF bispecific ivonescimab extends beyond its previously reported failure to show a statistically significant overall survival benefit.",
+          "summary": "Quanterix is on the lookout for a new chief executive once again as Everett Cunningham, who only started the top job back in January, hits the exit.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 25
+          "words": 27
         },
         {
-          "id": "89dc6204edf6",
-          "title": "Scientists uncover ‘very detailed map’ of an enzyme target for rare metabolic disease",
-          "url": "https://www.fiercebiotech.com/research/scientists-uncover-very-detailed-map-enzyme-target-therapies-rare-metabolic-disease",
+          "id": "cfb884543f74",
+          "title": "Biogen’s tau therapy drives bigger benefits in 2-year Alzheimer’s update",
+          "url": "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update",
           "source": "Fierce Biotech",
           "section": "medicine",
-          "author": "Marissa Russo",
+          "author": "Nick Paul Taylor",
           "published": null,
-          "summary": "For some rare genetic diseases, the problem isn't a missing protein but the buildup of toxic molecules that the body can no longer clear away.",
+          "summary": "Biogen has linked its tau-targeting antisense oligonucleotide to a further slowing of clinical decline after two years, leading analysts to hail the strengthening of evidence supporting late-phase development.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 25
+          "words": 28
         }
       ]
     },
@@ -391,60 +363,60 @@
       "kicker": "The Theatre",
       "articles": [
         {
-          "id": "9d9adbc7f922",
-          "title": "First robotic nipple-sparing mastectomy performed in New York City",
-          "url": "https://www.news-medical.net/news/20261117/First-robotic-nipple-sparing-mastectomy-performed-in-New-York-City.aspx",
+          "id": "611a8e433169",
+          "title": "Study supports laparoscopic TAPP repair for emergency groin hernias",
+          "url": "https://www.news-medical.net/news/20261118/Study-supports-laparoscopic-TAPP-repair-for-emergency-groin-hernias.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-17T14:38:02+00:00",
-          "summary": "Mount Sinai Tisch Cancer Center has performed the first robotic nipple-sparing mastectomy in New York City. The procedure, which used Intuitive Surgical's da Vinci Single-Port (SP) robotic system following U.S.",
+          "published": "2026-11-18T14:13:46+00:00",
+          "summary": "Although laparoscopic TAPP has become a mainstream option for elective inguinal and femoral hernia repair, evidence supporting its use in emergency settings—especially for incarcerated or strangulated hernias—has remained limited.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
+          "words": 29
         },
         {
-          "id": "70dc68646228",
-          "title": "Neurosurgeons voice serious concerns over Medicare physician fee schedule changes",
-          "url": "https://www.news-medical.net/news/20261117/Neurosurgeons-voice-serious-concerns-over-Medicare-physician-fee-schedule-changes.aspx",
-          "source": "News-Medical – Surgery",
+          "id": "0b7c75dde8d5",
+          "title": "Injured e-scooter riders face higher risk of serious head or neck trauma than injured cyclists",
+          "url": "https://medicalxpress.com/news/2026-11-scooter-riders-higher-neck-trauma.html",
+          "source": "Medical Xpress – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-17T13:48:53+00:00",
-          "summary": "The American Association of Neurological Surgeons (AANS) and the Congress of Neurological Surgeons (CNS), representing more than 4,000 neurosurgeons nationwide, expressed serious concerns regarding the Centers for Medicare & Medicaid Services' (CMS) calendar year (CY) 2027 Medicare Physician Fee Schedule (MPFS) final rule.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 43
-        },
-        {
-          "id": "a439867601a6",
-          "title": "Extended lymph node dissection shows no higher surgical risk in stage IV gastric cancer",
-          "url": "https://www.news-medical.net/news/20261116/Extended-lymph-node-dissection-shows-no-higher-surgical-risk-in-stage-IV-gastric-cancer.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-17T02:44:00+00:00",
-          "summary": "A research team led by Professor Jae-Seok Min of the Division of Foregut Surgery, Department of Surgery, at Korea University Anam Hospital and Professor Sang-Ho Jeong of the Department of Surgery at Gyeongsang National University Changwon Hospital examined the association between lymph node dissection and…",
+          "published": "2026-11-18T12:10:01+00:00",
+          "summary": "Adults injured while riding e-scooters had a higher risk of serious head or neck injury than those injured on bicycles, even though their injuries were less severe overall, according to a national trauma-center analysis published in the Journal of the American College of Surgeons (JACS).",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "435be2d86b3f",
-          "title": "Lymph node removal during palliative gastrectomy for stage IV gastric cancer shows no short-term harm",
-          "url": "https://medicalxpress.com/news/2026-11-lymph-node-palliative-gastrectomy-stage.html",
-          "source": "Medical Xpress – Surgery",
+          "id": "3b36918c255a",
+          "title": "Landmark guidance published for surgeons working during pregnancy",
+          "url": "https://www.news-medical.net/news/20261117/Landmark-guidance-published-for-surgeons-working-during-pregnancy.aspx",
+          "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-16T14:40:02+00:00",
-          "summary": "A research team examined the association between lymph node dissection and short-term outcomes after palliative, noncurative gastrectomy for stage IV gastric cancer.",
+          "published": "2026-11-18T04:09:00+00:00",
+          "summary": "The Royal College of Surgeons of Edinburgh has launched a report containing guidance for surgeons and theater workers during pregnancy.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 22
+          "words": 20
+        },
+        {
+          "id": "78aa4cfc37e1",
+          "title": "E-scooters linked to increased head and neck injury risk",
+          "url": "https://www.news-medical.net/news/20261117/E-scooters-linked-to-increased-head-and-neck-injury-risk.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-18T03:01:00+00:00",
+          "summary": "Adults injured while riding e-scooters had a higher risk of serious head or neck injury than those injured on bicycles, even though their injuries were less severe overall, according to a national trauma-center analysis published in the Journal of the American College of Surgeons (JACS).",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "0f97b8a8f53c",
@@ -587,23 +559,65 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "cb8f6cc6ddd5",
-          "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
-          "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
+          "id": "404305774a73",
+          "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
+          "url": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
           "source": "STAT",
           "section": "medical-trends",
-          "author": "Margaret Manto and Daniel Payne",
-          "published": "2026-11-18T00:44:05+00:00",
-          "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
+          "author": "Daniel Payne and Margaret Manto",
+          "published": "2026-11-18T15:36:19+00:00",
+          "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "495d50011f45",
+          "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
+          "url": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Elaine Chen and Adam Feuerstein",
+          "published": "2026-11-18T14:37:13+00:00",
+          "summary": "The FDA published its complete response letter to Summit Therapeutics explaining why it rejected the biotech's closely watched lung cancer drug:",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "3d1e74dd45eb",
+          "title": "I’ve Practiced Medicine for 40 Years — AI Gave Me Back My Evenings",
+          "url": "https://medcitynews.com/2026/11/ive-practiced-medicine-for-40-years-ai-gave-me-back-my-evenings/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Dr. Michael Miller",
+          "published": "2026-11-18T14:20:00+00:00",
+          "summary": "If you’re a physician earlier in your career, the message is simple: whatever tools exist to get your evenings back, use them now, while you still have the evenings to spend them on.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "2d14830e9ee0",
+          "title": "Teladoc Launches Employer Contribution Option for GLP-1s",
+          "url": "https://medcitynews.com/2026/11/teladoc-launches-employer-contribution-option-for-glp-1s/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Marissa Plescia",
+          "published": "2026-11-18T03:04:23+00:00",
+          "summary": "Teladoc launched a new offering that allows employers to contribute toward the cost of GLP-1 medications.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 16
         },
         {
-          "id": "78db88c3087c",
-          "title": "Rethinking gene therapy for X-linked retinoschisis: from vitreous to subretinal space",
-          "url": "https://www.nature.com/articles/s41392-026-03090-9",
+          "id": "02542690eb1c",
+          "title": "Differences in core muscle surface electromyographic activity during static unilateral and bilateral carries",
+          "url": "https://www.nature.com/articles/s41598-026-75244-2",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -615,9 +629,9 @@
           "words": 0
         },
         {
-          "id": "fb19d9ebdbb3",
-          "title": "Deep single-cell immune- and signaling profiles predict therapy response in chronic myeloid leukemia within hours",
-          "url": "https://www.nature.com/articles/s41392-026-03070-z",
+          "id": "29ec0a4b14d8",
+          "title": "Machine learning based reference assisted signal recovery under anatomical domain shift in simulated radiofrequency fracture sensing",
+          "url": "https://www.nature.com/articles/s41598-026-80163-3",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -627,48 +641,6 @@
           "license": "",
           "license_url": "",
           "words": 0
-        },
-        {
-          "id": "06f82e64e862",
-          "title": "Viz.ai Partners with Wolters Kluwer Health to Add UpToDate Resource to its Platform",
-          "url": "https://medcitynews.com/2026/11/viz-ai-partners-with-wolters-kluwer-health-to-add-uptodate-resource-to-its-platform/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Jenna Congdon",
-          "published": "2026-11-17T23:50:29+00:00",
-          "summary": "Health systems are jumping to integrate AI into clinicians’ everyday tools. When those platforms also offer the medical evidence that healthcare providers need to make on-the-fly clinical decisions, patient care can improve. Viz.ai and Wolters Kluwer Health are partnering to do just that.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 43
-        },
-        {
-          "id": "d7f9281f3d40",
-          "title": "Marrow Therapeutics Unveils $173M for ‘Trojan Horse’ Delivery of Blood Disorder Drugs",
-          "url": "https://medcitynews.com/2026/11/marrow-therapeutics-startup-transferrin-receptor-sickle-cell-beta-thalassemia-bcl11a/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Frank Vinluan",
-          "published": "2026-11-17T22:41:49+00:00",
-          "summary": "Sickle cell disease and beta thalassemia are the startup’s lead indications. While gene therapies are available for both blood disorders, Marrow executives say manufacturing and dosing advantages could make their medicine more broadly accessible across the world.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
-        },
-        {
-          "id": "267c6011f1bb",
-          "title": "STAT+: Updated health data privacy rule sets standards for sharing records with apps",
-          "url": "https://www.statnews.com/2026/11/17/hipaa-privacy-rule-update-aims-to-improve-patient-access-to-records/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Katie Palmer",
-          "published": "2026-11-17T19:44:14+00:00",
-          "summary": "Federal health department has updated the HIPAA privacy rule with a focus on supporting patients’ access to their own medical records.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
         },
         {
           "id": "a6ce6c799899",
@@ -741,18 +713,102 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "67f015fb9229",
-          "title": "Fears toxic lagoon fire led to cancer and miscarriages",
-          "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
+          "id": "bf72a6578afa",
+          "title": "I jumped from a plane at 12,000ft. In mid-air, a friend’s knee collided into my neck",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/nov/18/i-jumped-from-a-plane-at-12000ft-in-mid-air-a-friends-knee-collided-into-my-neck",
+          "source": "The Guardian – Health",
           "section": "related-articles",
-          "author": "",
-          "published": "2026-11-17T22:39:23+00:00",
-          "summary": "The incident took place in Llwyneinion in August 1980.",
+          "author": "Emma Russell",
+          "published": "2026-11-18T15:50:46+00:00",
+          "summary": "A group of eight trainee parachutists did the jump, and not far from the ground, disaster struck. Rob Bugden describes how he rebuilt his life after the accident that changed everything The skydive was going to plan.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 9
+          "words": 37
+        },
+        {
+          "id": "df8d86c3af54",
+          "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
+          "url": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Gabrielle Emanuel",
+          "published": "2026-11-18T13:03:38+00:00",
+          "summary": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "943e22c0a2b4",
+          "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-18T10:48:49+00:00",
+          "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "cc76f43b7c7c",
+          "title": "Meet the Teen Who Called a Hospital Home",
+          "url": "https://kffhealthnews.org/public-health/hospital-boarding-social-stays-jaloni-teens-children-kids-guns-missouri-illinois/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "Cara Anthony",
+          "published": "2026-11-18T10:00:00+00:00",
+          "summary": "A young survivor of gun violence lived on the third floor of a St. Louis children’s hospital, moving through the halls in a wheelchair, on and off for over three years. He said it became his home when he had nowhere safe to go.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 44
+        },
+        {
+          "id": "433aafd86c63",
+          "title": "Trump Administration OKs Native Traditional Healing for Two States’ Medicaid Programs",
+          "url": "https://kffhealthnews.org/medicaid/medicaid-cms-native-american-traditional-healing-state-waivers-utah-maine/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "Jazmin Orozco Rodriguez",
+          "published": "2026-11-18T10:00:00+00:00",
+          "summary": "The administration’s expansion of traditional healing for Native Americans comes as it shrinks Medicaid in other ways, including through restrictions that will affect access to care for an estimated 7.5 million people.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "0dc4f489d775",
+          "title": "Xi-Trump-Putin summit: when great powers want to call all the shots, what does it mean for everyone else?",
+          "url": "https://theconversation.com/xi-trump-putin-summit-when-great-powers-want-to-call-all-the-shots-what-does-it-mean-for-everyone-else-296811",
+          "source": "The Conversation",
+          "section": "related-articles",
+          "author": "Alexander Korolev, Associate Professor in Politics and International Relations, UNSW",
+          "published": "2026-11-18T03:25:58+00:00",
+          "summary": "In such a world, power determines not only outcomes, but who gets invited into the room when outcomes are being discussed.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "d36051b47c9b",
+          "title": "Voy at-home test kit adverts banned over low testosterone claims",
+          "url": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-18T01:11:07+00:00",
+          "summary": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
         },
         {
           "id": "31a340241a73",
@@ -767,90 +823,6 @@
           "license": "",
           "license_url": "",
           "words": 32
-        },
-        {
-          "id": "77ab65f34ee9",
-          "title": "US loses measles elimination status amid worst outbreak since 1991",
-          "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Jessica Glenza",
-          "published": "2026-11-17T22:18:53+00:00",
-          "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US has lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "943e22c0a2b4",
-          "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-          "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-17T22:02:03+00:00",
-          "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "46bd1587f896",
-          "title": "U.S. officially loses its measles elimination status",
-          "url": "https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Maria Godoy",
-          "published": "2026-11-17T21:53:30+00:00",
-          "summary": "The Pan American Health Organization announced that measles is no longer considered eliminated in the U.S. It's classified as endemic now because a strain has lingered in the U.S. for over a year.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 33
-        },
-        {
-          "id": "01d6eb729a09",
-          "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
-          "url": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
-          "source": "The Conversation",
-          "section": "related-articles",
-          "author": "Vanessa Bohns, Braunstein Family Professor and Chair of Organizational Behavior, Cornell University",
-          "published": "2026-11-17T19:53:14+00:00",
-          "summary": "Voice, physical touch and face-to-face interactions make people more trusting, compliant and willing to share sensitive information.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "3ea0052fdaab",
-          "title": "Moving to a New State? Your Healthcare Might Get More Complicated",
-          "url": "https://kffhealthnews.org/insurance/healthq-moving-new-state-new-healthcare-access-insurance/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "Katherine Ruppelt, Nashville Public Radio, Cara Anthony and Blake Farmer, Nashville Public Radio",
-          "published": "2026-11-17T10:00:00+00:00",
-          "summary": "New apartment, new friends, new … healthcare hurdles? Medical matters might not be at the top of your list when moving to a new state. But planning ahead will help you get the health insurance, doctors, and healthcare access you need.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 41
-        },
-        {
-          "id": "a4b2d9eeab39",
-          "title": "‘A Hard Time’ as Federal Cuts Hobble Efforts To Stop Overdoses From Tainted Drugs",
-          "url": "https://kffhealthnews.org/public-health/fentanyl-test-strips-federal-cuts-samhsa-street-drugs-overdose-harm-reduction/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "Taylor Sisk",
-          "published": "2026-11-17T10:00:00+00:00",
-          "summary": "Harm reduction proponents say testing street drugs prevents overdoses by allowing people to make more informed decisions about what they’re using, but the Trump administration contends that it promotes drug use.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 31
         }
       ]
     }
@@ -1064,6 +1036,7 @@
     "Nature Podcast: 404 Client Error: Not Found for url: https://www.nature.com/nature/podcast/current",
     "The BMJ Podcast: 404 Client Error: Not Found for url: https://feeds.acast.com/public/shows/the-bmj-podcast",
     "The Lancet Voice: 404 Client Error: Not Found for url: https://feeds.acast.com/public/shows/the-lancet-voice",
-    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv",
+    "Frankfurter FX: HTTPSConnectionPool(host='api.frankfurter.dev', port=443): Read timed out. (read timeout=20)"
   ]
 }
