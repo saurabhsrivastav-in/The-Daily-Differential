@@ -2,17 +2,17 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-17",
-    "date_long": "Tuesday, 17 November 2026",
+    "date": "2026-11-18",
+    "date_long": "Wednesday, 18 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-17T21:47+05:30",
+    "generated_at": "2026-11-18T06:33+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 48,
-    "reading_minutes": 7,
+    "reading_minutes": 8,
     "source_count": 28,
-    "full_text_count": 0,
+    "full_text_count": 1,
     "per_section": {
       "vertical-thinking": 10,
       "medicine": 7,
@@ -25,22 +25,30 @@
     "keywords": [
       {
         "term": "health",
-        "count": 15
+        "count": 14
+      },
+      {
+        "term": "disease",
+        "count": 6
+      },
+      {
+        "term": "study",
+        "count": 5
+      },
+      {
+        "term": "treatment",
+        "count": 5
       },
       {
         "term": "people",
         "count": 5
       },
       {
-        "term": "association",
+        "term": "data",
         "count": 4
       },
       {
-        "term": "disease",
-        "count": 4
-      },
-      {
-        "term": "study",
+        "term": "nature",
         "count": 4
       },
       {
@@ -48,19 +56,11 @@
         "count": 4
       },
       {
-        "term": "global",
-        "count": 4
-      },
-      {
-        "term": "treatment",
-        "count": 4
-      },
-      {
-        "term": "online november",
+        "term": "published online",
         "count": 3
       },
       {
-        "term": "published online",
+        "term": "online november",
         "count": 3
       },
       {
@@ -104,30 +104,30 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "64,103.00",
-        "change_pct": -0.54,
+        "display": "64,648.00",
+        "change_pct": 0.16,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,783.77",
-        "change_pct": -1.92,
+        "display": "1,815.88",
+        "change_pct": 0.21,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Liquid biopsy",
+    "term": "Base editing",
     "pos": "noun",
-    "domain": "Oncology",
-    "definition": "A blood test that detects tumour-derived DNA or cells, enabling cancer screening and monitoring without surgical tissue sampling.",
+    "domain": "Gene therapy",
+    "definition": "A CRISPR-derived technique that chemically converts one DNA letter to another without cutting both strands of the double helix.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 17",
-    "definition": "edit · refresh · view Word of the day for November 17 promenade v (transitive) Followed by the dummy pronoun it: to walk, or drive or ride, in a leisurely manner, especially in a place where one can be seen…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261117000000/en",
+    "word": "Word of the day for November 18",
+    "definition": "edit · refresh · view Word of the day for November 18 voyager n (also figurative) A person or thing that voyages or travels; a traveller.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261118000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -139,46 +139,60 @@
       "kicker": "Depth Over Breadth",
       "articles": [
         {
-          "id": "1ec86156490c",
-          "title": "U.S. loses measles elimination status, marking embarrassing stain on its public health record",
-          "url": "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss",
+          "id": "84271186bc73",
+          "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
+          "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
           "source": "STAT – Research",
           "section": "vertical-thinking",
-          "author": "Andrew Joseph",
-          "published": "2026-11-17T16:07:21+00:00",
-          "summary": "Measles is no longer considered eliminated in the U.S., a finding that was expected but that marks an embarrassing backslide in the country’s basic public health standing.",
+          "author": "Margaret Manto and Chelsea Cirruzzo",
+          "published": "2026-11-17T18:14:50+00:00",
+          "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 27
+          "words": 21
         },
         {
-          "id": "92c4eae1ba0a",
-          "title": "Indian doctors seek Bollywood ban over portrayal of violence and corruption in healthcare",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101470.short?rss=1",
+          "id": "7dfdd8030ca6",
+          "title": "Hilary Cass withdraws her backing on conversion practices bill",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101493.short?rss=1",
           "source": "The BMJ",
           "section": "vertical-thinking",
-          "author": "Ganapati Mudur",
-          "published": "2026-11-17T12:41:11+00:00",
-          "summary": "India’s doctors have demanded that the nation’s film censor block the screening of an upcoming Bollywood movie because of its portrayal of medical corruption and violence against doctors.In its request the Indian Medical Association (IMA) argued that Hindi crime thriller Suryaa: Ant se Aarambh Tak…",
+          "author": "Jacqui Wise",
+          "published": "2026-11-17T16:51:10+00:00",
+          "summary": "Hilary Cass, author of the landmark report into NHS children’s gender services, has said that the government’s planned bill to ban conversion practices could put healthcare workers and therapists at risk of “vexatious complaints.”12The draft bill, currently at the committee stage, seeks to ban abusive…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "2c584197a533",
-          "title": "Does the CDC still control or prevent diseases?",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101232.short?rss=1",
+          "id": "50ed1e5433d0",
+          "title": "Palantir’s NHS contract to end—but not until 2029, ministers say",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101495.short?rss=1",
           "source": "The BMJ",
           "section": "vertical-thinking",
-          "author": "Brian Owens",
-          "published": "2026-11-17T10:31:37+00:00",
-          "summary": "The US Centers for Disease Control and Prevention (CDC) has long been the envy of the world when it comes to protecting public health and responding to outbreaks of disease.",
+          "author": "Stephen Armstrong",
+          "published": "2026-11-17T16:11:12+00:00",
+          "summary": "The government has confirmed it plans to put its NHS contract with the controversial US tech giant Palantir out to competitive tender.The move to force Palantir to rebid for the Federated Data Platform (FDP) contract against UK based competitors—reported by The BMJ last week1—was confirmed…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
+          "words": 45
+        },
+        {
+          "id": "bea206c26351",
+          "title": "Economic value of gonorrhea resistance testing in the United States: A multi-perspective modeling study",
+          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005073",
+          "source": "PLOS Medicine",
+          "section": "vertical-thinking",
+          "author": "Jeffrey D. Klausner",
+          "published": "2026-11-17T14:00:00+00:00",
+          "summary": "by Brooke E. Nichols, Betsy Wonderly Trainor, Grace Hampson, Yonatan H. Grad, Jeffrey D. Klausner Background Rising antimicrobial resistance in Neisseria gonorrhoeae threatens the effectiveness of existing therapies. Ceftriaxone is the only recommended first-line (empiric) treatment for uncomplicated gonorrhea in the United States.",
+          "full_html": "<p>by Brooke E. Nichols, Betsy Wonderly Trainor, Grace Hampson, Yonatan H. Grad, Jeffrey D. Klausner</p>\nBackground <p>Rising antimicrobial resistance in <i>Neisseria gonorrhoeae</i> threatens the effectiveness of existing therapies. Ceftriaxone is the only recommended first-line (empiric) treatment for uncomplicated gonorrhea in the United States. Ciprofloxacin is no longer recommended for empiric use because of widespread resistance, but it is inexpensive, taken orally, and effective against susceptible infections, which a resistance test can identify. In the context of rising resistance, resistance-guided treatment (RGT) may reduce treatment failures, complications, and inappropriate use of last-line agents while slowing resistance emergence and preserving the efficacy of new and existing drugs. Understanding where RGT provides economic value—across near-term cost savings, delayed resistance emergence, and avoided antibiotic development costs—can illuminate the broader case for investing in resistance testing and help guide pricing and reimbursement decisions.</p> Methods and findings <p>We developed an individual-level stochastic simulation model of gonorrhea diagnosis and treatment in the United States, incorporating infection prevalence, symptom status, diagnostic accuracy, resistance profiles, treatment pathways, and partner management (costs in 2025 US dollars[USD]). We evaluated three resistance testing strategies, ciprofloxacin-only, ciprofloxacin + ceftriaxone, and triple-target (including a novel drug A), across a wide range of resistance scenarios. We quantified economic value across three dimensions: (1) per-episode direct medical cost savings, (2) system-level costs attributable to ceftriaxone resistance emergence among men who have sex with men (MSM), and (3) avoided costs of new antibiotic development, estimating the maximum per-test price at which RGT remains cost-neutral. Per-episode cost-neutrality thresholds ranged from near $0 when ceftriaxone resistance was absent to up to $48 per test at 15% prevalence of ceftriaxone resistance (proportion of infections resistant to ceftriaxone). At a prevalence of 50% ciprofloxacin resistance and 5% ceftriaxone resistance, the population-weighted threshold was $7 (95% uncertainty interval [UI] ($3, $11) for a ciprofloxacin-only test and $13 (95% UI [$8–$19]) for a triple-target test. Among MSM, incorporating system-level resistance emergence costs and avoided antibiotic development costs increased the total per-test value to $31 to $114 for a single-target test and $73 to $106 for a triple-target test, depending on whether prescribing practices shift when ceftriaxone resistance reaches 5%. The main limitations are that the model assumes resistance results are available at the same clinical visit to guide initial treatment, does not represent onward transmission or co-resistance between antibiotics, and could estimate longer-term value only for MSM.</p> Conclusions <p>Resistance-guided therapy offers economic benefits across multiple dimensions even at relatively high diagnostic prices, supporting investment in gonorrhea resistance testing to improve partner outcomes, delay resistance emergence, and enhance the long-term cost-efficiency of gonorrhea management.</p>",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "words": 430
         },
         {
           "id": "fafba13ee862",
@@ -207,34 +221,6 @@
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0/",
           "words": 0
-        },
-        {
-          "id": "6d4cbc29f346",
-          "title": "Towards improving the safety of medication use in pregnancy",
-          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005291",
-          "source": "PLOS Medicine",
-          "section": "vertical-thinking",
-          "author": "on behalf of the PLOS Medicine staff editors",
-          "published": "2026-11-16T14:00:00+00:00",
-          "summary": "by Jennifer Jardine, Suzanne de Bruijn, on behalf of the PLOS Medicine staff editors Pregnant people are historically excluded from clinical trials, meaning safety information regarding medication use during pregnancy is scarce. Despite efforts to change this, inclusion of pregnant people in trials is complicated.",
-          "full_html": null,
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 45
-        },
-        {
-          "id": "cc031e7d82ba",
-          "title": "Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
-          "url": "https://www.nature.com/articles/s41591-026-04798-5",
-          "source": "Nature Medicine",
-          "section": "vertical-thinking",
-          "author": "Mauro Saddelli",
-          "published": "2026-11-16T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 16 November 2026; doi:10.1038/s41591-026-04798-5 Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
         },
         {
           "id": "6e99e16242e4",
@@ -277,6 +263,20 @@
           "license": "",
           "license_url": "",
           "words": 45
+        },
+        {
+          "id": "5a4b20a9d096",
+          "title": "Rivaroxaban Then Aspirin vs. Aspirin Alone after Total Hip or Knee Arthroplasty",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2603649?af=R&rss=currentIssue",
+          "source": "NEJM",
+          "section": "vertical-thinking",
+          "author": "Sudeep Shivakumar Davide Matino David Zukor Susan R. Kahn George Vincent Raman Mundi Pascal-Andre Vendittoli Mohammad Refaei Eric Bohm Michael Tanzer Stéphane Pelet Glen Richardson James Powell Rick Ikesaka James Douketis Sarah Ward Paul Kim Stephen Mann Susan Pleasance Jocelyn Cormier Pantelis Andreou Kara Matheson Chris Theriault Carol West David Anderson and Peter L. Grossthe EPCAT III Trial Investigators*",
+          "published": "2026-07-12T09:15:15+00:00",
+          "summary": "New England Journal of Medicine, Volume 395, Issue 19, Page 1885-1895, November 12, 2026.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
         }
       ]
     },
@@ -285,6 +285,34 @@
       "title": "Medicine & Therapeutics",
       "kicker": "The Clinic",
       "articles": [
+        {
+          "id": "26e7b3b8765d",
+          "title": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide",
+          "source": "FDA – Press Announcements",
+          "section": "medicine",
+          "author": "FDA",
+          "published": "2026-11-17T20:32:16+00:00",
+          "summary": "FDA today announced the Global Reliance Disclosure Program (GRDP), a landmark initiative that will fundamentally transform how the FDA's regulatory drug and biologic approval decisions are leveraged by health authorities around the world.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "6a738b763f3f",
+          "title": "FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer",
+          "source": "FDA – Press Announcements",
+          "section": "medicine",
+          "author": "FDA",
+          "published": "2026-11-17T19:15:22+00:00",
+          "summary": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 24
+        },
         {
           "id": "599756f8f68a",
           "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
@@ -328,60 +356,32 @@
           "words": 44
         },
         {
-          "id": "75235c37d759",
-          "title": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk",
-          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk",
-          "source": "FDA – Press Announcements",
-          "section": "medicine",
-          "author": "FDA",
-          "published": "2026-11-09T22:15:46+00:00",
-          "summary": "FDA today approved Sunharbo (asundexian) 50 mg tablets, the first factor XIa (FXIa) inhibitor for use in combination with antiplatelet therapy to reduce the risk of stroke in adults following a recent mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack.",
-          "full_html": null,
-          "license": "US Government work (public domain)",
-          "license_url": "",
-          "words": 42
-        },
-        {
-          "id": "867051790657",
-          "title": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
-          "url": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
-          "source": "FDA – Press Announcements",
-          "section": "medicine",
-          "author": "FDA",
-          "published": "2026-11-05T22:30:38+00:00",
-          "summary": "The U.S. Food and Drug Administration today granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for the treatment of adults with recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) whose disease has progressed on or after platinum-based chemotherap",
-          "full_html": null,
-          "license": "US Government work (public domain)",
-          "license_url": "",
-          "words": 41
-        },
-        {
-          "id": "c2ff1437d570",
-          "title": "Kyntra axes mid-stage ADC, adding to years of stumbles",
-          "url": "https://www.fiercebiotech.com/biotech/kyntra-axes-mid-stage-adc-adding-years-myriad-stumbles",
+          "id": "8fcb314eedcf",
+          "title": "FDA’s complete response letter for Summit’s ivonescimab cites China-heavy data beyond survival miss",
+          "url": "https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
           "source": "Fierce Biotech",
           "section": "medicine",
-          "author": "Michael Gibney",
+          "author": "Angus Liu",
           "published": null,
-          "summary": "Beleaguered Kyntra Bio can’t catch a break. Formerly known as FibroGen, the company has endured a series of woes over the last few years, and now the biotech is cutting a clinical antibody-drug conjugate program from its mid-stage lineup.",
+          "summary": "The FDA’s rejection of Summit Therapeutics’ closely watched PD-1xVEGF bispecific ivonescimab extends beyond its previously reported failure to show a statistically significant overall survival benefit.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 39
+          "words": 25
         },
         {
-          "id": "22da9b80e975",
-          "title": "Why 2027 could be ‘Europe’s year to shine’: Panelists debate biotech funding at Fierce’s London event",
-          "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-llsw-its-europes-year-shine-all-ingredients-are-here-biotech-funding",
+          "id": "89dc6204edf6",
+          "title": "Scientists uncover ‘very detailed map’ of an enzyme target for rare metabolic disease",
+          "url": "https://www.fiercebiotech.com/research/scientists-uncover-very-detailed-map-enzyme-target-therapies-rare-metabolic-disease",
           "source": "Fierce Biotech",
           "section": "medicine",
-          "author": "Ben Adams",
+          "author": "Marissa Russo",
           "published": null,
-          "summary": "Panelists at Fierce Biotech's London Life Sciences Week event discussed whether Europe can pull its weight in biopharma investment next year against the gravitational pull of the U.S. and China.",
+          "summary": "For some rare genetic diseases, the problem isn't a missing protein but the buildup of toxic molecules that the body can no longer clear away.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
+          "words": 25
         }
       ]
     },
@@ -496,6 +496,20 @@
           "words": 26
         },
         {
+          "id": "74be12829cbe",
+          "title": "Serrated neoplasia of the colorectum: updates on pathology and clinical management",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07785-1/fulltext?rss=yes",
+          "source": "Gastroenterology (AGA)",
+          "section": "gastroenterology",
+          "author": "Seth D. Crockett, Charles J. Kahi, Christophe Rosty, Iris D. Nagtegaal",
+          "published": "2026-11-17T00:00:00+00:00",
+          "summary": "Serrated neoplasia represents an increasingly recognized pathway in colorectal carcinogenesis, accounting for up to 30% of colorectal cancers (CRC) and disproportionately implicated in post-colonoscopy CRC.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
           "id": "28412663ad12",
           "title": "Matrix stiffness determines whether liver cells regenerate or scar",
           "url": "https://www.news-medical.net/news/20261116/Matrix-stiffness-determines-whether-liver-cells-regenerate-or-scar.aspx",
@@ -524,32 +538,18 @@
           "words": 42
         },
         {
-          "id": "7b2e6a1a1ebf",
-          "title": "A solitary button-like hepatic lesion",
-          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07784-X/fulltext?rss=yes",
-          "source": "Gastroenterology (AGA)",
+          "id": "005b1d4589f4",
+          "title": "PDE4 inhibition at the crossroads of IBD and obesity",
+          "url": "https://www.nature.com/articles/s41575-026-01284-8",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
           "section": "gastroenterology",
-          "author": "Si-Si Tang, Wei Liu, De-Cheng Wang",
+          "author": "Sailish Honap",
           "published": "2026-11-13T00:00:00+00:00",
-          "summary": "",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 13 November 2026; doi:10.1038/s41575-026-01284-8 Obesity and inflammatory bowel disease are increasingly recognized as interconnected inflammatory and metabolic disorders. New insights into glucagon-like peptide-1 signalling highlight the role of phosphodiesterase 4 in energy balance.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "080ab3fb78ce",
-          "title": "A Young Man with Severe Abdominal Pain and Multifocal Hemorrhagic Liver Lesions",
-          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07783-8/fulltext?rss=yes",
-          "source": "Gastroenterology (AGA)",
-          "section": "gastroenterology",
-          "author": "Stuti Dalal, Seth Sclair, Abbinaya Elangovan",
-          "published": "2026-11-13T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
+          "words": 40
         },
         {
           "id": "e55a8afafd5e",
@@ -587,88 +587,88 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "0157ad8b2030",
-          "title": "STAT+: ‘Medicare for More’ gains traction",
-          "url": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
+          "id": "cb8f6cc6ddd5",
+          "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
+          "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
           "source": "STAT",
           "section": "medical-trends",
-          "author": "John Wilkerson",
-          "published": "2026-11-17T15:27:50+00:00",
-          "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
+          "author": "Margaret Manto and Daniel Payne",
+          "published": "2026-11-18T00:44:05+00:00",
+          "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 16
         },
         {
-          "id": "52ffcc39ff93",
-          "title": "Your AI Vendor’s Medical Exam Score Doesn’t Mean What You Think It Does",
-          "url": "https://medcitynews.com/2026/11/your-ai-vendors-medical-exam-score-doesnt-mean-what-you-think-it-does/",
-          "source": "MedCity News",
+          "id": "78db88c3087c",
+          "title": "Rethinking gene therapy for X-linked retinoschisis: from vitreous to subretinal space",
+          "url": "https://www.nature.com/articles/s41392-026-03090-9",
+          "source": "Nature – Medical Research",
           "section": "medical-trends",
-          "author": "David Talby",
-          "published": "2026-11-17T14:48:00+00:00",
-          "summary": "If health systems want to adopt AI at scale, they need evaluation that is open, reproducible, and continuously updated. That’s also much harder to build in healthcare than in general-purpose AI, for these 3 reasons.",
+          "author": "",
+          "published": "2026-11-18T00:00:00+00:00",
+          "summary": "",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 35
+          "words": 0
         },
         {
-          "id": "7f26e9fd0402",
-          "title": "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more",
-          "url": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/?utm_campaign=rss",
+          "id": "fb19d9ebdbb3",
+          "title": "Deep single-cell immune- and signaling profiles predict therapy response in chronic myeloid leukemia within hours",
+          "url": "https://www.nature.com/articles/s41392-026-03070-z",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-18T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "06f82e64e862",
+          "title": "Viz.ai Partners with Wolters Kluwer Health to Add UpToDate Resource to its Platform",
+          "url": "https://medcitynews.com/2026/11/viz-ai-partners-with-wolters-kluwer-health-to-add-uptodate-resource-to-its-platform/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Jenna Congdon",
+          "published": "2026-11-17T23:50:29+00:00",
+          "summary": "Health systems are jumping to integrate AI into clinicians’ everyday tools. When those platforms also offer the medical evidence that healthcare providers need to make on-the-fly clinical decisions, patient care can improve. Viz.ai and Wolters Kluwer Health are partnering to do just that.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "d7f9281f3d40",
+          "title": "Marrow Therapeutics Unveils $173M for ‘Trojan Horse’ Delivery of Blood Disorder Drugs",
+          "url": "https://medcitynews.com/2026/11/marrow-therapeutics-startup-transferrin-receptor-sickle-cell-beta-thalassemia-bcl11a/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Frank Vinluan",
+          "published": "2026-11-17T22:41:49+00:00",
+          "summary": "Sickle cell disease and beta thalassemia are the startup’s lead indications. While gene therapies are available for both blood disorders, Marrow executives say manufacturing and dosing advantages could make their medicine more broadly accessible across the world.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        },
+        {
+          "id": "267c6011f1bb",
+          "title": "STAT+: Updated health data privacy rule sets standards for sharing records with apps",
+          "url": "https://www.statnews.com/2026/11/17/hipaa-privacy-rule-update-aims-to-improve-patient-access-to-records/?utm_campaign=rss",
           "source": "STAT",
           "section": "medical-trends",
-          "author": "Ed Silverman",
-          "published": "2026-11-17T14:25:41+00:00",
-          "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product",
+          "author": "Katie Palmer",
+          "published": "2026-11-17T19:44:14+00:00",
+          "summary": "Federal health department has updated the HIPAA privacy rule with a focus on supporting patients’ access to their own medical records.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 24
-        },
-        {
-          "id": "5c841140d0f8",
-          "title": "The BCI Race Everyone is Watching May Be the Wrong One",
-          "url": "https://medcitynews.com/2026/11/the-bci-race-everyone-is-watching-may-be-the-wrong-one/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Holley Miller",
-          "published": "2026-11-17T14:22:00+00:00",
-          "summary": "The technology race gets the attention. Another race may determine what becomes the new standard of care.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "2c836f12a560",
-          "title": "FIRE-EVIDENCE: enabling LLM-driven, machine-readable evidence synthesis for women’s health",
-          "url": "https://www.nature.com/articles/s41746-026-03411-w",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-17T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "71cb6a8cae7c",
-          "title": "Visible dental conditions are associated with peer preferences among preschool children",
-          "url": "https://www.nature.com/articles/s41598-026-80028-9",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-17T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
+          "words": 21
         },
         {
           "id": "a6ce6c799899",
@@ -741,60 +741,88 @@
       "kicker": "Further Reading",
       "articles": [
         {
+          "id": "67f015fb9229",
+          "title": "Fears toxic lagoon fire led to cancer and miscarriages",
+          "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-17T22:39:23+00:00",
+          "summary": "The incident took place in Llwyneinion in August 1980.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 9
+        },
+        {
+          "id": "31a340241a73",
+          "title": "Public health expert reacts to latest measles milestone",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6043126/public-health-expert-reacts-to-latest-measles-milestone",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Alejandra Marquez Janse",
+          "published": "2026-11-17T22:20:41+00:00",
+          "summary": "NPR's Scott Detrow talks with Dr. Ashish Jha, senior fellow at Harvard's Belfer Center and former White House coronavirus czar, about the news that the U.S. has lost its measles elimination status.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
           "id": "77ab65f34ee9",
           "title": "US loses measles elimination status amid worst outbreak since 1991",
           "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
           "source": "The Guardian – Health",
           "section": "related-articles",
           "author": "Jessica Glenza",
-          "published": "2026-11-17T16:16:24+00:00",
-          "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for…",
+          "published": "2026-11-17T22:18:53+00:00",
+          "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US has lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "c04f08fe78b2",
-          "title": "NHS gets £500m boost in Wales' first budget under Plaid Cymru",
-          "url": "https://www.bbc.co.uk/news/articles/cm9308z78p7ko?at_medium=RSS&at_campaign=rss",
+          "id": "943e22c0a2b4",
+          "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-17T14:50:38+00:00",
-          "summary": "Health spending will rise, but the government says it is grappling with \"tight\" public finances.",
+          "published": "2026-11-17T22:02:03+00:00",
+          "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 15
+          "words": 20
         },
         {
-          "id": "470fd3e7437a",
-          "title": "NHS data contract to stay with Palantir until 2029",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-17T12:00:12+00:00",
-          "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "347f2f9c3f46",
-          "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
-          "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+          "id": "46bd1587f896",
+          "title": "U.S. officially loses its measles elimination status",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status",
           "source": "NPR – Health",
           "section": "related-articles",
-          "author": "Mara Gordon",
-          "published": "2026-11-17T11:00:00+00:00",
-          "summary": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
+          "author": "Maria Godoy",
+          "published": "2026-11-17T21:53:30+00:00",
+          "summary": "The Pan American Health Organization announced that measles is no longer considered eliminated in the U.S. It's classified as endemic now because a strain has lingered in the U.S. for over a year.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 34
+          "words": 33
+        },
+        {
+          "id": "01d6eb729a09",
+          "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
+          "url": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
+          "source": "The Conversation",
+          "section": "related-articles",
+          "author": "Vanessa Bohns, Braunstein Family Professor and Chair of Organizational Behavior, Cornell University",
+          "published": "2026-11-17T19:53:14+00:00",
+          "summary": "Voice, physical touch and face-to-face interactions make people more trusting, compliant and willing to share sensitive information.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
         },
         {
           "id": "3ea0052fdaab",
@@ -823,34 +851,6 @@
           "license": "",
           "license_url": "",
           "words": 31
-        },
-        {
-          "id": "d72eb9eccb6e",
-          "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-          "url": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Sydney Lupkin",
-          "published": "2026-11-17T10:00:00+00:00",
-          "summary": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "428730d65d26",
-          "title": "Eurovision Asia: a diverse and spectacular showcase of Asian pop",
-          "url": "https://theconversation.com/eurovision-asia-a-diverse-and-spectacular-showcase-of-asian-pop-294346",
-          "source": "The Conversation",
-          "section": "related-articles",
-          "author": "Jess Carniel, Associate Professor in Humanities, University of Southern Queensland",
-          "published": "2026-11-16T04:44:27+00:00",
-          "summary": "Some major regional players were missing, but the inaugural Asian edition showed it has the potential to be a powerful global platform for Asian pop.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 25
         }
       ]
     }
