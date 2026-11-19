@@ -2,22 +2,22 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-18",
-    "date_long": "Wednesday, 18 November 2026",
+    "date": "2026-11-19",
+    "date_long": "Thursday, 19 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-18T21:21+05:30",
+    "generated_at": "2026-11-19T06:03+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 48,
+    "total_articles": 50,
     "reading_minutes": 8,
     "source_count": 28,
     "full_text_count": 1,
     "per_section": {
       "vertical-thinking": 10,
-      "medicine": 7,
+      "medicine": 8,
       "surgery": 6,
-      "gastroenterology": 7,
+      "gastroenterology": 8,
       "medical-trends": 8,
       "lectures": 2,
       "related-articles": 8
@@ -25,81 +25,109 @@
     "keywords": [
       {
         "term": "health",
-        "count": 8
+        "count": 10
       },
       {
         "term": "disease",
-        "count": 6
+        "count": 8
       },
       {
         "term": "treatment",
+        "count": 7
+      },
+      {
+        "term": "people",
         "count": 6
       },
       {
-        "term": "less",
+        "term": "medicine",
         "count": 5
       },
       {
-        "term": "united states",
-        "count": 4
+        "term": "three",
+        "count": 5
       },
       {
-        "term": "evidence",
-        "count": 4
-      },
-      {
-        "term": "supporting",
-        "count": 4
-      },
-      {
-        "term": "study",
-        "count": 4
-      },
-      {
-        "term": "medicine",
+        "term": "online november",
         "count": 4
       },
       {
         "term": "published online",
-        "count": 3
+        "count": 4
       },
       {
-        "term": "online november",
-        "count": 3
+        "term": "china",
+        "count": 4
+      },
+      {
+        "term": "nature",
+        "count": 4
       },
       {
         "term": "colorectal cancer",
         "count": 3
+      },
+      {
+        "term": "united states",
+        "count": 2
       }
     ],
     "markets": [
       {
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9117",
+        "change_pct": 0.19,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7594",
+        "change_pct": 0.17,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "93.44",
+        "change_pct": -0.04,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "159.42",
+        "change_pct": 0.08,
+        "source": "ECB via Frankfurter"
+      },
+      {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "62,992.00",
-        "change_pct": -0.99,
+        "display": "62,793.00",
+        "change_pct": -3.0,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,761.27",
-        "change_pct": 0.05,
+        "display": "1,774.95",
+        "change_pct": -2.37,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Base editing",
+    "term": "Organoid",
     "pos": "noun",
-    "domain": "Gene therapy",
-    "definition": "A CRISPR-derived technique that chemically converts one DNA letter to another without cutting both strands of the double helix.",
+    "domain": "Cell biology",
+    "definition": "A miniature, simplified organ grown in the lab from stem cells that reproduces some structure and function of the real tissue.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 18",
-    "definition": "edit · refresh · view Word of the day for November 18 voyager n (also figurative) A person or thing that voyages or travels; a traveller.",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261118000000/en",
+    "word": "Word of the day for November 19",
+    "definition": "edit · refresh · view Word of the day for November 19 moustache-twirling adj (idiomatic, often humorous, informal) Villainous, wicked.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261119000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -111,60 +139,60 @@
       "kicker": "Depth Over Breadth",
       "articles": [
         {
-          "id": "71803d8cb87b",
-          "title": "US loses measles elimination status as “once beaten” disease sweeps nation",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101505.short?rss=1",
-          "source": "The BMJ",
-          "section": "vertical-thinking",
-          "author": "Luke Taylor",
-          "published": "2026-11-18T13:11:21+00:00",
-          "summary": "The United States has been stripped of its status as a measles-free country for the first time since 2000.Pan American Health Organization (PAHO) officials announced the result on 17 November.1 The decision followed a review of epidemiological, laboratory, and genetic evidence by PAHO’s independent Regional…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "e6792d7d9b1a",
-          "title": "What redesigning medical school might look like",
-          "url": "https://www.statnews.com/2026/11/18/health-news-what-redesigning-medical-school-might-look-like/?utm_campaign=rss",
+          "id": "46e1869ccd6c",
+          "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
+          "url": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
           "source": "STAT – Research",
           "section": "vertical-thinking",
-          "author": "Theresa Gaffney",
-          "published": "2026-11-18T13:03:55+00:00",
-          "summary": "\"I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,” writes M.D./Ph.D. student Alex Serafini.",
+          "author": "Chelsea Cirruzzo",
+          "published": "2026-11-18T21:21:26+00:00",
+          "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 25
+          "words": 21
         },
         {
-          "id": "1ec11ac15902",
-          "title": "Menopause: workplace support should complement good healthcare",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101436.short?rss=1",
+          "id": "4b04e827d95f",
+          "title": "The art of medicine cannot be devoid of the arts",
+          "url": "http://www.bmj.com/content/395/bmj-2026-100385.short?rss=1",
           "source": "The BMJ",
           "section": "vertical-thinking",
-          "author": "Leslie A Kenny",
-          "published": "2026-11-18T10:01:38+00:00",
-          "summary": "Goyal and Sacha discuss the UK government proposals “that require large employers to publish their approach to supporting employees through menopause.”1 This is welcome recognition that menopause can profoundly affect women’s working lives, but this is a “both/and” problem.Employers should support women experiencing crippling symptoms…",
+          "author": "Zaynah Khan",
+          "published": "2026-11-18T17:06:48+00:00",
+          "summary": "You might find the school system asks you to fit yourself into a box: are you a STEM person or a humanities person? But, as an artsy medic, I never felt I fit neatly in either.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "e35590f69332",
+          "title": "China blocks technology exports to Polish university",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101238.short?rss=1",
+          "source": "The BMJ",
+          "section": "vertical-thinking",
+          "author": "Flynn Murphy",
+          "published": "2026-11-18T17:05:59+00:00",
+          "summary": "Unveiling a new faculty of medicine in 2023, Wrocław University of Science and Technology in southwest Poland pitched an ambitious programme that would merge healthcare with engineering, training the doctors of the future in robotics, bioengineering, and artificial intelligence.The Polish technical university soon launched a…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "bea206c26351",
-          "title": "Economic value of gonorrhea resistance testing in the United States: A multi-perspective modeling study",
-          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005073",
+          "id": "f301d8ae0790",
+          "title": "Loss to follow-up during tuberculosis treatment and 5-year mortality in Brazil: A target trial emulation",
+          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005303",
           "source": "PLOS Medicine",
           "section": "vertical-thinking",
-          "author": "Jeffrey D. Klausner",
-          "published": "2026-11-17T14:00:00+00:00",
-          "summary": "by Brooke E. Nichols, Betsy Wonderly Trainor, Grace Hampson, Yonatan H. Grad, Jeffrey D. Klausner Background Rising antimicrobial resistance in Neisseria gonorrhoeae threatens the effectiveness of existing therapies. Ceftriaxone is the only recommended first-line (empiric) treatment for uncomplicated gonorrhea in the United States.",
-          "full_html": "<p>by Brooke E. Nichols, Betsy Wonderly Trainor, Grace Hampson, Yonatan H. Grad, Jeffrey D. Klausner</p>\nBackground <p>Rising antimicrobial resistance in <i>Neisseria gonorrhoeae</i> threatens the effectiveness of existing therapies. Ceftriaxone is the only recommended first-line (empiric) treatment for uncomplicated gonorrhea in the United States. Ciprofloxacin is no longer recommended for empiric use because of widespread resistance, but it is inexpensive, taken orally, and effective against susceptible infections, which a resistance test can identify. In the context of rising resistance, resistance-guided treatment (RGT) may reduce treatment failures, complications, and inappropriate use of last-line agents while slowing resistance emergence and preserving the efficacy of new and existing drugs. Understanding where RGT provides economic value—across near-term cost savings, delayed resistance emergence, and avoided antibiotic development costs—can illuminate the broader case for investing in resistance testing and help guide pricing and reimbursement decisions.</p> Methods and findings <p>We developed an individual-level stochastic simulation model of gonorrhea diagnosis and treatment in the United States, incorporating infection prevalence, symptom status, diagnostic accuracy, resistance profiles, treatment pathways, and partner management (costs in 2025 US dollars[USD]). We evaluated three resistance testing strategies, ciprofloxacin-only, ciprofloxacin + ceftriaxone, and triple-target (including a novel drug A), across a wide range of resistance scenarios. We quantified economic value across three dimensions: (1) per-episode direct medical cost savings, (2) system-level costs attributable to ceftriaxone resistance emergence among men who have sex with men (MSM), and (3) avoided costs of new antibiotic development, estimating the maximum per-test price at which RGT remains cost-neutral. Per-episode cost-neutrality thresholds ranged from near $0 when ceftriaxone resistance was absent to up to $48 per test at 15% prevalence of ceftriaxone resistance (proportion of infections resistant to ceftriaxone). At a prevalence of 50% ciprofloxacin resistance and 5% ceftriaxone resistance, the population-weighted threshold was $7 (95% uncertainty interval [UI] ($3, $11) for a ciprofloxacin-only test and $13 (95% UI [$8–$19]) for a triple-target test. Among MSM, incorporating system-level resistance emergence costs and avoided antibiotic development costs increased the total per-test value to $31 to $114 for a single-target test and $73 to $106 for a triple-target test, depending on whether prescribing practices shift when ceftriaxone resistance reaches 5%. The main limitations are that the model assumes resistance results are available at the same clinical visit to guide initial treatment, does not represent onward transmission or co-resistance between antibiotics, and could estimate longer-term value only for MSM.</p> Conclusions <p>Resistance-guided therapy offers economic benefits across multiple dimensions even at relatively high diagnostic prices, supporting investment in gonorrhea resistance testing to improve partner outcomes, delay resistance emergence, and enhance the long-term cost-efficiency of gonorrhea management.</p>",
+          "author": "Jason R. Andrews",
+          "published": "2026-11-18T14:00:00+00:00",
+          "summary": "by Evelyn Lepka de Lima, Ana Angélica Lindoso, Giovanna Mariah Orlandi, Suely Fukasava, Catia Martinez, Julio Croda, C. Robert Horsburgh Jr, Otavio Ranzani, Meredith B. Brooks, Jason R.",
+          "full_html": "<p>by Evelyn Lepka de Lima, Ana Angélica Lindoso, Giovanna Mariah Orlandi, Suely Fukasava, Catia Martinez, Julio Croda, C. Robert Horsburgh Jr, Otavio Ranzani, Meredith B. Brooks, Jason R. Andrews</p>\nBackground <p>Loss to follow-up (LTFU) during tuberculosis treatment is a major programmatic gap, but how much excess mortality it causes has been difficult to estimate, because individuals who disengage differ from those who do not, and they must survive long enough to be recorded as having disengaged. Quantifying this excess and identifying which populations are at greatest risk are critical to informing program design and resource allocation.</p> Methods and findings <p>We followed 171,048 people aged 15 years or older starting a first course of tuberculosis treatment in São Paulo State, Brazil, between 2013 and 2023, linking surveillance and mortality registries; 20,830 (12.2%) were LTFU, defined as interruption of treatment for at least 30 consecutive days. Among those LTFU, 65% had received directly observed therapy (DOT). Using a clone-censor-weight target trial emulation, we contrasted two strategies over 60 months from the first day of treatment: disengagement at any point during the first 6 months and remaining in care throughout. Analyses were adjusted for age, sex, race, education, HIV status, diabetes, alcohol use, drug use, incarceration, homelessness, hospitalization at diagnosis, clinical form of tuberculosis, DOT, and municipality. A rolling landmark analysis addressed the timing of disengagement and cause-specific mortality excess. LTFU increased standardized 5-year mortality by 2.49 percentage points (95% CI [1.94, 3.17]). In a rolling landmark analysis, tuberculosis accounted for 61% of the 5-year excess mortality. Relative effects were largest in younger, stably housed individuals, whose baseline mortality was low; the largest absolute excess fell on people living with HIV (5.16 percentage points, 95% CI [3.76, 6.60]). The excess was similar for disengagement at any point in the first 4 months of treatment and attenuated thereafter. Limitations include the absence from the registry of severity markers such as radiographic extent and bacillary load, so residual confounding cannot be excluded.</p> Conclusions <p>Despite high DOT coverage, disengagement during the first 6 months of tuberculosis treatment was common and increased 5-year mortality under the stated identification assumptions, with the excess concentrated in deaths attributed to tuberculosis. Interventions that provide support throughout treatment should be tested for their effectiveness in sustaining engagement and reducing mortality.</p>",
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 430
+          "words": 379
         },
         {
           "id": "fafba13ee862",
@@ -193,6 +221,20 @@
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0/",
           "words": 0
+        },
+        {
+          "id": "cc031e7d82ba",
+          "title": "Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
+          "url": "https://www.nature.com/articles/s41591-026-04798-5",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "Mauro Saddelli",
+          "published": "2026-11-16T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 16 November 2026; doi:10.1038/s41591-026-04798-5 Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
         },
         {
           "id": "6e99e16242e4",
@@ -235,20 +277,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "5a4b20a9d096",
-          "title": "Rivaroxaban Then Aspirin vs. Aspirin Alone after Total Hip or Knee Arthroplasty",
-          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2603649?af=R&rss=currentIssue",
-          "source": "NEJM",
-          "section": "vertical-thinking",
-          "author": "Sudeep Shivakumar Davide Matino David Zukor Susan R. Kahn George Vincent Raman Mundi Pascal-Andre Vendittoli Mohammad Refaei Eric Bohm Michael Tanzer Stéphane Pelet Glen Richardson James Powell Rick Ikesaka James Douketis Sarah Ward Paul Kim Stephen Mann Susan Pleasance Jocelyn Cormier Pantelis Andreou Kara Matheson Chris Theriault Carol West David Anderson and Peter L. Grossthe EPCAT III Trial Investigators*",
-          "published": "2026-07-12T09:15:15+00:00",
-          "summary": "New England Journal of Medicine, Volume 395, Issue 19, Page 1885-1895, November 12, 2026.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
         }
       ]
     },
@@ -257,6 +285,20 @@
       "title": "Medicine & Therapeutics",
       "kicker": "The Clinic",
       "articles": [
+        {
+          "id": "e8a5c33dbb40",
+          "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
+          "source": "FDA – Press Announcements",
+          "section": "medicine",
+          "author": "FDA",
+          "published": "2026-11-18T19:13:26+00:00",
+          "summary": "FDA today approved Infilbray (venglustat) tablets, the first treatment for the neurological symptoms of Type 3 Gaucher disease (GD3) in adults and pediatric patients weighing at least 15 kg (approximately 33 pounds).",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 32
+        },
         {
           "id": "e8d6c936edcf",
           "title": "A rare disease reveals a hidden flaw in the immune system",
@@ -363,18 +405,46 @@
       "kicker": "The Theatre",
       "articles": [
         {
-          "id": "611a8e433169",
-          "title": "Study supports laparoscopic TAPP repair for emergency groin hernias",
-          "url": "https://www.news-medical.net/news/20261118/Study-supports-laparoscopic-TAPP-repair-for-emergency-groin-hernias.aspx",
+          "id": "c58e9f67fb14",
+          "title": "Sutter Health launches biobank registry to accelerate research into LATE",
+          "url": "https://www.news-medical.net/news/20261118/Sutter-Health-launches-biobank-registry-to-accelerate-research-into-LATE.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-18T14:13:46+00:00",
-          "summary": "Although laparoscopic TAPP has become a mainstream option for elective inguinal and femoral hernia repair, evidence supporting its use in emergency settings—especially for incarcerated or strangulated hernias—has remained limited.",
+          "published": "2026-11-18T20:20:39+00:00",
+          "summary": "Sutter Health researchers have launched a biobank registry to accelerate research into LATE, a lesser-known form of dementia that can mimic Alzheimer's disease but stems from a different underlying cause.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 29
+          "words": 30
+        },
+        {
+          "id": "13b25d008bde",
+          "title": "Experimental mRNA nose drops reverse memory loss in mice",
+          "url": "https://www.news-medical.net/news/20261118/Experimental-mRNA-nose-drops-reverse-memory-loss-in-mice.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-18T20:14:09+00:00",
+          "summary": "Researchers at the University of Sydney have developed experimental nose drops that enhance learning and memory in aged mice while also preventing memory loss in a mouse model of Alzheimer's disease.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 31
+        },
+        {
+          "id": "b5be97a287b5",
+          "title": "Minimally invasive spine surgery relieves severe back pain for patient",
+          "url": "https://www.news-medical.net/news/20261118/Minimally-invasive-spine-surgery-relieves-severe-back-pain-for-patient.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-18T19:57:07+00:00",
+          "summary": "Millions of people are affected by back pain each year. For some, the symptoms are temporary, but for others, the pain becomes constant, interfering with sleep, work, and family life.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
         },
         {
           "id": "0b7c75dde8d5",
@@ -384,34 +454,6 @@
           "section": "surgery",
           "author": "",
           "published": "2026-11-18T12:10:01+00:00",
-          "summary": "Adults injured while riding e-scooters had a higher risk of serious head or neck injury than those injured on bicycles, even though their injuries were less severe overall, according to a national trauma-center analysis published in the Journal of the American College of Surgeons (JACS).",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "3b36918c255a",
-          "title": "Landmark guidance published for surgeons working during pregnancy",
-          "url": "https://www.news-medical.net/news/20261117/Landmark-guidance-published-for-surgeons-working-during-pregnancy.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-18T04:09:00+00:00",
-          "summary": "The Royal College of Surgeons of Edinburgh has launched a report containing guidance for surgeons and theater workers during pregnancy.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "78aa4cfc37e1",
-          "title": "E-scooters linked to increased head and neck injury risk",
-          "url": "https://www.news-medical.net/news/20261117/E-scooters-linked-to-increased-head-and-neck-injury-risk.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-18T03:01:00+00:00",
           "summary": "Adults injured while riding e-scooters had a higher risk of serious head or neck injury than those injured on bicycles, even though their injuries were less severe overall, according to a national trauma-center analysis published in the Journal of the American College of Surgeons (JACS).",
           "full_html": null,
           "license": "",
@@ -510,6 +552,20 @@
           "words": 42
         },
         {
+          "id": "7b2e6a1a1ebf",
+          "title": "A solitary button-like hepatic lesion",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07784-X/fulltext?rss=yes",
+          "source": "Gastroenterology (AGA)",
+          "section": "gastroenterology",
+          "author": "Si-Si Tang, Wei Liu, De-Cheng Wang",
+          "published": "2026-11-13T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
           "id": "005b1d4589f4",
           "title": "PDE4 inhibition at the crossroads of IBD and obesity",
           "url": "https://www.nature.com/articles/s41575-026-01284-8",
@@ -559,65 +615,65 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "404305774a73",
-          "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
-          "url": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Daniel Payne and Margaret Manto",
-          "published": "2026-11-18T15:36:19+00:00",
-          "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
-        },
-        {
-          "id": "495d50011f45",
-          "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
-          "url": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Elaine Chen and Adam Feuerstein",
-          "published": "2026-11-18T14:37:13+00:00",
-          "summary": "The FDA published its complete response letter to Summit Therapeutics explaining why it rejected the biotech's closely watched lung cancer drug:",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "3d1e74dd45eb",
-          "title": "I’ve Practiced Medicine for 40 Years — AI Gave Me Back My Evenings",
-          "url": "https://medcitynews.com/2026/11/ive-practiced-medicine-for-40-years-ai-gave-me-back-my-evenings/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Dr. Michael Miller",
-          "published": "2026-11-18T14:20:00+00:00",
-          "summary": "If you’re a physician earlier in your career, the message is simple: whatever tools exist to get your evenings back, use them now, while you still have the evenings to spend them on.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 33
-        },
-        {
-          "id": "2d14830e9ee0",
-          "title": "Teladoc Launches Employer Contribution Option for GLP-1s",
-          "url": "https://medcitynews.com/2026/11/teladoc-launches-employer-contribution-option-for-glp-1s/",
+          "id": "312e6dca5e7b",
+          "title": "Hone Health Secures $228M for Longevity Platform",
+          "url": "https://medcitynews.com/2026/11/hone-health-secures-228m-for-longevity-platform/",
           "source": "MedCity News",
           "section": "medical-trends",
           "author": "Marissa Plescia",
-          "published": "2026-11-18T03:04:23+00:00",
-          "summary": "Teladoc launched a new offering that allows employers to contribute toward the cost of GLP-1 medications.",
+          "published": "2026-11-18T23:19:14+00:00",
+          "summary": "Hone Health’s funding includes $28 million in equity as Series A financing, as well as $200 million in growth financing from General Catalyst’s Customer Value Fund.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 16
+          "words": 26
         },
         {
-          "id": "02542690eb1c",
-          "title": "Differences in core muscle surface electromyographic activity during static unilateral and bilateral carries",
-          "url": "https://www.nature.com/articles/s41598-026-75244-2",
+          "id": "cb8ca386d2c6",
+          "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
+          "url": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Casey Ross and Matthew Herper",
+          "published": "2026-11-18T23:07:55+00:00",
+          "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "b33bd2be79e2",
+          "title": "STAT+: NIH to move last group of its research chimps to a sanctuary",
+          "url": "https://www.statnews.com/pharmalot/2026/11/18/nih-to-move-last-group-of-research-chimps-to-sanctuary/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Ed Silverman",
+          "published": "2026-11-18T20:29:14+00:00",
+          "summary": "The last chimpanzees owned by the U.S. government and still living in a laboratory will be moved to a sanctuary next year.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "dcd47110fe58",
+          "title": "Pfizer’s Immunology Strategy Expands to In Vivo Cell Therapy With Starna Deal",
+          "url": "https://medcitynews.com/2026/11/pfizer-immunology-inflammation-starna-in-vivo-car-t-cell-therapy-autoimmune-disease-pfe/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Frank Vinluan",
+          "published": "2026-11-18T19:25:35+00:00",
+          "summary": "Pfizer gains global rights, excluding Greater China, to three in vivo CAR-T cell therapies from Starna Therapeutics in preclinical development for undisclosed autoimmune diseases. It’s the latest in a series of big pharma business deals involving in vivo cell therapy assets and platform technologies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 44
+        },
+        {
+          "id": "773371edde20",
+          "title": "Three dimensional analysis of corneal reflectivity following cultivated oral mucosal epithelial transplantation using optical coherence tomography",
+          "url": "https://www.nature.com/articles/s41598-026-81188-4",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -629,9 +685,9 @@
           "words": 0
         },
         {
-          "id": "29ec0a4b14d8",
-          "title": "Machine learning based reference assisted signal recovery under anatomical domain shift in simulated radiofrequency fracture sensing",
-          "url": "https://www.nature.com/articles/s41598-026-80163-3",
+          "id": "02542690eb1c",
+          "title": "Differences in core muscle surface electromyographic activity during static unilateral and bilateral carries",
+          "url": "https://www.nature.com/articles/s41598-026-75244-2",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -713,18 +769,60 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "bf72a6578afa",
-          "title": "I jumped from a plane at 12,000ft. In mid-air, a friend’s knee collided into my neck",
-          "url": "https://www.theguardian.com/lifeandstyle/2026/nov/18/i-jumped-from-a-plane-at-12000ft-in-mid-air-a-friends-knee-collided-into-my-neck",
-          "source": "The Guardian – Health",
+          "id": "611b1626c3c8",
+          "title": "Two-hour ambulance handover limit missed more than 2,000 times",
+          "url": "https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
           "section": "related-articles",
-          "author": "Emma Russell",
-          "published": "2026-11-18T15:50:46+00:00",
-          "summary": "A group of eight trainee parachutists did the jump, and not far from the ground, disaster struck. Rob Bugden describes how he rebuilt his life after the accident that changed everything The skydive was going to plan.",
+          "author": "",
+          "published": "2026-11-19T00:01:29+00:00",
+          "summary": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 37
+          "words": 15
+        },
+        {
+          "id": "383656fa52b5",
+          "title": "‘Neighbourhood support teams’ to pave way for national care service, Cooper announces",
+          "url": "https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Denis Campbell Health policy editor",
+          "published": "2026-11-18T18:56:02+00:00",
+          "summary": "Health secretary said programme would help about 566,000 vulnerable people in England by April More than half a million of the most vulnerable people in England will be offered help from joint NHS and social care teams that will pave the way for the promised…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "c4915d5429f3",
+          "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Brian Mann",
+          "published": "2026-11-18T18:18:16+00:00",
+          "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 31
+        },
+        {
+          "id": "5a05d2bf4bf9",
+          "title": "Regulator mistakenly sent complaints about doctors to newspaper",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-18T17:48:10+00:00",
+          "summary": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
         },
         {
           "id": "df8d86c3af54",
@@ -741,18 +839,18 @@
           "words": 27
         },
         {
-          "id": "943e22c0a2b4",
-          "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-          "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
+          "id": "792da3987dfe",
+          "title": "Beijing has three priorities at the Shenzhen summit – a China expert explains",
+          "url": "https://theconversation.com/beijing-has-three-priorities-at-the-shenzhen-summit-a-china-expert-explains-296734",
+          "source": "The Conversation",
           "section": "related-articles",
-          "author": "",
-          "published": "2026-11-18T10:48:49+00:00",
-          "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
+          "author": "Tom Harper, Lecturer in International Relations, University of East London",
+          "published": "2026-11-18T11:39:19+00:00",
+          "summary": "The Apec summit offers a window into what China hopes to achieve on the international stage as well as the world it perceives itself in.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 20
+          "words": 25
         },
         {
           "id": "cc76f43b7c7c",
@@ -777,48 +875,6 @@
           "author": "Jazmin Orozco Rodriguez",
           "published": "2026-11-18T10:00:00+00:00",
           "summary": "The administration’s expansion of traditional healing for Native Americans comes as it shrinks Medicaid in other ways, including through restrictions that will affect access to care for an estimated 7.5 million people.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
-        },
-        {
-          "id": "0dc4f489d775",
-          "title": "Xi-Trump-Putin summit: when great powers want to call all the shots, what does it mean for everyone else?",
-          "url": "https://theconversation.com/xi-trump-putin-summit-when-great-powers-want-to-call-all-the-shots-what-does-it-mean-for-everyone-else-296811",
-          "source": "The Conversation",
-          "section": "related-articles",
-          "author": "Alexander Korolev, Associate Professor in Politics and International Relations, UNSW",
-          "published": "2026-11-18T03:25:58+00:00",
-          "summary": "In such a world, power determines not only outcomes, but who gets invited into the room when outcomes are being discussed.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "d36051b47c9b",
-          "title": "Voy at-home test kit adverts banned over low testosterone claims",
-          "url": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-18T01:11:07+00:00",
-          "summary": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 15
-        },
-        {
-          "id": "31a340241a73",
-          "title": "Public health expert reacts to latest measles milestone",
-          "url": "https://www.npr.org/2026/11/17/nx-s1-6043126/public-health-expert-reacts-to-latest-measles-milestone",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Alejandra Marquez Janse",
-          "published": "2026-11-17T22:20:41+00:00",
-          "summary": "NPR's Scott Detrow talks with Dr. Ashish Jha, senior fellow at Harvard's Belfer Center and former White House coronavirus czar, about the news that the U.S. has lost its measles elimination status.",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -1036,7 +1092,6 @@
     "Nature Podcast: 404 Client Error: Not Found for url: https://www.nature.com/nature/podcast/current",
     "The BMJ Podcast: 404 Client Error: Not Found for url: https://feeds.acast.com/public/shows/the-bmj-podcast",
     "The Lancet Voice: 404 Client Error: Not Found for url: https://feeds.acast.com/public/shows/the-lancet-voice",
-    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv",
-    "Frankfurter FX: HTTPSConnectionPool(host='api.frankfurter.dev', port=443): Read timed out. (read timeout=20)"
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
