@@ -5,7 +5,7 @@
     "date": "2026-11-19",
     "date_long": "Thursday, 19 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-19T06:03+05:30",
+    "generated_at": "2026-11-19T21:25+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -24,39 +24,39 @@
     },
     "keywords": [
       {
-        "term": "health",
-        "count": 10
-      },
-      {
-        "term": "disease",
-        "count": 8
+        "term": "patients",
+        "count": 7
       },
       {
         "term": "treatment",
         "count": 7
       },
       {
-        "term": "people",
+        "term": "medicine",
         "count": 6
       },
       {
-        "term": "medicine",
+        "term": "study",
         "count": 5
       },
       {
-        "term": "three",
+        "term": "disease",
         "count": 5
-      },
-      {
-        "term": "online november",
-        "count": 4
       },
       {
         "term": "published online",
         "count": 4
       },
       {
-        "term": "china",
+        "term": "online november",
+        "count": 4
+      },
+      {
+        "term": "colorectal cancer",
+        "count": 4
+      },
+      {
+        "term": "care",
         "count": 4
       },
       {
@@ -64,55 +64,55 @@
         "count": 4
       },
       {
-        "term": "colorectal cancer",
-        "count": 3
+        "term": "help",
+        "count": 4
       },
       {
-        "term": "united states",
-        "count": 2
+        "term": "mental health",
+        "count": 3
       }
     ],
     "markets": [
       {
         "label": "USD/EUR",
         "group": "Currencies",
-        "display": "0.9117",
-        "change_pct": 0.19,
+        "display": "0.9097",
+        "change_pct": -0.22,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/GBP",
         "group": "Currencies",
-        "display": "0.7594",
-        "change_pct": 0.17,
+        "display": "0.7604",
+        "change_pct": 0.13,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "93.44",
-        "change_pct": -0.04,
+        "display": "93.30",
+        "change_pct": -0.15,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/JPY",
         "group": "Currencies",
-        "display": "159.42",
-        "change_pct": 0.08,
+        "display": "159.97",
+        "change_pct": 0.35,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "62,793.00",
-        "change_pct": -3.0,
+        "display": "62,836.00",
+        "change_pct": -0.46,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,774.95",
-        "change_pct": -2.37,
+        "display": "1,774.11",
+        "change_pct": 0.38,
         "source": "CoinGecko"
       }
     ]
@@ -139,46 +139,74 @@
       "kicker": "Depth Over Breadth",
       "articles": [
         {
-          "id": "46e1869ccd6c",
-          "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
-          "url": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
-          "source": "STAT – Research",
-          "section": "vertical-thinking",
-          "author": "Chelsea Cirruzzo",
-          "published": "2026-11-18T21:21:26+00:00",
-          "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "4b04e827d95f",
-          "title": "The art of medicine cannot be devoid of the arts",
-          "url": "http://www.bmj.com/content/395/bmj-2026-100385.short?rss=1",
+          "id": "8477ddbdc6f6",
+          "title": "Doctor who gave cancer patient vitamin C injections in Norway is struck off in UK",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101517.short?rss=1",
           "source": "The BMJ",
           "section": "vertical-thinking",
-          "author": "Zaynah Khan",
-          "published": "2026-11-18T17:06:48+00:00",
-          "summary": "You might find the school system asks you to fit yourself into a box: are you a STEM person or a humanities person? But, as an artsy medic, I never felt I fit neatly in either.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 36
-        },
-        {
-          "id": "e35590f69332",
-          "title": "China blocks technology exports to Polish university",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101238.short?rss=1",
-          "source": "The BMJ",
-          "section": "vertical-thinking",
-          "author": "Flynn Murphy",
-          "published": "2026-11-18T17:05:59+00:00",
-          "summary": "Unveiling a new faculty of medicine in 2023, Wrocław University of Science and Technology in southwest Poland pitched an ambitious programme that would merge healthcare with engineering, training the doctors of the future in robotics, bioengineering, and artificial intelligence.The Polish technical university soon launched a…",
+          "author": "Clare Dyer",
+          "published": "2026-11-19T15:06:20+00:00",
+          "summary": "A British doctor whose striking off in Norway was not notified to UK medical authorities because of Brexit has now been erased from the UK medical register.1David De Clive-Lowe was barred from practising by the Norwegian Board of Health Supervision in 2022 after giving a…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
+        },
+        {
+          "id": "bfa35618e986",
+          "title": "Neighbourhood support teams: Experts question how NHS will find money or capacity for Yvette Cooper’s new scheme",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101519.short?rss=1",
+          "source": "The BMJ",
+          "section": "vertical-thinking",
+          "author": "Elisabeth Mahase",
+          "published": "2026-11-19T14:46:24+00:00",
+          "summary": "“Neighbourhood support teams” will be formed across the country to provide dedicated and personalised care to 1.8 million frail and vulnerable patients and keep them out of hospital, health secretary Yvette Cooper has announced.These teams will be made up of GPs, community and mental health…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "9d9ee8b9be67",
+          "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
+          "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
+          "source": "STAT – Research",
+          "section": "vertical-thinking",
+          "author": "O. Rose Broderick and John Wilkerson",
+          "published": "2026-11-19T12:59:54+00:00",
+          "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "1f8998382a42",
+          "title": "Harnessing smartwatches to spot undiagnosed hypertension",
+          "url": "https://www.nature.com/articles/d41591-026-00058-8",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "Karen O’Leary",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 19 November 2026; doi:10.1038/d41591-026-00058-8 With the help of artificial intelligence, a consumer smartwatch performed similarly to office-based hypertension measurement in a prospective clinical study, which suggests a new strategy for population-level opportunistic screening.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        },
+        {
+          "id": "62350a95df5d",
+          "title": "Author Correction: Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
+          "url": "https://www.nature.com/articles/s41591-026-04803-x",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "Diego Rojo",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 19 November 2026; doi:10.1038/s41591-026-04803-x Author Correction: Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
         },
         {
           "id": "f301d8ae0790",
@@ -195,18 +223,18 @@
           "words": 379
         },
         {
-          "id": "fafba13ee862",
-          "title": "Generational gains in cognitive capacity and dementia incidence rates in Western countries",
-          "url": "https://www.nature.com/articles/s41591-026-04759-y",
-          "source": "Nature Medicine",
+          "id": "05696cfe9ca1",
+          "title": "Healing Health Care in Rural America — Toward Community-Centered Learning Health Systems",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMsr2607321?af=R&rss=currentIssue",
+          "source": "NEJM",
           "section": "vertical-thinking",
-          "author": "Kristine B. Walhovd",
-          "published": "2026-11-17T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 17 November 2026; doi:10.1038/s41591-026-04759-y A study of longitudinal cohorts from Europe and the United States over 30 years showed that later-born generations benefit from higher cognitive capacity and memory stability, which may explain the trend of declining dementia incidence rates.",
+          "author": "Monica M. Bertagnolli",
+          "published": "2026-11-18T10:00:01+00:00",
+          "summary": "New England Journal of Medicine, Volume 395, Issue 20, Page 2063-2067, November 19, 2026.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 44
+          "words": 14
         },
         {
           "id": "ec0bcc39b0f7",
@@ -221,34 +249,6 @@
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0/",
           "words": 0
-        },
-        {
-          "id": "cc031e7d82ba",
-          "title": "Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
-          "url": "https://www.nature.com/articles/s41591-026-04798-5",
-          "source": "Nature Medicine",
-          "section": "vertical-thinking",
-          "author": "Mauro Saddelli",
-          "published": "2026-11-16T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 16 November 2026; doi:10.1038/s41591-026-04798-5 Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "6e99e16242e4",
-          "title": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement",
-          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602435?af=R&rss=currentIssue",
-          "source": "NEJM",
-          "section": "vertical-thinking",
-          "author": "Vincent D. Pellegrini Carol A. Lambourne Laurence S. Magder Patricia D. Franklin Jay S. Magaziner Brook I. Martin Richard Iorio Kevin L. Garvin Michael A. Mont Wayne E. Moschetti Antonia F. Chen David Warwick C. McCollister Evarts Adina Harri Laura M. Kernan Samuel Z. Goldhaber William J. Maloney Zeke J. Walton James A. Browne Harry A. Demos James I. Huddleston Stephen L. Kates Peter J. Brooks Navin D. Fernando Brock A. Lindsey Matthew J. Dietz James Nace Ronald E. Delanois Michael S. Kain Mark J. Spangehl Brent A. Lanting Eric M. Cohen Lisa K. Moores William L. Healy and Charles W. Francisthe PEPPER Trial Investigators and the Steering Committee of the PEPPER Trial*",
-          "published": "2026-11-11T10:00:03+00:00",
-          "summary": "New England Journal of Medicine, Volume 395, Issue 19, Page 1896-1910, November 12, 2026.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
         },
         {
           "id": "f924f1b2dad2",
@@ -286,6 +286,48 @@
       "kicker": "The Clinic",
       "articles": [
         {
+          "id": "cced664dad6e",
+          "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-19T11:13:29+00:00",
+          "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "54e11466da70",
+          "title": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-19T08:43:56+00:00",
+          "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
+        },
+        {
+          "id": "50076c839f44",
+          "title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-19T02:31:02+00:00",
+          "summary": "Scientists have discovered a rare inherited mutation in the CDK12 gene linked to aggressive prostate cancer, with all five identified carriers developing metastatic disease between ages 44 and 62.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
           "id": "e8a5c33dbb40",
           "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
           "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
@@ -298,48 +340,6 @@
           "license": "US Government work (public domain)",
           "license_url": "",
           "words": 32
-        },
-        {
-          "id": "e8d6c936edcf",
-          "title": "A rare disease reveals a hidden flaw in the immune system",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-18T12:33:09+00:00",
-          "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new treatment using existing medications, with one severely affected infant already showing substantial improvement.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 42
-        },
-        {
-          "id": "f9401287c2ce",
-          "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-18T12:06:44+00:00",
-          "summary": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "b5128f6cb027",
-          "title": "A little-known protein could be a powerful weapon against Alzheimer’s",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-18T11:53:30+00:00",
-          "summary": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
         },
         {
           "id": "26e7b3b8765d",
@@ -370,32 +370,32 @@
           "words": 24
         },
         {
-          "id": "c2d2df19cc36",
-          "title": "Less than a year into the job, Everett Cunningham steps down as Quanterix CEO",
-          "url": "https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo",
+          "id": "4a41c0e2c135",
+          "title": "Vaccine biotech Evaxion halts infectious disease, autoimmune work to focus on oncology",
+          "url": "https://www.fiercebiotech.com/biotech/vaccine-biotech-evaxion-progressing-only-oncology-assets-rd-refocus",
           "source": "Fierce Biotech",
           "section": "medicine",
-          "author": "Ben Adams",
+          "author": "Marissa Russo",
           "published": null,
-          "summary": "Quanterix is on the lookout for a new chief executive once again as Everett Cunningham, who only started the top job back in January, hits the exit.",
+          "summary": "Evaxion is refocusing its R&D efforts to solely focus on developing and advancing its cancer vaccines.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 27
+          "words": 16
         },
         {
-          "id": "cfb884543f74",
-          "title": "Biogen’s tau therapy drives bigger benefits in 2-year Alzheimer’s update",
-          "url": "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update",
+          "id": "55789410e5b9",
+          "title": "nChroma halves headcount, calls time on trial of potential HBV ‘cure’",
+          "url": "https://www.fiercebiotech.com/biotech/nchroma-halves-headcount-calls-time-trial-potential-hbv-cure",
           "source": "Fierce Biotech",
           "section": "medicine",
-          "author": "Nick Paul Taylor",
+          "author": "James Waldron",
           "published": null,
-          "summary": "Biogen has linked its tau-targeting antisense oligonucleotide to a further slowing of clinical decline after two years, leading analysts to hail the strengthening of evidence supporting late-phase development.",
+          "summary": "nChroma Bio’s workforce are facing a second round of layoffs in 12 months, with the Boston biotech halving its headcount and scrapping a trial of its lead hepatitis asset.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 28
+          "words": 29
         }
       ]
     },
@@ -405,46 +405,46 @@
       "kicker": "The Theatre",
       "articles": [
         {
-          "id": "c58e9f67fb14",
-          "title": "Sutter Health launches biobank registry to accelerate research into LATE",
-          "url": "https://www.news-medical.net/news/20261118/Sutter-Health-launches-biobank-registry-to-accelerate-research-into-LATE.aspx",
+          "id": "6c10ac353913",
+          "title": "$140,000 DOD grant supports ferroptosis research in esophageal cancer",
+          "url": "https://www.news-medical.net/news/20261118/24140000-DOD-grant-supports-ferroptosis-research-in-esophageal-cancer.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-18T20:20:39+00:00",
-          "summary": "Sutter Health researchers have launched a biobank registry to accelerate research into LATE, a lesser-known form of dementia that can mimic Alzheimer's disease but stems from a different underlying cause.",
+          "published": "2026-11-19T04:02:00+00:00",
+          "summary": "A research team at the Wayne State University School of Medicine and Karmanos Cancer Institute has received a two-year, $140,000 award from the U.S. Department of Defense (DOD) to investigate a promising therapeutic approach against one of the deadliest malignancies: esophageal cancer.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
+          "words": 42
         },
         {
-          "id": "13b25d008bde",
-          "title": "Experimental mRNA nose drops reverse memory loss in mice",
-          "url": "https://www.news-medical.net/news/20261118/Experimental-mRNA-nose-drops-reverse-memory-loss-in-mice.aspx",
+          "id": "34e85aa04647",
+          "title": "Noninvasive deep brain stimulation enhances reward learning and eases depressive symptoms",
+          "url": "https://www.news-medical.net/news/20261118/Noninvasive-deep-brain-stimulation-enhances-reward-learning-and-eases-depressive-symptoms.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-18T20:14:09+00:00",
-          "summary": "Researchers at the University of Sydney have developed experimental nose drops that enhance learning and memory in aged mice while also preventing memory loss in a mouse model of Alzheimer's disease.",
+          "published": "2026-11-19T03:11:00+00:00",
+          "summary": "Researchers led by Professor TU Yiheng from the Institute of Psychology of the Chinese Academy of Sciences, in collaboration with researchers from Shenzhen University and other institutions, have developed a noninvasive deep brain stimulation approach that enhances reward learning and improves depressive symptoms in individuals…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 31
+          "words": 45
         },
         {
-          "id": "b5be97a287b5",
-          "title": "Minimally invasive spine surgery relieves severe back pain for patient",
-          "url": "https://www.news-medical.net/news/20261118/Minimally-invasive-spine-surgery-relieves-severe-back-pain-for-patient.aspx",
+          "id": "6505f5231d43",
+          "title": "Can GLP-1 weight loss drugs protect your brain as you age?",
+          "url": "https://www.news-medical.net/news/20261118/Can-GLP-1-weight-loss-drugs-protect-your-brain-as-you-age.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-18T19:57:07+00:00",
-          "summary": "Millions of people are affected by back pain each year. For some, the symptoms are temporary, but for others, the pain becomes constant, interfering with sleep, work, and family life.",
+          "published": "2026-11-19T02:44:00+00:00",
+          "summary": "A review published in Science examines how GLP-1-based weight loss medications and emerging combination therapies may influence cognitive function through direct neurological mechanisms and improved cardiometabolic health.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
+          "words": 27
         },
         {
           "id": "0b7c75dde8d5",
@@ -510,18 +510,46 @@
           "words": 26
         },
         {
-          "id": "74be12829cbe",
-          "title": "Serrated neoplasia of the colorectum: updates on pathology and clinical management",
-          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07785-1/fulltext?rss=yes",
+          "id": "1ee045a4cfd8",
+          "title": "Colorectal Cancer Outcomes after Serrated Polyp Resection",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07834-0/fulltext?rss=yes",
           "source": "Gastroenterology (AGA)",
           "section": "gastroenterology",
-          "author": "Seth D. Crockett, Charles J. Kahi, Christophe Rosty, Iris D. Nagtegaal",
-          "published": "2026-11-17T00:00:00+00:00",
-          "summary": "Serrated neoplasia represents an increasingly recognized pathway in colorectal carcinogenesis, accounting for up to 30% of colorectal cancers (CRC) and disproportionately implicated in post-colonoscopy CRC.",
+          "author": "Sunil Samnani, Nauzer Forbes",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 25
+          "words": 0
+        },
+        {
+          "id": "fc1f20ba88e7",
+          "title": "Interferon signalling key to KRAS-targeted therapy response in pancreatic cancer",
+          "url": "https://www.nature.com/articles/s41575-026-01289-3",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Katrina Ray",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 19 November 2026; doi:10.1038/s41575-026-01289-3 Interferon signalling key to KRAS-targeted therapy response in pancreatic cancer",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "84bdcdeb4d87",
+          "title": "Testing the noninvasive tests in MASLD",
+          "url": "https://www.nature.com/articles/s41575-026-01287-5",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Katrina Ray",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 19 November 2026; doi:10.1038/s41575-026-01287-5 Testing the noninvasive tests in MASLD",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
         },
         {
           "id": "28412663ad12",
@@ -536,48 +564,6 @@
           "license": "",
           "license_url": "",
           "words": 30
-        },
-        {
-          "id": "044a7bf19d5a",
-          "title": "Epigenetics in inflammatory bowel disease: from mechanistic insights to personalized therapeutic strategies",
-          "url": "https://www.nature.com/articles/s41575-026-01275-9",
-          "source": "Nature Reviews Gastroenterology & Hepatology",
-          "section": "gastroenterology",
-          "author": "Jack Satsangi",
-          "published": "2026-11-16T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 16 November 2026; doi:10.1038/s41575-026-01275-9 This Review discusses the complex role of epigenetics in inflammatory bowel disease and provides a comprehensive overview of current and emerging technologies that could enhance the prognostic value of epigenetic biomarkers.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 42
-        },
-        {
-          "id": "7b2e6a1a1ebf",
-          "title": "A solitary button-like hepatic lesion",
-          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07784-X/fulltext?rss=yes",
-          "source": "Gastroenterology (AGA)",
-          "section": "gastroenterology",
-          "author": "Si-Si Tang, Wei Liu, De-Cheng Wang",
-          "published": "2026-11-13T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "005b1d4589f4",
-          "title": "PDE4 inhibition at the crossroads of IBD and obesity",
-          "url": "https://www.nature.com/articles/s41575-026-01284-8",
-          "source": "Nature Reviews Gastroenterology & Hepatology",
-          "section": "gastroenterology",
-          "author": "Sailish Honap",
-          "published": "2026-11-13T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 13 November 2026; doi:10.1038/s41575-026-01284-8 Obesity and inflammatory bowel disease are increasingly recognized as interconnected inflammatory and metabolic disorders. New insights into glucagon-like peptide-1 signalling highlight the role of phosphodiesterase 4 in energy balance.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 40
         },
         {
           "id": "e55a8afafd5e",
@@ -606,6 +592,20 @@
           "license": "",
           "license_url": "",
           "words": 37
+        },
+        {
+          "id": "aa0e5e45456c",
+          "title": "Common blood pressure drugs may improve ulcerative colitis therapy",
+          "url": "https://www.news-medical.net/news/20261110/Common-blood-pressure-drugs-may-improve-ulcerative-colitis-therapy.aspx",
+          "source": "News-Medical – Gastroenterology",
+          "section": "gastroenterology",
+          "author": "",
+          "published": "2026-11-10T16:04:39+00:00",
+          "summary": "A class of blood pressure medications may improve a widely used treatment for ulcerative colitis, the most common type of inflammatory bowel disease, suggests a new study, led by Northwestern Medicine and Kiel University in Germany, of thousands of patients with the disease.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
         }
       ]
     },
@@ -614,6 +614,76 @@
       "title": "Emerging Medical Trends & New Vocabulary",
       "kicker": "Frontiers & Phrases",
       "articles": [
+        {
+          "id": "dd13a006f9e3",
+          "title": "When GLP-1 Costs Mask the Value of Care Management",
+          "url": "https://medcitynews.com/2026/11/when-glp-1-costs-mask-the-value-of-care-management/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Mary Bacaj",
+          "published": "2026-11-19T14:32:00+00:00",
+          "summary": "What would your fund’s claims report look like this year without GLP-1s? It’s worth asking before deciding whether your care management program is working.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "245632d58476",
+          "title": "STAT+: Epic defends competitive practices; promises AI access to records",
+          "url": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Mario Aguilar",
+          "published": "2026-11-19T14:21:08+00:00",
+          "summary": "In this edition of STAT Health Tech: EHR giant, Epic defends its competitive tactics, new data on AI and health care costs, and HLTH news.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "a9a4cfb41223",
+          "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
+          "url": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Ed Silverman",
+          "published": "2026-11-19T13:36:33+00:00",
+          "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "477ff9f9d84b",
+          "title": "Pharmacological evaluation of tannic acid–based chelation therapy in ferric citrate–supplemented rats",
+          "url": "https://www.nature.com/articles/s41598-026-78933-0",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "bdb817f54189",
+          "title": "Physician AI disclosure, condition severity, and public trust in digital medicine",
+          "url": "https://www.nature.com/articles/s41746-026-03484-7",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
         {
           "id": "312e6dca5e7b",
           "title": "Hone Health Secures $228M for Longevity Platform",
@@ -627,76 +697,6 @@
           "license": "",
           "license_url": "",
           "words": 26
-        },
-        {
-          "id": "cb8ca386d2c6",
-          "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
-          "url": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Casey Ross and Matthew Herper",
-          "published": "2026-11-18T23:07:55+00:00",
-          "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "b33bd2be79e2",
-          "title": "STAT+: NIH to move last group of its research chimps to a sanctuary",
-          "url": "https://www.statnews.com/pharmalot/2026/11/18/nih-to-move-last-group-of-research-chimps-to-sanctuary/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Ed Silverman",
-          "published": "2026-11-18T20:29:14+00:00",
-          "summary": "The last chimpanzees owned by the U.S. government and still living in a laboratory will be moved to a sanctuary next year.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
-        },
-        {
-          "id": "dcd47110fe58",
-          "title": "Pfizer’s Immunology Strategy Expands to In Vivo Cell Therapy With Starna Deal",
-          "url": "https://medcitynews.com/2026/11/pfizer-immunology-inflammation-starna-in-vivo-car-t-cell-therapy-autoimmune-disease-pfe/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Frank Vinluan",
-          "published": "2026-11-18T19:25:35+00:00",
-          "summary": "Pfizer gains global rights, excluding Greater China, to three in vivo CAR-T cell therapies from Starna Therapeutics in preclinical development for undisclosed autoimmune diseases. It’s the latest in a series of big pharma business deals involving in vivo cell therapy assets and platform technologies.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 44
-        },
-        {
-          "id": "773371edde20",
-          "title": "Three dimensional analysis of corneal reflectivity following cultivated oral mucosal epithelial transplantation using optical coherence tomography",
-          "url": "https://www.nature.com/articles/s41598-026-81188-4",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-18T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "02542690eb1c",
-          "title": "Differences in core muscle surface electromyographic activity during static unilateral and bilateral carries",
-          "url": "https://www.nature.com/articles/s41598-026-75244-2",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-18T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
         },
         {
           "id": "a6ce6c799899",
@@ -769,116 +769,116 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "611b1626c3c8",
-          "title": "Two-hour ambulance handover limit missed more than 2,000 times",
-          "url": "https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss",
+          "id": "84370a45750d",
+          "title": "Surgeon calls for corporate homicide probe over claims patients unnecessarily bled to death",
+          "url": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-19T00:01:29+00:00",
-          "summary": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 15
-        },
-        {
-          "id": "383656fa52b5",
-          "title": "‘Neighbourhood support teams’ to pave way for national care service, Cooper announces",
-          "url": "https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Denis Campbell Health policy editor",
-          "published": "2026-11-18T18:56:02+00:00",
-          "summary": "Health secretary said programme would help about 566,000 vulnerable people in England by April More than half a million of the most vulnerable people in England will be offered help from joint NHS and social care teams that will pave the way for the promised…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "c4915d5429f3",
-          "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
-          "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Brian Mann",
-          "published": "2026-11-18T18:18:16+00:00",
-          "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 31
-        },
-        {
-          "id": "5a05d2bf4bf9",
-          "title": "Regulator mistakenly sent complaints about doctors to newspaper",
-          "url": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-18T17:48:10+00:00",
-          "summary": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
+          "published": "2026-11-19T15:30:48+00:00",
+          "summary": "Dr Mohammed Habib said he had been raising concerns about NHS Grampian for a decade, including with government ministers and police.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 21
         },
         {
-          "id": "df8d86c3af54",
-          "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
-          "url": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
+          "id": "7867c1058d8c",
+          "title": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
+          "url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-19T15:07:43+00:00",
+          "summary": "In its latest report into the programme of test and trace, it said cooperation was needed \"to ensure that border control measures are effective and operable in practice\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "1be6b905ffcf",
+          "title": "Trump takes 500 actions to weaken cancer protections, new report says",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Tom Perkins",
+          "published": "2026-11-19T14:15:15+00:00",
+          "summary": "Natural Resources Defense Council shows how federal rules changes will increase public’s exposure to carcinogens Amid a rise in early onset cancer, the Trump administration has taken more than 500 actions to systematically dismantle protections against carcinogens once in place across the federal government, an…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "c84927df27bb",
+          "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
           "source": "NPR – Health",
           "section": "related-articles",
-          "author": "Gabrielle Emanuel",
-          "published": "2026-11-18T13:03:38+00:00",
-          "summary": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
+          "author": "Marc Silver",
+          "published": "2026-11-19T12:26:31+00:00",
+          "summary": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 27
+          "words": 26
         },
         {
-          "id": "792da3987dfe",
-          "title": "Beijing has three priorities at the Shenzhen summit – a China expert explains",
-          "url": "https://theconversation.com/beijing-has-three-priorities-at-the-shenzhen-summit-a-china-expert-explains-296734",
+          "id": "70297038444c",
+          "title": "Listen to the Latest ‘KFF Health News Minute’",
+          "url": "https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-19T10:00:13+00:00",
+          "summary": "The \"KFF Health News Minute\" brings original healthcare and health policy reporting from our newsroom to the airwaves each week.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "1c172e9c5309",
+          "title": "What’s Behind a Recent Spike in Early Social Security Claims?",
+          "url": "https://kffhealthnews.org/aging/social-security-early-claims-spike-doge-new-old-age/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "Paula Span",
+          "published": "2026-11-19T10:00:00+00:00",
+          "summary": "Experts point to well-publicized turmoil at the government agency last year as a potential spark.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "e5d8c3d4efd9",
+          "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
+          "url": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668",
           "source": "The Conversation",
           "section": "related-articles",
-          "author": "Tom Harper, Lecturer in International Relations, University of East London",
-          "published": "2026-11-18T11:39:19+00:00",
-          "summary": "The Apec summit offers a window into what China hopes to achieve on the international stage as well as the world it perceives itself in.",
+          "author": "William Kakenmaster, Postdoctoral Research Fellow in Regulation and Global Governance, Australian National University",
+          "published": "2026-11-19T03:55:07+00:00",
+          "summary": "The whole point of this summit is to address climate change. Why are fossil fuel cheerleaders still allowed in the door?",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 25
+          "words": 21
         },
         {
-          "id": "cc76f43b7c7c",
-          "title": "Meet the Teen Who Called a Hospital Home",
-          "url": "https://kffhealthnews.org/public-health/hospital-boarding-social-stays-jaloni-teens-children-kids-guns-missouri-illinois/",
-          "source": "KFF Health News",
+          "id": "ae23edec6962",
+          "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
+          "source": "NPR – Health",
           "section": "related-articles",
-          "author": "Cara Anthony",
-          "published": "2026-11-18T10:00:00+00:00",
-          "summary": "A young survivor of gun violence lived on the third floor of a St. Louis children’s hospital, moving through the halls in a wheelchair, on and off for over three years. He said it became his home when he had nowhere safe to go.",
+          "author": "Jonathan Lambert",
+          "published": "2026-11-18T22:01:17+00:00",
+          "summary": "As the emergency response to the flood ends, aid workers turn to the hard work of rebuilding communities that lost everything. Many of those workers lost everything, too.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 44
-        },
-        {
-          "id": "433aafd86c63",
-          "title": "Trump Administration OKs Native Traditional Healing for Two States’ Medicaid Programs",
-          "url": "https://kffhealthnews.org/medicaid/medicaid-cms-native-american-traditional-healing-state-waivers-utah-maine/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "Jazmin Orozco Rodriguez",
-          "published": "2026-11-18T10:00:00+00:00",
-          "summary": "The administration’s expansion of traditional healing for Native Americans comes as it shrinks Medicaid in other ways, including through restrictions that will affect access to care for an estimated 7.5 million people.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
+          "words": 28
         }
       ]
     }
