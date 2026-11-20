@@ -1,0 +1,1069 @@
+{
+  "edition": {
+    "name": "The Daily Differential",
+    "tagline": "Think deep. Diagnose wide.",
+    "date": "2026-11-20",
+    "date_long": "Friday, 20 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-20T06:14+05:30",
+    "is_sample": false
+  },
+  "dashboard": {
+    "total_articles": 48,
+    "reading_minutes": 8,
+    "source_count": 28,
+    "full_text_count": 1,
+    "per_section": {
+      "vertical-thinking": 10,
+      "medicine": 6,
+      "surgery": 6,
+      "gastroenterology": 8,
+      "medical-trends": 8,
+      "lectures": 2,
+      "related-articles": 8
+    },
+    "keywords": [
+      {
+        "term": "treatment",
+        "count": 8
+      },
+      {
+        "term": "study",
+        "count": 7
+      },
+      {
+        "term": "help",
+        "count": 6
+      },
+      {
+        "term": "patients",
+        "count": 6
+      },
+      {
+        "term": "disease",
+        "count": 5
+      },
+      {
+        "term": "medicine",
+        "count": 5
+      },
+      {
+        "term": "online november",
+        "count": 4
+      },
+      {
+        "term": "published online",
+        "count": 4
+      },
+      {
+        "term": "people",
+        "count": 4
+      },
+      {
+        "term": "researchers",
+        "count": 4
+      },
+      {
+        "term": "colorectal cancer",
+        "count": 3
+      },
+      {
+        "term": "mental health",
+        "count": 3
+      }
+    ],
+    "markets": [
+      {
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9097",
+        "change_pct": -0.22,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7604",
+        "change_pct": 0.13,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "93.30",
+        "change_pct": -0.15,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "159.97",
+        "change_pct": 0.35,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "Bitcoin (USD)",
+        "group": "Crypto",
+        "display": "61,924.00",
+        "change_pct": -1.89,
+        "source": "CoinGecko"
+      },
+      {
+        "label": "Ethereum (USD)",
+        "group": "Crypto",
+        "display": "1,751.63",
+        "change_pct": -1.73,
+        "source": "CoinGecko"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "Theranostics",
+    "pos": "noun",
+    "domain": "Nuclear medicine",
+    "definition": "An approach that pairs a diagnostic imaging agent with a matching therapeutic one that targets the same molecular marker.",
+    "source": "The Daily Differential glossary"
+  },
+  "dictionary_word": {
+    "word": "Word of the day for November 20",
+    "definition": "edit · refresh · view Word of the day for November 20 adiaphoron n (chiefly in the plural, also attributive) A matter which is neither inherently good nor bad; an indifferent matter. (philosophy) A matter which is morally neutral. (theology…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261120000000/en",
+    "source": "Wiktionary",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sections": [
+    {
+      "id": "vertical-thinking",
+      "title": "Vertical Thinking in Medical Science",
+      "kicker": "Depth Over Breadth",
+      "articles": [
+        {
+          "id": "5c35ee55b188",
+          "title": "[Editorial] Multiple sclerosis: beyond controlling relapses",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02345-7/fulltext?rss=yes",
+          "source": "The Lancet",
+          "section": "vertical-thinking",
+          "author": "The Lancet",
+          "published": "2026-11-21T00:00:00+00:00",
+          "summary": "Few neurological diseases have seen a transformation in diagnosis and treatment as remarkable as multiple sclerosis. A chronic, heterogeneous autoimmune condition, it typically begins in early adulthood and affects over 3 million people, with women roughly three times more likely to be affected than men.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "2d2808e8d586",
+          "title": "[Comment] Remibrutinib: a high-efficacy disease-modifying drug for relapsing multiple sclerosis?",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02240-3/fulltext?rss=yes",
+          "source": "The Lancet",
+          "section": "vertical-thinking",
+          "author": "Gilles Edan, Emmanuelle Le Page",
+          "published": "2026-11-21T00:00:00+00:00",
+          "summary": "Bruton's tyrosine kinase (BTK) inhibitors directly modulate the functions of B lymphocytes and myeloid cells (notably macrophages and microglia) and thus target both the adaptive and innate mechanisms that contribute to the immunopathology of multiple sclerosis on either side of the blood–brain barrier.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "04a96699c599",
+          "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
+          "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
+          "source": "STAT – Research",
+          "section": "vertical-thinking",
+          "author": "Andrew Joseph",
+          "published": "2026-11-19T22:20:00+00:00",
+          "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "7db2c9082ea1",
+          "title": "Acute kidney injury and death in severe Plasmodium falciparum malaria: An individual patient data meta-analysis",
+          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004975",
+          "source": "PLOS Medicine",
+          "section": "vertical-thinking",
+          "author": "Nicholas J. White",
+          "published": "2026-11-19T14:00:00+00:00",
+          "summary": "by James A. Watson, Andrea L. Conroy, Anthony Batte, Ruth Namazzi, Michael T. Hawkes, Kevin C. Kain, Katherine Plewes, Stije Leopold, Hugh Kingston, Tran Tinh Hien, Sam Strudwick, Rupert Higgins, Chandy John, Nguyen Hoan Phu, Elizabeth C. George, Ann Sarah Walker, Nicholas P. J.",
+          "full_html": "<p>by James A. Watson, Andrea L. Conroy, Anthony Batte, Ruth Namazzi, Michael T. Hawkes, Kevin C. Kain, Katherine Plewes, Stije Leopold, Hugh Kingston, Tran Tinh Hien, Sam Strudwick, Rupert Higgins, Chandy John, Nguyen Hoan Phu, Elizabeth C. George, Ann Sarah Walker, Nicholas P. J. Day, Thomas N. Williams, Arjen M. Dondorp, Kathryn Maitland, Nicholas J. White</p>\nBackground <p>Serum or plasma concentrations of creatinine and urea are the usual laboratory parameters measured to assess acute kidney injury (AKI) in patients with suspected severe malaria. Creatinine is preferred for estimation of the glomerular filtration rate, but the current threshold for defining severe malaria (&gt;265 μmol/L or a urea &gt;20 mmol/L) is based on adult values and does not reflect the large difference between children and adults in normal values resulting from differences in muscle mass. We reevaluated these thresholds and their prognostic significance in severe malaria using individual patient data from large prospective studies.</p> Methods and findings <p>We pooled individual patient data from 22,663 patients recruited into 14 studies of severe malaria of whom 16,441 were included in the primary analysis population. Patients were included in the primary analysis population if their age (if missing, imputed from weight or height), coma status on admission, and either an admission serum or plasma creatinine or urea measurement (blood urea nitrogen, BUN), were all recorded. The primary outcome was mortality by day 28. The secondary outcome was the admission plasma <i>Plasmodium falciparum</i> histidine-rich protein 2 (<i>Pf</i>HRP2) concentration (a measure of parasite biomass). Bayesian penalised spline regression models were used to characterise the age-specific relationships (interaction with age) between the outcome and the absolute creatinine, the creatinine fold change relative to the age/weight predicted baseline, and the absolute urea. The models adjusted for coma status and calendar year, with nested random additive effects by study site and study. We estimated threshold plasma or serum creatinine and urea concentrations associated with &gt;5% mortality with probability &gt; 0.9. The majority (84%; 13,793/16,441) were children under 15 years of age. Current thresholds for AKI were associated with mortalities greater than 5%. An admission creatinine greater than three times the age/weight predicted baseline value was associated with &gt;5% mortality. An admission urea &gt;10 mmol/L had approximately similar prognostic value. A urea &gt;10 mmol/L was 3.5 times more common in adults than children. In children &lt;15 years of age, urea was a better prognostic indicator of death than creatinine and, unlike creatinine, correlated with the plasma <i>Pf</i>HRP2 concentration. The main limitations of this analysis are the lack of metadata documenting laboratory methods and wide heterogeneity in eligibility criteria, such as creatinine or urea admission values for inclusion.</p> Conclusions <p>Admission serum or plasma creatinine &gt;3 times the age/weight predicted baseline value (KDIGO AKI stage 3) can be used to define severe malaria AKI. In children, urea is a better predictor of the true infection biomass and a better prognostic indicator for death. We recommend the following as defining criteria for severe malaria: either a urea (BUN) threshold of 10 mmol/L for both children and adults, or simple age-based thresholds representing approximately &gt;3 times fold change in creatinine from predicted baseline. These updated thresholds identify between 4 and 8 times more children with severe malaria AKI who are at a high risk of death.</p>",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "words": 541
+        },
+        {
+          "id": "831996dd7a67",
+          "title": "Martha’s rule might not help those most at risk in emergency departments",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101507.short?rss=1",
+          "source": "The BMJ",
+          "section": "vertical-thinking",
+          "author": "Adrian Boyle, Charlotte Lindsay",
+          "published": "2026-11-19T12:16:19+00:00",
+          "summary": "In recent months, NHS England has issued mandates for national roll-outs of Martha’s rule in emergency departments and the National Paediatric Early Warning Scores for detecting deterioration of children in emergency departments.12 Emergency departments have unique risks and challenges, so Martha’s rule might not work…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "3c8c865ff89a",
+          "title": "Shaping the future: the breast surgeon inspiring the next generation",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101476.short?rss=1",
+          "source": "The BMJ",
+          "section": "vertical-thinking",
+          "author": "Kathy Oxtoby",
+          "published": "2026-11-19T10:46:42+00:00",
+          "summary": "Raghavan Vidya’s role is a “delicate balance of surgical precision, oncological excellence, and deeply personal patient care.”The consultant oncoplastic breast surgeon at the Royal Wolverhampton NHS Trust says that breast surgery is unique in that it goes beyond removing disease.“It is about treating cancer effectively…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "1f8998382a42",
+          "title": "Harnessing smartwatches to spot undiagnosed hypertension",
+          "url": "https://www.nature.com/articles/d41591-026-00058-8",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "Karen O’Leary",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 19 November 2026; doi:10.1038/d41591-026-00058-8 With the help of artificial intelligence, a consumer smartwatch performed similarly to office-based hypertension measurement in a prospective clinical study, which suggests a new strategy for population-level opportunistic screening.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        },
+        {
+          "id": "62350a95df5d",
+          "title": "Author Correction: Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
+          "url": "https://www.nature.com/articles/s41591-026-04803-x",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "Diego Rojo",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 19 November 2026; doi:10.1038/s41591-026-04803-x Author Correction: Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "05696cfe9ca1",
+          "title": "Healing Health Care in Rural America — Toward Community-Centered Learning Health Systems",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMsr2607321?af=R&rss=currentIssue",
+          "source": "NEJM",
+          "section": "vertical-thinking",
+          "author": "Monica M. Bertagnolli",
+          "published": "2026-11-18T10:00:01+00:00",
+          "summary": "New England Journal of Medicine, Volume 395, Issue 20, Page 2063-2067, November 19, 2026.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "ec0bcc39b0f7",
+          "title": "Correction: Deciphering the preeclampsia-specific immune microenvironment and the role of pro-inflammatory macrophages at the maternal–fetal interface",
+          "url": "https://elifesciences.org/articles/113687",
+          "source": "eLife – Medicine",
+          "section": "vertical-thinking",
+          "author": "",
+          "published": "2026-11-17T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "words": 0
+        }
+      ]
+    },
+    {
+      "id": "medicine",
+      "title": "Medicine & Therapeutics",
+      "kicker": "The Clinic",
+      "articles": [
+        {
+          "id": "bf367e0ac21f",
+          "title": "Experimental compound burns fat without sacrificing muscle",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-20T00:19:49+00:00",
+          "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "cced664dad6e",
+          "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-19T11:13:29+00:00",
+          "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "54e11466da70",
+          "title": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-19T08:43:56+00:00",
+          "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
+        },
+        {
+          "id": "e8a5c33dbb40",
+          "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
+          "source": "FDA – Press Announcements",
+          "section": "medicine",
+          "author": "FDA",
+          "published": "2026-11-18T19:13:26+00:00",
+          "summary": "FDA today approved Infilbray (venglustat) tablets, the first treatment for the neurological symptoms of Type 3 Gaucher disease (GD3) in adults and pediatric patients weighing at least 15 kg (approximately 33 pounds).",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "0fdbd45c4ba9",
+          "title": "Anthropic board director Vas Narasimhan bets AI can help Novartis solve ‘biological latency’",
+          "url": "https://www.fiercebiotech.com/biotech/anthropic-board-director-vas-narasimhan-bets-ai-can-help-novartis-solve-biological-latency",
+          "source": "Fierce Biotech",
+          "section": "medicine",
+          "author": "Angus Liu",
+          "published": null,
+          "summary": "On the same day Anthropic staged a record-shattering IPO on Nasdaq, the artificial intelligence tech giant’s lone pharmaceutical board member, Novartis CEO Vas Narasimhan, was in London pitching investors on how the Swiss drugmaker is using AI to shrink drug development timelines and one day…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "4a41c0e2c135",
+          "title": "Vaccine biotech Evaxion halts infectious disease, autoimmune work to focus on oncology",
+          "url": "https://www.fiercebiotech.com/biotech/vaccine-biotech-evaxion-progressing-only-oncology-assets-rd-refocus",
+          "source": "Fierce Biotech",
+          "section": "medicine",
+          "author": "Marissa Russo",
+          "published": null,
+          "summary": "Evaxion is refocusing its R&D efforts to solely focus on developing and advancing its cancer vaccines.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        }
+      ]
+    },
+    {
+      "id": "surgery",
+      "title": "Surgery & Operative Innovation",
+      "kicker": "The Theatre",
+      "articles": [
+        {
+          "id": "0facd5fd14c3",
+          "title": "Cancer cases among transgender people in England could more than double soon",
+          "url": "https://www.news-medical.net/news/20261119/Cancer-cases-among-transgender-people-in-England-could-more-than-double-soon.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-19T20:29:48+00:00",
+          "summary": "A study led by Queen Mary University of London has found that the number of new cancer cases each year among transgender and gender-diverse people in England could more than double over the next decade.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 35
+        },
+        {
+          "id": "5aa83d1f10af",
+          "title": "New $23 million surgical technology innovation center opens at Mount Sinai Hospital",
+          "url": "https://www.news-medical.net/news/20261119/New-2423-million-surgical-technology-innovation-center-opens-at-Mount-Sinai-Hospital.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-19T19:00:46+00:00",
+          "summary": "Mount Sinai Health System and the New York City Economic Development Corporation (NYCEDC) celebrated the opening of Mount Sinai BioDesign's Comprehensive Center for Surgical Innovation (CCSI), a $23 million surgical technology innovation center across three facilities at The Mount Sinai Hospital.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 41
+        },
+        {
+          "id": "3ee34eabdb90",
+          "title": "New scorecard reveals major barriers to obesity treatment by state",
+          "url": "https://www.news-medical.net/news/20261119/New-scorecard-reveals-major-barriers-to-obesity-treatment-by-state.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-19T18:51:30+00:00",
+          "summary": "Where Americans live can make a profound difference in their ability to access obesity treatment, according to a new state-by-state scorecard and report that gives 20 states D or F grades and finds significant barriers to care in every state in the nation.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "0b7c75dde8d5",
+          "title": "Injured e-scooter riders face higher risk of serious head or neck trauma than injured cyclists",
+          "url": "https://medicalxpress.com/news/2026-11-scooter-riders-higher-neck-trauma.html",
+          "source": "Medical Xpress – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-18T12:10:01+00:00",
+          "summary": "Adults injured while riding e-scooters had a higher risk of serious head or neck injury than those injured on bicycles, even though their injuries were less severe overall, according to a national trauma-center analysis published in the Journal of the American College of Surgeons (JACS).",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "0f97b8a8f53c",
+          "title": "Effective obesity treatments reach few eligible teens, study finds",
+          "url": "https://medicalxpress.com/news/2026-11-effective-obesity-treatments-eligible-teens.html",
+          "source": "Medical Xpress – Surgery (Breaking)",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-11T12:20:11+00:00",
+          "summary": "Despite the arrival of powerful new anti-obesity medications and growing evidence supporting weight-loss surgery for adolescents, the vast majority of eligible teens are receiving neither treatment, according to a new study from Ann & Robert H. Lurie Children's Hospital of Chicago published in JAMA Pediatrics.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "9bfb132b2beb",
+          "title": "Imaging nerves during surgery without turning down the lights",
+          "url": "https://medicalxpress.com/news/2026-11-imaging-nerves-surgery.html",
+          "source": "Medical Xpress – Surgery (Breaking)",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-10T17:20:02+00:00",
+          "summary": "Avoiding accidental nerve damage is an important concern in many surgical procedures. Nerves can be difficult to distinguish from surrounding tissue, particularly in complex anatomical regions. Fluorescence-guided surgery could make them easier to see by using fluorescent agents that selectively highlight nerve tissue.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        }
+      ]
+    },
+    {
+      "id": "gastroenterology",
+      "title": "Gastroenterology & Hepatology",
+      "kicker": "The Gut Instinct",
+      "articles": [
+        {
+          "id": "8e77898b2afe",
+          "title": "[Corrections] Correction to Lancet Gastroenterol Hepatol 2026; 11: 1037–47",
+          "url": "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(26)00299-2/fulltext?rss=yes",
+          "source": "The Lancet Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "",
+          "published": "2026-12-01T00:00:00+00:00",
+          "summary": "Yaqub S, Valberg M, Bjørnbeth BA, et al. Aspirin after curative-intent treatment of colorectal cancer liver metastases (ASAC): a multicentre, phase 3, randomised, double-blind, placebo-controlled trial.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "1ee045a4cfd8",
+          "title": "Colorectal Cancer Outcomes after Serrated Polyp Resection",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07834-0/fulltext?rss=yes",
+          "source": "Gastroenterology (AGA)",
+          "section": "gastroenterology",
+          "author": "Sunil Samnani, Nauzer Forbes",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "fc1f20ba88e7",
+          "title": "Interferon signalling key to KRAS-targeted therapy response in pancreatic cancer",
+          "url": "https://www.nature.com/articles/s41575-026-01289-3",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Katrina Ray",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 19 November 2026; doi:10.1038/s41575-026-01289-3 Interferon signalling key to KRAS-targeted therapy response in pancreatic cancer",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "84bdcdeb4d87",
+          "title": "Testing the noninvasive tests in MASLD",
+          "url": "https://www.nature.com/articles/s41575-026-01287-5",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Katrina Ray",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 19 November 2026; doi:10.1038/s41575-026-01287-5 Testing the noninvasive tests in MASLD",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "28412663ad12",
+          "title": "Matrix stiffness determines whether liver cells regenerate or scar",
+          "url": "https://www.news-medical.net/news/20261116/Matrix-stiffness-determines-whether-liver-cells-regenerate-or-scar.aspx",
+          "source": "News-Medical – Gastroenterology",
+          "section": "gastroenterology",
+          "author": "",
+          "published": "2026-11-16T16:40:13+00:00",
+          "summary": "Soft and stiff extracellular matrix environments influence how hepatic stellate cells (HSCs) respond during liver injury. Researchers from Science Tokyo investigated how matrix stiffness shapes the direction of HSC activation.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "e55a8afafd5e",
+          "title": "CAF-macrophage crosstalk fuels immunotherapy resistance",
+          "url": "http://gut.bmj.com/cgi/content/short/75/12/2301?rss=1",
+          "source": "Gut (BMJ)",
+          "section": "gastroenterology",
+          "author": "Liu, Y., Wang, L.",
+          "published": "2026-11-11T08:09:21+00:00",
+          "summary": "Gastric cancer peritoneal metastasis (GCPM) remains a formidable clinical challenge, characterised by poor prognosis and limited therapeutic options.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "726abc9c55c7",
+          "title": "Gut feeling: extracellular vesicles dictate livers susceptibility to colorectal cancer metastasis",
+          "url": "http://gut.bmj.com/cgi/content/short/75/12/2302?rss=1",
+          "source": "Gut (BMJ)",
+          "section": "gastroenterology",
+          "author": "Fiori, M. E.",
+          "published": "2026-11-11T08:09:21+00:00",
+          "summary": "Colorectal cancer (CRC) represents a major global health issue, ranking as the third most common tumour and the second leading cause of cancer-related mortality worldwide.1 Distant metastasis is the primary cause of fatality for patients with cancer.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        },
+        {
+          "id": "aa0e5e45456c",
+          "title": "Common blood pressure drugs may improve ulcerative colitis therapy",
+          "url": "https://www.news-medical.net/news/20261110/Common-blood-pressure-drugs-may-improve-ulcerative-colitis-therapy.aspx",
+          "source": "News-Medical – Gastroenterology",
+          "section": "gastroenterology",
+          "author": "",
+          "published": "2026-11-10T16:04:39+00:00",
+          "summary": "A class of blood pressure medications may improve a widely used treatment for ulcerative colitis, the most common type of inflammatory bowel disease, suggests a new study, led by Northwestern Medicine and Kiel University in Germany, of thousands of patients with the disease.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        }
+      ]
+    },
+    {
+      "id": "medical-trends",
+      "title": "Emerging Medical Trends & New Vocabulary",
+      "kicker": "Frontiers & Phrases",
+      "articles": [
+        {
+          "id": "9f136b80d7db",
+          "title": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
+          "url": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Ed Silverman",
+          "published": "2026-11-20T00:00:00+00:00",
+          "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "1f9e34a33957",
+          "title": "Who Should Make Medical-Necessity Decisions: AI, Insurers or Treating Physicians?",
+          "url": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Marissa Plescia",
+          "published": "2026-11-19T23:44:27+00:00",
+          "summary": "On a panel at HLTH, experts discussed prior authorization denials and who should make the final call.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "d6ba2ff9d1a3",
+          "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
+          "url": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Krutika Kuppalli",
+          "published": "2026-11-19T22:55:19+00:00",
+          "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "f61ca2ecd267",
+          "title": "Independent Benefits Platform Leader: Market Forces Prevent Employers From Getting Best Solution",
+          "url": "https://medcitynews.com/2026/11/independent-benefits-platform-leader-market-forces-prevent-employers-from-getting-best-solution/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Arundhati Parmar",
+          "published": "2026-11-19T22:44:55+00:00",
+          "summary": "On a panel on employee benefits Ali Diab, CEO of Collective Health, spoke plainly about the market forces that hamper self-insured employers from designing the best employee benefits.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "477ff9f9d84b",
+          "title": "Pharmacological evaluation of tannic acid–based chelation therapy in ferric citrate–supplemented rats",
+          "url": "https://www.nature.com/articles/s41598-026-78933-0",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "bdb817f54189",
+          "title": "Physician AI disclosure, condition severity, and public trust in digital medicine",
+          "url": "https://www.nature.com/articles/s41746-026-03484-7",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-19T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "a6ce6c799899",
+          "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
+          "url": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
+          "source": "World Health Organization",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-10-10T07:49:45+00:00",
+          "summary": "Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technical Package.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "7a2810effc06",
+          "title": "COVID-19 disrupting mental health services in most countries, WHO survey",
+          "url": "https://www.who.int/news/item/05-10-2020-covid-19-disrupting-mental-health-services-in-most-countries-who-survey",
+          "source": "World Health Organization",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2020-10-06T16:42:38+00:00",
+          "summary": "The COVID-19 pandemic has disrupted or halted critical mental health services in 93% of countries worldwide while the demand for mental health is increasing, according to a new WHO survey.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        }
+      ]
+    },
+    {
+      "id": "lectures",
+      "title": "Thought-Provoking Lectures in Medical Science",
+      "kicker": "The Lecture Hall",
+      "articles": [
+        {
+          "id": "ed4b299ba199",
+          "title": "Sunday Pick: How to challenge your self-limiting beliefs with Shawn Achor | from ReThinking with Adam Grant",
+          "url": "https://audiocollective.ted.com/",
+          "source": "TED Talks (health & science)",
+          "section": "lectures",
+          "author": "",
+          "published": "2026-11-15T07:00:00+00:00",
+          "summary": "Your beliefs about yourself and the world have a big impact on your mental health, relationships, and success.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "1b6349c9741b",
+          "title": "Your phone is disgusting. Here's how to clean it | Lotti Tajouri",
+          "url": "http://go.ted.com/lottitajouri",
+          "source": "TED Talks (health & science)",
+          "section": "lectures",
+          "author": "",
+          "published": "2026-11-10T17:34:47+00:00",
+          "summary": "What’s dirtier: your phone or your hands? Molecular biologist Lotti Tajouri says there’s a gaping hole in our hygiene routine. We scrub our hands clean, then reach right for the phone — a warm, humid and mobile home for bacteria and viruses.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        }
+      ]
+    },
+    {
+      "id": "related-articles",
+      "title": "Related Articles",
+      "kicker": "Further Reading",
+      "articles": [
+        {
+          "id": "4360ac421a2d",
+          "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-20T00:08:22+00:00",
+          "summary": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "e931db4375ea",
+          "title": "Resident doctors to begin 24-hour strike over pay",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-20T00:02:03+00:00",
+          "summary": "A full 24-hour strike begins at 07:00 GMT - the second such action taken by doctors this year.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "cfe5120ba729",
+          "title": "For some patients, psychedelic treatment brings new troubles in its aftermath",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Will Stone",
+          "published": "2026-11-19T23:07:17+00:00",
+          "summary": "Psychedelics could transform mental health care, but some advocates and researchers say there needs to be more focus on the minority of people with persistent troubles after using these drugs.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "540bcf5f777b",
+          "title": "Xi-Putin-Trump summit was heavy on symbolism, light on substance – and not exactly a Yalta II",
+          "url": "https://theconversation.com/xi-putin-trump-summit-was-heavy-on-symbolism-light-on-substance-and-not-exactly-a-yalta-ii-297087",
+          "source": "The Conversation",
+          "section": "related-articles",
+          "author": "Rana Mitter, Professor of U.S.-Asia Relations, Harvard Kennedy School",
+          "published": "2026-11-19T18:43:22+00:00",
+          "summary": "At an eagerly anticipated summit, the leaders of China, Russia and US discussed nuclear weapons – but not much else.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "125f9d56cd3e",
+          "title": "The 'Magic Six': How to strengthen your marriage in midlife",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Allison Aubrey",
+          "published": "2026-11-19T18:28:23+00:00",
+          "summary": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "46ef685dc336",
+          "title": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
+          "url": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Severin Carrell Scotland editor",
+          "published": "2026-11-19T18:21:59+00:00",
+          "summary": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns and that patients may have died unnecessarily A senior surgeon has called for a criminal investigation into a Scottish hospital after it emerged that at least 19 patients had died from avoidable complications due to…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "70297038444c",
+          "title": "Listen to the Latest ‘KFF Health News Minute’",
+          "url": "https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-19T10:00:13+00:00",
+          "summary": "The \"KFF Health News Minute\" brings original healthcare and health policy reporting from our newsroom to the airwaves each week.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "1c172e9c5309",
+          "title": "What’s Behind a Recent Spike in Early Social Security Claims?",
+          "url": "https://kffhealthnews.org/aging/social-security-early-claims-spike-doge-new-old-age/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "Paula Span",
+          "published": "2026-11-19T10:00:00+00:00",
+          "summary": "Experts point to well-publicized turmoil at the government agency last year as a potential spark.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC News – Health",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "FDA – Press Announcements",
+      "site": "https://www.fda.gov",
+      "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fierce Biotech",
+      "site": "https://www.fiercebiotech.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Gastroenterology (AGA)",
+      "site": "https://www.gastrojournal.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Gut (BMJ)",
+      "site": "https://gut.bmj.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "KFF Health News",
+      "site": "https://kffhealthnews.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "MedCity News",
+      "site": "https://medcitynews.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Medical Xpress – Surgery",
+      "site": "https://medicalxpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Medical Xpress – Surgery (Breaking)",
+      "site": "https://medicalxpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "NEJM",
+      "site": "https://www.nejm.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "NPR – Health",
+      "site": "https://feeds.npr.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Nature Medicine",
+      "site": "https://www.nature.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Nature Reviews Gastroenterology & Hepatology",
+      "site": "https://www.nature.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Nature – Medical Research",
+      "site": "https://www.nature.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "News-Medical – Gastroenterology",
+      "site": "https://www.news-medical.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "News-Medical – Surgery",
+      "site": "https://www.news-medical.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "PLOS Medicine",
+      "site": "https://journals.plos.org",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "full_text": true
+    },
+    {
+      "name": "STAT",
+      "site": "https://www.statnews.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "STAT – Research",
+      "site": "https://www.statnews.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "ScienceDaily – Health & Medicine",
+      "site": "https://www.sciencedaily.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TED Talks (health & science)",
+      "site": "https://www.ted.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The BMJ",
+      "site": "https://www.bmj.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Conversation",
+      "site": "https://theconversation.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Health",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Lancet",
+      "site": "https://www.thelancet.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Lancet Gastroenterology & Hepatology",
+      "site": "https://www.thelancet.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "World Health Organization",
+      "site": "https://www.who.int",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "eLife – Medicine",
+      "site": "https://elifesciences.org",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "full_text": true
+    }
+  ],
+  "errors": [
+    "NIH – News Releases: 404 Client Error: Not Found for url: https://www.nih.gov/news-events/news-releases/rss.xml",
+    "Medical News Today: 404 Client Error: Not Found for url: https://www.medicalnewstoday.com/rss",
+    "ScienceDaily – Surgery: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/surgery.xml",
+    "Fierce Biotech – Medtech: 404 Client Error: Not Found for url: https://www.fiercebiotech.com/medtech/rss/xml",
+    "BMC Surgery: feed contained no entries",
+    "ScienceDaily – Digestive Disorders: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/digestive_disorders.xml",
+    "Healthcare IT News: 403 Client Error: Forbidden for url: https://www.healthcareitnews.com/feed",
+    "Nature Podcast: 404 Client Error: Not Found for url: https://www.nature.com/nature/podcast/current",
+    "The BMJ Podcast: 404 Client Error: Not Found for url: https://feeds.acast.com/public/shows/the-bmj-podcast",
+    "The Lancet Voice: 404 Client Error: Not Found for url: https://feeds.acast.com/public/shows/the-lancet-voice",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+  ]
+}

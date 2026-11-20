@@ -2,20 +2,20 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-19",
-    "date_long": "Thursday, 19 November 2026",
+    "date": "2026-11-20",
+    "date_long": "Friday, 20 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-19T21:25+05:30",
+    "generated_at": "2026-11-20T06:14+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 50,
+    "total_articles": 48,
     "reading_minutes": 8,
     "source_count": 28,
     "full_text_count": 1,
     "per_section": {
       "vertical-thinking": 10,
-      "medicine": 8,
+      "medicine": 6,
       "surgery": 6,
       "gastroenterology": 8,
       "medical-trends": 8,
@@ -24,48 +24,48 @@
     },
     "keywords": [
       {
-        "term": "patients",
-        "count": 7
-      },
-      {
         "term": "treatment",
-        "count": 7
-      },
-      {
-        "term": "medicine",
-        "count": 6
+        "count": 8
       },
       {
         "term": "study",
-        "count": 5
+        "count": 7
+      },
+      {
+        "term": "help",
+        "count": 6
+      },
+      {
+        "term": "patients",
+        "count": 6
       },
       {
         "term": "disease",
         "count": 5
       },
       {
-        "term": "published online",
-        "count": 4
+        "term": "medicine",
+        "count": 5
       },
       {
         "term": "online november",
         "count": 4
       },
       {
+        "term": "published online",
+        "count": 4
+      },
+      {
+        "term": "people",
+        "count": 4
+      },
+      {
+        "term": "researchers",
+        "count": 4
+      },
+      {
         "term": "colorectal cancer",
-        "count": 4
-      },
-      {
-        "term": "care",
-        "count": 4
-      },
-      {
-        "term": "nature",
-        "count": 4
-      },
-      {
-        "term": "help",
-        "count": 4
+        "count": 3
       },
       {
         "term": "mental health",
@@ -104,30 +104,30 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "62,836.00",
-        "change_pct": -0.46,
+        "display": "61,924.00",
+        "change_pct": -1.89,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,774.11",
-        "change_pct": 0.38,
+        "display": "1,751.63",
+        "change_pct": -1.73,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Organoid",
+    "term": "Theranostics",
     "pos": "noun",
-    "domain": "Cell biology",
-    "definition": "A miniature, simplified organ grown in the lab from stem cells that reproduces some structure and function of the real tissue.",
+    "domain": "Nuclear medicine",
+    "definition": "An approach that pairs a diagnostic imaging agent with a matching therapeutic one that targets the same molecular marker.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 19",
-    "definition": "edit · refresh · view Word of the day for November 19 moustache-twirling adj (idiomatic, often humorous, informal) Villainous, wicked.",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261119000000/en",
+    "word": "Word of the day for November 20",
+    "definition": "edit · refresh · view Word of the day for November 20 adiaphoron n (chiefly in the plural, also attributive) A matter which is neither inherently good nor bad; an indifferent matter. (philosophy) A matter which is morally neutral. (theology…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261120000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -139,46 +139,88 @@
       "kicker": "Depth Over Breadth",
       "articles": [
         {
-          "id": "8477ddbdc6f6",
-          "title": "Doctor who gave cancer patient vitamin C injections in Norway is struck off in UK",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101517.short?rss=1",
-          "source": "The BMJ",
+          "id": "5c35ee55b188",
+          "title": "[Editorial] Multiple sclerosis: beyond controlling relapses",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02345-7/fulltext?rss=yes",
+          "source": "The Lancet",
           "section": "vertical-thinking",
-          "author": "Clare Dyer",
-          "published": "2026-11-19T15:06:20+00:00",
-          "summary": "A British doctor whose striking off in Norway was not notified to UK medical authorities because of Brexit has now been erased from the UK medical register.1David De Clive-Lowe was barred from practising by the Norwegian Board of Health Supervision in 2022 after giving a…",
+          "author": "The Lancet",
+          "published": "2026-11-21T00:00:00+00:00",
+          "summary": "Few neurological diseases have seen a transformation in diagnosis and treatment as remarkable as multiple sclerosis. A chronic, heterogeneous autoimmune condition, it typically begins in early adulthood and affects over 3 million people, with women roughly three times more likely to be affected than men.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "bfa35618e986",
-          "title": "Neighbourhood support teams: Experts question how NHS will find money or capacity for Yvette Cooper’s new scheme",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101519.short?rss=1",
-          "source": "The BMJ",
+          "id": "2d2808e8d586",
+          "title": "[Comment] Remibrutinib: a high-efficacy disease-modifying drug for relapsing multiple sclerosis?",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02240-3/fulltext?rss=yes",
+          "source": "The Lancet",
           "section": "vertical-thinking",
-          "author": "Elisabeth Mahase",
-          "published": "2026-11-19T14:46:24+00:00",
-          "summary": "“Neighbourhood support teams” will be formed across the country to provide dedicated and personalised care to 1.8 million frail and vulnerable patients and keep them out of hospital, health secretary Yvette Cooper has announced.These teams will be made up of GPs, community and mental health…",
+          "author": "Gilles Edan, Emmanuelle Le Page",
+          "published": "2026-11-21T00:00:00+00:00",
+          "summary": "Bruton's tyrosine kinase (BTK) inhibitors directly modulate the functions of B lymphocytes and myeloid cells (notably macrophages and microglia) and thus target both the adaptive and innate mechanisms that contribute to the immunopathology of multiple sclerosis on either side of the blood–brain barrier.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 43
         },
         {
-          "id": "9d9ee8b9be67",
-          "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
-          "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
+          "id": "04a96699c599",
+          "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
+          "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
           "source": "STAT – Research",
           "section": "vertical-thinking",
-          "author": "O. Rose Broderick and John Wilkerson",
-          "published": "2026-11-19T12:59:54+00:00",
-          "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
+          "author": "Andrew Joseph",
+          "published": "2026-11-19T22:20:00+00:00",
+          "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 28
+          "words": 21
+        },
+        {
+          "id": "7db2c9082ea1",
+          "title": "Acute kidney injury and death in severe Plasmodium falciparum malaria: An individual patient data meta-analysis",
+          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004975",
+          "source": "PLOS Medicine",
+          "section": "vertical-thinking",
+          "author": "Nicholas J. White",
+          "published": "2026-11-19T14:00:00+00:00",
+          "summary": "by James A. Watson, Andrea L. Conroy, Anthony Batte, Ruth Namazzi, Michael T. Hawkes, Kevin C. Kain, Katherine Plewes, Stije Leopold, Hugh Kingston, Tran Tinh Hien, Sam Strudwick, Rupert Higgins, Chandy John, Nguyen Hoan Phu, Elizabeth C. George, Ann Sarah Walker, Nicholas P. J.",
+          "full_html": "<p>by James A. Watson, Andrea L. Conroy, Anthony Batte, Ruth Namazzi, Michael T. Hawkes, Kevin C. Kain, Katherine Plewes, Stije Leopold, Hugh Kingston, Tran Tinh Hien, Sam Strudwick, Rupert Higgins, Chandy John, Nguyen Hoan Phu, Elizabeth C. George, Ann Sarah Walker, Nicholas P. J. Day, Thomas N. Williams, Arjen M. Dondorp, Kathryn Maitland, Nicholas J. White</p>\nBackground <p>Serum or plasma concentrations of creatinine and urea are the usual laboratory parameters measured to assess acute kidney injury (AKI) in patients with suspected severe malaria. Creatinine is preferred for estimation of the glomerular filtration rate, but the current threshold for defining severe malaria (&gt;265 μmol/L or a urea &gt;20 mmol/L) is based on adult values and does not reflect the large difference between children and adults in normal values resulting from differences in muscle mass. We reevaluated these thresholds and their prognostic significance in severe malaria using individual patient data from large prospective studies.</p> Methods and findings <p>We pooled individual patient data from 22,663 patients recruited into 14 studies of severe malaria of whom 16,441 were included in the primary analysis population. Patients were included in the primary analysis population if their age (if missing, imputed from weight or height), coma status on admission, and either an admission serum or plasma creatinine or urea measurement (blood urea nitrogen, BUN), were all recorded. The primary outcome was mortality by day 28. The secondary outcome was the admission plasma <i>Plasmodium falciparum</i> histidine-rich protein 2 (<i>Pf</i>HRP2) concentration (a measure of parasite biomass). Bayesian penalised spline regression models were used to characterise the age-specific relationships (interaction with age) between the outcome and the absolute creatinine, the creatinine fold change relative to the age/weight predicted baseline, and the absolute urea. The models adjusted for coma status and calendar year, with nested random additive effects by study site and study. We estimated threshold plasma or serum creatinine and urea concentrations associated with &gt;5% mortality with probability &gt; 0.9. The majority (84%; 13,793/16,441) were children under 15 years of age. Current thresholds for AKI were associated with mortalities greater than 5%. An admission creatinine greater than three times the age/weight predicted baseline value was associated with &gt;5% mortality. An admission urea &gt;10 mmol/L had approximately similar prognostic value. A urea &gt;10 mmol/L was 3.5 times more common in adults than children. In children &lt;15 years of age, urea was a better prognostic indicator of death than creatinine and, unlike creatinine, correlated with the plasma <i>Pf</i>HRP2 concentration. The main limitations of this analysis are the lack of metadata documenting laboratory methods and wide heterogeneity in eligibility criteria, such as creatinine or urea admission values for inclusion.</p> Conclusions <p>Admission serum or plasma creatinine &gt;3 times the age/weight predicted baseline value (KDIGO AKI stage 3) can be used to define severe malaria AKI. In children, urea is a better predictor of the true infection biomass and a better prognostic indicator for death. We recommend the following as defining criteria for severe malaria: either a urea (BUN) threshold of 10 mmol/L for both children and adults, or simple age-based thresholds representing approximately &gt;3 times fold change in creatinine from predicted baseline. These updated thresholds identify between 4 and 8 times more children with severe malaria AKI who are at a high risk of death.</p>",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "words": 541
+        },
+        {
+          "id": "831996dd7a67",
+          "title": "Martha’s rule might not help those most at risk in emergency departments",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101507.short?rss=1",
+          "source": "The BMJ",
+          "section": "vertical-thinking",
+          "author": "Adrian Boyle, Charlotte Lindsay",
+          "published": "2026-11-19T12:16:19+00:00",
+          "summary": "In recent months, NHS England has issued mandates for national roll-outs of Martha’s rule in emergency departments and the National Paediatric Early Warning Scores for detecting deterioration of children in emergency departments.12 Emergency departments have unique risks and challenges, so Martha’s rule might not work…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "3c8c865ff89a",
+          "title": "Shaping the future: the breast surgeon inspiring the next generation",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101476.short?rss=1",
+          "source": "The BMJ",
+          "section": "vertical-thinking",
+          "author": "Kathy Oxtoby",
+          "published": "2026-11-19T10:46:42+00:00",
+          "summary": "Raghavan Vidya’s role is a “delicate balance of surgical precision, oncological excellence, and deeply personal patient care.”The consultant oncoplastic breast surgeon at the Royal Wolverhampton NHS Trust says that breast surgery is unique in that it goes beyond removing disease.“It is about treating cancer effectively…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "1f8998382a42",
@@ -209,20 +251,6 @@
           "words": 28
         },
         {
-          "id": "f301d8ae0790",
-          "title": "Loss to follow-up during tuberculosis treatment and 5-year mortality in Brazil: A target trial emulation",
-          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005303",
-          "source": "PLOS Medicine",
-          "section": "vertical-thinking",
-          "author": "Jason R. Andrews",
-          "published": "2026-11-18T14:00:00+00:00",
-          "summary": "by Evelyn Lepka de Lima, Ana Angélica Lindoso, Giovanna Mariah Orlandi, Suely Fukasava, Catia Martinez, Julio Croda, C. Robert Horsburgh Jr, Otavio Ranzani, Meredith B. Brooks, Jason R.",
-          "full_html": "<p>by Evelyn Lepka de Lima, Ana Angélica Lindoso, Giovanna Mariah Orlandi, Suely Fukasava, Catia Martinez, Julio Croda, C. Robert Horsburgh Jr, Otavio Ranzani, Meredith B. Brooks, Jason R. Andrews</p>\nBackground <p>Loss to follow-up (LTFU) during tuberculosis treatment is a major programmatic gap, but how much excess mortality it causes has been difficult to estimate, because individuals who disengage differ from those who do not, and they must survive long enough to be recorded as having disengaged. Quantifying this excess and identifying which populations are at greatest risk are critical to informing program design and resource allocation.</p> Methods and findings <p>We followed 171,048 people aged 15 years or older starting a first course of tuberculosis treatment in São Paulo State, Brazil, between 2013 and 2023, linking surveillance and mortality registries; 20,830 (12.2%) were LTFU, defined as interruption of treatment for at least 30 consecutive days. Among those LTFU, 65% had received directly observed therapy (DOT). Using a clone-censor-weight target trial emulation, we contrasted two strategies over 60 months from the first day of treatment: disengagement at any point during the first 6 months and remaining in care throughout. Analyses were adjusted for age, sex, race, education, HIV status, diabetes, alcohol use, drug use, incarceration, homelessness, hospitalization at diagnosis, clinical form of tuberculosis, DOT, and municipality. A rolling landmark analysis addressed the timing of disengagement and cause-specific mortality excess. LTFU increased standardized 5-year mortality by 2.49 percentage points (95% CI [1.94, 3.17]). In a rolling landmark analysis, tuberculosis accounted for 61% of the 5-year excess mortality. Relative effects were largest in younger, stably housed individuals, whose baseline mortality was low; the largest absolute excess fell on people living with HIV (5.16 percentage points, 95% CI [3.76, 6.60]). The excess was similar for disengagement at any point in the first 4 months of treatment and attenuated thereafter. Limitations include the absence from the registry of severity markers such as radiographic extent and bacillary load, so residual confounding cannot be excluded.</p> Conclusions <p>Despite high DOT coverage, disengagement during the first 6 months of tuberculosis treatment was common and increased 5-year mortality under the stated identification assumptions, with the excess concentrated in deaths attributed to tuberculosis. Interventions that provide support throughout treatment should be tested for their effectiveness in sustaining engagement and reducing mortality.</p>",
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 379
-        },
-        {
           "id": "05696cfe9ca1",
           "title": "Healing Health Care in Rural America — Toward Community-Centered Learning Health Systems",
           "url": "https://www.nejm.org/doi/full/10.1056/NEJMsr2607321?af=R&rss=currentIssue",
@@ -249,34 +277,6 @@
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0/",
           "words": 0
-        },
-        {
-          "id": "f924f1b2dad2",
-          "title": "[Editorial] Health and poverty: lessons from China",
-          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02186-0/fulltext?rss=yes",
-          "source": "The Lancet",
-          "section": "vertical-thinking",
-          "author": "The Lancet",
-          "published": "2026-10-29T00:01:01+00:00",
-          "summary": "The world has never been wealthier. Yet in 2025, an estimated 831 million people lived on less than US$3 per day. This stark disparity exposes a systemic failure to translate global prosperity into basic security and opportunity for all.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 39
-        },
-        {
-          "id": "b2d6fe17f8e8",
-          "title": "[Comment] Optimising late-line treatment administration in metastatic colorectal cancer: an even brighter SUNLIGHT",
-          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02034-9/fulltext?rss=yes",
-          "source": "The Lancet",
-          "section": "vertical-thinking",
-          "author": "Paolo Ciracì, Chiara Cremolini",
-          "published": "2026-10-24T12:45:01+00:00",
-          "summary": "Offering late-line systemic therapy to patients with chemo-refractory metastatic colorectal cancer demands a careful estimation of the balance between the expected treatment benefit and its potential impact on quality of life, including adverse events, hospital visits, and psychosocial consequences.1 In such a comprehensive and individualised…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         }
       ]
     },
@@ -285,6 +285,20 @@
       "title": "Medicine & Therapeutics",
       "kicker": "The Clinic",
       "articles": [
+        {
+          "id": "bf367e0ac21f",
+          "title": "Experimental compound burns fat without sacrificing muscle",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-20T00:19:49+00:00",
+          "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
         {
           "id": "cced664dad6e",
           "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
@@ -314,20 +328,6 @@
           "words": 38
         },
         {
-          "id": "50076c839f44",
-          "title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-19T02:31:02+00:00",
-          "summary": "Scientists have discovered a rare inherited mutation in the CDK12 gene linked to aggressive prostate cancer, with all five identified carriers developing metastatic disease between ages 44 and 62.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
-        },
-        {
           "id": "e8a5c33dbb40",
           "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
           "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
@@ -342,32 +342,18 @@
           "words": 32
         },
         {
-          "id": "26e7b3b8765d",
-          "title": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
-          "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide",
-          "source": "FDA – Press Announcements",
+          "id": "0fdbd45c4ba9",
+          "title": "Anthropic board director Vas Narasimhan bets AI can help Novartis solve ‘biological latency’",
+          "url": "https://www.fiercebiotech.com/biotech/anthropic-board-director-vas-narasimhan-bets-ai-can-help-novartis-solve-biological-latency",
+          "source": "Fierce Biotech",
           "section": "medicine",
-          "author": "FDA",
-          "published": "2026-11-17T20:32:16+00:00",
-          "summary": "FDA today announced the Global Reliance Disclosure Program (GRDP), a landmark initiative that will fundamentally transform how the FDA's regulatory drug and biologic approval decisions are leveraged by health authorities around the world.",
+          "author": "Angus Liu",
+          "published": null,
+          "summary": "On the same day Anthropic staged a record-shattering IPO on Nasdaq, the artificial intelligence tech giant’s lone pharmaceutical board member, Novartis CEO Vas Narasimhan, was in London pitching investors on how the Swiss drugmaker is using AI to shrink drug development timelines and one day…",
           "full_html": null,
-          "license": "US Government work (public domain)",
+          "license": "",
           "license_url": "",
-          "words": 33
-        },
-        {
-          "id": "6a738b763f3f",
-          "title": "FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer",
-          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer",
-          "source": "FDA – Press Announcements",
-          "section": "medicine",
-          "author": "FDA",
-          "published": "2026-11-17T19:15:22+00:00",
-          "summary": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer.",
-          "full_html": null,
-          "license": "US Government work (public domain)",
-          "license_url": "",
-          "words": 24
+          "words": 45
         },
         {
           "id": "4a41c0e2c135",
@@ -382,20 +368,6 @@
           "license": "",
           "license_url": "",
           "words": 16
-        },
-        {
-          "id": "55789410e5b9",
-          "title": "nChroma halves headcount, calls time on trial of potential HBV ‘cure’",
-          "url": "https://www.fiercebiotech.com/biotech/nchroma-halves-headcount-calls-time-trial-potential-hbv-cure",
-          "source": "Fierce Biotech",
-          "section": "medicine",
-          "author": "James Waldron",
-          "published": null,
-          "summary": "nChroma Bio’s workforce are facing a second round of layoffs in 12 months, with the Boston biotech halving its headcount and scrapping a trial of its lead hepatitis asset.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
         }
       ]
     },
@@ -405,46 +377,46 @@
       "kicker": "The Theatre",
       "articles": [
         {
-          "id": "6c10ac353913",
-          "title": "$140,000 DOD grant supports ferroptosis research in esophageal cancer",
-          "url": "https://www.news-medical.net/news/20261118/24140000-DOD-grant-supports-ferroptosis-research-in-esophageal-cancer.aspx",
+          "id": "0facd5fd14c3",
+          "title": "Cancer cases among transgender people in England could more than double soon",
+          "url": "https://www.news-medical.net/news/20261119/Cancer-cases-among-transgender-people-in-England-could-more-than-double-soon.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-19T04:02:00+00:00",
-          "summary": "A research team at the Wayne State University School of Medicine and Karmanos Cancer Institute has received a two-year, $140,000 award from the U.S. Department of Defense (DOD) to investigate a promising therapeutic approach against one of the deadliest malignancies: esophageal cancer.",
+          "published": "2026-11-19T20:29:48+00:00",
+          "summary": "A study led by Queen Mary University of London has found that the number of new cancer cases each year among transgender and gender-diverse people in England could more than double over the next decade.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 42
+          "words": 35
         },
         {
-          "id": "34e85aa04647",
-          "title": "Noninvasive deep brain stimulation enhances reward learning and eases depressive symptoms",
-          "url": "https://www.news-medical.net/news/20261118/Noninvasive-deep-brain-stimulation-enhances-reward-learning-and-eases-depressive-symptoms.aspx",
+          "id": "5aa83d1f10af",
+          "title": "New $23 million surgical technology innovation center opens at Mount Sinai Hospital",
+          "url": "https://www.news-medical.net/news/20261119/New-2423-million-surgical-technology-innovation-center-opens-at-Mount-Sinai-Hospital.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-19T03:11:00+00:00",
-          "summary": "Researchers led by Professor TU Yiheng from the Institute of Psychology of the Chinese Academy of Sciences, in collaboration with researchers from Shenzhen University and other institutions, have developed a noninvasive deep brain stimulation approach that enhances reward learning and improves depressive symptoms in individuals…",
+          "published": "2026-11-19T19:00:46+00:00",
+          "summary": "Mount Sinai Health System and the New York City Economic Development Corporation (NYCEDC) celebrated the opening of Mount Sinai BioDesign's Comprehensive Center for Surgical Innovation (CCSI), a $23 million surgical technology innovation center across three facilities at The Mount Sinai Hospital.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 41
         },
         {
-          "id": "6505f5231d43",
-          "title": "Can GLP-1 weight loss drugs protect your brain as you age?",
-          "url": "https://www.news-medical.net/news/20261118/Can-GLP-1-weight-loss-drugs-protect-your-brain-as-you-age.aspx",
+          "id": "3ee34eabdb90",
+          "title": "New scorecard reveals major barriers to obesity treatment by state",
+          "url": "https://www.news-medical.net/news/20261119/New-scorecard-reveals-major-barriers-to-obesity-treatment-by-state.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-19T02:44:00+00:00",
-          "summary": "A review published in Science examines how GLP-1-based weight loss medications and emerging combination therapies may influence cognitive function through direct neurological mechanisms and improved cardiometabolic health.",
+          "published": "2026-11-19T18:51:30+00:00",
+          "summary": "Where Americans live can make a profound difference in their ability to access obesity treatment, according to a new state-by-state scorecard and report that gives 20 states D or F grades and finds significant barriers to care in every state in the nation.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 27
+          "words": 43
         },
         {
           "id": "0b7c75dde8d5",
@@ -615,46 +587,60 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "dd13a006f9e3",
-          "title": "When GLP-1 Costs Mask the Value of Care Management",
-          "url": "https://medcitynews.com/2026/11/when-glp-1-costs-mask-the-value-of-care-management/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Mary Bacaj",
-          "published": "2026-11-19T14:32:00+00:00",
-          "summary": "What would your fund’s claims report look like this year without GLP-1s? It’s worth asking before deciding whether your care management program is working.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
-        },
-        {
-          "id": "245632d58476",
-          "title": "STAT+: Epic defends competitive practices; promises AI access to records",
-          "url": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Mario Aguilar",
-          "published": "2026-11-19T14:21:08+00:00",
-          "summary": "In this edition of STAT Health Tech: EHR giant, Epic defends its competitive tactics, new data on AI and health care costs, and HLTH news.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 25
-        },
-        {
-          "id": "a9a4cfb41223",
-          "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
-          "url": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
+          "id": "9f136b80d7db",
+          "title": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
+          "url": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/?utm_campaign=rss",
           "source": "STAT",
           "section": "medical-trends",
           "author": "Ed Silverman",
-          "published": "2026-11-19T13:36:33+00:00",
-          "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology",
+          "published": "2026-11-20T00:00:00+00:00",
+          "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 18
+          "words": 16
+        },
+        {
+          "id": "1f9e34a33957",
+          "title": "Who Should Make Medical-Necessity Decisions: AI, Insurers or Treating Physicians?",
+          "url": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Marissa Plescia",
+          "published": "2026-11-19T23:44:27+00:00",
+          "summary": "On a panel at HLTH, experts discussed prior authorization denials and who should make the final call.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "d6ba2ff9d1a3",
+          "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
+          "url": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Krutika Kuppalli",
+          "published": "2026-11-19T22:55:19+00:00",
+          "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "f61ca2ecd267",
+          "title": "Independent Benefits Platform Leader: Market Forces Prevent Employers From Getting Best Solution",
+          "url": "https://medcitynews.com/2026/11/independent-benefits-platform-leader-market-forces-prevent-employers-from-getting-best-solution/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Arundhati Parmar",
+          "published": "2026-11-19T22:44:55+00:00",
+          "summary": "On a panel on employee benefits Ali Diab, CEO of Collective Health, spoke plainly about the market forces that hamper self-insured employers from designing the best employee benefits.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
         },
         {
           "id": "477ff9f9d84b",
@@ -683,20 +669,6 @@
           "license": "",
           "license_url": "",
           "words": 0
-        },
-        {
-          "id": "312e6dca5e7b",
-          "title": "Hone Health Secures $228M for Longevity Platform",
-          "url": "https://medcitynews.com/2026/11/hone-health-secures-228m-for-longevity-platform/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Marissa Plescia",
-          "published": "2026-11-18T23:19:14+00:00",
-          "summary": "Hone Health’s funding includes $28 million in equity as Series A financing, as well as $200 million in growth financing from General Catalyst’s Customer Value Fund.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         },
         {
           "id": "a6ce6c799899",
@@ -769,60 +741,88 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "84370a45750d",
-          "title": "Surgeon calls for corporate homicide probe over claims patients unnecessarily bled to death",
-          "url": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o?at_medium=RSS&at_campaign=rss",
+          "id": "4360ac421a2d",
+          "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-19T15:30:48+00:00",
-          "summary": "Dr Mohammed Habib said he had been raising concerns about NHS Grampian for a decade, including with government ministers and police.",
+          "published": "2026-11-20T00:08:22+00:00",
+          "summary": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 21
+          "words": 20
         },
         {
-          "id": "7867c1058d8c",
-          "title": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
-          "url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&at_campaign=rss",
+          "id": "e931db4375ea",
+          "title": "Resident doctors to begin 24-hour strike over pay",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-19T15:07:43+00:00",
-          "summary": "In its latest report into the programme of test and trace, it said cooperation was needed \"to ensure that border control measures are effective and operable in practice\".",
+          "published": "2026-11-20T00:02:03+00:00",
+          "summary": "A full 24-hour strike begins at 07:00 GMT - the second such action taken by doctors this year.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 28
+          "words": 18
         },
         {
-          "id": "1be6b905ffcf",
-          "title": "Trump takes 500 actions to weaken cancer protections, new report says",
-          "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
+          "id": "cfe5120ba729",
+          "title": "For some patients, psychedelic treatment brings new troubles in its aftermath",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Will Stone",
+          "published": "2026-11-19T23:07:17+00:00",
+          "summary": "Psychedelics could transform mental health care, but some advocates and researchers say there needs to be more focus on the minority of people with persistent troubles after using these drugs.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "540bcf5f777b",
+          "title": "Xi-Putin-Trump summit was heavy on symbolism, light on substance – and not exactly a Yalta II",
+          "url": "https://theconversation.com/xi-putin-trump-summit-was-heavy-on-symbolism-light-on-substance-and-not-exactly-a-yalta-ii-297087",
+          "source": "The Conversation",
+          "section": "related-articles",
+          "author": "Rana Mitter, Professor of U.S.-Asia Relations, Harvard Kennedy School",
+          "published": "2026-11-19T18:43:22+00:00",
+          "summary": "At an eagerly anticipated summit, the leaders of China, Russia and US discussed nuclear weapons – but not much else.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "125f9d56cd3e",
+          "title": "The 'Magic Six': How to strengthen your marriage in midlife",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Allison Aubrey",
+          "published": "2026-11-19T18:28:23+00:00",
+          "summary": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "46ef685dc336",
+          "title": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
+          "url": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
           "source": "The Guardian – Health",
           "section": "related-articles",
-          "author": "Tom Perkins",
-          "published": "2026-11-19T14:15:15+00:00",
-          "summary": "Natural Resources Defense Council shows how federal rules changes will increase public’s exposure to carcinogens Amid a rise in early onset cancer, the Trump administration has taken more than 500 actions to systematically dismantle protections against carcinogens once in place across the federal government, an…",
+          "author": "Severin Carrell Scotland editor",
+          "published": "2026-11-19T18:21:59+00:00",
+          "summary": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns and that patients may have died unnecessarily A senior surgeon has called for a criminal investigation into a Scottish hospital after it emerged that at least 19 patients had died from avoidable complications due to…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "c84927df27bb",
-          "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
-          "url": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Marc Silver",
-          "published": "2026-11-19T12:26:31+00:00",
-          "summary": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         },
         {
           "id": "70297038444c",
@@ -851,34 +851,6 @@
           "license": "",
           "license_url": "",
           "words": 15
-        },
-        {
-          "id": "e5d8c3d4efd9",
-          "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
-          "url": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668",
-          "source": "The Conversation",
-          "section": "related-articles",
-          "author": "William Kakenmaster, Postdoctoral Research Fellow in Regulation and Global Governance, Australian National University",
-          "published": "2026-11-19T03:55:07+00:00",
-          "summary": "The whole point of this summit is to address climate change. Why are fossil fuel cheerleaders still allowed in the door?",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "ae23edec6962",
-          "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
-          "url": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Jonathan Lambert",
-          "published": "2026-11-18T22:01:17+00:00",
-          "summary": "As the emergency response to the flood ends, aid workers turn to the hard work of rebuilding communities that lost everything. Many of those workers lost everything, too.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
         }
       ]
     }
