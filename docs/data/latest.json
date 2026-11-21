@@ -2,21 +2,21 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-20",
-    "date_long": "Friday, 20 November 2026",
+    "date": "2026-11-21",
+    "date_long": "Saturday, 21 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-20T21:09+05:30",
+    "generated_at": "2026-11-21T05:33+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 45,
-    "reading_minutes": 8,
-    "source_count": 26,
-    "full_text_count": 1,
+    "total_articles": 49,
+    "reading_minutes": 6,
+    "source_count": 28,
+    "full_text_count": 0,
     "per_section": {
       "vertical-thinking": 10,
-      "medicine": 4,
-      "surgery": 5,
+      "medicine": 7,
+      "surgery": 6,
       "gastroenterology": 8,
       "medical-trends": 8,
       "lectures": 2,
@@ -40,15 +40,7 @@
         "count": 5
       },
       {
-        "term": "drug",
-        "count": 5
-      },
-      {
         "term": "study",
-        "count": 5
-      },
-      {
-        "term": "care",
         "count": 5
       },
       {
@@ -64,7 +56,15 @@
         "count": 4
       },
       {
-        "term": "found",
+        "term": "people",
+        "count": 4
+      },
+      {
+        "term": "drug",
+        "count": 4
+      },
+      {
+        "term": "access",
         "count": 4
       },
       {
@@ -104,24 +104,24 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,105.00",
-        "change_pct": -4.5,
+        "display": "58,840.00",
+        "change_pct": -5.07,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,669.16",
-        "change_pct": -5.82,
+        "display": "1,620.50",
+        "change_pct": -7.87,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Theranostics",
+    "term": "Pharmacogenomics",
     "pos": "noun",
-    "domain": "Nuclear medicine",
-    "definition": "An approach that pairs a diagnostic imaging agent with a matching therapeutic one that targets the same molecular marker.",
+    "domain": "Precision medicine",
+    "definition": "The study of how a person's genes influence their response to drugs, used to choose agents and doses.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
@@ -167,46 +167,60 @@
           "words": 43
         },
         {
-          "id": "89f3d4bf770d",
-          "title": "Researchers explore possibility of a CTE blood test",
-          "url": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/?utm_campaign=rss",
+          "id": "e5850dfd0eb2",
+          "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
+          "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
           "source": "STAT – Research",
           "section": "vertical-thinking",
-          "author": "Jason Mast and O. Rose Broderick",
-          "published": "2026-11-20T13:53:10+00:00",
-          "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found.",
+          "author": "Isabella Cueto",
+          "published": "2026-11-20T20:26:10+00:00",
+          "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 27
         },
         {
-          "id": "6bf3695676d3",
-          "title": "Covid origins and Fauci row: Scientists slam “pathetic” attempts to claim officials “ghostwrote” paper",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101535.short?rss=1",
+          "id": "870fd63b5394",
+          "title": "Childhood vaccination rates will keep falling if we fail to improve access, sustain trust, and strengthen accountability",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101527.short?rss=1",
           "source": "The BMJ",
           "section": "vertical-thinking",
-          "author": "Chris Baraniuk",
-          "published": "2026-11-20T13:16:14+00:00",
-          "summary": "It is “pathetic and desperate” for the Trump administration to continue to claim that a major 2020 paper on the possible origins of covid-19 was secretly “ghostwritten” by Anthony Fauci and others, says one of the named coauthors of the study.Edward Holmes, a professor of…",
+          "author": "Joan Margaret Walmsey",
+          "published": "2026-11-20T15:51:27+00:00",
+          "summary": "Childhood vaccination rates in England are falling and inequalities are growing.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 11
         },
         {
-          "id": "2f3ecefbce99",
-          "title": "UK-US drug deal: Industry claim of improved access for 15 400 patients is “PR spin,” say experts",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101529.short?rss=1",
+          "id": "cca91e6bba91",
+          "title": "US restrictions on youth gender care: What is happening to patients, clinicians, and the evidence?",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101333.short?rss=1",
           "source": "The BMJ",
           "section": "vertical-thinking",
-          "author": "Jacqui Wise",
-          "published": "2026-11-20T13:11:18+00:00",
-          "summary": "The pharmaceutical industry’s claims that changes to the National Institute for Health and Care Excellence’s (NICE) cost effectiveness thresholds have improved patient access to new medicines “only tells one side of the story,” health economists and policy experts have said.Earlier this year the threshold that…",
+          "author": "Leslie Liang",
+          "published": "2026-11-20T15:41:20+00:00",
+          "summary": "The US government has adopted aggressive legal tactics against states that provide transgender care for patients under 18.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 18
+        },
+        {
+          "id": "947c81b3183b",
+          "title": "Correction: Co-exposure to planned power outages and wildfire PM2.5 and acute healthcare utilization in California: A time-stratified case-crossover study",
+          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005299",
+          "source": "PLOS Medicine",
+          "section": "vertical-thinking",
+          "author": "Joan A. Casey",
+          "published": "2026-11-20T14:00:00+00:00",
+          "summary": "by Lauren Blair Wilner, Caitlin G. Jones-Ngo, Chen Chen, Bethany Kwoka, Vivian Do, Joel D. Kaufman, Laura C. Myers, Tarik Benmarhnia, Joan A. Casey",
+          "full_html": null,
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "words": 24
         },
         {
           "id": "f17afb070bb8",
@@ -235,20 +249,6 @@
           "license": "",
           "license_url": "",
           "words": 30
-        },
-        {
-          "id": "7db2c9082ea1",
-          "title": "Acute kidney injury and death in severe Plasmodium falciparum malaria: An individual patient data meta-analysis",
-          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004975",
-          "source": "PLOS Medicine",
-          "section": "vertical-thinking",
-          "author": "Nicholas J. White",
-          "published": "2026-11-19T14:00:00+00:00",
-          "summary": "by James A. Watson, Andrea L. Conroy, Anthony Batte, Ruth Namazzi, Michael T. Hawkes, Kevin C. Kain, Katherine Plewes, Stije Leopold, Hugh Kingston, Tran Tinh Hien, Sam Strudwick, Rupert Higgins, Chandy John, Nguyen Hoan Phu, Elizabeth C. George, Ann Sarah Walker, Nicholas P. J.",
-          "full_html": "<p>by James A. Watson, Andrea L. Conroy, Anthony Batte, Ruth Namazzi, Michael T. Hawkes, Kevin C. Kain, Katherine Plewes, Stije Leopold, Hugh Kingston, Tran Tinh Hien, Sam Strudwick, Rupert Higgins, Chandy John, Nguyen Hoan Phu, Elizabeth C. George, Ann Sarah Walker, Nicholas P. J. Day, Thomas N. Williams, Arjen M. Dondorp, Kathryn Maitland, Nicholas J. White</p>\nBackground <p>Serum or plasma concentrations of creatinine and urea are the usual laboratory parameters measured to assess acute kidney injury (AKI) in patients with suspected severe malaria. Creatinine is preferred for estimation of the glomerular filtration rate, but the current threshold for defining severe malaria (&gt;265 μmol/L or a urea &gt;20 mmol/L) is based on adult values and does not reflect the large difference between children and adults in normal values resulting from differences in muscle mass. We reevaluated these thresholds and their prognostic significance in severe malaria using individual patient data from large prospective studies.</p> Methods and findings <p>We pooled individual patient data from 22,663 patients recruited into 14 studies of severe malaria of whom 16,441 were included in the primary analysis population. Patients were included in the primary analysis population if their age (if missing, imputed from weight or height), coma status on admission, and either an admission serum or plasma creatinine or urea measurement (blood urea nitrogen, BUN), were all recorded. The primary outcome was mortality by day 28. The secondary outcome was the admission plasma <i>Plasmodium falciparum</i> histidine-rich protein 2 (<i>Pf</i>HRP2) concentration (a measure of parasite biomass). Bayesian penalised spline regression models were used to characterise the age-specific relationships (interaction with age) between the outcome and the absolute creatinine, the creatinine fold change relative to the age/weight predicted baseline, and the absolute urea. The models adjusted for coma status and calendar year, with nested random additive effects by study site and study. We estimated threshold plasma or serum creatinine and urea concentrations associated with &gt;5% mortality with probability &gt; 0.9. The majority (84%; 13,793/16,441) were children under 15 years of age. Current thresholds for AKI were associated with mortalities greater than 5%. An admission creatinine greater than three times the age/weight predicted baseline value was associated with &gt;5% mortality. An admission urea &gt;10 mmol/L had approximately similar prognostic value. A urea &gt;10 mmol/L was 3.5 times more common in adults than children. In children &lt;15 years of age, urea was a better prognostic indicator of death than creatinine and, unlike creatinine, correlated with the plasma <i>Pf</i>HRP2 concentration. The main limitations of this analysis are the lack of metadata documenting laboratory methods and wide heterogeneity in eligibility criteria, such as creatinine or urea admission values for inclusion.</p> Conclusions <p>Admission serum or plasma creatinine &gt;3 times the age/weight predicted baseline value (KDIGO AKI stage 3) can be used to define severe malaria AKI. In children, urea is a better predictor of the true infection biomass and a better prognostic indicator for death. We recommend the following as defining criteria for severe malaria: either a urea (BUN) threshold of 10 mmol/L for both children and adults, or simple age-based thresholds representing approximately &gt;3 times fold change in creatinine from predicted baseline. These updated thresholds identify between 4 and 8 times more children with severe malaria AKI who are at a high risk of death.</p>",
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 541
         },
         {
           "id": "05696cfe9ca1",
@@ -340,6 +340,48 @@
           "license": "US Government work (public domain)",
           "license_url": "",
           "words": 32
+        },
+        {
+          "id": "26e7b3b8765d",
+          "title": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide",
+          "source": "FDA – Press Announcements",
+          "section": "medicine",
+          "author": "FDA",
+          "published": "2026-11-17T20:32:16+00:00",
+          "summary": "FDA today announced the Global Reliance Disclosure Program (GRDP), a landmark initiative that will fundamentally transform how the FDA's regulatory drug and biologic approval decisions are leveraged by health authorities around the world.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "7b06d3ef5b9b",
+          "title": "Merck’s TROP2 ADC extends survival in pivotal gastroesophageal cancer trial",
+          "url": "https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial",
+          "source": "Fierce Biotech",
+          "section": "medicine",
+          "author": "Nick Paul Taylor",
+          "published": null,
+          "summary": "Merck & Co.’s sacituzumab tirumotecan has improved overall survival in a phase 3 cancer trial, delivering a second pivotal global victory for the TROP2-directed antibody-drug conjugate.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "68e56f66f557",
+          "title": "Researchers may have to ‘revise a lot’ of theories about dementia after uncovering plastics in brain",
+          "url": "https://www.fiercebiotech.com/research/researchers-uncover-plastics-present-dementia-brains-after-death",
+          "source": "Fierce Biotech",
+          "section": "medicine",
+          "author": "Marissa Russo",
+          "published": null,
+          "summary": "The field of micro- and nanoplastics has drawn a lot of interest in recent years as concerns grow about the impact of contamination in the environment.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
         }
       ]
     },
@@ -349,10 +391,38 @@
       "kicker": "The Theatre",
       "articles": [
         {
+          "id": "d55e671cb677",
+          "title": "Researchers uncover the mechanisms of adhesion formation after thoracic surgery",
+          "url": "https://medicalxpress.com/news/2026-11-uncover-mechanisms-adhesion-formation-thoracic.html",
+          "source": "Medical Xpress – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-20T20:20:02+00:00",
+          "summary": "Intrathoracic adhesions can develop after thoracic surgery and increase the risk of complications during repeat surgery. However, the detailed molecular mechanisms underlying their formation have remained unclear.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "d2a5a797d17a",
+          "title": "Custom MRI tool could show within weeks if pancreatic cancer treatment is working",
+          "url": "https://medicalxpress.com/news/2026-11-custom-mri-tool-weeks-pancreatic.html",
+          "source": "Medical Xpress – Surgery (Breaking)",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-20T18:40:22+00:00",
+          "summary": "About 60% of people diagnosed with pancreatic cancer don't qualify for surgery because their disease is too advanced.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
           "id": "736aed261ad0",
           "title": "Continuing advanced therapies before elective Crohn's surgery may reduce serious complications",
           "url": "https://medicalxpress.com/news/2026-11-advanced-therapies-elective-crohn-surgery.html",
-          "source": "Medical Xpress – Surgery",
+          "source": "Medical Xpress – Surgery (Breaking)",
           "section": "surgery",
           "author": "",
           "published": "2026-11-20T12:07:20+00:00",
@@ -375,20 +445,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "f2c907d7dfc2",
-          "title": "New state-by-state scorecard reveals wide gaps in access to obesity treatments",
-          "url": "https://medicalxpress.com/news/2026-11-state-scorecard-reveals-wide-gaps.html",
-          "source": "Medical Xpress – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-20T02:00:02+00:00",
-          "summary": "Where Americans live can make a profound difference in their ability to access obesity treatment, according to a new state-by-state scorecard and report that gives 20 states D or F grades and finds significant barriers to care in every state in the nation.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 43
         },
         {
           "id": "0facd5fd14c3",
@@ -545,46 +601,60 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "36aa730b9a4f",
-          "title": "What HEDIS Can’t See in an Asthma Follow-Up Visit",
-          "url": "https://medcitynews.com/2026/11/what-hedis-cant-see-in-an-asthma-follow-up-visit/",
+          "id": "669060195736",
+          "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
+          "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Adam Feuerstein",
+          "published": "2026-11-20T23:43:53+00:00",
+          "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "93e2f8b9100f",
+          "title": "Digital Platforms Give Consumers a Map to Navigate New Ways to Access Medicines",
+          "url": "https://medcitynews.com/2026/11/digital-platforms-give-consumers-a-map-to-navigate-new-ways-to-access-medicines/",
           "source": "MedCity News",
           "section": "medical-trends",
-          "author": "Gary Falcetano",
-          "published": "2026-11-20T14:44:00+00:00",
-          "summary": "This opportunity that HEDIS has created for patients who were too often discharged and forgotten is well past due — but it’s up to clinicians to take it a step further to figure out why each patient lost control.",
+          "author": "Frank Vinluan",
+          "published": "2026-11-20T22:35:06+00:00",
+          "summary": "Direct-to-consumer platforms for prescription medicines are growing, but patients need support to use them as part of a broader journey through the healthcare system. Such platforms were the topic of a recent panel discussion at MedCity News’ recent INVEST Digital Health Conference.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 39
+          "words": 42
         },
         {
-          "id": "497eaa326357",
-          "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
-          "url": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
+          "id": "0ecdb55a1bdc",
+          "title": "ICE detention of Princeton scientist rattles academia",
+          "url": "https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/?utm_campaign=rss",
           "source": "STAT",
           "section": "medical-trends",
-          "author": "Ed Silverman",
-          "published": "2026-11-20T14:16:35+00:00",
-          "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&J over misleading bladder cancer drug claims, and more pharma news:",
+          "author": "Anil Oza",
+          "published": "2026-11-20T21:19:27+00:00",
+          "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting at a neuroscience conference.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 23
         },
         {
-          "id": "248bbd91d814",
-          "title": "STAT+: Early results for Alterome’s KRAS drug for pancreas, lung and colon cancer arrive",
-          "url": "https://www.statnews.com/2026/11/20/biotech-news-early-results-for-alterome-kras-drug-arrive/?utm_campaign=rss",
-          "source": "STAT",
+          "id": "888a8333e05a",
+          "title": "15 Organizations Call on Congress to Address Abuse of Drug Patent System",
+          "url": "https://medcitynews.com/2026/11/15-organizations-call-on-congress-to-address-abuse-of-drug-patent-system/",
+          "source": "MedCity News",
           "section": "medical-trends",
-          "author": "Meghana Keshavan and Adam Feuerstein",
-          "published": "2026-11-20T14:01:41+00:00",
-          "summary": "Alterome presented preliminary Phase 1 results of its drug “selectively” targeting a range of KRAS mutations — drivers of cancers in the pancreas, lung and colon:",
+          "author": "Marissa Plescia",
+          "published": "2026-11-20T21:07:04+00:00",
+          "summary": "Fifteen consumer advocacy groups urged Congress to reform drug patent laws, arguing pharmaceutical companies exploit them to delay competition and raise prices.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 26
+          "words": 22
         },
         {
           "id": "b8a992e43629",
@@ -613,20 +683,6 @@
           "license": "",
           "license_url": "",
           "words": 0
-        },
-        {
-          "id": "1f9e34a33957",
-          "title": "Who Should Make Medical-Necessity Decisions: AI, Insurers or Treating Physicians?",
-          "url": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Marissa Plescia",
-          "published": "2026-11-19T23:44:27+00:00",
-          "summary": "On a panel at HLTH, experts discussed prior authorization denials and who should make the final call.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
         },
         {
           "id": "a6ce6c799899",
@@ -699,46 +755,74 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "ea64b64f14b0",
-          "title": "'Isla was let down and hopefully this will save other families'",
-          "url": "https://www.bbc.co.uk/news/videos/cqg7l03725glo?at_medium=RSS&at_campaign=rss",
+          "id": "90efc62d0934",
+          "title": "NI doctors' strike due to end, with seperate walkout planned for Monday",
+          "url": "https://www.bbc.co.uk/news/articles/c6d71e9epe8qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-20T15:06:08+00:00",
-          "summary": "Isla Sneddon's name has been adopted in a set of national guidelines for medics treating young patients",
+          "published": "2026-11-21T00:02:22+00:00",
+          "summary": "Consultants and specialist doctors will begin a separate 24-hour strike on Monday morning as part of the same pay dispute.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 17
+          "words": 20
         },
         {
-          "id": "33920ce61369",
-          "title": "Man who nearly died during liver surgery at Aberdeen hospital says mistakes were made",
-          "url": "https://www.bbc.co.uk/news/articles/cr894yq07v23o?at_medium=RSS&at_campaign=rss",
+          "id": "81f921b8c52d",
+          "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+          "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-20T13:57:49+00:00",
-          "summary": "Derek Appleton, 60, lost 11 litres of blood and went into cardiac arrest during liver surgery.",
+          "published": "2026-11-21T00:02:09+00:00",
+          "summary": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 16
+          "words": 22
         },
         {
-          "id": "5965fd8f6b11",
-          "title": "‘They’re struggling for oxygen’: children pay the price as countries allow measles to surge again",
-          "url": "https://www.theguardian.com/global-development/2026/nov/20/children-measles-surges-us-mexico-bolivia",
+          "id": "89842b14689b",
+          "title": "Democrats Demand Answers From Oz After Delay in $50B Rural Health Awards",
+          "url": "https://kffhealthnews.org/rural-health/rural-health-transformation-fund-delays-democrats-demand-answers-mehmet-oz/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "Sarah Jane Tribble",
+          "published": "2026-11-20T21:50:27+00:00",
+          "summary": "Eighteen congressional Democrats are pressing Centers for Medicare & Medicaid Services chief Mehmet Oz for answers about the $50 billion Rural Health Transformation Program after delays to states’ second-year awards. Their letter calls out an “alarming lack of public transparency.”",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "92c954389bf5",
+          "title": "It’s time we all made healthy food go further | Letters",
+          "url": "https://www.theguardian.com/food/2026/nov/20/its-time-we-all-made-healthy-food-go-further",
           "source": "The Guardian – Health",
           "section": "related-articles",
-          "author": "Kat Lay",
-          "published": "2026-11-20T13:38:57+00:00",
-          "summary": "The US, Mexico and Bolivia this week joined the unenviable club of nations that have lost their measles-free status Deaths caused by measles are not peaceful.",
+          "author": "Guardian Staff",
+          "published": "2026-11-20T16:44:42+00:00",
+          "summary": "Estelle Herszenhorn says the food we throw away at home costs an average household of four around £1,000 a year, while Lily van den Broecke and Charlie Wartnaby share tea ideas Rachel Dixon’s article (The root-to-tip revolution!",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 26
+          "words": 37
+        },
+        {
+          "id": "165fadc595ac",
+          "title": "Burnham in Brussels: why party politics still defines the UK’s relationship with Europe",
+          "url": "https://theconversation.com/burnham-in-brussels-why-party-politics-still-defines-the-uks-relationship-with-europe-297081",
+          "source": "The Conversation",
+          "section": "related-articles",
+          "author": "Martin Steven, Senior Lecturer, School of Global Affairs, Lancaster University",
+          "published": "2026-11-20T14:26:34+00:00",
+          "summary": "The talks were part of a UK-EU ‘reset’.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 8
         },
         {
           "id": "fdf465ebcc4e",
@@ -753,34 +837,6 @@
           "license": "",
           "license_url": "",
           "words": 30
-        },
-        {
-          "id": "447a12c63151",
-          "title": "Big Win Sets Up Democrats To Intensify Probe of Trump’s Obamacare Purge",
-          "url": "https://kffhealthnews.org/elections/midterms-democratic-wins-aca-obamacare-purge-senate-insurance-investigation/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "Julie Appleby",
-          "published": "2026-11-20T10:00:00+00:00",
-          "summary": "The Trump administration canceled healthcare coverage for 760,000 enrollees in Affordable Care Act insurance plans, saying the enrollments were unauthorized. Now, with Democrats poised to take control of the House and Senate, key lawmakers want answers about the process.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 39
-        },
-        {
-          "id": "b7f674ad7efc",
-          "title": "Was Anthropic’s record US$81 billion listing a vote of confidence in AI – and what’s next?",
-          "url": "https://theconversation.com/was-anthropics-record-us-81-billion-listing-a-vote-of-confidence-in-ai-and-whats-next-297151",
-          "source": "The Conversation",
-          "section": "related-articles",
-          "author": "Angel Zhong, Professor of Finance, RMIT University",
-          "published": "2026-11-20T04:53:50+00:00",
-          "summary": "Now that Anthropic has become a publicly listed company, the AI industry will come under even more intense scrutiny.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
         },
         {
           "id": "cfe5120ba729",
@@ -829,6 +885,13 @@
       "full_text": false
     },
     {
+      "name": "Fierce Biotech",
+      "site": "https://www.fiercebiotech.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
       "name": "Gastroenterology (AGA)",
       "site": "https://www.gastrojournal.org",
       "license": "",
@@ -858,6 +921,13 @@
     },
     {
       "name": "Medical Xpress – Surgery",
+      "site": "https://medicalxpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Medical Xpress – Surgery (Breaking)",
       "site": "https://medicalxpress.com",
       "license": "",
       "license_url": "",
@@ -1000,9 +1070,8 @@
   "errors": [
     "NIH – News Releases: 404 Client Error: Not Found for url: https://www.nih.gov/news-events/news-releases/rss.xml",
     "Medical News Today: 404 Client Error: Not Found for url: https://www.medicalnewstoday.com/rss",
-    "Fierce Biotech: 403 Client Error: Forbidden for url: https://www.fiercebiotech.com/rss/xml",
     "ScienceDaily – Surgery: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/surgery.xml",
-    "Fierce Biotech – Medtech: 403 Client Error: Forbidden for url: https://www.fiercebiotech.com/medtech/rss/xml",
+    "Fierce Biotech – Medtech: 404 Client Error: Not Found for url: https://www.fiercebiotech.com/medtech/rss/xml",
     "BMC Surgery: feed contained no entries",
     "ScienceDaily – Digestive Disorders: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/digestive_disorders.xml",
     "Healthcare IT News: 403 Client Error: Forbidden for url: https://www.healthcareitnews.com/feed",
