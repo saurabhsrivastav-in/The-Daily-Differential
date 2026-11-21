@@ -5,7 +5,7 @@
     "date": "2026-11-21",
     "date_long": "Saturday, 21 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-21T05:33+05:30",
+    "generated_at": "2026-11-21T20:19+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -24,12 +24,12 @@
     },
     "keywords": [
       {
-        "term": "patients",
-        "count": 8
+        "term": "cancer",
+        "count": 9
       },
       {
-        "term": "cancer",
-        "count": 8
+        "term": "patients",
+        "count": 7
       },
       {
         "term": "mental health",
@@ -40,7 +40,19 @@
         "count": 5
       },
       {
+        "term": "care",
+        "count": 5
+      },
+      {
         "term": "study",
+        "count": 5
+      },
+      {
+        "term": "correction",
+        "count": 5
+      },
+      {
+        "term": "surgery",
         "count": 5
       },
       {
@@ -53,18 +65,6 @@
       },
       {
         "term": "online november",
-        "count": 4
-      },
-      {
-        "term": "people",
-        "count": 4
-      },
-      {
-        "term": "drug",
-        "count": 4
-      },
-      {
-        "term": "access",
         "count": 4
       },
       {
@@ -104,15 +104,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "58,840.00",
-        "change_pct": -5.07,
+        "display": "60,247.00",
+        "change_pct": -2.12,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,620.50",
-        "change_pct": -7.87,
+        "display": "1,685.08",
+        "change_pct": -2.94,
         "source": "CoinGecko"
       }
     ]
@@ -125,9 +125,9 @@
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 20",
-    "definition": "edit · refresh · view Word of the day for November 20 adiaphoron n (chiefly in the plural, also attributive) A matter which is neither inherently good nor bad; an indifferent matter. (philosophy) A matter which is morally neutral. (theology…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261120000000/en",
+    "word": "Word of the day for November 21",
+    "definition": "edit · refresh · view Word of the day for November 21 culch n (southern England, US (especially New England)) (uncountable) Debris, rubbish, trash. (agriculture, uncountable) Crushed oyster shells, rocks, and other sea detritus that together form an oyster bed…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261121000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -601,18 +601,60 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "669060195736",
-          "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
-          "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+          "id": "5da827f3cf5b",
+          "title": "Opinion: When should medical school start?",
+          "url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
           "source": "STAT",
           "section": "medical-trends",
-          "author": "Adam Feuerstein",
-          "published": "2026-11-20T23:43:53+00:00",
-          "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+          "author": "Torie Bosch",
+          "published": "2026-11-21T12:00:00+00:00",
+          "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 20
+          "words": 14
+        },
+        {
+          "id": "f6d3fbde06ef",
+          "title": "Opinion: How Kennedy and MAHA could help stop measles",
+          "url": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Brinda Adhikari",
+          "published": "2026-11-21T09:30:00+00:00",
+          "summary": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "eadd04085dde",
+          "title": "Publisher Correction: Inequities in urban emergency medical services",
+          "url": "https://www.nature.com/articles/s44401-026-00170-4",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-21T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "d6613258e55c",
+          "title": "Even Jacobi-Fourier phase in intraocular lens for presbyopia correction",
+          "url": "https://www.nature.com/articles/s41598-026-80848-9",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-21T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
         },
         {
           "id": "93e2f8b9100f",
@@ -629,20 +671,6 @@
           "words": 42
         },
         {
-          "id": "0ecdb55a1bdc",
-          "title": "ICE detention of Princeton scientist rattles academia",
-          "url": "https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Anil Oza",
-          "published": "2026-11-20T21:19:27+00:00",
-          "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting at a neuroscience conference.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
           "id": "888a8333e05a",
           "title": "15 Organizations Call on Congress to Address Abuse of Drug Patent System",
           "url": "https://medcitynews.com/2026/11/15-organizations-call-on-congress-to-address-abuse-of-drug-patent-system/",
@@ -655,34 +683,6 @@
           "license": "",
           "license_url": "",
           "words": 22
-        },
-        {
-          "id": "b8a992e43629",
-          "title": "var2csa transcription implicates variant surface antigen switching in cerebral malaria pathogenesis",
-          "url": "https://www.nature.com/articles/s41467-026-78682-8",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-20T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "240e0e23bab2",
-          "title": "Association between forward head posture and neck and upper-back stiffness",
-          "url": "https://www.nature.com/articles/s41598-026-80996-y",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-20T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
         },
         {
           "id": "a6ce6c799899",
@@ -755,32 +755,74 @@
       "kicker": "Further Reading",
       "articles": [
         {
+          "id": "91fe6e50fca0",
+          "title": "Independent review ordered into surgery carried out by NHS Grampian",
+          "url": "https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-21T14:46:59+00:00",
+          "summary": "It follows a whistleblower's leaking of a document which shows there were 19 avoidable deaths at the health board.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "79a02425ec17",
+          "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Harry Cockburn",
+          "published": "2026-11-21T14:42:56+00:00",
+          "summary": "Documentary records Catherine taking on Three Peaks challenge and finding ‘sense of hope alongside uncertainty’ The Princess of Wales has spoken candidly about the impact of her cancer diagnosis in a BBC documentary to be aired later this month.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "3a9dcea78a0c",
+          "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Ryan Benk",
+          "published": "2026-11-21T12:40:10+00:00",
+          "summary": "Amid ongoing measles outbreaks, Philadelphia neonatologist Joanna Parga-Belinkie talks with NPR's Scott Simon about how she keeps infants too young for the vaccine safe.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "5f722eff398b",
+          "title": "Reporters Talk Measles, Pediatric Care, and Democrats’ Post-Election Healthcare Agenda",
+          "url": "https://kffhealthnews.org/on-air/november-21-2026-measles-pediatric-care-democrats-healthcare-agenda/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-21T10:00:00+00:00",
+          "summary": "KFF Health News journalists made the rounds on national or local media recently to discuss topical stories. Here’s a collection of their appearances.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
           "id": "90efc62d0934",
-          "title": "NI doctors' strike due to end, with seperate walkout planned for Monday",
+          "title": "Further walkout planned by NI doctors as strike ends",
           "url": "https://www.bbc.co.uk/news/articles/c6d71e9epe8qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-21T00:02:22+00:00",
+          "published": "2026-11-21T07:01:13+00:00",
           "summary": "Consultants and specialist doctors will begin a separate 24-hour strike on Monday morning as part of the same pay dispute.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 20
-        },
-        {
-          "id": "81f921b8c52d",
-          "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
-          "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-21T00:02:09+00:00",
-          "summary": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
         },
         {
           "id": "89842b14689b",
@@ -797,20 +839,6 @@
           "words": 40
         },
         {
-          "id": "92c954389bf5",
-          "title": "It’s time we all made healthy food go further | Letters",
-          "url": "https://www.theguardian.com/food/2026/nov/20/its-time-we-all-made-healthy-food-go-further",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Guardian Staff",
-          "published": "2026-11-20T16:44:42+00:00",
-          "summary": "Estelle Herszenhorn says the food we throw away at home costs an average household of four around £1,000 a year, while Lily van den Broecke and Charlie Wartnaby share tea ideas Rachel Dixon’s article (The root-to-tip revolution!",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
-        },
-        {
           "id": "165fadc595ac",
           "title": "Burnham in Brussels: why party politics still defines the UK’s relationship with Europe",
           "url": "https://theconversation.com/burnham-in-brussels-why-party-politics-still-defines-the-uks-relationship-with-europe-297081",
@@ -825,20 +853,6 @@
           "words": 8
         },
         {
-          "id": "fdf465ebcc4e",
-          "title": "Finding an ACA Plan Have You Feeling Overwhelmed? Free Help Is Available",
-          "url": "https://kffhealthnews.org/insurance/wamu-health-hub-open-enrollment-aca-obamacare-first-time-free-help-assisters/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "Blake Farmer, Nashville Public Radio",
-          "published": "2026-11-20T10:00:00+00:00",
-          "summary": "Open enrollment season is here. “HealthQ” host Blake Farmer sits down with WAMU’s “Health Hub” to tell first-time shoppers what they need to know about picking out a health plan.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
-        },
-        {
           "id": "cfe5120ba729",
           "title": "For some patients, psychedelic treatment brings new troubles in its aftermath",
           "url": "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath",
@@ -851,20 +865,6 @@
           "license": "",
           "license_url": "",
           "words": 30
-        },
-        {
-          "id": "125f9d56cd3e",
-          "title": "The 'Magic Six': How to strengthen your marriage in midlife",
-          "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Allison Aubrey",
-          "published": "2026-11-19T18:28:23+00:00",
-          "summary": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
         }
       ]
     }
