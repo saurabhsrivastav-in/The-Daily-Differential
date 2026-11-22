@@ -2,21 +2,21 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-22",
-    "date_long": "Sunday, 22 November 2026",
+    "date": "2026-11-23",
+    "date_long": "Monday, 23 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-22T20:15+05:30",
+    "generated_at": "2026-11-23T05:11+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 45,
-    "reading_minutes": 5,
+    "total_articles": 48,
+    "reading_minutes": 6,
     "source_count": 28,
     "full_text_count": 0,
     "per_section": {
       "vertical-thinking": 10,
-      "medicine": 5,
-      "surgery": 4,
+      "medicine": 7,
+      "surgery": 5,
       "gastroenterology": 8,
       "medical-trends": 8,
       "lectures": 2,
@@ -28,35 +28,31 @@
         "count": 9
       },
       {
+        "term": "patients",
+        "count": 7
+      },
+      {
         "term": "people",
         "count": 5
       },
       {
-        "term": "access",
+        "term": "treatment",
         "count": 5
       },
       {
-        "term": "patients",
+        "term": "care",
         "count": 5
-      },
-      {
-        "term": "clinical",
-        "count": 5
-      },
-      {
-        "term": "online november",
-        "count": 4
       },
       {
         "term": "published online",
         "count": 4
       },
       {
-        "term": "treatment",
+        "term": "online november",
         "count": 4
       },
       {
-        "term": "cells",
+        "term": "million",
         "count": 4
       },
       {
@@ -64,11 +60,15 @@
         "count": 4
       },
       {
-        "term": "pancreatic cancer",
-        "count": 3
+        "term": "access",
+        "count": 4
       },
       {
         "term": "colorectal cancer",
+        "count": 3
+      },
+      {
+        "term": "covid pandemic",
         "count": 3
       }
     ],
@@ -104,24 +104,24 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,762.00",
-        "change_pct": 0.85,
+        "display": "61,251.00",
+        "change_pct": 1.83,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,705.86",
-        "change_pct": 1.19,
+        "display": "1,722.46",
+        "change_pct": 2.43,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Digital twin",
+    "term": "Ambient clinical documentation",
     "pos": "noun",
-    "domain": "Health technology",
-    "definition": "A computational model of a patient or organ, updated with real data, used to simulate how a treatment might perform.",
+    "domain": "Health IT",
+    "definition": "Software that listens to a consultation and drafts the clinical note automatically for the clinician to review.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
@@ -286,18 +286,46 @@
       "kicker": "The Clinic",
       "articles": [
         {
-          "id": "6c107b5d2c92",
-          "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+          "id": "6bfc22039f06",
+          "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-21T02:35:26+00:00",
-          "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable of damaging cells and tissues.",
+          "published": "2026-11-22T21:35:19+00:00",
+          "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 36
+          "words": 24
+        },
+        {
+          "id": "b3dae0016b97",
+          "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-22T20:57:35+00:00",
+          "summary": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s each year.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 41
+        },
+        {
+          "id": "6f1ac1be7637",
+          "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-22T11:04:06+00:00",
+          "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
         },
         {
           "id": "e8a5c33dbb40",
@@ -363,28 +391,28 @@
       "kicker": "The Theatre",
       "articles": [
         {
-          "id": "a72975135247",
-          "title": "Nationwide study reveals real-world outcomes of pancreatic cancer surgery in China",
-          "url": "https://www.news-medical.net/news/20261120/Nationwide-study-reveals-real-world-outcomes-of-pancreatic-cancer-surgery-in-China.aspx",
+          "id": "7626d4741915",
+          "title": "ASA urges CMS to preserve Medicare's physician supervision requirement for anesthesia care",
+          "url": "https://www.news-medical.net/news/20261120/ASA-urges-CMS-to-preserve-Medicares-physician-supervision-requirement-for-anesthesia-care.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-20T21:20:00+00:00",
-          "summary": "Pancreatic cancer remains a highly lethal malignancy, with 118,700 new cases and 106,300 deaths recorded in China in 2022. To evaluate real-world clinical practices, a new report was published in Volume 9, Issue 3 of the Journal of Pancreatology in September 2026.",
+          "published": "2026-11-20T23:09:00+00:00",
+          "summary": "The American Society of Anesthesiologists (ASA) is calling on the public, including Medicare patients and their families, to speak out for patient safety and insist that the Centers for Medicare & Medicaid Services (CMS) preserve Medicare's longstanding physician supervision requirement for anesthesia care.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 42
+          "words": 43
         },
         {
-          "id": "445877eb33e6",
-          "title": "Zombie cells may explain slower muscle recovery in older adults",
-          "url": "https://www.news-medical.net/news/20261120/Zombie-cells-may-explain-slower-muscle-recovery-in-older-adults.aspx",
+          "id": "78303e223640",
+          "title": "Vanderbilt Burn Center launches pledge to promote safer holiday cooking",
+          "url": "https://www.news-medical.net/news/20261120/Vanderbilt-Burn-Center-launches-pledge-to-promote-safer-holiday-cooking.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-20T21:05:00+00:00",
-          "summary": "A class of fatty acid molecules called prostaglandins may be responsible for why older adults often fail to recover muscle strength after illness or injury, while young adults quickly bounce back, a new study has found.",
+          "published": "2026-11-20T22:52:00+00:00",
+          "summary": "Before families gather around the table this Thanksgiving, physicians at the Vanderbilt Burn Center are encouraging parents and caregivers to take a simple step that could help prevent serious injuries: the \"Cool Kitchens, Safe Families\" pledge.",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -417,6 +445,20 @@
           "license": "",
           "license_url": "",
           "words": 18
+        },
+        {
+          "id": "736aed261ad0",
+          "title": "Continuing advanced therapies before elective Crohn's surgery may reduce serious complications",
+          "url": "https://medicalxpress.com/news/2026-11-advanced-therapies-elective-crohn-surgery.html",
+          "source": "Medical Xpress – Surgery (Breaking)",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-20T12:07:20+00:00",
+          "summary": "Patients with Crohn's disease who continue advanced therapies, including biologics and small-molecule drugs, in the months before elective colorectal surgery may have a lower risk of two postoperative complications: anastomotic leak and organ space surgical site infection, according to a study published in the Journal…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         }
       ]
     },
@@ -438,6 +480,20 @@
           "license": "",
           "license_url": "",
           "words": 26
+        },
+        {
+          "id": "641832204a10",
+          "title": "New Cedars-Sinai center aims to advance the treatment of gastrointestinal and liver diseases",
+          "url": "https://www.news-medical.net/news/20261120/New-Cedars-Sinai-center-aims-to-advance-the-treatment-of-gastrointestinal-and-liver-diseases.aspx",
+          "source": "News-Medical – Gastroenterology",
+          "section": "gastroenterology",
+          "author": "",
+          "published": "2026-11-20T22:45:00+00:00",
+          "summary": "The National Institutes of Health (NIH) have awarded Cedars-Sinai a $6.42 million, five-year grant to establish the Cedars-Sinai Digestive Diseases Research Center.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
         },
         {
           "id": "1ee045a4cfd8",
@@ -496,20 +552,6 @@
           "words": 17
         },
         {
-          "id": "28412663ad12",
-          "title": "Matrix stiffness determines whether liver cells regenerate or scar",
-          "url": "https://www.news-medical.net/news/20261116/Matrix-stiffness-determines-whether-liver-cells-regenerate-or-scar.aspx",
-          "source": "News-Medical – Gastroenterology",
-          "section": "gastroenterology",
-          "author": "",
-          "published": "2026-11-16T16:40:13+00:00",
-          "summary": "Soft and stiff extracellular matrix environments influence how hepatic stellate cells (HSCs) respond during liver injury. Researchers from Science Tokyo investigated how matrix stiffness shapes the direction of HSC activation.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
-        },
-        {
           "id": "e55a8afafd5e",
           "title": "CAF-macrophage crosstalk fuels immunotherapy resistance",
           "url": "http://gut.bmj.com/cgi/content/short/75/12/2301?rss=1",
@@ -544,6 +586,20 @@
       "title": "Emerging Medical Trends & New Vocabulary",
       "kicker": "Frontiers & Phrases",
       "articles": [
+        {
+          "id": "4a7063e6ea12",
+          "title": "Orientation Solution Supports New Nurses, Saves Millions at Maryland’s Largest Healthcare System",
+          "url": "https://medcitynews.com/2026/11/orientation-solution-supports-new-nurses-saves-millions-at-marylands-largest-healthcare-system/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Jenna Congdon",
+          "published": "2026-11-22T15:00:00+00:00",
+          "summary": "The University of Maryland Medical system announced that its nurse-designed orientation tool is now available to other health systems. The tool has saved the hospital nearly $4 million in staffing costs since its launch in January 2023.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        },
         {
           "id": "65571dd9bd25",
           "title": "When Practicing Clinicians Help Write the Protocol, More Patients Get Access To Novel Therapies",
@@ -613,20 +669,6 @@
           "license": "",
           "license_url": "",
           "words": 19
-        },
-        {
-          "id": "93e2f8b9100f",
-          "title": "Digital Platforms Give Consumers a Map to Navigate New Ways to Access Medicines",
-          "url": "https://medcitynews.com/2026/11/digital-platforms-give-consumers-a-map-to-navigate-new-ways-to-access-medicines/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Frank Vinluan",
-          "published": "2026-11-20T22:35:06+00:00",
-          "summary": "Direct-to-consumer platforms for prescription medicines are growing, but patients need support to use them as part of a broader journey through the healthcare system. Such platforms were the topic of a recent panel discussion at MedCity News’ recent INVEST Digital Health Conference.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 42
         },
         {
           "id": "a6ce6c799899",
@@ -699,14 +741,42 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "768fba82c8c9",
-          "title": "Man who killed three during psychotic episode ‘had been released after catalogue of failures’",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
+          "id": "445b003be1d2",
+          "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
+          "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
           "source": "The Guardian – Health",
           "section": "related-articles",
-          "author": "Rachel Hall",
-          "published": "2026-11-22T13:24:10+00:00",
-          "summary": "Alexander Lewis-Ranwell was arrested and let go twice by police in the 48 hours before he killed three men in their 80s in Exeter A man with paranoid schizophrenia who killed three people while experiencing a psychotic episode had been released from custody after a…",
+          "author": "Denis Campbell and Hanad Ahmed",
+          "published": "2026-11-22T18:45:30+00:00",
+          "summary": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normally Dozens of hospitals are so short of money they may not be able to continue caring for patients and are being forced to make “unpalatable” cuts to services and staff…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "aa9df4dbf158",
+          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+          "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Kate Bartlett",
+          "published": "2026-11-22T17:34:20+00:00",
+          "summary": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "4adc395e45c8",
+          "title": "An album to keep your mind on track | Brief letters",
+          "url": "https://www.theguardian.com/music/2026/nov/22/an-album-to-keep-your-mind-on-track",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Guardian Staff",
+          "published": "2026-11-22T16:50:35+00:00",
+          "summary": "Steely Dan | Hot toddy | Dental advice | Christmas gifts | Black Friday I read with interest how Adrian Chiles traces his concentration challenges back to the CD shuffle button (Instant gratification is ruining our lives – and for me it started with my…",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -714,7 +784,7 @@
         },
         {
           "id": "7b306ae35bb3",
-          "title": "It's Medicare open enrollment time. Here's what you need to know",
+          "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
           "source": "NPR – Health",
           "section": "related-articles",
@@ -755,20 +825,6 @@
           "words": 15
         },
         {
-          "id": "4411aba23093",
-          "title": "Bayer reaches Roundup settlement that could cost the company billions",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Will Stone",
-          "published": "2026-11-21T20:37:35+00:00",
-          "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
           "id": "5f722eff398b",
           "title": "Reporters Talk Measles, Pediatric Care, and Democrats’ Post-Election Healthcare Agenda",
           "url": "https://kffhealthnews.org/on-air/november-21-2026-measles-pediatric-care-democrats-healthcare-agenda/",
@@ -781,20 +837,6 @@
           "license": "",
           "license_url": "",
           "words": 23
-        },
-        {
-          "id": "89842b14689b",
-          "title": "Democrats Demand Answers From Oz After Delay in $50B Rural Health Awards",
-          "url": "https://kffhealthnews.org/rural-health/rural-health-transformation-fund-delays-democrats-demand-answers-mehmet-oz/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "Sarah Jane Tribble",
-          "published": "2026-11-20T21:50:27+00:00",
-          "summary": "Eighteen congressional Democrats are pressing Centers for Medicare & Medicaid Services chief Mehmet Oz for answers about the $50 billion Rural Health Transformation Program after delays to states’ second-year awards. Their letter calls out an “alarming lack of public transparency.”",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 40
         },
         {
           "id": "165fadc595ac",
