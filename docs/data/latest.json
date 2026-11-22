@@ -5,17 +5,17 @@
     "date": "2026-11-22",
     "date_long": "Sunday, 22 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-22T04:59+05:30",
+    "generated_at": "2026-11-22T20:15+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 47,
-    "reading_minutes": 6,
+    "total_articles": 45,
+    "reading_minutes": 5,
     "source_count": 28,
     "full_text_count": 0,
     "per_section": {
       "vertical-thinking": 10,
-      "medicine": 7,
+      "medicine": 5,
       "surgery": 4,
       "gastroenterology": 8,
       "medical-trends": 8,
@@ -24,23 +24,23 @@
     },
     "keywords": [
       {
-        "term": "cancer",
-        "count": 8
+        "term": "health",
+        "count": 9
+      },
+      {
+        "term": "people",
+        "count": 5
+      },
+      {
+        "term": "access",
+        "count": 5
       },
       {
         "term": "patients",
-        "count": 6
-      },
-      {
-        "term": "correction",
         "count": 5
       },
       {
-        "term": "surgery",
-        "count": 5
-      },
-      {
-        "term": "colorectal",
+        "term": "clinical",
         "count": 5
       },
       {
@@ -56,19 +56,19 @@
         "count": 4
       },
       {
+        "term": "cells",
+        "count": 4
+      },
+      {
         "term": "drug",
         "count": 4
       },
       {
-        "term": "access",
-        "count": 4
-      },
-      {
-        "term": "mental health",
+        "term": "pancreatic cancer",
         "count": 3
       },
       {
-        "term": "lower risk",
+        "term": "colorectal cancer",
         "count": 3
       }
     ],
@@ -104,15 +104,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,168.00",
-        "change_pct": 2.2,
+        "display": "60,762.00",
+        "change_pct": 0.85,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,680.50",
-        "change_pct": 3.94,
+        "display": "1,705.86",
+        "change_pct": 1.19,
         "source": "CoinGecko"
       }
     ]
@@ -125,9 +125,9 @@
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 21",
-    "definition": "edit · refresh · view Word of the day for November 21 culch n (southern England, US (especially New England)) (uncountable) Debris, rubbish, trash. (agriculture) Crushed oyster shells, rocks, and other sea detritus that together form an oyster bed, where…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261121000000/en",
+    "word": "Word of the day for November 22",
+    "definition": "edit · refresh · view Word of the day for November 22 plinky-plonky adj (chiefly music, informal) Especially of a musical instrument such as a piano: making sharp, tinny sounds; plinky.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261122000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -300,34 +300,6 @@
           "words": 36
         },
         {
-          "id": "a51d54d0d182",
-          "title": "Keto diet slashes liver fat by 67% in just 4 months",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-20T12:44:39+00:00",
-          "summary": "A new clinical trial found that the ketogenic diet dramatically outperformed Mediterranean and low-fat diets in reducing liver fat and improving metabolic health, even when participants lost similar amounts of weight.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 31
-        },
-        {
-          "id": "3476eae0217c",
-          "title": "This simple habit is linked to a 33% lower risk of Alzheimer's",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-20T12:06:07+00:00",
-          "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
-        },
-        {
           "id": "e8a5c33dbb40",
           "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
           "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
@@ -356,6 +328,20 @@
           "words": 33
         },
         {
+          "id": "0f72ebb7fb82",
+          "title": "Danaher teams up with Microsoft to boost ‘experimental execution’",
+          "url": "https://www.fiercebiotech.com/medtech/danaher-teams-microsoft-boost-experimental-execution",
+          "source": "Fierce Biotech",
+          "section": "medicine",
+          "author": "Patrick McGuire",
+          "published": null,
+          "summary": "Danaher Corporation and Microsoft are teaming for a strategic partnership to develop smart scientific instruments and an interoperable agentic ecosystem.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
           "id": "7b06d3ef5b9b",
           "title": "Merck’s TROP2 ADC extends survival in pivotal gastroesophageal cancer trial",
           "url": "https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial",
@@ -368,20 +354,6 @@
           "license": "",
           "license_url": "",
           "words": 26
-        },
-        {
-          "id": "68e56f66f557",
-          "title": "Researchers may have to ‘revise a lot’ of theories about dementia after uncovering plastics in brain",
-          "url": "https://www.fiercebiotech.com/research/researchers-uncover-plastics-present-dementia-brains-after-death",
-          "source": "Fierce Biotech",
-          "section": "medicine",
-          "author": "Marissa Russo",
-          "published": null,
-          "summary": "The field of micro- and nanoplastics has drawn a lot of interest in recent years as concerns grow about the impact of contamination in the environment.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         }
       ]
     },
@@ -390,6 +362,34 @@
       "title": "Surgery & Operative Innovation",
       "kicker": "The Theatre",
       "articles": [
+        {
+          "id": "a72975135247",
+          "title": "Nationwide study reveals real-world outcomes of pancreatic cancer surgery in China",
+          "url": "https://www.news-medical.net/news/20261120/Nationwide-study-reveals-real-world-outcomes-of-pancreatic-cancer-surgery-in-China.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-20T21:20:00+00:00",
+          "summary": "Pancreatic cancer remains a highly lethal malignancy, with 118,700 new cases and 106,300 deaths recorded in China in 2022. To evaluate real-world clinical practices, a new report was published in Volume 9, Issue 3 of the Journal of Pancreatology in September 2026.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "445877eb33e6",
+          "title": "Zombie cells may explain slower muscle recovery in older adults",
+          "url": "https://www.news-medical.net/news/20261120/Zombie-cells-may-explain-slower-muscle-recovery-in-older-adults.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-20T21:05:00+00:00",
+          "summary": "A class of fatty acid molecules called prostaglandins may be responsible for why older adults often fail to recover muscle strength after illness or injury, while young adults quickly bounce back, a new study has found.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
         {
           "id": "d55e671cb677",
           "title": "Researchers uncover the mechanisms of adhesion formation after thoracic surgery",
@@ -417,34 +417,6 @@
           "license": "",
           "license_url": "",
           "words": 18
-        },
-        {
-          "id": "736aed261ad0",
-          "title": "Continuing advanced therapies before elective Crohn's surgery may reduce serious complications",
-          "url": "https://medicalxpress.com/news/2026-11-advanced-therapies-elective-crohn-surgery.html",
-          "source": "Medical Xpress – Surgery (Breaking)",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-20T12:07:20+00:00",
-          "summary": "Patients with Crohn's disease who continue advanced therapies, including biologics and small-molecule drugs, in the months before elective colorectal surgery may have a lower risk of two postoperative complications: anastomotic leak and organ space surgical site infection, according to a study published in the Journal…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "0c4ba43f83df",
-          "title": "Continuing advanced therapies before surgery linked to fewer Crohn's complications",
-          "url": "https://www.news-medical.net/news/20261119/Continuing-advanced-therapies-before-surgery-linked-to-fewer-Crohns-complications.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-20T02:49:00+00:00",
-          "summary": "Patients with Crohn's disease who continue advanced therapies, including biologics and small-molecule drugs, in the months before elective colorectal surgery may have a lower risk of two postoperative complications: anastomotic leak and organ space surgical site infection, according to a study published in the Journal…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         }
       ]
     },
@@ -573,6 +545,48 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
+          "id": "65571dd9bd25",
+          "title": "When Practicing Clinicians Help Write the Protocol, More Patients Get Access To Novel Therapies",
+          "url": "https://medcitynews.com/2026/11/when-practicing-clinicians-help-write-the-protocol-more-patients-get-access-to-novel-therapies/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Thomas Waggoner",
+          "published": "2026-11-22T14:25:00+00:00",
+          "summary": "Many patients never reach a trial because community settings often have less access to referrals than academic centers, where trials are typically based.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "fdb658fe3385",
+          "title": "A comparative analysis of extracapsular dissection versus superficial parotidectomy for benign parotid gland neoplasms",
+          "url": "https://www.nature.com/articles/s41598-026-81341-z",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-22T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "b72eda7ef86c",
+          "title": "Multimodal digital biomarker for asthma: complementary roles of vocal, clinical and demographic factors",
+          "url": "https://www.nature.com/articles/s41746-026-03465-w",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-22T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
           "id": "5da827f3cf5b",
           "title": "Opinion: When should medical school start?",
           "url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
@@ -601,34 +615,6 @@
           "words": 19
         },
         {
-          "id": "eadd04085dde",
-          "title": "Publisher Correction: Inequities in urban emergency medical services",
-          "url": "https://www.nature.com/articles/s44401-026-00170-4",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-21T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "d6613258e55c",
-          "title": "Even Jacobi-Fourier phase in intraocular lens for presbyopia correction",
-          "url": "https://www.nature.com/articles/s41598-026-80848-9",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-21T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
           "id": "93e2f8b9100f",
           "title": "Digital Platforms Give Consumers a Map to Navigate New Ways to Access Medicines",
           "url": "https://medcitynews.com/2026/11/digital-platforms-give-consumers-a-map-to-navigate-new-ways-to-access-medicines/",
@@ -641,20 +627,6 @@
           "license": "",
           "license_url": "",
           "words": 42
-        },
-        {
-          "id": "888a8333e05a",
-          "title": "15 Organizations Call on Congress to Address Abuse of Drug Patent System",
-          "url": "https://medcitynews.com/2026/11/15-organizations-call-on-congress-to-address-abuse-of-drug-patent-system/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Marissa Plescia",
-          "published": "2026-11-20T21:07:04+00:00",
-          "summary": "Fifteen consumer advocacy groups urged Congress to reform drug patent laws, arguing pharmaceutical companies exploit them to delay competition and raise prices.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
         },
         {
           "id": "a6ce6c799899",
@@ -727,6 +699,62 @@
       "kicker": "Further Reading",
       "articles": [
         {
+          "id": "768fba82c8c9",
+          "title": "Man who killed three during psychotic episode ‘had been released after catalogue of failures’",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Rachel Hall",
+          "published": "2026-11-22T13:24:10+00:00",
+          "summary": "Alexander Lewis-Ranwell was arrested and let go twice by police in the 48 hours before he killed three men in their 80s in Exeter A man with paranoid schizophrenia who killed three people while experiencing a psychotic episode had been released from custody after a…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "7b306ae35bb3",
+          "title": "It's Medicare open enrollment time. Here's what you need to know",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Jackie Fortiér",
+          "published": "2026-11-22T13:11:04+00:00",
+          "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "bd7ca1a61836",
+          "title": "Why are so many more young Scots claiming disability benefits?",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-22T09:28:24+00:00",
+          "summary": "The number of Scots claiming disability benefits has risen sharply since the Covid pandemic - why?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "142571ff8bb3",
+          "title": "Midwives told to expect fewer jobs as recruitment drive is paused",
+          "url": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-22T07:46:28+00:00",
+          "summary": "One graduate said she would take minimum wage to get her first job in midwifery.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
           "id": "4411aba23093",
           "title": "Bayer reaches Roundup settlement that could cost the company billions",
           "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
@@ -741,48 +769,6 @@
           "words": 26
         },
         {
-          "id": "3977b4ac2205",
-          "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Melissa Davey Medical editor",
-          "published": "2026-11-21T19:00:07+00:00",
-          "summary": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’ Get our breaking news email, free app or daily news podcast An Australian beauty company that promotes “clean” ingredients “free from skin irritants” has been referred to state…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "91fe6e50fca0",
-          "title": "Independent review ordered into surgery carried out by NHS Grampian",
-          "url": "https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-21T15:15:29+00:00",
-          "summary": "It follows a whistleblower's leaking of a document which shows there were 19 avoidable deaths at the health board.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "3a9dcea78a0c",
-          "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Ryan Benk",
-          "published": "2026-11-21T12:40:10+00:00",
-          "summary": "Amid ongoing measles outbreaks, Philadelphia neonatologist Joanna Parga-Belinkie talks with NPR's Scott Simon about how she keeps infants too young for the vaccine safe.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
-        },
-        {
           "id": "5f722eff398b",
           "title": "Reporters Talk Measles, Pediatric Care, and Democrats’ Post-Election Healthcare Agenda",
           "url": "https://kffhealthnews.org/on-air/november-21-2026-measles-pediatric-care-democrats-healthcare-agenda/",
@@ -795,20 +781,6 @@
           "license": "",
           "license_url": "",
           "words": 23
-        },
-        {
-          "id": "90efc62d0934",
-          "title": "Further walkout planned by NI doctors as strike ends",
-          "url": "https://www.bbc.co.uk/news/articles/c6d71e9epe8qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-21T07:01:13+00:00",
-          "summary": "Consultants and specialist doctors will begin a separate 24-hour strike on Monday morning as part of the same pay dispute.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
         },
         {
           "id": "89842b14689b",
