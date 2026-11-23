@@ -2,132 +2,132 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-23",
-    "date_long": "Monday, 23 November 2026",
+    "date": "2026-11-24",
+    "date_long": "Tuesday, 24 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-23T05:11+05:30",
+    "generated_at": "2026-11-24T00:01+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 48,
-    "reading_minutes": 6,
+    "reading_minutes": 7,
     "source_count": 28,
     "full_text_count": 0,
     "per_section": {
       "vertical-thinking": 10,
       "medicine": 7,
-      "surgery": 5,
+      "surgery": 6,
       "gastroenterology": 8,
       "medical-trends": 8,
-      "lectures": 2,
+      "lectures": 1,
       "related-articles": 8
     },
     "keywords": [
       {
         "term": "health",
+        "count": 13
+      },
+      {
+        "term": "cancer",
         "count": 9
       },
       {
         "term": "patients",
+        "count": 9
+      },
+      {
+        "term": "disease",
         "count": 7
       },
       {
-        "term": "people",
-        "count": 5
-      },
-      {
         "term": "treatment",
-        "count": 5
+        "count": 7
       },
       {
-        "term": "care",
-        "count": 5
+        "term": "study",
+        "count": 6
       },
       {
-        "term": "published online",
-        "count": 4
+        "term": "liver",
+        "count": 6
+      },
+      {
+        "term": "trial",
+        "count": 5
       },
       {
         "term": "online november",
         "count": 4
       },
       {
-        "term": "million",
+        "term": "published online",
         "count": 4
       },
       {
-        "term": "drug",
-        "count": 4
+        "term": "multiple sclerosis",
+        "count": 2
       },
       {
-        "term": "access",
-        "count": 4
-      },
-      {
-        "term": "colorectal cancer",
-        "count": 3
-      },
-      {
-        "term": "covid pandemic",
-        "count": 3
+        "term": "control clinical",
+        "count": 2
       }
     ],
     "markets": [
       {
         "label": "USD/EUR",
         "group": "Currencies",
-        "display": "0.9099",
-        "change_pct": 0.02,
+        "display": "0.9142",
+        "change_pct": 0.47,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/GBP",
         "group": "Currencies",
-        "display": "0.7619",
-        "change_pct": 0.2,
+        "display": "0.7649",
+        "change_pct": 0.39,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "92.68",
-        "change_pct": -0.66,
+        "display": "92.92",
+        "change_pct": 0.26,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/JPY",
         "group": "Currencies",
-        "display": "158.64",
-        "change_pct": -0.83,
+        "display": "159.07",
+        "change_pct": 0.27,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "61,251.00",
-        "change_pct": 1.83,
+        "display": "61,518.00",
+        "change_pct": 1.52,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,722.46",
-        "change_pct": 2.43,
+        "display": "1,744.37",
+        "change_pct": 1.93,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Ambient clinical documentation",
+    "term": "Hospital at home",
     "pos": "noun",
-    "domain": "Health IT",
-    "definition": "Software that listens to a consultation and drafts the clinical note automatically for the clinician to review.",
+    "domain": "Care delivery",
+    "definition": "A model that delivers acute, hospital-level care in the patient's own residence, supported by remote monitoring and visiting staff.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 22",
-    "definition": "edit · refresh · view Word of the day for November 22 plinky-plonky adj (chiefly music, informal) Especially of a musical instrument such as a piano: making sharp, tinny sounds; plinky.",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261122000000/en",
+    "word": "Word of the day for November 23",
+    "definition": "edit · refresh · view Word of the day for November 23 interplay n (uncountable) Mutual or reciprocal interaction between people or things; (countable) an instance of this. interplay v (intransitive) Of two or more people or things: to mutually…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261123000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -138,6 +138,62 @@
       "title": "Vertical Thinking in Medical Science",
       "kicker": "Depth Over Breadth",
       "articles": [
+        {
+          "id": "90bb3eb5c95a",
+          "title": "World’s largest AI assisted breast screening trial begins in England",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101564.short?rss=1",
+          "source": "The BMJ",
+          "section": "vertical-thinking",
+          "author": "Rosa Furneaux",
+          "published": "2026-11-23T17:10:10+00:00",
+          "summary": "Nearly 700 000 women will be invited to take part in the world’s largest trial of AI assisted breast screening.Run by the NHS, the trial will test if AI assisted tools can help improve early cancer detection during screening.Currently two specialists are needed to review…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "94948022afc3",
+          "title": "Former NIH scientist has over 30 papers retracted",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101565.short?rss=1",
+          "source": "The BMJ",
+          "section": "vertical-thinking",
+          "author": "Leslie Liang",
+          "published": "2026-11-23T17:04:32+00:00",
+          "summary": "Eliezer Masliah, a renowned neuroscientist and former director of the division of neuroscience at the US National Institute on Aging (NIA), has had 32 papers retracted by various journals to date.Masliah was an influential researcher in Alzheimer’s and Parkinson’s disease, with around 800 papers and…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "37fbaad811b3",
+          "title": "At first preventive services panel meeting in more than a year, votes are cast in private",
+          "url": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss",
+          "source": "STAT – Research",
+          "section": "vertical-thinking",
+          "author": "Amanda Erickson, Chelsea Cirruzzo,and O. Rose Broderick",
+          "published": "2026-11-23T13:04:19+00:00",
+          "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "7e8a2c574485",
+          "title": "A step towards modelling amyotrophic lateral sclerosis in primates",
+          "url": "https://elifesciences.org/articles/113568",
+          "source": "eLife – Medicine",
+          "section": "vertical-thinking",
+          "author": "albert-c.ludolph@uni-ulm.de (Liubov Novikova)",
+          "published": "2026-11-23T00:00:00+00:00",
+          "summary": "A new primate model offers a promising first step towards reproducing the spread of ALS pathology across synapses, although important differences from the stereotyped patterns observed in human disease remain to be addressed.",
+          "full_html": null,
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "words": 33
+        },
         {
           "id": "5c35ee55b188",
           "title": "[Editorial] Multiple sclerosis: beyond controlling relapses",
@@ -165,48 +221,6 @@
           "license": "",
           "license_url": "",
           "words": 43
-        },
-        {
-          "id": "e5850dfd0eb2",
-          "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
-          "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
-          "source": "STAT – Research",
-          "section": "vertical-thinking",
-          "author": "Isabella Cueto",
-          "published": "2026-11-20T20:26:10+00:00",
-          "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "870fd63b5394",
-          "title": "Childhood vaccination rates will keep falling if we fail to improve access, sustain trust, and strengthen accountability",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101527.short?rss=1",
-          "source": "The BMJ",
-          "section": "vertical-thinking",
-          "author": "Joan Margaret Walmsey",
-          "published": "2026-11-20T15:51:27+00:00",
-          "summary": "Childhood vaccination rates in England are falling and inequalities are growing.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 11
-        },
-        {
-          "id": "cca91e6bba91",
-          "title": "US restrictions on youth gender care: What is happening to patients, clinicians, and the evidence?",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101333.short?rss=1",
-          "source": "The BMJ",
-          "section": "vertical-thinking",
-          "author": "Leslie Liang",
-          "published": "2026-11-20T15:41:20+00:00",
-          "summary": "The US government has adopted aggressive legal tactics against states that provide transgender care for patients under 18.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
         },
         {
           "id": "947c81b3183b",
@@ -263,20 +277,6 @@
           "license": "",
           "license_url": "",
           "words": 14
-        },
-        {
-          "id": "ec0bcc39b0f7",
-          "title": "Correction: Deciphering the preeclampsia-specific immune microenvironment and the role of pro-inflammatory macrophages at the maternal–fetal interface",
-          "url": "https://elifesciences.org/articles/113687",
-          "source": "eLife – Medicine",
-          "section": "vertical-thinking",
-          "author": "",
-          "published": "2026-11-17T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 0
         }
       ]
     },
@@ -286,46 +286,46 @@
       "kicker": "The Clinic",
       "articles": [
         {
-          "id": "6bfc22039f06",
-          "title": "Common medications may secretly rewire your gut, with effects lasting for years",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+          "id": "c9fd8a00c954",
+          "title": "New gum disease treatment kills bad bacteria while sparing the good",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-22T21:35:19+00:00",
-          "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people.",
+          "published": "2026-11-23T11:55:17+00:00",
+          "summary": "Researchers in Japan have developed an innovative gum disease treatment that uses egg yolk antibodies and near-infrared light to destroy harmful bacteria without harming beneficial microbes. Unlike conventional treatments, the approach preserves the mouth's natural bacterial balance and protects healthy gum cells.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 24
+          "words": 42
         },
         {
-          "id": "b3dae0016b97",
-          "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
+          "id": "3d84f8f36717",
+          "title": "Mysterious new viruses reveal a missing link in evolution",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-22T20:57:35+00:00",
-          "summary": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s each year.",
+          "published": "2026-11-23T10:45:53+00:00",
+          "summary": "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved. The surprising findings challenge a longstanding evolutionary theory and suggest that viruses may have hidden capabilities far beyond simply infecting cells.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 41
+          "words": 39
         },
         {
-          "id": "6f1ac1be7637",
-          "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+          "id": "c6e7b7a7b6a3",
+          "title": "Scientists discover that leukemia can begin developing 50 years before diagnosis",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221122.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-22T11:04:06+00:00",
-          "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan.",
+          "published": "2026-11-23T10:26:07+00:00",
+          "summary": "A groundbreaking study reveals that acute myeloid leukemia (AML), an aggressive blood cancer, can begin developing more than 50 years before diagnosis, with the first cancer-driving mutation appearing before age 20 in two-thirds of cases.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 29
+          "words": 35
         },
         {
           "id": "e8a5c33dbb40",
@@ -356,32 +356,32 @@
           "words": 33
         },
         {
-          "id": "0f72ebb7fb82",
-          "title": "Danaher teams up with Microsoft to boost ‘experimental execution’",
-          "url": "https://www.fiercebiotech.com/medtech/danaher-teams-microsoft-boost-experimental-execution",
-          "source": "Fierce Biotech",
-          "section": "medicine",
-          "author": "Patrick McGuire",
-          "published": null,
-          "summary": "Danaher Corporation and Microsoft are teaming for a strategic partnership to develop smart scientific instruments and an interoperable agentic ecosystem.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "7b06d3ef5b9b",
-          "title": "Merck’s TROP2 ADC extends survival in pivotal gastroesophageal cancer trial",
-          "url": "https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial",
+          "id": "902645308a9e",
+          "title": "Kymera’s oral eczema drug impresses analysts with Dupixent-like phase 2 efficacy",
+          "url": "https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy",
           "source": "Fierce Biotech",
           "section": "medicine",
           "author": "Nick Paul Taylor",
           "published": null,
-          "summary": "Merck & Co.’s sacituzumab tirumotecan has improved overall survival in a phase 3 cancer trial, delivering a second pivotal global victory for the TROP2-directed antibody-drug conjugate.",
+          "summary": "Kymera Therapeutics’ phase 2b eczema clinical trial has hit its primary endpoint and exceeded analyst expectations, teeing up further development of an oral drug candidate that could challenge Dupixent in a range of indications.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 26
+          "words": 34
+        },
+        {
+          "id": "80b54054d2b5",
+          "title": "Arcus halts phase 3 pancreatic cancer study of CD73 inhibitor that looked destined to fail",
+          "url": "https://www.fiercebiotech.com/biotech/arcus-halts-phase-3-study-cd73-inhibitor-looked-destined-fail",
+          "source": "Fierce Biotech",
+          "section": "medicine",
+          "author": "James Waldron",
+          "published": null,
+          "summary": "Arcus Biosciences has abandoned a phase 3 trial of quemliclustat after the small-molecule CD73 inhibitor looked unlikely to improve survival for pancreatic cancer.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
         }
       ]
     },
@@ -391,46 +391,60 @@
       "kicker": "The Theatre",
       "articles": [
         {
-          "id": "7626d4741915",
-          "title": "ASA urges CMS to preserve Medicare's physician supervision requirement for anesthesia care",
-          "url": "https://www.news-medical.net/news/20261120/ASA-urges-CMS-to-preserve-Medicares-physician-supervision-requirement-for-anesthesia-care.aspx",
+          "id": "76ccaa210bac",
+          "title": "Research suggests a noninvasive way to monitor heart health",
+          "url": "https://www.news-medical.net/news/20261123/Research-suggests-a-noninvasive-way-to-monitor-heart-health.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-20T23:09:00+00:00",
-          "summary": "The American Society of Anesthesiologists (ASA) is calling on the public, including Medicare patients and their families, to speak out for patient safety and insist that the Centers for Medicare & Medicaid Services (CMS) preserve Medicare's longstanding physician supervision requirement for anesthesia care.",
+          "published": "2026-11-23T17:40:25+00:00",
+          "summary": "Research, co-led by investigators from the Mass General Brigham Heart and Vascular Institute, has shown a way to track molecular changes in the heart by isolating and characterizing what are known as cardiovesicles circulating in the blood.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 43
+          "words": 37
         },
         {
-          "id": "78303e223640",
-          "title": "Vanderbilt Burn Center launches pledge to promote safer holiday cooking",
-          "url": "https://www.news-medical.net/news/20261120/Vanderbilt-Burn-Center-launches-pledge-to-promote-safer-holiday-cooking.aspx",
+          "id": "5f9dc37d835e",
+          "title": "Looking beyond the numbers to better understand acute patient pain",
+          "url": "https://www.news-medical.net/news/20261123/Looking-beyond-the-numbers-to-better-understand-acute-patient-pain.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-20T22:52:00+00:00",
-          "summary": "Before families gather around the table this Thanksgiving, physicians at the Vanderbilt Burn Center are encouraging parents and caregivers to take a simple step that could help prevent serious injuries: the \"Cool Kitchens, Safe Families\" pledge.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 36
-        },
-        {
-          "id": "d55e671cb677",
-          "title": "Researchers uncover the mechanisms of adhesion formation after thoracic surgery",
-          "url": "https://medicalxpress.com/news/2026-11-uncover-mechanisms-adhesion-formation-thoracic.html",
-          "source": "Medical Xpress – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-20T20:20:02+00:00",
-          "summary": "Intrathoracic adhesions can develop after thoracic surgery and increase the risk of complications during repeat surgery. However, the detailed molecular mechanisms underlying their formation have remained unclear.",
+          "published": "2026-11-23T12:56:40+00:00",
+          "summary": "Patients in hospitals and doctors' offices are routinely asked to rate their pain on a scale from zero to 10. But what does that number actually communicate?",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 27
+        },
+        {
+          "id": "34b9ed596c09",
+          "title": "Uneven access to cancer surgeons is linked to higher digestive cancer mortality",
+          "url": "https://medicalxpress.com/news/2026-11-uneven-access-cancer-surgeons-linked.html",
+          "source": "Medical Xpress – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-23T12:10:01+00:00",
+          "summary": "Nearly half of U.S. counties have no surgeon who performs gastrointestinal or hepatopancreatobiliary (liver, pancreas, gallbladder and bile ducts) cancer operations, and residents of those counties have higher death rates from several of those cancers even after accounting for socioeconomic factors and rurality, according to…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "7af898dac785",
+          "title": "Study maps how surgical deserts drive higher gastrointestinal cancer death rates",
+          "url": "https://www.news-medical.net/news/20261123/Study-maps-how-surgical-deserts-drive-higher-gastrointestinal-cancer-death-rates.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-23T06:43:46+00:00",
+          "summary": "Nearly half of U.S. counties have no surgeon who performs gastrointestinal or hepatopancreatobiliary (liver, pancreas, gallbladder and bile ducts) cancer operations, and residents of those counties have higher death rates from several of those cancers even after accounting for socioeconomic factors and rurality, according to…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "d2a5a797d17a",
@@ -482,6 +496,62 @@
           "words": 26
         },
         {
+          "id": "be6dc42cc0db",
+          "title": "Deciphering hepatocyte-HSC Jagged1-Notch crosstalk in MASH-induced liver fibrosis",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07782-6/fulltext?rss=yes",
+          "source": "Gastroenterology (AGA)",
+          "section": "gastroenterology",
+          "author": "Meng Li, Junjie Yu, Fei Zhan, Sarah M.G. Morel, Domenick Raphael, Maria Meincke, Brent Mayfield, Changyu Zhu, Qiuyan Sun, Xiaobo Wang, Jonathan Steinman, Yoko Yagishita, Timothy J. Kendall, Jonathan A. Fallowfield, Robert F. Schwabe, Utpal B. Pajvani",
+          "published": "2026-11-23T00:00:00+00:00",
+          "summary": "Hepatic stellate cells (HSCs) are key drivers of fibrosis in metabolic dysfunction-associated steatohepatitis (MASH). Hepatocyte expression of Jagged1, a critical Notch ligand, is increased in patients with MASH-associated fibrosis, and is necessary to induce fibrosis in mice, attributed to inter-hepatocyte Notch signaling.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "a39adcaf25c5",
+          "title": "Contemporary management of Crohn’s disease: optimizing outcomes",
+          "url": "https://www.nature.com/articles/s41575-026-01290-w",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Remo Panaccione",
+          "published": "2026-11-23T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 23 November 2026; doi:10.1038/s41575-026-01290-w Strategy studies published in 2026 demonstrated that, with already approved medications or established surgical approaches, better outcomes for patients with Crohn’s disease can be achieved.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "b74584e3c2d3",
+          "title": "PHGR1 is a Candidate Functional Biomarker in Barrett’s Neoplasia",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07781-4/fulltext?rss=yes",
+          "source": "Gastroenterology (AGA)",
+          "section": "gastroenterology",
+          "author": "Sravani Pulya, Sarada Chadalawada, BETRNet CONSORTIUM, Durgadevi Ravillah, Salendra Singh, Kishore Guda, Andrew E. Blum",
+          "published": "2026-11-23T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "578b0605552d",
+          "title": "Multi-cancer detection tests for gastrointestinal cancers",
+          "url": "https://www.nature.com/articles/s41575-026-01279-5",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Chyke Doubeni",
+          "published": "2026-11-23T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 23 November 2026; doi:10.1038/s41575-026-01279-5 In this Perspective, Shaukat and colleagues describe the status and challenges of multi-cancer detection tests for a range of gastrointestinal cancers, including colorectal, liver, pancreatic and oesophageal cancers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
           "id": "641832204a10",
           "title": "New Cedars-Sinai center aims to advance the treatment of gastrointestinal and liver diseases",
           "url": "https://www.news-medical.net/news/20261120/New-Cedars-Sinai-center-aims-to-advance-the-treatment-of-gastrointestinal-and-liver-diseases.aspx",
@@ -494,62 +564,6 @@
           "license": "",
           "license_url": "",
           "words": 22
-        },
-        {
-          "id": "1ee045a4cfd8",
-          "title": "Colorectal Cancer Outcomes after Serrated Polyp Resection",
-          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07834-0/fulltext?rss=yes",
-          "source": "Gastroenterology (AGA)",
-          "section": "gastroenterology",
-          "author": "Sunil Samnani, Nauzer Forbes",
-          "published": "2026-11-19T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "fc1f20ba88e7",
-          "title": "Interferon signalling key to KRAS-targeted therapy response in pancreatic cancer",
-          "url": "https://www.nature.com/articles/s41575-026-01289-3",
-          "source": "Nature Reviews Gastroenterology & Hepatology",
-          "section": "gastroenterology",
-          "author": "Katrina Ray",
-          "published": "2026-11-19T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 19 November 2026; doi:10.1038/s41575-026-01289-3 Interferon signalling key to KRAS-targeted therapy response in pancreatic cancer",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "7034fafd969a",
-          "title": "Interim Results of a Randomized Trial Comparing Surveillance Colonoscopy Intervals After Polypectomy",
-          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07833-9/fulltext?rss=yes",
-          "source": "Gastroenterology (AGA)",
-          "section": "gastroenterology",
-          "author": "Nauzer Forbes",
-          "published": "2026-11-19T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "84bdcdeb4d87",
-          "title": "Testing the noninvasive tests in MASLD",
-          "url": "https://www.nature.com/articles/s41575-026-01287-5",
-          "source": "Nature Reviews Gastroenterology & Hepatology",
-          "section": "gastroenterology",
-          "author": "Katrina Ray",
-          "published": "2026-11-19T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 19 November 2026; doi:10.1038/s41575-026-01287-5 Testing the noninvasive tests in MASLD",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
         },
         {
           "id": "e55a8afafd5e",
@@ -587,41 +601,69 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "4a7063e6ea12",
-          "title": "Orientation Solution Supports New Nurses, Saves Millions at Maryland’s Largest Healthcare System",
-          "url": "https://medcitynews.com/2026/11/orientation-solution-supports-new-nurses-saves-millions-at-marylands-largest-healthcare-system/",
-          "source": "MedCity News",
+          "id": "d3d9ea1b8b85",
+          "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
+          "url": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
+          "source": "STAT",
           "section": "medical-trends",
-          "author": "Jenna Congdon",
-          "published": "2026-11-22T15:00:00+00:00",
-          "summary": "The University of Maryland Medical system announced that its nurse-designed orientation tool is now available to other health systems. The tool has saved the hospital nearly $4 million in staffing costs since its launch in January 2023.",
+          "author": "Meghana Keshavan",
+          "published": "2026-11-23T14:43:21+00:00",
+          "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 37
+          "words": 21
         },
         {
-          "id": "65571dd9bd25",
-          "title": "When Practicing Clinicians Help Write the Protocol, More Patients Get Access To Novel Therapies",
-          "url": "https://medcitynews.com/2026/11/when-practicing-clinicians-help-write-the-protocol-more-patients-get-access-to-novel-therapies/",
-          "source": "MedCity News",
+          "id": "b5f425ec8b0e",
+          "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
+          "url": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
+          "source": "STAT",
           "section": "medical-trends",
-          "author": "Thomas Waggoner",
-          "published": "2026-11-22T14:25:00+00:00",
-          "summary": "Many patients never reach a trial because community settings often have less access to referrals than academic centers, where trials are typically based.",
+          "author": "Jason Mast",
+          "published": "2026-11-23T14:38:08+00:00",
+          "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 15
         },
         {
-          "id": "fdb658fe3385",
-          "title": "A comparative analysis of extracapsular dissection versus superficial parotidectomy for benign parotid gland neoplasms",
-          "url": "https://www.nature.com/articles/s41598-026-81341-z",
+          "id": "c49098d833c8",
+          "title": "Your Series B Proved Investors Believe You — It Won’t Prove Anything to a Payer",
+          "url": "https://medcitynews.com/2026/11/your-series-b-proved-investors-believe-you-it-wont-prove-anything-to-a-payer/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Nichol Oliverio",
+          "published": "2026-11-23T14:22:00+00:00",
+          "summary": "Here are some steps forward-thinking digital health companies can take to prepare for payer negotiations.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "c1ce7a244d49",
+          "title": "How Can You Capture More of the Revenue You’ve Already Earned?",
+          "url": "https://medcitynews.com/2026/11/how-can-specialty-practices-capture-more-revenue/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Stephanie Baum",
+          "published": "2026-11-23T14:16:09+00:00",
+          "summary": "[Sponsored] In an interview at the HLTH conference, Rob Ware, ModMed Senior Vice President and General Manager of RCM, explained how its software works and the value it offers specialty practices.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 31
+        },
+        {
+          "id": "4969c5a84ecc",
+          "title": "Disentangling weather from season in rhegmatogenous retinal detachment: a nationwide time-series and simulation study",
+          "url": "https://www.nature.com/articles/s41598-026-80871-w",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
-          "published": "2026-11-22T00:00:00+00:00",
+          "published": "2026-11-23T00:00:00+00:00",
           "summary": "",
           "full_html": null,
           "license": "",
@@ -629,46 +671,18 @@
           "words": 0
         },
         {
-          "id": "b72eda7ef86c",
-          "title": "Multimodal digital biomarker for asthma: complementary roles of vocal, clinical and demographic factors",
-          "url": "https://www.nature.com/articles/s41746-026-03465-w",
+          "id": "9f93f91946c4",
+          "title": "A conceptual analysis of One Health and Person-Centred Practice",
+          "url": "https://www.nature.com/articles/s41467-026-79922-7",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
-          "published": "2026-11-22T00:00:00+00:00",
+          "published": "2026-11-23T00:00:00+00:00",
           "summary": "",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 0
-        },
-        {
-          "id": "5da827f3cf5b",
-          "title": "Opinion: When should medical school start?",
-          "url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Torie Bosch",
-          "published": "2026-11-21T12:00:00+00:00",
-          "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
-        },
-        {
-          "id": "f6d3fbde06ef",
-          "title": "Opinion: How Kennedy and MAHA could help stop measles",
-          "url": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Brinda Adhikari",
-          "published": "2026-11-21T09:30:00+00:00",
-          "summary": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
         },
         {
           "id": "a6ce6c799899",
@@ -706,32 +720,18 @@
       "kicker": "The Lecture Hall",
       "articles": [
         {
-          "id": "ed4b299ba199",
-          "title": "Sunday Pick: How to challenge your self-limiting beliefs with Shawn Achor | from ReThinking with Adam Grant",
-          "url": "https://audiocollective.ted.com/",
+          "id": "73b89de97ce4",
+          "title": "Why government is slow — and how to fix it | Li Hongyi",
+          "url": "http://go.ted.com/LiHongyi",
           "source": "TED Talks (health & science)",
           "section": "lectures",
           "author": "",
-          "published": "2026-11-15T07:00:00+00:00",
-          "summary": "Your beliefs about yourself and the world have a big impact on your mental health, relationships, and success.",
+          "published": "2026-11-23T15:47:30+00:00",
+          "summary": "Government is slow at solving problems — and technologist Li Hongyi wants to fix that. In a quick talk, he introduces his experimental team in the Singaporean government, which visits schools, hospitals, fire stations and communities with one goal: to find problems and prototype solutions.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 18
-        },
-        {
-          "id": "1b6349c9741b",
-          "title": "Your phone is disgusting. Here's how to clean it | Lotti Tajouri",
-          "url": "http://go.ted.com/lottitajouri",
-          "source": "TED Talks (health & science)",
-          "section": "lectures",
-          "author": "",
-          "published": "2026-11-10T17:34:47+00:00",
-          "summary": "What’s dirtier: your phone or your hands? Molecular biologist Lotti Tajouri says there’s a gaping hole in our hygiene routine. We scrub our hands clean, then reach right for the phone — a warm, humid and mobile home for bacteria and viruses.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 42
+          "words": 45
         }
       ]
     },
@@ -741,116 +741,116 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "445b003be1d2",
-          "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
-          "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Denis Campbell and Hanad Ahmed",
-          "published": "2026-11-22T18:45:30+00:00",
-          "summary": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normally Dozens of hospitals are so short of money they may not be able to continue caring for patients and are being forced to make “unpalatable” cuts to services and staff…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "aa9df4dbf158",
-          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
-          "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+          "id": "7d782712108c",
+          "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
           "source": "NPR – Health",
           "section": "related-articles",
-          "author": "Kate Bartlett",
-          "published": "2026-11-22T17:34:20+00:00",
-          "summary": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+          "author": "Julie Rovner",
+          "published": "2026-11-23T16:00:49+00:00",
+          "summary": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 32
+          "words": 20
         },
         {
-          "id": "4adc395e45c8",
-          "title": "An album to keep your mind on track | Brief letters",
-          "url": "https://www.theguardian.com/music/2026/nov/22/an-album-to-keep-your-mind-on-track",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Guardian Staff",
-          "published": "2026-11-22T16:50:35+00:00",
-          "summary": "Steely Dan | Hot toddy | Dental advice | Christmas gifts | Black Friday I read with interest how Adrian Chiles traces his concentration challenges back to the CD shuffle button (Instant gratification is ruining our lives – and for me it started with my…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "7b306ae35bb3",
-          "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Jackie Fortiér",
-          "published": "2026-11-22T13:11:04+00:00",
-          "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 34
-        },
-        {
-          "id": "bd7ca1a61836",
-          "title": "Why are so many more young Scots claiming disability benefits?",
-          "url": "https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo?at_medium=RSS&at_campaign=rss",
+          "id": "b0584c3ed41f",
+          "title": "Striking doctor says they are advocating for the health service",
+          "url": "https://www.bbc.co.uk/news/articles/cr3eg5vzn875o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-22T09:28:24+00:00",
-          "summary": "The number of Scots claiming disability benefits has risen sharply since the Covid pandemic - why?",
+          "published": "2026-11-23T12:46:55+00:00",
+          "summary": "It follows a separate 24-hour strike on Friday in which resident doctors took industrial action as part of the same dispute.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 16
+          "words": 21
         },
         {
-          "id": "142571ff8bb3",
-          "title": "Midwives told to expect fewer jobs as recruitment drive is paused",
-          "url": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o?at_medium=RSS&at_campaign=rss",
+          "id": "3cf32f168dc6",
+          "title": "Woman faces hour-long drive to give birth as hospital suspends maternity services",
+          "url": "https://www.bbc.co.uk/news/articles/cv5y10xn90y3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-22T07:46:28+00:00",
-          "summary": "One graduate said she would take minimum wage to get her first job in midwifery.",
+          "published": "2026-11-23T11:25:35+00:00",
+          "summary": "From Monday, maternity services at Daisy Hill Hospital will move to Craigavon Area Hospital.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 15
+          "words": 14
         },
         {
-          "id": "5f722eff398b",
-          "title": "Reporters Talk Measles, Pediatric Care, and Democrats’ Post-Election Healthcare Agenda",
-          "url": "https://kffhealthnews.org/on-air/november-21-2026-measles-pediatric-care-democrats-healthcare-agenda/",
+          "id": "a6a92139d221",
+          "title": "‘Smart’ Implants Are Driving Up Health Costs — Even When Patients Don’t Ask for Them",
+          "url": "https://kffhealthnews.org/health-industry/smart-joint-implants-knees-health-costs-patients-surprised/",
           "source": "KFF Health News",
           "section": "related-articles",
-          "author": "",
-          "published": "2026-11-21T10:00:00+00:00",
-          "summary": "KFF Health News journalists made the rounds on national or local media recently to discuss topical stories. Here’s a collection of their appearances.",
+          "author": "Darius Tahir",
+          "published": "2026-11-23T10:00:00+00:00",
+          "summary": "Two patients are suing after allegedly waking from knee replacement surgery and learning they’d received “smart” joints, capable of transmitting data. Researchers say their usefulness is unproven, yet Medicare and private insurers pay doctors to monitor such devices.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 38
         },
         {
-          "id": "165fadc595ac",
-          "title": "Burnham in Brussels: why party politics still defines the UK’s relationship with Europe",
-          "url": "https://theconversation.com/burnham-in-brussels-why-party-politics-still-defines-the-uks-relationship-with-europe-297081",
-          "source": "The Conversation",
+          "id": "b04894a57440",
+          "title": "‘Medicare for All’ Is Back on Drawing Board. Does It Stand a Better Chance This Time?",
+          "url": "https://kffhealthnews.org/insurance/congress-democrats-medicare-for-all-unity-challenge-universal-healthcare/",
+          "source": "KFF Health News",
           "section": "related-articles",
-          "author": "Martin Steven, Senior Lecturer, School of Global Affairs, Lancaster University",
-          "published": "2026-11-20T14:26:34+00:00",
-          "summary": "The talks were part of a UK-EU ‘reset’.",
+          "author": "Julie Rovner",
+          "published": "2026-11-23T10:00:00+00:00",
+          "summary": "Some incoming lawmakers told voters they’d fight for universal, government-funded health coverage. Julie Rovner, KFF Health News’ chief Washington correspondent, writes about what the coming health debate has in common with past fights — and something that’s different this time around.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 8
+          "words": 41
+        },
+        {
+          "id": "3da8649f1efa",
+          "title": "Mushroom supplements promise health benefits. What does the science say?",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Ari Daniel",
+          "published": "2026-11-23T10:00:00+00:00",
+          "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "c9e1f7d95157",
+          "title": "The truth about dying: hospice workers on what loved ones should know",
+          "url": "https://www.theguardian.com/society/2026/nov/23/the-truth-about-dying-hospice-workers-on-what-loved-ones-should-know",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Anna Gordon",
+          "published": "2026-11-23T07:00:49+00:00",
+          "summary": "Anna Gordon met hospice care workers across the UK, learning how dignity and choice help create meaningful moments for patients Most people in the UK actively avoid conversations about death and dying. They can be visibly uncomfortable when you raise the subject.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "3bb7039d1dd3",
+          "title": "How did the COP31 climate agreement fall apart – and what happens now?",
+          "url": "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994",
+          "source": "The Conversation",
+          "section": "related-articles",
+          "author": "Kathryn Bowen, Director, Melbourne Climate Futures and Professor - Environment, Climate and Global Health at Melbourne Climate Futures and Melbourne School of Population and Global Health, The University of Melbourne",
+          "published": "2026-11-23T02:56:48+00:00",
+          "summary": "Division over fossil fuels at this year’s UN climate summit scotched any hope of a deal – despite Australian efforts.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
         }
       ]
     }
