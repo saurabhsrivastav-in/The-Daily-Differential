@@ -5,114 +5,114 @@
     "date": "2026-11-25",
     "date_long": "Wednesday, 25 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-25T08:08+05:30",
+    "generated_at": "2026-11-25T22:57+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 49,
     "reading_minutes": 8,
-    "source_count": 28,
+    "source_count": 27,
     "full_text_count": 1,
     "per_section": {
       "vertical-thinking": 10,
-      "medicine": 7,
+      "medicine": 6,
       "surgery": 7,
       "gastroenterology": 8,
       "medical-trends": 8,
-      "lectures": 1,
+      "lectures": 2,
       "related-articles": 8
     },
     "keywords": [
       {
-        "term": "health",
-        "count": 9
-      },
-      {
-        "term": "disease",
-        "count": 8
-      },
-      {
-        "term": "women",
-        "count": 6
-      },
-      {
         "term": "treatment",
+        "count": 7
+      },
+      {
+        "term": "medicine",
         "count": 6
       },
       {
-        "term": "people",
+        "term": "patients",
         "count": 6
       },
       {
-        "term": "countries",
+        "term": "colorectal cancer",
         "count": 5
       },
       {
-        "term": "liver",
+        "term": "study",
         "count": 5
       },
       {
-        "term": "found",
+        "term": "brain",
+        "count": 5
+      },
+      {
+        "term": "published online",
         "count": 4
       },
       {
         "term": "online november",
-        "count": 3
+        "count": 4
       },
       {
-        "term": "published online",
-        "count": 3
+        "term": "nature",
+        "count": 4
       },
       {
-        "term": "breast cancer",
-        "count": 3
+        "term": "risk",
+        "count": 4
       },
       {
-        "term": "scottish government",
-        "count": 2
+        "term": "disease",
+        "count": 4
+      },
+      {
+        "term": "mental health",
+        "count": 3
       }
     ],
     "markets": [
       {
         "label": "USD/EUR",
         "group": "Currencies",
-        "display": "0.9122",
-        "change_pct": -0.22,
+        "display": "0.9145",
+        "change_pct": 0.26,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/GBP",
         "group": "Currencies",
-        "display": "0.7635",
-        "change_pct": -0.19,
+        "display": "0.7657",
+        "change_pct": 0.29,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "92.92",
-        "change_pct": 0.0,
+        "display": "92.24",
+        "change_pct": -0.73,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/JPY",
         "group": "Currencies",
-        "display": "159.07",
-        "change_pct": 0.0,
+        "display": "159.32",
+        "change_pct": 0.16,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "59,248.00",
-        "change_pct": -2.03,
+        "display": "59,063.00",
+        "change_pct": -1.03,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,658.86",
-        "change_pct": -2.16,
+        "display": "1,656.68",
+        "change_pct": -1.14,
         "source": "CoinGecko"
       }
     ]
@@ -139,32 +139,46 @@
       "kicker": "Depth Over Breadth",
       "articles": [
         {
-          "id": "0d9aefec1d80",
-          "title": "UK GPs are most stressed and likely to quit profession, international survey reports",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101572.short?rss=1",
-          "source": "The BMJ",
+          "id": "97a7a867ea7b",
+          "title": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
+          "url": "https://www.statnews.com/2026/11/25/health-news-rfk-jr-weighs-in-on-plan-to-detonate-toxic-material-in-iowa/?utm_campaign=rss",
+          "source": "STAT – Research",
           "section": "vertical-thinking",
-          "author": "Jacqui Wise",
-          "published": "2026-11-24T17:22:05+00:00",
-          "summary": "GPs in the UK reported the highest levels of work related stress compared with primary care doctors in nine other high income countries, an international survey has found.UK GPs were also the least satisfied with time spent per patient, daily workload, work-life balance, and income…",
+          "author": "Amanda Erickson and Jonathan Wosen",
+          "published": "2026-11-25T13:03:56+00:00",
+          "summary": "This morning, the Army plans to detonate a cache of “dangerously degraded” toxic material in Iowa, with experts warning of dangerous health consequences:",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 23
         },
         {
-          "id": "594f356186c9",
-          "title": "NHS Grampian: Inquiry will be held over surgical deaths “cover-up”",
-          "url": "http://www.bmj.com/content/395/bmj-2026-101571.short?rss=1",
-          "source": "The BMJ",
+          "id": "03d0e64b6457",
+          "title": "STEP Young trial shows semaglutide benefits in children",
+          "url": "https://www.nature.com/articles/d41591-026-00059-7",
+          "source": "Nature Medicine",
           "section": "vertical-thinking",
-          "author": "Bryan Christie",
-          "published": "2026-11-24T14:46:55+00:00",
-          "summary": "An inquiry is to be held into claims that the Scottish government covered up a report that found liver and pancreatic surgical deaths at Aberdeen Royal Infirmary were nine times the national average.The four year old report has been made public for the first time…",
+          "author": "Karen O’Leary",
+          "published": "2026-11-25T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 25 November 2026; doi:10.1038/d41591-026-00059-7 In a phase 3 study, children with obesity lost significantly more weight with semaglutide than with placebo, with more than one third achieving a body mass index below the threshold for obesity.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 40
+        },
+        {
+          "id": "8069aa7df4bf",
+          "title": "Later-born generations have better memory and lose it more slowly",
+          "url": "https://www.nature.com/articles/s41591-026-04758-z",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "",
+          "published": "2026-11-25T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 25 November 2026; doi:10.1038/s41591-026-04758-z Dementia risk at any age has been falling for decades.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
         },
         {
           "id": "c6fd6123a90d",
@@ -193,20 +207,6 @@
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0/",
           "words": 369
-        },
-        {
-          "id": "9298da5d93ae",
-          "title": "Publisher Correction: Generational gains in cognitive capacity and dementia incidence rates in Western countries",
-          "url": "https://www.nature.com/articles/s41591-026-04824-6",
-          "source": "Nature Medicine",
-          "section": "vertical-thinking",
-          "author": "Kristine B. Walhovd",
-          "published": "2026-11-24T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 24 November 2026; doi:10.1038/s41591-026-04824-6 Publisher Correction: Generational gains in cognitive capacity and dementia incidence rates in Western countries",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
         },
         {
           "id": "7e8a2c574485",
@@ -286,46 +286,46 @@
       "kicker": "The Clinic",
       "articles": [
         {
-          "id": "082cb587f7e8",
-          "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+          "id": "4f9bed7a361b",
+          "title": "Common sleep and anxiety drugs could be harming aging brains",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-24T23:31:52+00:00",
-          "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease.",
+          "published": "2026-11-25T11:13:47+00:00",
+          "summary": "Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature death.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 25
+          "words": 30
         },
         {
-          "id": "4207b01bfb1d",
-          "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
+          "id": "1a11b69c61df",
+          "title": "Peppermint oil significantly lowers blood pressure in just 20 days",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-24T10:57:44+00:00",
-          "summary": "A major analysis of 149 studies found that cannabis users develop psychosis an average of 2.5 years earlier than non-users, with the difference growing to more than six years among adults 30 and older.",
+          "published": "2026-11-25T10:53:00+00:00",
+          "summary": "Peppermint oil may have a surprisingly powerful effect on blood pressure. In a randomized study of 40 adults, researchers found that taking small doses twice daily for 20 days lowered systolic blood pressure by an average of 8.5 mmHg.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 34
+          "words": 39
         },
         {
-          "id": "d4d9fd50205b",
-          "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
+          "id": "8a3840a9274a",
+          "title": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-24T10:47:51+00:00",
-          "summary": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression.",
+          "published": "2026-11-25T04:11:59+00:00",
+          "summary": "An AI-powered analysis of thousands of children's brain scans has revealed three distinct brain types underlying ADHD and anxiety that do not neatly fit traditional diagnoses.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 22
+          "words": 26
         },
         {
           "id": "fb666164e8ac",
@@ -342,46 +342,32 @@
           "words": 34
         },
         {
-          "id": "7e91772bad71",
-          "title": "FDA Approves First New Hormone Therapy for Early-Stage Breast Cancer in More Than 20 Years",
-          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years",
-          "source": "FDA – Press Announcements",
-          "section": "medicine",
-          "author": "FDA",
-          "published": "2026-11-23T15:55:37+00:00",
-          "summary": "The FDA today approved Wilserdly (giredestrant), used alone after surgery in adults with estrogen receptor–positive, HER2-negative breast cancer — the most common subtype of the disease.",
-          "full_html": null,
-          "license": "US Government work (public domain)",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "31b534dc33d1",
-          "title": "DiaMedica shares signs that drug extends pregnancy in fetal growth restriction trial",
-          "url": "https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial",
+          "id": "abdefc56b7d6",
+          "title": "Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC",
+          "url": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
           "source": "Fierce Biotech",
           "section": "medicine",
-          "author": "Nick Paul Taylor",
+          "author": "James Waldron",
           "published": null,
-          "summary": "DiaMedica Therapeutics has shared phase 2 results in severe early-onset fetal growth restriction, reporting that most participants with known delivery dates remained pregnant longer than expected.",
+          "summary": "Bayer has become the latest drug giant to turn to Hansoh Pharma for its antibody-drug conjugate expertise.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 26
+          "words": 17
         },
         {
-          "id": "995315f05f74",
-          "title": "Why Iambic’s CEO believes preclinical cancer therapy could be ‘holy grail’ for CDK inhibitors",
-          "url": "https://www.fiercebiotech.com/research/iambic-ceo-says-they-have-holy-grail-cdk-inhibitors-cancer-therapies",
+          "id": "9c8577dde76d",
+          "title": "Schrödinger signs €22M biologics collab with sequencing automation outfit Enpicom",
+          "url": "https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m",
           "source": "Fierce Biotech",
           "section": "medicine",
-          "author": "Marissa Russo",
+          "author": "Michael Gibney",
           "published": null,
-          "summary": "Fresh off a $150 million IPO, Iambic Therapeutics has unveiled preclinical data for a potential challenger in one of oncology's most competitive drug classes: cyclin-dependent kinases.",
+          "summary": "Computational discovery biotech Schrödinger has finalized a collaboration with sequencing automation company Enpicom in an all-cash deal worth €22 million.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 26
+          "words": 20
         }
       ]
     },
@@ -391,46 +377,60 @@
       "kicker": "The Theatre",
       "articles": [
         {
-          "id": "601b8fbf079f",
-          "title": "Eating healthy isn't enough if you're not eating enough",
-          "url": "https://www.news-medical.net/news/20261124/Eating-healthy-isnt-enough-if-youre-not-eating-enough.aspx",
-          "source": "News-Medical – Surgery",
+          "id": "1ca1c9af87d4",
+          "title": "Study supports shorter pancreatic neuroendocrine tumor follow-up",
+          "url": "https://medicalxpress.com/news/2026-11-shorter-pancreatic-neuroendocrine-tumor.html",
+          "source": "Medical Xpress – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-25T00:02:00+00:00",
-          "summary": "A narrative review examines how predominantly plant-rich diets, sufficient energy intake, balanced macronutrient consumption, and targeted supplementation can improve physical performance, recovery, and lifelong health.",
+          "published": "2026-11-25T16:00:01+00:00",
+          "summary": "Five years of follow-up surveillance—rather than the standard 10—may be adequate for some patients who have had surgery to remove pancreatic neuroendocrine tumors, according to a new study led by Cedars-Sinai Health Sciences University investigators.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 25
+          "words": 35
         },
         {
-          "id": "7486b722fa9e",
-          "title": "First-of-its-kind trial tests population-wide genetic cancer screening for women",
-          "url": "https://www.news-medical.net/news/20261124/First-of-its-kind-trial-tests-population-wide-genetic-cancer-screening-for-women.aspx",
+          "id": "f96254d133b4",
+          "title": "Eighty years of lifesaving pediatric heart surgery at Johns Hopkins Medicine",
+          "url": "https://www.news-medical.net/news/20261125/Eighty-years-of-lifesaving-pediatric-heart-surgery-at-Johns-Hopkins-Medicine.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-24T18:45:24+00:00",
-          "summary": "Women are being offered the opportunity to take part in a first-of-its-kind trial designed to evaluate how genetic screening could one day be offered to any woman who may want it - not just those identified as high risk due to family history.",
+          "published": "2026-11-25T13:40:15+00:00",
+          "summary": "Jane Ball, of Havre de Grace, Maryland, was 2 years old in 1950 when she became among the first to undergo heart surgery by renowned Johns Hopkins Medicine surgeon and researcher Alfred Blalock.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 43
+          "words": 33
         },
         {
-          "id": "5f726d300784",
-          "title": "Tiny iron particles boost light-based therapy to eliminate hidden tumors",
-          "url": "https://www.news-medical.net/news/20261124/Tiny-iron-particles-boost-light-based-therapy-to-eliminate-hidden-tumors.aspx",
+          "id": "fba40c0c9400",
+          "title": "Does colorectal cancer treatment explain muscle mass differences?",
+          "url": "https://www.news-medical.net/news/20261125/Does-colorectal-cancer-treatment-explain-muscle-mass-differences.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-24T15:41:52+00:00",
-          "summary": "Some cancer cells slip past even the most precise treatments and then grow back. Researchers at Nagoya University in Japan may have found a way to reach them. The team improved a light-based cancer treatment by adding tiny iron particles.",
+          "published": "2026-11-25T12:36:00+00:00",
+          "summary": "Researchers compare muscle and body composition across five colorectal cancer treatment groups, highlighting the influence of sex on observed differences.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 40
+          "words": 20
+        },
+        {
+          "id": "91a4f2519322",
+          "title": "Understanding pituitary tumor symptoms, diagnosis and treatment options",
+          "url": "https://www.news-medical.net/news/20261125/Understanding-pituitary-tumor-symptoms-diagnosis-and-treatment-options.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-25T05:17:04+00:00",
+          "summary": "About the size of a pea, the pituitary gland sits at the base of your brain, just behind your nose. Though tiny, it plays a big role in your health.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
         },
         {
           "id": "187d6987f46f",
@@ -445,20 +445,6 @@
           "license": "",
           "license_url": "",
           "words": 27
-        },
-        {
-          "id": "34b9ed596c09",
-          "title": "Uneven access to cancer surgeons is linked to higher digestive cancer mortality",
-          "url": "https://medicalxpress.com/news/2026-11-uneven-access-cancer-surgeons-linked.html",
-          "source": "Medical Xpress – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-23T12:10:01+00:00",
-          "summary": "Nearly half of U.S. counties have no surgeon who performs gastrointestinal or hepatopancreatobiliary (liver, pancreas, gallbladder and bile ducts) cancer operations, and residents of those counties have higher death rates from several of those cancers even after accounting for socioeconomic factors and rurality, according to…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         },
         {
           "id": "d2a5a797d17a",
@@ -510,27 +496,55 @@
           "words": 26
         },
         {
-          "id": "118c7e19ef1b",
-          "title": "Asia-Pacific faces growing and uneven burden of MASLD",
-          "url": "https://www.news-medical.net/news/20261124/Asia-Pacific-faces-growing-and-uneven-burden-of-MASLD.aspx",
+          "id": "f851dbe493af",
+          "title": "Autism symptom severity linked to gastrointestinal problems in children",
+          "url": "https://www.news-medical.net/news/20261124/Autism-symptom-severity-linked-to-gastrointestinal-problems-in-children.aspx",
           "source": "News-Medical – Gastroenterology",
           "section": "gastroenterology",
           "author": "",
-          "published": "2026-11-25T02:36:15+00:00",
-          "summary": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is rising throughout the Asia-Pacific region, but its distribution and consequences differ substantially between countries.",
+          "published": "2026-11-25T03:15:30+00:00",
+          "summary": "Researchers at UTHealth Houston have confirmed that children with autism spectrum disorder who experience greater challenges with social awareness and communication may also be more likely to have severe gastrointestinal symptoms.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 21
+          "words": 31
         },
         {
-          "id": "67e24569c5ca",
-          "title": "Looking further at ‘lean’ metabolic dysfunction-associated steatotic liver disease – how much does weight influence outcomes?",
-          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07837-6/fulltext?rss=yes",
+          "id": "ee9ca8e213ae",
+          "title": "Acute Pancreatitis Reporting Across CFTR Modulators: A Regimen-Specific Pharmacovigilance Analysis",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07830-3/fulltext?rss=yes",
           "source": "Gastroenterology (AGA)",
           "section": "gastroenterology",
-          "author": "Benjamin H. Mullish",
-          "published": "2026-11-24T00:00:00+00:00",
+          "author": "Arkadeep Dhali, Saikat Mandal, Dushyant Singh Dahiya, Guruprasad Aithal",
+          "published": "2026-11-25T00:00:00+00:00",
+          "summary": "Acute pancreatitis (AP) is an established complication of cystic fibrosis (CF), occurring predominantly in individuals with preserved or partially preserved pancreatic function.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "1c9885308302",
+          "title": "Refining intervention to prevent colorectal cancer and recurrence",
+          "url": "https://www.nature.com/articles/s41575-026-01292-8",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Takayuki Yoshino",
+          "published": "2026-11-25T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 25 November 2026; doi:10.1038/s41575-026-01292-8 Clinical trial results reported in 2026 have refined intervention across the colorectal cancer continuum.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "69281251ec47",
+          "title": "Cost-effectiveness of risk-based screening for colorectal cancer using prior fecal hemoglobin levels",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07829-7/fulltext?rss=yes",
+          "source": "Gastroenterology (AGA)",
+          "section": "gastroenterology",
+          "author": "Danica M.N. van den Berg, Lucie de Jonge, Esther Toes-Zoutendijk, Iris Lansdorp-Vogelaar",
+          "published": "2026-11-25T00:00:00+00:00",
           "summary": "",
           "full_html": null,
           "license": "",
@@ -550,34 +564,6 @@
           "license": "",
           "license_url": "",
           "words": 33
-        },
-        {
-          "id": "f83170de0775",
-          "title": "From Food to Foe: How Intestinal Inflammation Drives Food Sensitization",
-          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07836-4/fulltext?rss=yes",
-          "source": "Gastroenterology (AGA)",
-          "section": "gastroenterology",
-          "author": "Aaron L. Hecht, Purna C. Kashyap",
-          "published": "2026-11-24T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "bdb2a5ff8f5c",
-          "title": "Advances in GLP-2 research: mechanisms and therapeutic applications",
-          "url": "https://www.nature.com/articles/s41575-026-01271-z",
-          "source": "Nature Reviews Gastroenterology & Hepatology",
-          "section": "gastroenterology",
-          "author": "Daniel J. Drucker",
-          "published": "2026-11-24T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 24 November 2026; doi:10.1038/s41575-026-01271-z In this Review, Shang and Drucker discuss the latest advances in our understanding of glucagon-like peptide 2 (GLP-2), including mechanisms and therapeutic applications, future directions and research gaps.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 39
         },
         {
           "id": "e55a8afafd5e",
@@ -615,23 +601,51 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "502de0eeda7f",
-          "title": "Advances in molecular genetics of muscle and neuromuscular junction disorders",
-          "url": "https://www.nature.com/articles/s10038-026-01529-z",
-          "source": "Nature – Medical Research",
+          "id": "2c6e6214af59",
+          "title": "Healthcare’s Real Inflation Problem Isn’t on the Price Tag",
+          "url": "https://medcitynews.com/2026/11/healthcares-real-inflation-problem-isnt-on-the-price-tag/",
+          "source": "MedCity News",
           "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-25T00:00:00+00:00",
-          "summary": "",
+          "author": "Michael Moran",
+          "published": "2026-11-25T14:47:00+00:00",
+          "summary": "More and more health systems are making exactly the kind of investment the industry is urging, and not seeing the results they’re hoping for.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 0
+          "words": 24
         },
         {
-          "id": "a7fe62dbc124",
-          "title": "Integrating partner violence into HIV prevention and care for women",
-          "url": "https://www.nature.com/articles/s41579-026-01371-2",
+          "id": "5b3722e87e48",
+          "title": "STAT+: We’re reading about BioNTech founders’ oncology startup, a long-acting GSK drug, and more",
+          "url": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Andrew Joseph",
+          "published": "2026-11-25T13:55:58+00:00",
+          "summary": "The cofounders of BioNTech are in talks to raise about $1 billion for a new oncology company",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "05ed79556b1d",
+          "title": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach",
+          "url": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Michael S. Kinch",
+          "published": "2026-11-25T09:30:00+00:00",
+          "summary": "“Data show that the U.S.-China contest in biotechnology is not one race but several,” writes Michael S. Kinch.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "1141a7d6c452",
+          "title": "Adaptation and validation of the multimorbidity treatment burden questionnaire (MTBQ) in Peruvian patients with multimorbidity",
+          "url": "https://www.nature.com/articles/s41598-026-82062-z",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -669,34 +683,6 @@
           "license": "",
           "license_url": "",
           "words": 21
-        },
-        {
-          "id": "150f86d0ed08",
-          "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
-          "url": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Chelsea Cirruzzo and Daniel Payne",
-          "published": "2026-11-24T19:30:29+00:00",
-          "summary": "A partially redacted calendar showing health secretary Robert F. Kennedy Jr.’s activities was made public on Tuesday.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "32a1c54eec9c",
-          "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
-          "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Andrew Joseph",
-          "published": "2026-11-24T14:27:36+00:00",
-          "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
         },
         {
           "id": "a6ce6c799899",
@@ -746,6 +732,20 @@
           "license": "",
           "license_url": "",
           "words": 45
+        },
+        {
+          "id": "ed4b299ba199",
+          "title": "Sunday Pick: How to challenge your self-limiting beliefs with Shawn Achor | from ReThinking with Adam Grant",
+          "url": "https://audiocollective.ted.com/",
+          "source": "TED Talks (health & science)",
+          "section": "lectures",
+          "author": "",
+          "published": "2026-11-15T07:00:00+00:00",
+          "summary": "Your beliefs about yourself and the world have a big impact on your mental health, relationships, and success.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
         }
       ]
     },
@@ -755,32 +755,74 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "494939b7d950",
-          "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
-          "url": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Anna Bawden",
-          "published": "2026-11-25T01:00:01+00:00",
-          "summary": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give up Middle-aged women in England are the least likely to successfully give up smoking, according to research.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 36
-        },
-        {
-          "id": "43cf292a841b",
-          "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
-          "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+          "id": "bb16378dc24e",
+          "title": "NHS Grampian surgeon operated on patient while recovering from endoscopy",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-24T23:38:39+00:00",
-          "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+          "published": "2026-11-25T16:13:33+00:00",
+          "summary": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 16
+          "words": 19
+        },
+        {
+          "id": "316b1b2ff5f6",
+          "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Ari Daniel",
+          "published": "2026-11-25T14:14:34+00:00",
+          "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "cb17abedd744",
+          "title": "We’re in a flaking epidemic. No wonder no one wants to host gatherings | Chelsea Flagan",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/flaking-epidemic-hosting-mental-health",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Chelsea Fagan",
+          "published": "2026-11-25T11:00:47+00:00",
+          "summary": "We point to self-care as we skip out on activities – but routinely staying home poses its own risk to our mental health You might have heard by now, but Americans are quite lonely, especially if they’re young.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
+        },
+        {
+          "id": "70297038444c",
+          "title": "Listen to the Latest ‘KFF Health News Minute’",
+          "url": "https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-25T10:00:30+00:00",
+          "summary": "The \"KFF Health News Minute\" brings original healthcare and health policy reporting from our newsroom to the airwaves each week.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "acbf9d325e86",
+          "title": "Sticker Shock Looms as a Major Challenge in Push for Single-Payer Healthcare",
+          "url": "https://kffhealthnews.org/health-industry/universal-healthcare-single-payer-medicare-for-all-costs-oregon-midterm-election/",
+          "source": "KFF Health News",
+          "section": "related-articles",
+          "author": "Markian Hawryluk",
+          "published": "2026-11-25T10:00:00+00:00",
+          "summary": "Any discussion of a universal health plan in the U.S. always comes with concerns about massive costs. The challenge for proponents is to explain to voters that Americans already spend more than $5 trillion on healthcare each year.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
         },
         {
           "id": "c7b8bf3bd324",
@@ -789,7 +831,7 @@
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-24T23:00:13+00:00",
+          "published": "2026-11-25T06:17:47+00:00",
           "summary": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
           "full_html": null,
           "license": "",
@@ -811,20 +853,6 @@
           "words": 21
         },
         {
-          "id": "d05f2d172e60",
-          "title": "Here's the public health guidance for possible lead exposure in Iowa",
-          "url": "https://www.npr.org/2026/11/24/nx-s1-6052351/heres-the-public-health-guidance-for-possible-lead-exposure-in-iowa",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Michelle Aslam",
-          "published": "2026-11-24T21:16:46+00:00",
-          "summary": "NPR's Juana Summers talks with Dr. Dan McCabe, medical director of the Iowa Poison Control Center, about how people can protect themselves after the Army detonates degraded lead azide.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
-        },
-        {
           "id": "22995c289ab6",
           "title": "Justice is elusive for the Rohingya even after the ICJ’s landmark genocide ruling against Myanmar",
           "url": "https://theconversation.com/justice-is-elusive-for-the-rohingya-even-after-the-icjs-landmark-genocide-ruling-against-myanmar-297125",
@@ -837,34 +865,6 @@
           "license": "",
           "license_url": "",
           "words": 21
-        },
-        {
-          "id": "bf73973ce017",
-          "title": "When Disaster Strikes, Medicaid Work Rules Add Barriers for Potential Enrollees",
-          "url": "https://kffhealthnews.org/medicaid/natural-disasters-medicaid-work-requirements-eligibility-barriers-hawaii/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "Ashley Mizuo",
-          "published": "2026-11-24T10:00:00+00:00",
-          "summary": "Medicaid provides a critical safety net for people to maintain healthcare coverage. But new work requirements create barriers for those trying to recover from natural disasters.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "8bb109ac99d7",
-          "title": "As States Lose OB-GYNs, Some Look To Limit Medical Malpractice Risk",
-          "url": "https://kffhealthnews.org/health-industry/birth-injury-lawsuits-restrictions-ob-gyn-exodus-malpractice-risk/",
-          "source": "KFF Health News",
-          "section": "related-articles",
-          "author": "Anika Nayak",
-          "published": "2026-11-24T10:00:00+00:00",
-          "summary": "Since 2025, at least four states have enacted laws restricting medical malpractice lawsuits. Patient advocates warn that the laws impose more of a burden on families harmed during childbirth and often pass with little attention.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 35
         }
       ]
     }
@@ -1018,13 +1018,6 @@
       "full_text": false
     },
     {
-      "name": "The BMJ",
-      "site": "https://www.bmj.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
       "name": "The Conversation",
       "site": "https://theconversation.com",
       "license": "",
@@ -1068,6 +1061,7 @@
     }
   ],
   "errors": [
+    "The BMJ: 404 Client Error: Not Found for url: https://www.bmj.com/rss/recent.xml",
     "NIH – News Releases: 404 Client Error: Not Found for url: https://www.nih.gov/news-events/news-releases/rss.xml",
     "Medical News Today: 404 Client Error: Not Found for url: https://www.medicalnewstoday.com/rss",
     "ScienceDaily – Surgery: 404 Client Error: Not Found for url: https://www.sciencedaily.com/rss/health_medicine/surgery.xml",
