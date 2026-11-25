@@ -2,17 +2,17 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-24",
-    "date_long": "Tuesday, 24 November 2026",
+    "date": "2026-11-25",
+    "date_long": "Wednesday, 25 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-24T23:28+05:30",
+    "generated_at": "2026-11-25T08:08+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 49,
-    "reading_minutes": 7,
+    "reading_minutes": 8,
     "source_count": 28,
-    "full_text_count": 0,
+    "full_text_count": 1,
     "per_section": {
       "vertical-thinking": 10,
       "medicine": 7,
@@ -24,27 +24,27 @@
     },
     "keywords": [
       {
+        "term": "health",
+        "count": 9
+      },
+      {
         "term": "disease",
         "count": 8
       },
       {
-        "term": "patients",
+        "term": "women",
         "count": 6
       },
       {
-        "term": "surgery",
+        "term": "treatment",
         "count": 6
       },
       {
-        "term": "care",
-        "count": 5
+        "term": "people",
+        "count": 6
       },
       {
-        "term": "found",
-        "count": 5
-      },
-      {
-        "term": "patient",
+        "term": "countries",
         "count": 5
       },
       {
@@ -52,24 +52,24 @@
         "count": 5
       },
       {
-        "term": "treatment",
-        "count": 5
-      },
-      {
-        "term": "published online",
+        "term": "found",
         "count": 4
       },
       {
         "term": "online november",
-        "count": 4
+        "count": 3
       },
       {
-        "term": "mental health",
+        "term": "published online",
         "count": 3
       },
       {
         "term": "breast cancer",
         "count": 3
+      },
+      {
+        "term": "scottish government",
+        "count": 2
       }
     ],
     "markets": [
@@ -104,30 +104,30 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "59,978.00",
-        "change_pct": -2.63,
+        "display": "59,248.00",
+        "change_pct": -2.03,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,682.31",
-        "change_pct": -3.35,
+        "display": "1,658.86",
+        "change_pct": -2.16,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Hospital at home",
+    "term": "Prehabilitation",
     "pos": "noun",
-    "domain": "Care delivery",
-    "definition": "A model that delivers acute, hospital-level care in the patient's own residence, supported by remote monitoring and visiting staff.",
+    "domain": "Surgery",
+    "definition": "A programme of exercise, nutrition and psychological preparation undertaken before an operation to improve recovery.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 24",
-    "definition": "edit · refresh · view Word of the day for November 24 transfect v (transitive, biotechnology, genetics, microbiology, molecular biology) To introduce into (a eukaryotic cell) foreign material, especially a nucleic acid such as deoxyribonucleic acid (DNA) or ribonucleic acid…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261124000000/en",
+    "word": "Word of the day for November 25",
+    "definition": "edit · refresh · view Word of the day for November 25 itinerant adj Habitually travelling from place to place. (law, chiefly historical) Of a judge or court: travelling from place to place to hear cases; travelling on circuit. (figurative)…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261125000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -181,6 +181,34 @@
           "words": 23
         },
         {
+          "id": "f85beff2894b",
+          "title": "Season of sampling and the relationship of serum 25-hydroxyvitamin D3 with mortality and fracture: A population-based cohort study",
+          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005080",
+          "source": "PLOS Medicine",
+          "section": "vertical-thinking",
+          "author": "Hannah L. Brooke",
+          "published": "2026-11-24T14:00:00+00:00",
+          "summary": "by Karl Michaëlsson, Jonas Höijer, Rikard Landberg, Liisa Byberg, Susanna C. Larsson, Bodil Svennblad, Håkan Melhus, Hannah L. Brooke Background Vitamin D supplementation is widespread, yet randomized trials have not demonstrated convincing benefits for future health.",
+          "full_html": "<p>by Karl Michaëlsson, Jonas Höijer, Rikard Landberg, Liisa Byberg, Susanna C. Larsson, Bodil Svennblad, Håkan Melhus, Hannah L. Brooke</p>\nBackground <p>Vitamin D supplementation is widespread, yet randomized trials have not demonstrated convincing benefits for future health. We need to better identify individuals with true vitamin D deficiency. We aimed to determine how the season of blood draw affects the relationship of serum 25-hydroxyvitamin D3 (S-25OHD3) with mortality, any fracture, and hip fracture risk to identify target groups for vitamin D supplementation.</p> Methods and findings <p>Our analyses utilized two Swedish population-based cohorts: one comprising 5,010 women (average age 68 years) and another including 7,291 women and men (average age 75 years). Baseline S-25OHD3 concentrations were measured using liquid chromatography-tandem mass spectrometry. We ascertained information on fractures and death from nationwide registers. We used proportional hazards regression, by season, to estimate multivariable-adjusted (for age, sex, body mass index, renal and liver function, previous fracture, exercise, bone-specific drug use, calcium intake, comorbidities, and smoking) hazard ratios (HRs) with 95% confidence intervals (CI) for mortality and fractures across S-25OHD3 categories. Over an average follow-up of 11 years, 3,573 participants died, and 3,134 experienced fractures (886 hip fractures). The association of S-25OHD3 with death and fractures differed markedly by season of blood draw. For death, the HR in the lowest (&lt;40 nmol/L) versus highest (&gt;80 nmol/L) S-25OHD3 category was 2.86 (95% CI 2.05,3.99) for individuals with blood draws July–September, but 1.36 (95% CI 1.05,1.77) for individuals with blood draws January–March. The corresponding HRs for any fracture were 1.97 (95% CI 1.35,2.89) (July-September) and 1.16 (95% CI 0.89,1.50) (January-March), and for hip fracture were 2.82 (95% CI 1.40,5.71) (July–September) and 1.47 (95% CI 0.88,2.45) (January–March). These patterns were independent of cohort and sex. The main limitation of the study is the observational design, which precludes direct application of the findings into clinical practice.</p> Conclusions <p>Our findings suggest that low S‑25OHD3 levels may be clinically significant only when measured during the sunny season, consistent with a season‑dependent meaning of vitamin D deficiency. These findings raise the possibility that we should consider clinical assessment of vitamin D in summer, offer a potential explanation for null results in supplementation trials, and may guide the targeting of future interventions.</p>",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "words": 369
+        },
+        {
+          "id": "9298da5d93ae",
+          "title": "Publisher Correction: Generational gains in cognitive capacity and dementia incidence rates in Western countries",
+          "url": "https://www.nature.com/articles/s41591-026-04824-6",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "Kristine B. Walhovd",
+          "published": "2026-11-24T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 24 November 2026; doi:10.1038/s41591-026-04824-6 Publisher Correction: Generational gains in cognitive capacity and dementia incidence rates in Western countries",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
           "id": "7e8a2c574485",
           "title": "A step towards modelling amyotrophic lateral sclerosis in primates",
           "url": "https://elifesciences.org/articles/113568",
@@ -223,48 +251,6 @@
           "words": 43
         },
         {
-          "id": "947c81b3183b",
-          "title": "Correction: Co-exposure to planned power outages and wildfire PM2.5 and acute healthcare utilization in California: A time-stratified case-crossover study",
-          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005299",
-          "source": "PLOS Medicine",
-          "section": "vertical-thinking",
-          "author": "Joan A. Casey",
-          "published": "2026-11-20T14:00:00+00:00",
-          "summary": "by Lauren Blair Wilner, Caitlin G. Jones-Ngo, Chen Chen, Bethany Kwoka, Vivian Do, Joel D. Kaufman, Laura C. Myers, Tarik Benmarhnia, Joan A. Casey",
-          "full_html": null,
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 24
-        },
-        {
-          "id": "f17afb070bb8",
-          "title": "Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
-          "url": "https://www.nature.com/articles/s41591-026-04781-0",
-          "source": "Nature Medicine",
-          "section": "vertical-thinking",
-          "author": "Deanna Saylor",
-          "published": "2026-11-20T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 20 November 2026; doi:10.1038/s41591-026-04781-0 Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
-        },
-        {
-          "id": "1899a4aef379",
-          "title": "Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
-          "url": "https://www.nature.com/articles/s41591-026-04782-z",
-          "source": "Nature Medicine",
-          "section": "vertical-thinking",
-          "author": "Min Wei",
-          "published": "2026-11-20T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 20 November 2026; doi:10.1038/s41591-026-04782-z Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
-        },
-        {
           "id": "05696cfe9ca1",
           "title": "Healing Health Care in Rural America — Toward Community-Centered Learning Health Systems",
           "url": "https://www.nejm.org/doi/full/10.1056/NEJMsr2607321?af=R&rss=currentIssue",
@@ -277,6 +263,20 @@
           "license": "",
           "license_url": "",
           "words": 14
+        },
+        {
+          "id": "f7648c52fc1c",
+          "title": "Aspirin Omission at the Time of Primary Percutaneous Coronary Intervention in STEMI",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606997?af=R&rss=currentIssue",
+          "source": "NEJM",
+          "section": "vertical-thinking",
+          "author": "Kuniaki Takahashi Ken Kozuma Yoshihiro Morino Kosuke Kashiwabara Hiromasa Otake Satoru Suwa Mamoru Nanasato Takashi Muramatsu Hitoshi Anzai Akihiro Shirakabe Masashi Yamamoto Yasuhide Asaumi Masashi Sakuma Hideki Okayama Keisuke Nakabayashi Nobuhiko Ogata Kentaro Jujo Kohei Wakabayashi Takanori Kusuyama Yuko Onishi Kazuhiro Ashida Yuya Mitsuhashi Yuji Nishimoto Seiji Yamazaki Nehiro Kuriyama Yuji Ikari and Gaku Nakazawathe PREMIUM Trial Investigators*",
+          "published": "2026-08-29T09:15:02+00:00",
+          "summary": "New England Journal of Medicine, Volume 395, Issue 20, Page 1993-2003, November 19, 2026.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
         }
       ]
     },
@@ -285,6 +285,20 @@
       "title": "Medicine & Therapeutics",
       "kicker": "The Clinic",
       "articles": [
+        {
+          "id": "082cb587f7e8",
+          "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+          "source": "ScienceDaily – Health & Medicine",
+          "section": "medicine",
+          "author": "",
+          "published": "2026-11-24T23:31:52+00:00",
+          "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
         {
           "id": "4207b01bfb1d",
           "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
@@ -312,20 +326,6 @@
           "license": "",
           "license_url": "",
           "words": 22
-        },
-        {
-          "id": "35d9967650b3",
-          "title": "Depression may be an early warning sign of Alzheimer's disease",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
-          "source": "ScienceDaily – Health & Medicine",
-          "section": "medicine",
-          "author": "",
-          "published": "2026-11-24T00:31:03+00:00",
-          "summary": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer's disease, was linked to worsening depressive symptoms in people who still had normal memory and thinking abilities.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 39
         },
         {
           "id": "fb666164e8ac",
@@ -391,6 +391,34 @@
       "kicker": "The Theatre",
       "articles": [
         {
+          "id": "601b8fbf079f",
+          "title": "Eating healthy isn't enough if you're not eating enough",
+          "url": "https://www.news-medical.net/news/20261124/Eating-healthy-isnt-enough-if-youre-not-eating-enough.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-25T00:02:00+00:00",
+          "summary": "A narrative review examines how predominantly plant-rich diets, sufficient energy intake, balanced macronutrient consumption, and targeted supplementation can improve physical performance, recovery, and lifelong health.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "7486b722fa9e",
+          "title": "First-of-its-kind trial tests population-wide genetic cancer screening for women",
+          "url": "https://www.news-medical.net/news/20261124/First-of-its-kind-trial-tests-population-wide-genetic-cancer-screening-for-women.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-24T18:45:24+00:00",
+          "summary": "Women are being offered the opportunity to take part in a first-of-its-kind trial designed to evaluate how genetic screening could one day be offered to any woman who may want it - not just those identified as high risk due to family history.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
           "id": "5f726d300784",
           "title": "Tiny iron particles boost light-based therapy to eliminate hidden tumors",
           "url": "https://www.news-medical.net/news/20261124/Tiny-iron-particles-boost-light-based-therapy-to-eliminate-hidden-tumors.aspx",
@@ -403,34 +431,6 @@
           "license": "",
           "license_url": "",
           "words": 40
-        },
-        {
-          "id": "a2ee4ca7b0c9",
-          "title": "PEPPER trial compares aspirin and anticoagulants after joint replacement",
-          "url": "https://www.news-medical.net/news/20261124/PEPPER-trial-compares-aspirin-and-anticoagulants-after-joint-replacement.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-24T08:10:50+00:00",
-          "summary": "A large, multi-site clinical trial involving researchers at the University of Maryland School of Medicine (UMSOM) has provided important new evidence about the medications commonly used to prevent potentially life-threatening blood clots following hip and knee replacement surgery.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 38
-        },
-        {
-          "id": "056b6d168b39",
-          "title": "Insurance coverage lags behind advances in maternal-fetal surgery",
-          "url": "https://www.news-medical.net/news/20261124/Insurance-coverage-lags-behind-advances-in-maternal-fetal-surgery.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-24T08:01:15+00:00",
-          "summary": "While maternal-fetal surgery has rapidly advanced to treat serious congenital conditions before birth, a new national study led By Penn Nursing reveals that insurance coverage policies and policy transparency have not kept pace.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 33
         },
         {
           "id": "187d6987f46f",
@@ -510,18 +510,18 @@
           "words": 26
         },
         {
-          "id": "08fca4f5147a",
-          "title": "Study reveals how zinc deficiency reshapes the gut microbiome",
-          "url": "https://www.news-medical.net/news/20261123/Study-reveals-how-zinc-deficiency-reshapes-the-gut-microbiome.aspx",
+          "id": "118c7e19ef1b",
+          "title": "Asia-Pacific faces growing and uneven burden of MASLD",
+          "url": "https://www.news-medical.net/news/20261124/Asia-Pacific-faces-growing-and-uneven-burden-of-MASLD.aspx",
           "source": "News-Medical – Gastroenterology",
           "section": "gastroenterology",
           "author": "",
-          "published": "2026-11-24T02:40:00+00:00",
-          "summary": "A new Cornell University study suggests that even a mild, chronic shortage of zinc can quietly rewire the intestinal tract, and that the small intestine and the colon respond in strikingly different ways.",
+          "published": "2026-11-25T02:36:15+00:00",
+          "summary": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is rising throughout the Asia-Pacific region, but its distribution and consequences differ substantially between countries.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 33
+          "words": 21
         },
         {
           "id": "67e24569c5ca",
@@ -538,6 +538,20 @@
           "words": 0
         },
         {
+          "id": "c1e4de9f4de8",
+          "title": "Irritable bowel syndrome: new diagnostic guidelines, and frontiers of research",
+          "url": "https://www.nature.com/articles/s41575-026-01285-7",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Miranda A. L. van Tilburg",
+          "published": "2026-11-24T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 24 November 2026; doi:10.1038/s41575-026-01285-7 Irritable bowel syndrome is a common, complex disorder of gut–brain interaction, and although understanding of it has advanced, substantially important gaps remain.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
           "id": "f83170de0775",
           "title": "From Food to Foe: How Intestinal Inflammation Drives Food Sensitization",
           "url": "https://www.gastrojournal.org/article/S0016-5085(26)07836-4/fulltext?rss=yes",
@@ -552,28 +566,14 @@
           "words": 0
         },
         {
-          "id": "a39adcaf25c5",
-          "title": "Contemporary management of Crohn’s disease: optimizing outcomes",
-          "url": "https://www.nature.com/articles/s41575-026-01290-w",
+          "id": "bdb2a5ff8f5c",
+          "title": "Advances in GLP-2 research: mechanisms and therapeutic applications",
+          "url": "https://www.nature.com/articles/s41575-026-01271-z",
           "source": "Nature Reviews Gastroenterology & Hepatology",
           "section": "gastroenterology",
-          "author": "Remo Panaccione",
-          "published": "2026-11-23T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 23 November 2026; doi:10.1038/s41575-026-01290-w Strategy studies published in 2026 demonstrated that, with already approved medications or established surgical approaches, better outcomes for patients with Crohn’s disease can be achieved.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 36
-        },
-        {
-          "id": "578b0605552d",
-          "title": "Multi-cancer detection tests for gastrointestinal cancers",
-          "url": "https://www.nature.com/articles/s41575-026-01279-5",
-          "source": "Nature Reviews Gastroenterology & Hepatology",
-          "section": "gastroenterology",
-          "author": "Chyke Doubeni",
-          "published": "2026-11-23T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 23 November 2026; doi:10.1038/s41575-026-01279-5 In this Perspective, Shaukat and colleagues describe the status and challenges of multi-cancer detection tests for a range of gastrointestinal cancers, including colorectal, liver, pancreatic and oesophageal cancers.",
+          "author": "Daniel J. Drucker",
+          "published": "2026-11-24T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 24 November 2026; doi:10.1038/s41575-026-01271-z In this Review, Shang and Drucker discuss the latest advances in our understanding of glucagon-like peptide 2 (GLP-2), including mechanisms and therapeutic applications, future directions and research gaps.",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -615,6 +615,76 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
+          "id": "502de0eeda7f",
+          "title": "Advances in molecular genetics of muscle and neuromuscular junction disorders",
+          "url": "https://www.nature.com/articles/s10038-026-01529-z",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-25T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "a7fe62dbc124",
+          "title": "Integrating partner violence into HIV prevention and care for women",
+          "url": "https://www.nature.com/articles/s41579-026-01371-2",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-25T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "824546698936",
+          "title": "Houston Methodist’s Rural Remote Monitoring Expansion Shows Why Workflow is Critical",
+          "url": "https://medcitynews.com/2026/11/houston-methodists-rural-remote-monitoring-expansion-shows-why-workflow-is-critical/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Jenna Congdon",
+          "published": "2026-11-24T23:32:07+00:00",
+          "summary": "New technology, for example, remote monitoring, has potential to improve patient care and expand access.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "09c70ea6bbb9",
+          "title": "What One Women’s Health Advocate Is Watching After the Midterms",
+          "url": "https://medcitynews.com/2026/11/what-one-womens-health-advocate-is-watching-after-the-midterms/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Marissa Plescia",
+          "published": "2026-11-24T21:39:45+00:00",
+          "summary": "A women’s health advocate sees opportunities for bipartisan progress in the new Congress, particularly around maternal health, breast cancer and menopause.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "150f86d0ed08",
+          "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
+          "url": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Chelsea Cirruzzo and Daniel Payne",
+          "published": "2026-11-24T19:30:29+00:00",
+          "summary": "A partially redacted calendar showing health secretary Robert F. Kennedy Jr.’s activities was made public on Tuesday.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
           "id": "32a1c54eec9c",
           "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
           "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
@@ -627,76 +697,6 @@
           "license": "",
           "license_url": "",
           "words": 27
-        },
-        {
-          "id": "559d1062a7fc",
-          "title": "STAT+: Roche’s potential breast cancer blockbuster drug wins second FDA nod",
-          "url": "https://www.statnews.com/2026/11/24/biotech-news-roche-potential-breast-cancer-blockbluster-drug-wins-second-fda-nod/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Elaine Chen and Andrew Joseph",
-          "published": "2026-11-24T14:26:07+00:00",
-          "summary": "Roche's breast cancer pill has picked up its second FDA clearance in a week, this time in early-stage breast cancer for use after surgery.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
-        },
-        {
-          "id": "e0b9bda40fea",
-          "title": "Urgent Care’s Expanding Role in Identifying Mental Health Crises",
-          "url": "https://medcitynews.com/2026/11/urgent-cares-expanding-role-in-identifying-mental-health-crises/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Dan Frogel",
-          "published": "2026-11-24T14:20:00+00:00",
-          "summary": "Tools like the ASQ and a growing range of care options can help providers catch mental distress signals and route patients to the right level of care.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "c41e98ed3321",
-          "title": "Data Quality in Practice: The One Question Worth Remembering",
-          "url": "https://medcitynews.com/2026/11/data-quality-in-practice-the-one-question-worth-remembering/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Nathan Elliott",
-          "published": "2026-11-24T14:19:00+00:00",
-          "summary": "This simple four-word question is at the heart of everything we are doing with data quality.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
-          "id": "0f01d24c4be5",
-          "title": "Chronic insomnia: efficacy of very low dose mirtazapine and gabapentin",
-          "url": "https://www.nature.com/articles/s41598-026-79693-7",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-24T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "39a49bf6c34c",
-          "title": "Interpersonal incivility among trauma team members impairs performance and patient outcomes in crisis care settings",
-          "url": "https://www.nature.com/articles/s41598-026-73686-2",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-24T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
         },
         {
           "id": "a6ce6c799899",
@@ -755,46 +755,88 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "abd65dad40d0",
-          "title": "Weak and immature management putting patients at risk at failing health board, review finds",
-          "url": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
+          "id": "494939b7d950",
+          "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
+          "url": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Anna Bawden",
+          "published": "2026-11-25T01:00:01+00:00",
+          "summary": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give up Middle-aged women in England are the least likely to successfully give up smoking, according to research.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "43cf292a841b",
+          "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+          "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-24T17:37:17+00:00",
-          "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
+          "published": "2026-11-24T23:38:39+00:00",
+          "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 16
         },
         {
-          "id": "b64ace06ce53",
-          "title": "Nurses vote for industrial action over pay",
-          "url": "https://www.bbc.co.uk/news/articles/crn4kqk07d9ko?at_medium=RSS&at_campaign=rss",
+          "id": "c7b8bf3bd324",
+          "title": "A question of trust in the NHS could be Swinney's most dangerous political moment",
+          "url": "https://www.bbc.co.uk/news/articles/c65y12kg8711o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-24T16:31:10+00:00",
-          "summary": "Nurses will take continuous action short of strike from 3 December - such action includes working to rule and a ban on overtime.",
+          "published": "2026-11-24T23:00:13+00:00",
+          "summary": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 22
         },
         {
-          "id": "02857839b096",
-          "title": "Was Benjamin Franklin the original wellness bro? I lived like him for a day to find out",
-          "url": "https://www.theguardian.com/wellness/2026/nov/24/benjamin-franklin-wellness-routine",
-          "source": "The Guardian – Health",
+          "id": "b5da8c2ab150",
+          "title": "This group of seamstresses mends shirts to make chemo easier for cancer patients",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6044239-e1/this-group-of-seamstresses-mends-shirts-to-make-chemo-easier-for-cancer-patients",
+          "source": "NPR – Health",
           "section": "related-articles",
-          "author": "Madeleine Aggeler",
-          "published": "2026-11-24T15:00:48+00:00",
-          "summary": "Before online influencers existed, the founding father published an annual wellness pamphlet. I followed his 13 virtues he found necessary for a good life Benjamin Franklin doesn’t get enough credit.",
+          "author": "Kendall Crawford",
+          "published": "2026-11-24T21:19:27+00:00",
+          "summary": "Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
+          "words": 21
+        },
+        {
+          "id": "d05f2d172e60",
+          "title": "Here's the public health guidance for possible lead exposure in Iowa",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6052351/heres-the-public-health-guidance-for-possible-lead-exposure-in-iowa",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Michelle Aslam",
+          "published": "2026-11-24T21:16:46+00:00",
+          "summary": "NPR's Juana Summers talks with Dr. Dan McCabe, medical director of the Iowa Poison Control Center, about how people can protect themselves after the Army detonates degraded lead azide.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "22995c289ab6",
+          "title": "Justice is elusive for the Rohingya even after the ICJ’s landmark genocide ruling against Myanmar",
+          "url": "https://theconversation.com/justice-is-elusive-for-the-rohingya-even-after-the-icjs-landmark-genocide-ruling-against-myanmar-297125",
+          "source": "The Conversation",
+          "section": "related-articles",
+          "author": "San Beauchemin, Doctoral Researcher, School of Political Studies, L’Université d’Ottawa/University of Ottawa",
+          "published": "2026-11-24T16:49:44+00:00",
+          "summary": "The prospect of a safe and dignified repatriation of the Rohingya to Myanmar is a near impossibility despite the IJC ruling.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
         },
         {
           "id": "bf73973ce017",
@@ -811,20 +853,6 @@
           "words": 26
         },
         {
-          "id": "8478daece731",
-          "title": "Doctors struggle to save babies after parents refuse vitamin K",
-          "url": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Kate Wells",
-          "published": "2026-11-24T10:00:00+00:00",
-          "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
-        },
-        {
           "id": "8bb109ac99d7",
           "title": "As States Lose OB-GYNs, Some Look To Limit Medical Malpractice Risk",
           "url": "https://kffhealthnews.org/health-industry/birth-injury-lawsuits-restrictions-ob-gyn-exodus-malpractice-risk/",
@@ -837,34 +865,6 @@
           "license": "",
           "license_url": "",
           "words": 35
-        },
-        {
-          "id": "2256b381d147",
-          "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-          "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Emmet Livingstone",
-          "published": "2026-11-24T10:00:00+00:00",
-          "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "9cbcfc276246",
-          "title": "PNG’s parliament is voting on ratifying Bougainville independence. A ‘no’ won’t be the end of the story",
-          "url": "https://theconversation.com/pngs-parliament-is-voting-on-ratifying-bougainville-independence-a-no-wont-be-the-end-of-the-story-290063",
-          "source": "The Conversation",
-          "section": "related-articles",
-          "author": "Tania Miletic, Co-Director, Initiative for Peacebuilding, Faculty of Arts, The University of Melbourne",
-          "published": "2026-11-23T19:18:19+00:00",
-          "summary": "After more than a century of colonial rule, a brutal war and a hard-won peace, Bougainville is approaching the finals steps of its road to self-determination.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         }
       ]
     }
