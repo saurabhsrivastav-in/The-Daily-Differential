@@ -2,21 +2,21 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-25",
-    "date_long": "Wednesday, 25 November 2026",
+    "date": "2026-11-26",
+    "date_long": "Thursday, 26 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-25T22:57+05:30",
+    "generated_at": "2026-11-26T07:22+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 49,
-    "reading_minutes": 8,
+    "reading_minutes": 6,
     "source_count": 27,
-    "full_text_count": 1,
+    "full_text_count": 0,
     "per_section": {
       "vertical-thinking": 10,
-      "medicine": 6,
-      "surgery": 7,
+      "medicine": 7,
+      "surgery": 6,
       "gastroenterology": 8,
       "medical-trends": 8,
       "lectures": 2,
@@ -24,11 +24,19 @@
     },
     "keywords": [
       {
-        "term": "treatment",
-        "count": 7
+        "term": "health",
+        "count": 10
       },
       {
         "term": "medicine",
+        "count": 6
+      },
+      {
+        "term": "disease",
+        "count": 6
+      },
+      {
+        "term": "treatment",
         "count": 6
       },
       {
@@ -36,40 +44,32 @@
         "count": 6
       },
       {
-        "term": "colorectal cancer",
+        "term": "drug",
         "count": 5
+      },
+      {
+        "term": "surgery",
+        "count": 5
+      },
+      {
+        "term": "colorectal cancer",
+        "count": 4
       },
       {
         "term": "study",
-        "count": 5
-      },
-      {
-        "term": "brain",
-        "count": 5
+        "count": 4
       },
       {
         "term": "published online",
-        "count": 4
+        "count": 3
       },
       {
         "term": "online november",
-        "count": 4
-      },
-      {
-        "term": "nature",
-        "count": 4
-      },
-      {
-        "term": "risk",
-        "count": 4
-      },
-      {
-        "term": "disease",
-        "count": 4
-      },
-      {
-        "term": "mental health",
         "count": 3
+      },
+      {
+        "term": "leading cause",
+        "count": 2
       }
     ],
     "markets": [
@@ -104,30 +104,30 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "59,063.00",
-        "change_pct": -1.03,
+        "display": "60,739.00",
+        "change_pct": 2.83,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,656.68",
-        "change_pct": -1.14,
+        "display": "1,699.32",
+        "change_pct": 2.79,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Prehabilitation",
+    "term": "Enhanced Recovery After Surgery (ERAS)",
     "pos": "noun",
     "domain": "Surgery",
-    "definition": "A programme of exercise, nutrition and psychological preparation undertaken before an operation to improve recovery.",
+    "definition": "An evidence-based perioperative pathway - early feeding, opioid-sparing analgesia, early mobilisation - that shortens recovery and reduces complications.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 25",
-    "definition": "edit · refresh · view Word of the day for November 25 itinerant adj Habitually travelling from place to place. (law, chiefly historical) Of a judge or court: travelling from place to place to hear cases; travelling on circuit. (figurative)…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261125000000/en",
+    "word": "Word of the day for November 26",
+    "definition": "edit · refresh · view Word of the day for November 26 pumpkin chunkin' n (originally and chiefly US, informal) The informal sport of hurling a pumpkin as far as possible by mechanical means. Happy Thanksgiving!",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261126000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -138,6 +138,34 @@
       "title": "Vertical Thinking in Medical Science",
       "kicker": "Depth Over Breadth",
       "articles": [
+        {
+          "id": "e0e914f70865",
+          "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
+          "url": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
+          "source": "STAT – Research",
+          "section": "vertical-thinking",
+          "author": "O. Rose Broderick",
+          "published": "2026-11-25T21:28:53+00:00",
+          "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "91e31718767d",
+          "title": "Pre-eclampsia: Time to focus on delivery rather than discovery",
+          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005306",
+          "source": "PLOS Medicine",
+          "section": "vertical-thinking",
+          "author": "Andrew H. Shennan",
+          "published": "2026-11-25T14:00:00+00:00",
+          "summary": "by Alice Beardmore-Gray, Catherine A. Cluver, Andrew H. Shennan Efforts to reduce maternal mortality have stagnated in the past 5 years and pre-eclampsia remains a leading cause of death.",
+          "full_html": null,
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "words": 29
+        },
         {
           "id": "97a7a867ea7b",
           "title": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
@@ -167,46 +195,18 @@
           "words": 40
         },
         {
-          "id": "8069aa7df4bf",
-          "title": "Later-born generations have better memory and lose it more slowly",
-          "url": "https://www.nature.com/articles/s41591-026-04758-z",
+          "id": "a9d1e324ac71",
+          "title": "Author Correction: On-premise medical AI agents for reliable clinical decision-making",
+          "url": "https://www.nature.com/articles/s41591-026-04822-8",
           "source": "Nature Medicine",
           "section": "vertical-thinking",
-          "author": "",
+          "author": "Jakob Nikolas Kather",
           "published": "2026-11-25T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 25 November 2026; doi:10.1038/s41591-026-04758-z Dementia risk at any age has been falling for decades.",
+          "summary": "Nature Medicine, Published online: 25 November 2026; doi:10.1038/s41591-026-04822-8 Author Correction: On-premise medical AI agents for reliable clinical decision-making",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 18
-        },
-        {
-          "id": "c6fd6123a90d",
-          "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
-          "url": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
-          "source": "STAT – Research",
-          "section": "vertical-thinking",
-          "author": "Theresa Gaffney and Annalisa Merelli",
-          "published": "2026-11-24T14:15:03+00:00",
-          "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "f85beff2894b",
-          "title": "Season of sampling and the relationship of serum 25-hydroxyvitamin D3 with mortality and fracture: A population-based cohort study",
-          "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005080",
-          "source": "PLOS Medicine",
-          "section": "vertical-thinking",
-          "author": "Hannah L. Brooke",
-          "published": "2026-11-24T14:00:00+00:00",
-          "summary": "by Karl Michaëlsson, Jonas Höijer, Rikard Landberg, Liisa Byberg, Susanna C. Larsson, Bodil Svennblad, Håkan Melhus, Hannah L. Brooke Background Vitamin D supplementation is widespread, yet randomized trials have not demonstrated convincing benefits for future health.",
-          "full_html": "<p>by Karl Michaëlsson, Jonas Höijer, Rikard Landberg, Liisa Byberg, Susanna C. Larsson, Bodil Svennblad, Håkan Melhus, Hannah L. Brooke</p>\nBackground <p>Vitamin D supplementation is widespread, yet randomized trials have not demonstrated convincing benefits for future health. We need to better identify individuals with true vitamin D deficiency. We aimed to determine how the season of blood draw affects the relationship of serum 25-hydroxyvitamin D3 (S-25OHD3) with mortality, any fracture, and hip fracture risk to identify target groups for vitamin D supplementation.</p> Methods and findings <p>Our analyses utilized two Swedish population-based cohorts: one comprising 5,010 women (average age 68 years) and another including 7,291 women and men (average age 75 years). Baseline S-25OHD3 concentrations were measured using liquid chromatography-tandem mass spectrometry. We ascertained information on fractures and death from nationwide registers. We used proportional hazards regression, by season, to estimate multivariable-adjusted (for age, sex, body mass index, renal and liver function, previous fracture, exercise, bone-specific drug use, calcium intake, comorbidities, and smoking) hazard ratios (HRs) with 95% confidence intervals (CI) for mortality and fractures across S-25OHD3 categories. Over an average follow-up of 11 years, 3,573 participants died, and 3,134 experienced fractures (886 hip fractures). The association of S-25OHD3 with death and fractures differed markedly by season of blood draw. For death, the HR in the lowest (&lt;40 nmol/L) versus highest (&gt;80 nmol/L) S-25OHD3 category was 2.86 (95% CI 2.05,3.99) for individuals with blood draws July–September, but 1.36 (95% CI 1.05,1.77) for individuals with blood draws January–March. The corresponding HRs for any fracture were 1.97 (95% CI 1.35,2.89) (July-September) and 1.16 (95% CI 0.89,1.50) (January-March), and for hip fracture were 2.82 (95% CI 1.40,5.71) (July–September) and 1.47 (95% CI 0.88,2.45) (January–March). These patterns were independent of cohort and sex. The main limitation of the study is the observational design, which precludes direct application of the findings into clinical practice.</p> Conclusions <p>Our findings suggest that low S‑25OHD3 levels may be clinically significant only when measured during the sunny season, consistent with a season‑dependent meaning of vitamin D deficiency. These findings raise the possibility that we should consider clinical assessment of vitamin D in summer, offer a potential explanation for null results in supplementation trials, and may guide the targeting of future interventions.</p>",
-          "license": "CC BY 4.0",
-          "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 369
         },
         {
           "id": "7e8a2c574485",
@@ -342,6 +342,20 @@
           "words": 34
         },
         {
+          "id": "7e91772bad71",
+          "title": "FDA Approves First New Hormone Therapy for Early-Stage Breast Cancer in More Than 20 Years",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years",
+          "source": "FDA – Press Announcements",
+          "section": "medicine",
+          "author": "FDA",
+          "published": "2026-11-23T15:55:37+00:00",
+          "summary": "The FDA today approved Wilserdly (giredestrant), used alone after surgery in adults with estrogen receptor–positive, HER2-negative breast cancer — the most common subtype of the disease.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 26
+        },
+        {
           "id": "abdefc56b7d6",
           "title": "Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC",
           "url": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
@@ -377,6 +391,34 @@
       "kicker": "The Theatre",
       "articles": [
         {
+          "id": "f529ce6315fc",
+          "title": "Blocking specific metabolic enzyme reduces kidney damage during surgical procedures",
+          "url": "https://www.news-medical.net/news/20261125/Blocking-specific-metabolic-enzyme-reduces-kidney-damage-during-surgical-procedures.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-25T20:39:26+00:00",
+          "summary": "During kidney transplantation or certain surgical procedures, blood flow to the kidneys may be temporarily interrupted or reduced. When blood flow is restored, the return of oxygen can trigger oxidative stress and inflammation, damaging kidney cells.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "af879fb753e2",
+          "title": "Lifesaving kidney transplant helps woman defy odds to achieve motherhood",
+          "url": "https://www.news-medical.net/news/20261125/Lifesaving-kidney-transplant-helps-woman-defy-odds-to-achieve-motherhood.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-25T17:41:41+00:00",
+          "summary": "Antonella DeBartoli looks at her two-and-a-half-month-old son, Luciano, and sees a miracle of a lifetime in the making. She and her husband, Angelo, have been together for 15 years and married for eight.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
           "id": "1ca1c9af87d4",
           "title": "Study supports shorter pancreatic neuroendocrine tumor follow-up",
           "url": "https://medicalxpress.com/news/2026-11-shorter-pancreatic-neuroendocrine-tumor.html",
@@ -403,48 +445,6 @@
           "license": "",
           "license_url": "",
           "words": 33
-        },
-        {
-          "id": "fba40c0c9400",
-          "title": "Does colorectal cancer treatment explain muscle mass differences?",
-          "url": "https://www.news-medical.net/news/20261125/Does-colorectal-cancer-treatment-explain-muscle-mass-differences.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-25T12:36:00+00:00",
-          "summary": "Researchers compare muscle and body composition across five colorectal cancer treatment groups, highlighting the influence of sex on observed differences.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "91a4f2519322",
-          "title": "Understanding pituitary tumor symptoms, diagnosis and treatment options",
-          "url": "https://www.news-medical.net/news/20261125/Understanding-pituitary-tumor-symptoms-diagnosis-and-treatment-options.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-25T05:17:04+00:00",
-          "summary": "About the size of a pea, the pituitary gland sits at the base of your brain, just behind your nose. Though tiny, it plays a big role in your health.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
-        },
-        {
-          "id": "187d6987f46f",
-          "title": "'I'm amazed every day': Woman marks one year with a pig kidney",
-          "url": "https://medicalxpress.com/news/2026-11-im-amazed-day-woman-year.html",
-          "source": "Medical Xpress – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-23T22:20:06+00:00",
-          "summary": "A New Hampshire woman has now lived for one year with a kidney from a gene-edited pig, the longest any patient is known to have done so.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
         },
         {
           "id": "d2a5a797d17a",
@@ -510,6 +510,20 @@
           "words": 31
         },
         {
+          "id": "118c7e19ef1b",
+          "title": "Asia-Pacific faces growing and uneven burden of MASLD",
+          "url": "https://www.news-medical.net/news/20261124/Asia-Pacific-faces-growing-and-uneven-burden-of-MASLD.aspx",
+          "source": "News-Medical – Gastroenterology",
+          "section": "gastroenterology",
+          "author": "",
+          "published": "2026-11-25T02:36:15+00:00",
+          "summary": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is rising throughout the Asia-Pacific region, but its distribution and consequences differ substantially between countries.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
           "id": "ee9ca8e213ae",
           "title": "Acute Pancreatitis Reporting Across CFTR Modulators: A Regimen-Specific Pharmacovigilance Analysis",
           "url": "https://www.gastrojournal.org/article/S0016-5085(26)07830-3/fulltext?rss=yes",
@@ -552,20 +566,6 @@
           "words": 0
         },
         {
-          "id": "c1e4de9f4de8",
-          "title": "Irritable bowel syndrome: new diagnostic guidelines, and frontiers of research",
-          "url": "https://www.nature.com/articles/s41575-026-01285-7",
-          "source": "Nature Reviews Gastroenterology & Hepatology",
-          "section": "gastroenterology",
-          "author": "Miranda A. L. van Tilburg",
-          "published": "2026-11-24T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 24 November 2026; doi:10.1038/s41575-026-01285-7 Irritable bowel syndrome is a common, complex disorder of gut–brain interaction, and although understanding of it has advanced, substantially important gaps remain.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 33
-        },
-        {
           "id": "e55a8afafd5e",
           "title": "CAF-macrophage crosstalk fuels immunotherapy resistance",
           "url": "http://gut.bmj.com/cgi/content/short/75/12/2301?rss=1",
@@ -601,6 +601,20 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
+          "id": "0c2c9ae8f644",
+          "title": "STAT+: FDA approves Cogent’s drug for rare stomach cancer",
+          "url": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Elaine Chen",
+          "published": "2026-11-25T20:44:15+00:00",
+          "summary": "Cogent Biosciences won FDA clearance for its stomach cancer treatment, in combination with a much older drug from Pfizer called Sutent.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
           "id": "2c6e6214af59",
           "title": "Healthcare’s Real Inflation Problem Isn’t on the Price Tag",
           "url": "https://medcitynews.com/2026/11/healthcares-real-inflation-problem-isnt-on-the-price-tag/",
@@ -629,23 +643,23 @@
           "words": 17
         },
         {
-          "id": "05ed79556b1d",
-          "title": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach",
-          "url": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Michael S. Kinch",
-          "published": "2026-11-25T09:30:00+00:00",
-          "summary": "“Data show that the U.S.-China contest in biotechnology is not one race but several,” writes Michael S. Kinch.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
-        },
-        {
           "id": "1141a7d6c452",
           "title": "Adaptation and validation of the multimorbidity treatment burden questionnaire (MTBQ) in Peruvian patients with multimorbidity",
           "url": "https://www.nature.com/articles/s41598-026-82062-z",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-25T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "4d9a0516a3ac",
+          "title": "Bonding of experimental nanoparticle-modified additively manufactured crown resins to titanium",
+          "url": "https://www.nature.com/articles/s41598-026-81671-y",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -669,20 +683,6 @@
           "license": "",
           "license_url": "",
           "words": 15
-        },
-        {
-          "id": "09c70ea6bbb9",
-          "title": "What One Women’s Health Advocate Is Watching After the Midterms",
-          "url": "https://medcitynews.com/2026/11/what-one-womens-health-advocate-is-watching-after-the-midterms/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Marissa Plescia",
-          "published": "2026-11-24T21:39:45+00:00",
-          "summary": "A women’s health advocate sees opportunities for bipartisan progress in the new Congress, particularly around maternal health, breast cancer and menopause.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
         },
         {
           "id": "a6ce6c799899",
@@ -755,8 +755,50 @@
       "kicker": "Further Reading",
       "articles": [
         {
+          "id": "015bdac5833f",
+          "title": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-25T23:01:45+00:00",
+          "summary": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "5f0bb5e51a00",
+          "title": "Slashing foreign aid could be disastrous | Letter",
+          "url": "https://www.theguardian.com/global-development/2026/nov/25/slashing-foreign-aid-could-be-disastrous",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Guardian Staff",
+          "published": "2026-11-25T18:07:40+00:00",
+          "summary": "Measles is spreading across the world and could give rise to another pandemic, writes Colette McIvor After reading your report (‘They’re struggling for oxygen’: children pay the price as countries allow measles to surge again, 20 November), I was struck by the statement that proposed…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "483f64d5371e",
+          "title": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
+          "url": "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352",
+          "source": "The Conversation",
+          "section": "related-articles",
+          "author": "James Horncastle, Associate Professor and Edward and Emily McWhinney Professor in International Relations, Simon Fraser University",
+          "published": "2026-11-25T17:04:48+00:00",
+          "summary": "For Ukraine to have any chance of winning the war against Russia, it must increase the pressure on Vladimir Putin’s government. Making Russian assets vulnerable globally is one way to do it.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
           "id": "bb16378dc24e",
-          "title": "NHS Grampian surgeon operated on patient while recovering from endoscopy",
+          "title": "NHS Grampian surgeon was ready to operate on patient while recovering from medical procedure",
           "url": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
@@ -781,20 +823,6 @@
           "license": "",
           "license_url": "",
           "words": 29
-        },
-        {
-          "id": "cb17abedd744",
-          "title": "We’re in a flaking epidemic. No wonder no one wants to host gatherings | Chelsea Flagan",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/flaking-epidemic-hosting-mental-health",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Chelsea Fagan",
-          "published": "2026-11-25T11:00:47+00:00",
-          "summary": "We point to self-care as we skip out on activities – but routinely staying home poses its own risk to our mental health You might have heard by now, but Americans are quite lonely, especially if they’re young.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 38
         },
         {
           "id": "70297038444c",
@@ -825,20 +853,6 @@
           "words": 38
         },
         {
-          "id": "c7b8bf3bd324",
-          "title": "A question of trust in the NHS could be Swinney's most dangerous political moment",
-          "url": "https://www.bbc.co.uk/news/articles/c65y12kg8711o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-25T06:17:47+00:00",
-          "summary": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
-        },
-        {
           "id": "b5da8c2ab150",
           "title": "This group of seamstresses mends shirts to make chemo easier for cancer patients",
           "url": "https://www.npr.org/2026/11/24/nx-s1-6044239-e1/this-group-of-seamstresses-mends-shirts-to-make-chemo-easier-for-cancer-patients",
@@ -847,20 +861,6 @@
           "author": "Kendall Crawford",
           "published": "2026-11-24T21:19:27+00:00",
           "summary": "Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "22995c289ab6",
-          "title": "Justice is elusive for the Rohingya even after the ICJ’s landmark genocide ruling against Myanmar",
-          "url": "https://theconversation.com/justice-is-elusive-for-the-rohingya-even-after-the-icjs-landmark-genocide-ruling-against-myanmar-297125",
-          "source": "The Conversation",
-          "section": "related-articles",
-          "author": "San Beauchemin, Doctoral Researcher, School of Political Studies, L’Université d’Ottawa/University of Ottawa",
-          "published": "2026-11-24T16:49:44+00:00",
-          "summary": "The prospect of a safe and dignified repatriation of the Rohingya to Myanmar is a near impossibility despite the IJC ruling.",
           "full_html": null,
           "license": "",
           "license_url": "",
