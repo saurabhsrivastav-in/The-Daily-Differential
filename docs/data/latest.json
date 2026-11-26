@@ -5,7 +5,7 @@
     "date": "2026-11-26",
     "date_long": "Thursday, 26 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-26T07:22+05:30",
+    "generated_at": "2026-11-26T22:38+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -28,15 +28,11 @@
         "count": 10
       },
       {
-        "term": "medicine",
-        "count": 6
+        "term": "treatment",
+        "count": 7
       },
       {
         "term": "disease",
-        "count": 6
-      },
-      {
-        "term": "treatment",
         "count": 6
       },
       {
@@ -44,75 +40,79 @@
         "count": 6
       },
       {
-        "term": "drug",
-        "count": 5
-      },
-      {
         "term": "surgery",
+        "count": 6
+      },
+      {
+        "term": "medicine",
         "count": 5
       },
       {
-        "term": "colorectal cancer",
-        "count": 4
+        "term": "risk",
+        "count": 5
       },
       {
-        "term": "study",
+        "term": "online november",
         "count": 4
       },
       {
         "term": "published online",
+        "count": 4
+      },
+      {
+        "term": "clinical",
+        "count": 4
+      },
+      {
+        "term": "breast cancer",
         "count": 3
       },
       {
-        "term": "online november",
+        "term": "colorectal cancer",
         "count": 3
-      },
-      {
-        "term": "leading cause",
-        "count": 2
       }
     ],
     "markets": [
       {
         "label": "USD/EUR",
         "group": "Currencies",
-        "display": "0.9145",
-        "change_pct": 0.26,
+        "display": "0.9112",
+        "change_pct": -0.36,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/GBP",
         "group": "Currencies",
-        "display": "0.7657",
-        "change_pct": 0.29,
+        "display": "0.7631",
+        "change_pct": -0.34,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "92.24",
-        "change_pct": -0.73,
+        "display": "92.45",
+        "change_pct": 0.23,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/JPY",
         "group": "Currencies",
-        "display": "159.32",
-        "change_pct": 0.16,
+        "display": "159.26",
+        "change_pct": -0.04,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,739.00",
-        "change_pct": 2.83,
+        "display": "60,547.00",
+        "change_pct": 2.44,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,699.32",
-        "change_pct": 2.79,
+        "display": "1,692.78",
+        "change_pct": 2.12,
         "source": "CoinGecko"
       }
     ]
@@ -138,6 +138,48 @@
       "title": "Vertical Thinking in Medical Science",
       "kicker": "Depth Over Breadth",
       "articles": [
+        {
+          "id": "caccca95b105",
+          "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America",
+          "url": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
+          "source": "STAT – Research",
+          "section": "vertical-thinking",
+          "author": "Marin Wolf, Jonathan Saltzman,and and Scooty Nickerson — Boston Globe",
+          "published": "2026-11-26T12:00:00+00:00",
+          "summary": "Boston is supposed to be the medical capital of America. Yet many don’t have primary care access, hurting their ability to get treatments, screenings, and medical advice.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "6106d689463a",
+          "title": "Integrated wastewater and clinical genomic surveillance for high-resolution tracking of measles virus evolution and transmission",
+          "url": "https://www.nature.com/articles/s41591-026-04754-3",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "Mukhlid Yousif",
+          "published": "2026-11-26T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 26 November 2026; doi:10.1038/s41591-026-04754-3 Whole-genome sequencing and phylogenetic analyses of wastewater and surveillance samples during the 2024−2025 measles outbreak in South Africa reveal previously undetected inter-provincial spread and transmission links, suggesting that wastewater-integrated whole-genome surveillance can improve measles monitoring and control…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "f06045383a9c",
+          "title": "Performance of intracortical microelectrode arrays in people with implanted brain–computer interfaces over a 20-year period",
+          "url": "https://www.nature.com/articles/s41591-026-04530-3",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "Shaomin Zhang",
+          "published": "2026-11-26T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 26 November 2026; doi:10.1038/s41591-026-04530-3 Utah arrays recorded stable spiking activity for up to 7.3 years, with modest signal decline on average and sustained movement decoding in the majority of arrays analyzed, demonstrating the long-term feasibility of intracortical brain–computer interfaces.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
         {
           "id": "e0e914f70865",
           "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
@@ -167,46 +209,32 @@
           "words": 29
         },
         {
-          "id": "97a7a867ea7b",
-          "title": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
-          "url": "https://www.statnews.com/2026/11/25/health-news-rfk-jr-weighs-in-on-plan-to-detonate-toxic-material-in-iowa/?utm_campaign=rss",
-          "source": "STAT – Research",
+          "id": "5036ea25adf7",
+          "title": "Blood-Pressure–Lowering Treatment across the Cardiovascular Risk Spectrum",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607848?af=R&rss=currentIssue",
+          "source": "NEJM",
           "section": "vertical-thinking",
-          "author": "Amanda Erickson and Jonathan Wosen",
-          "published": "2026-11-25T13:03:56+00:00",
-          "summary": "This morning, the Army plans to detonate a cache of “dangerously degraded” toxic material in Iowa, with experts warning of dangerous health consequences:",
+          "author": "Zeinab Bidel Milad Nazarzadeh Borislava Mihaylova Qianqian Yang Johan Sundström Nathalie Conrad Dexter Canoy Guyu Zeng David M. Kent William C. Cushman John Chalmers Koon K. Teo Carl J. Pepine Barry R. Davis Mark Woodward and Kazem Rahimithe Blood Pressure Lowering Treatment Trialists’ Collaboration*",
+          "published": "2026-11-25T10:00:01+00:00",
+          "summary": "New England Journal of Medicine, Volume 395, Issue 21, Page 2121-2132, November 26, 2026.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 14
         },
         {
-          "id": "03d0e64b6457",
-          "title": "STEP Young trial shows semaglutide benefits in children",
-          "url": "https://www.nature.com/articles/d41591-026-00059-7",
-          "source": "Nature Medicine",
+          "id": "7faaa3389df7",
+          "title": "Giant-Cell Arteritis",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2605238?af=R&rss=currentIssue",
+          "source": "NEJM",
           "section": "vertical-thinking",
-          "author": "Karen O’Leary",
-          "published": "2026-11-25T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 25 November 2026; doi:10.1038/d41591-026-00059-7 In a phase 3 study, children with obesity lost significantly more weight with semaglutide than with placebo, with more than one third achieving a body mass index below the threshold for obesity.",
+          "author": "Frank Buttgereit and Cristina Ponte",
+          "published": "2026-11-25T10:00:01+00:00",
+          "summary": "New England Journal of Medicine, Volume 395, Issue 21, Page 2133-2148, November 26, 2026.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 40
-        },
-        {
-          "id": "a9d1e324ac71",
-          "title": "Author Correction: On-premise medical AI agents for reliable clinical decision-making",
-          "url": "https://www.nature.com/articles/s41591-026-04822-8",
-          "source": "Nature Medicine",
-          "section": "vertical-thinking",
-          "author": "Jakob Nikolas Kather",
-          "published": "2026-11-25T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 25 November 2026; doi:10.1038/s41591-026-04822-8 Author Correction: On-premise medical AI agents for reliable clinical decision-making",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
+          "words": 14
         },
         {
           "id": "7e8a2c574485",
@@ -249,34 +277,6 @@
           "license": "",
           "license_url": "",
           "words": 43
-        },
-        {
-          "id": "05696cfe9ca1",
-          "title": "Healing Health Care in Rural America — Toward Community-Centered Learning Health Systems",
-          "url": "https://www.nejm.org/doi/full/10.1056/NEJMsr2607321?af=R&rss=currentIssue",
-          "source": "NEJM",
-          "section": "vertical-thinking",
-          "author": "Monica M. Bertagnolli",
-          "published": "2026-11-18T10:00:01+00:00",
-          "summary": "New England Journal of Medicine, Volume 395, Issue 20, Page 2063-2067, November 19, 2026.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
-        },
-        {
-          "id": "f7648c52fc1c",
-          "title": "Aspirin Omission at the Time of Primary Percutaneous Coronary Intervention in STEMI",
-          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606997?af=R&rss=currentIssue",
-          "source": "NEJM",
-          "section": "vertical-thinking",
-          "author": "Kuniaki Takahashi Ken Kozuma Yoshihiro Morino Kosuke Kashiwabara Hiromasa Otake Satoru Suwa Mamoru Nanasato Takashi Muramatsu Hitoshi Anzai Akihiro Shirakabe Masashi Yamamoto Yasuhide Asaumi Masashi Sakuma Hideki Okayama Keisuke Nakabayashi Nobuhiko Ogata Kentaro Jujo Kohei Wakabayashi Takanori Kusuyama Yuko Onishi Kazuhiro Ashida Yuya Mitsuhashi Yuji Nishimoto Seiji Yamazaki Nehiro Kuriyama Yuji Ikari and Gaku Nakazawathe PREMIUM Trial Investigators*",
-          "published": "2026-08-29T09:15:02+00:00",
-          "summary": "New England Journal of Medicine, Volume 395, Issue 20, Page 1993-2003, November 19, 2026.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
         }
       ]
     },
@@ -286,46 +286,46 @@
       "kicker": "The Clinic",
       "articles": [
         {
-          "id": "4f9bed7a361b",
-          "title": "Common sleep and anxiety drugs could be harming aging brains",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
+          "id": "a9c09dec821c",
+          "title": "Common supplements rival antibiotics in treating severe gum disease",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-25T11:13:47+00:00",
-          "summary": "Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature death.",
+          "published": "2026-11-26T11:43:30+00:00",
+          "summary": "A combination of omega-3 and low-dose aspirin produced results comparable to antibiotics when used alongside standard treatment for severe gum disease, with benefits persisting long after supplementation ended. The surprising discovery could offer an alternative for some patients while reducing reliance on antibiotics.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
+          "words": 43
         },
         {
-          "id": "1a11b69c61df",
-          "title": "Peppermint oil significantly lowers blood pressure in just 20 days",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
+          "id": "700edacb0bba",
+          "title": "Loneliness is making us sick, but we may be treating it all wrong",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055906.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-25T10:53:00+00:00",
-          "summary": "Peppermint oil may have a surprisingly powerful effect on blood pressure. In a randomized study of 40 adults, researchers found that taking small doses twice daily for 20 days lowered systolic blood pressure by an average of 8.5 mmHg.",
+          "published": "2026-11-26T11:32:30+00:00",
+          "summary": "Loneliness can be surprisingly deadly, with previous research linking it to a roughly 30% increase in the risk of premature death. However, a new study warns that treating loneliness as a medical condition could distract from its deeper social causes.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 39
+          "words": 40
         },
         {
-          "id": "8a3840a9274a",
-          "title": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
+          "id": "e206cf2f9bf0",
+          "title": "Too much of this common nutrient could be accelerating blood vessel aging",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-25T04:11:59+00:00",
-          "summary": "An AI-powered analysis of thousands of children's brain scans has revealed three distinct brain types underlying ADHD and anxiety that do not neatly fit traditional diagnoses.",
+          "published": "2026-11-26T03:53:48+00:00",
+          "summary": "Researchers have uncovered a kidney protein that may hold an important key to vascular aging and longevity. The protein helps prevent excess phosphate from accumulating in the blood and gradually turning flexible blood vessels rigid.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 26
+          "words": 35
         },
         {
           "id": "fb666164e8ac",
@@ -391,32 +391,46 @@
       "kicker": "The Theatre",
       "articles": [
         {
-          "id": "f529ce6315fc",
-          "title": "Blocking specific metabolic enzyme reduces kidney damage during surgical procedures",
-          "url": "https://www.news-medical.net/news/20261125/Blocking-specific-metabolic-enzyme-reduces-kidney-damage-during-surgical-procedures.aspx",
+          "id": "ef80c79cfd29",
+          "title": "Mother and three children undergo life-saving heart surgeries within months",
+          "url": "https://www.news-medical.net/news/20261126/Mother-and-three-children-undergo-life-saving-heart-surgeries-within-months.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-25T20:39:26+00:00",
-          "summary": "During kidney transplantation or certain surgical procedures, blood flow to the kidneys may be temporarily interrupted or reduced. When blood flow is restored, the return of oxygen can trigger oxidative stress and inflammation, damaging kidney cells.",
+          "published": "2026-11-26T14:34:28+00:00",
+          "summary": "Annette Wagner and three of her six children share a bond unlike most families: matching six-inch scars from open-heart surgery.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 36
+          "words": 20
         },
         {
-          "id": "af879fb753e2",
-          "title": "Lifesaving kidney transplant helps woman defy odds to achieve motherhood",
-          "url": "https://www.news-medical.net/news/20261125/Lifesaving-kidney-transplant-helps-woman-defy-odds-to-achieve-motherhood.aspx",
+          "id": "ce4486e62129",
+          "title": "Why breast augmentation looks so different in Brazil and the US",
+          "url": "https://www.news-medical.net/news/20261126/Why-breast-augmentation-looks-so-different-in-Brazil-and-the-US.aspx",
           "source": "News-Medical – Surgery",
           "section": "surgery",
           "author": "",
-          "published": "2026-11-25T17:41:41+00:00",
-          "summary": "Antonella DeBartoli looks at her two-and-a-half-month-old son, Luciano, and sees a miracle of a lifetime in the making. She and her husband, Angelo, have been together for 15 years and married for eight.",
+          "published": "2026-11-26T11:28:00+00:00",
+          "summary": "Researchers compare breast surgery practices in Brazil and the US, from implant size and surface to fat grafting, muscle slings and mesh reinforcement.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 33
+          "words": 23
+        },
+        {
+          "id": "0be9f1c92c32",
+          "title": "New hormone therapy cuts early breast cancer recurrence risk",
+          "url": "https://www.news-medical.net/news/20261125/New-hormone-therapy-cuts-early-breast-cancer-recurrence-risk.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-26T04:18:00+00:00",
+          "summary": "A new type of hormone therapy significantly reduced the risk of invasive breast cancer recurrence or death in patients with early-stage, hormone receptor (HR)-positive, HER2-negative breast cancer compared with standard treatments, according to findings from a large international phase 3 clinical trial co-led by investigators…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "1ca1c9af87d4",
@@ -431,20 +445,6 @@
           "license": "",
           "license_url": "",
           "words": 35
-        },
-        {
-          "id": "f96254d133b4",
-          "title": "Eighty years of lifesaving pediatric heart surgery at Johns Hopkins Medicine",
-          "url": "https://www.news-medical.net/news/20261125/Eighty-years-of-lifesaving-pediatric-heart-surgery-at-Johns-Hopkins-Medicine.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-25T13:40:15+00:00",
-          "summary": "Jane Ball, of Havre de Grace, Maryland, was 2 years old in 1950 when she became among the first to undergo heart surgery by renowned Johns Hopkins Medicine surgeon and researcher Alfred Blalock.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 33
         },
         {
           "id": "d2a5a797d17a",
@@ -496,6 +496,34 @@
           "words": 26
         },
         {
+          "id": "b12e3c714df4",
+          "title": "Biomarker assays for risk assessment and early detection of pancreatic cancer: opportunities and challenges",
+          "url": "https://www.nature.com/articles/s41575-026-01281-x",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Johannes F. Fahrmann",
+          "published": "2026-11-26T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 26 November 2026; doi:10.1038/s41575-026-01281-x In this Review, Fahrmann and colleagues discuss the status of biomarker assays for early detection of pancreatic ductal adenocarcinoma (PDAC) and identification of individuals at increased risk of PDAC.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "cdf15bf2ec09",
+          "title": "Multidisciplinary consensus on ampullary carcinoma: evidence-based clinical recommendations from ENS-CCA",
+          "url": "https://www.nature.com/articles/s41575-026-01264-y",
+          "source": "Nature Reviews Gastroenterology & Hepatology",
+          "section": "gastroenterology",
+          "author": "Angela Lamarca",
+          "published": "2026-11-26T00:00:00+00:00",
+          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 26 November 2026; doi:10.1038/s41575-026-01264-y Ampullary carcinoma is a rare condition that is under-represented in cancer registries and clinical trials.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
           "id": "f851dbe493af",
           "title": "Autism symptom severity linked to gastrointestinal problems in children",
           "url": "https://www.news-medical.net/news/20261124/Autism-symptom-severity-linked-to-gastrointestinal-problems-in-children.aspx",
@@ -510,20 +538,6 @@
           "words": 31
         },
         {
-          "id": "118c7e19ef1b",
-          "title": "Asia-Pacific faces growing and uneven burden of MASLD",
-          "url": "https://www.news-medical.net/news/20261124/Asia-Pacific-faces-growing-and-uneven-burden-of-MASLD.aspx",
-          "source": "News-Medical – Gastroenterology",
-          "section": "gastroenterology",
-          "author": "",
-          "published": "2026-11-25T02:36:15+00:00",
-          "summary": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is rising throughout the Asia-Pacific region, but its distribution and consequences differ substantially between countries.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
           "id": "ee9ca8e213ae",
           "title": "Acute Pancreatitis Reporting Across CFTR Modulators: A Regimen-Specific Pharmacovigilance Analysis",
           "url": "https://www.gastrojournal.org/article/S0016-5085(26)07830-3/fulltext?rss=yes",
@@ -536,20 +550,6 @@
           "license": "",
           "license_url": "",
           "words": 22
-        },
-        {
-          "id": "1c9885308302",
-          "title": "Refining intervention to prevent colorectal cancer and recurrence",
-          "url": "https://www.nature.com/articles/s41575-026-01292-8",
-          "source": "Nature Reviews Gastroenterology & Hepatology",
-          "section": "gastroenterology",
-          "author": "Takayuki Yoshino",
-          "published": "2026-11-25T00:00:00+00:00",
-          "summary": "Nature Reviews Gastroenterology & Hepatology, Published online: 25 November 2026; doi:10.1038/s41575-026-01292-8 Clinical trial results reported in 2026 have refined intervention across the colorectal cancer continuum.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 25
         },
         {
           "id": "69281251ec47",
@@ -601,6 +601,34 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
+          "id": "32bcc412cc5f",
+          "title": "Clip density and rebleeding after indirect clipping for colonic diverticular bleeding: an exploratory single-center cohort study",
+          "url": "https://www.nature.com/articles/s41598-026-82774-2",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-26T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "67788a657580",
+          "title": "Platelet inflammasome-related changes and hypercoagulability are associated with retinal vein occlusion",
+          "url": "https://www.nature.com/articles/s41598-026-80761-1",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-26T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
           "id": "0c2c9ae8f644",
           "title": "STAT+: FDA approves Cogent’s drug for rare stomach cancer",
           "url": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
@@ -629,48 +657,6 @@
           "words": 24
         },
         {
-          "id": "5b3722e87e48",
-          "title": "STAT+: We’re reading about BioNTech founders’ oncology startup, a long-acting GSK drug, and more",
-          "url": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Andrew Joseph",
-          "published": "2026-11-25T13:55:58+00:00",
-          "summary": "The cofounders of BioNTech are in talks to raise about $1 billion for a new oncology company",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "1141a7d6c452",
-          "title": "Adaptation and validation of the multimorbidity treatment burden questionnaire (MTBQ) in Peruvian patients with multimorbidity",
-          "url": "https://www.nature.com/articles/s41598-026-82062-z",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-25T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "4d9a0516a3ac",
-          "title": "Bonding of experimental nanoparticle-modified additively manufactured crown resins to titanium",
-          "url": "https://www.nature.com/articles/s41598-026-81671-y",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-25T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
           "id": "824546698936",
           "title": "Houston Methodist’s Rural Remote Monitoring Expansion Shows Why Workflow is Critical",
           "url": "https://medcitynews.com/2026/11/houston-methodists-rural-remote-monitoring-expansion-shows-why-workflow-is-critical/",
@@ -683,6 +669,20 @@
           "license": "",
           "license_url": "",
           "words": 15
+        },
+        {
+          "id": "09c70ea6bbb9",
+          "title": "What One Women’s Health Advocate Is Watching After the Midterms",
+          "url": "https://medcitynews.com/2026/11/what-one-womens-health-advocate-is-watching-after-the-midterms/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Marissa Plescia",
+          "published": "2026-11-24T21:39:45+00:00",
+          "summary": "A women’s health advocate sees opportunities for bipartisan progress in the new Congress, particularly around maternal health, breast cancer and menopause.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
         },
         {
           "id": "a6ce6c799899",
@@ -755,13 +755,41 @@
       "kicker": "Further Reading",
       "articles": [
         {
+          "id": "5287fd907cbd",
+          "title": "Private dentists too expensive for millions, watchdog warns",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-26T14:19:32+00:00",
+          "summary": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "155c774d1f68",
+          "title": "Contraceptive pill usage in Great Britain fell drastically in last decade, research finds",
+          "url": "https://www.theguardian.com/society/2026/nov/26/contraceptive-pill-usage-in-great-britain-fell-drastically-in-last-decade-research-finds",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Hannah Al-Othman",
+          "published": "2026-11-26T13:00:51+00:00",
+          "summary": "Survey published in Lancet reveals ‘hormonal hesitancy’ on the rise – with implants and injections also increasingly spurned The number of young women using hormonal contraception fell drastically in the past decade, with social media fuelling the “hormonal hesitancy” phenomenon.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
           "id": "015bdac5833f",
           "title": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
           "url": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-25T23:01:45+00:00",
+          "published": "2026-11-26T11:23:54+00:00",
           "summary": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
           "full_html": null,
           "license": "",
@@ -769,46 +797,32 @@
           "words": 20
         },
         {
-          "id": "5f0bb5e51a00",
-          "title": "Slashing foreign aid could be disastrous | Letter",
-          "url": "https://www.theguardian.com/global-development/2026/nov/25/slashing-foreign-aid-could-be-disastrous",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Guardian Staff",
-          "published": "2026-11-25T18:07:40+00:00",
-          "summary": "Measles is spreading across the world and could give rise to another pandemic, writes Colette McIvor After reading your report (‘They’re struggling for oxygen’: children pay the price as countries allow measles to surge again, 20 November), I was struck by the statement that proposed…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "483f64d5371e",
-          "title": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
-          "url": "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352",
+          "id": "3e44a71fc7f6",
+          "title": "Can the International Criminal Court survive Trump’s attacks – and hold world leaders to account?",
+          "url": "https://theconversation.com/can-the-international-criminal-court-survive-trumps-attacks-and-hold-world-leaders-to-account-297530",
           "source": "The Conversation",
           "section": "related-articles",
-          "author": "James Horncastle, Associate Professor and Edward and Emily McWhinney Professor in International Relations, Simon Fraser University",
-          "published": "2026-11-25T17:04:48+00:00",
-          "summary": "For Ukraine to have any chance of winning the war against Russia, it must increase the pressure on Vladimir Putin’s government. Making Russian assets vulnerable globally is one way to do it.",
+          "author": "Justin Bergman, International Affairs Editor, The Conversation",
+          "published": "2026-11-26T11:10:07+00:00",
+          "summary": "The trial of former president of the Philippines, Rodrigo Duterte, comes at a precarious moment for the International Criminal Court, as the US ramps up its efforts to undermine the institution.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 32
+          "words": 31
         },
         {
-          "id": "bb16378dc24e",
-          "title": "NHS Grampian surgeon was ready to operate on patient while recovering from medical procedure",
-          "url": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
+          "id": "8dd40f75030c",
+          "title": "Public health specialist discusses the aftermath of the munitions detonation in Iowa",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-6053950/public-health-specialist-discusses-the-aftermath-of-the-munitions-detonation-in-iowa",
+          "source": "NPR – Health",
           "section": "related-articles",
-          "author": "",
-          "published": "2026-11-25T16:13:33+00:00",
-          "summary": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
+          "author": "A Martínez",
+          "published": "2026-11-26T09:42:38+00:00",
+          "summary": "NPR's A Martinez speaks with public health specialist Will Sander of the University of Illinois Urbana-Champaign about the aftermath of the Iowa munitions detonation.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 24
         },
         {
           "id": "316b1b2ff5f6",
@@ -851,20 +865,6 @@
           "license": "",
           "license_url": "",
           "words": 38
-        },
-        {
-          "id": "b5da8c2ab150",
-          "title": "This group of seamstresses mends shirts to make chemo easier for cancer patients",
-          "url": "https://www.npr.org/2026/11/24/nx-s1-6044239-e1/this-group-of-seamstresses-mends-shirts-to-make-chemo-easier-for-cancer-patients",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Kendall Crawford",
-          "published": "2026-11-24T21:19:27+00:00",
-          "summary": "Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
         }
       ]
     }
