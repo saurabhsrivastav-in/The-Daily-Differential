@@ -2,14 +2,14 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-26",
-    "date_long": "Thursday, 26 November 2026",
+    "date": "2026-11-27",
+    "date_long": "Friday, 27 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-26T22:38+05:30",
+    "generated_at": "2026-11-27T07:20+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 49,
+    "total_articles": 48,
     "reading_minutes": 6,
     "source_count": 27,
     "full_text_count": 0,
@@ -18,7 +18,7 @@
       "medicine": 7,
       "surgery": 6,
       "gastroenterology": 8,
-      "medical-trends": 8,
+      "medical-trends": 7,
       "lectures": 2,
       "related-articles": 8
     },
@@ -28,15 +28,19 @@
         "count": 10
       },
       {
-        "term": "treatment",
-        "count": 7
-      },
-      {
         "term": "disease",
-        "count": 6
+        "count": 8
       },
       {
         "term": "patients",
+        "count": 7
+      },
+      {
+        "term": "treatment",
+        "count": 6
+      },
+      {
+        "term": "risk",
         "count": 6
       },
       {
@@ -48,7 +52,7 @@
         "count": 5
       },
       {
-        "term": "risk",
+        "term": "study",
         "count": 5
       },
       {
@@ -57,10 +61,6 @@
       },
       {
         "term": "published online",
-        "count": 4
-      },
-      {
-        "term": "clinical",
         "count": 4
       },
       {
@@ -104,30 +104,30 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,547.00",
-        "change_pct": 2.44,
+        "display": "60,655.00",
+        "change_pct": -0.15,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,692.78",
-        "change_pct": 2.12,
+        "display": "1,699.03",
+        "change_pct": -0.04,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Enhanced Recovery After Surgery (ERAS)",
+    "term": "Robot-assisted surgery",
     "pos": "noun",
     "domain": "Surgery",
-    "definition": "An evidence-based perioperative pathway - early feeding, opioid-sparing analgesia, early mobilisation - that shortens recovery and reduces complications.",
+    "definition": "Surgery in which the operator controls instruments through a console, gaining tremor filtering, magnified 3D vision and articulated wrists.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 26",
-    "definition": "edit · refresh · view Word of the day for November 26 pumpkin chunkin' n (originally and chiefly US, informal) The informal sport of hurling a pumpkin as far as possible by mechanical means. Happy Thanksgiving!",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261126000000/en",
+    "word": "Word of the day for November 27",
+    "definition": "edit · refresh · view Word of the day for November 27 Lancashire hotpot n (uncountable) A stew of lamb or mutton and onions topped with sliced potatoes baked in a pot; (countable) a dish of this.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261127000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -138,6 +138,34 @@
       "title": "Vertical Thinking in Medical Science",
       "kicker": "Depth Over Breadth",
       "articles": [
+        {
+          "id": "25fb096b22f4",
+          "title": "[Editorial] COPD as a life-course disorder: possibilities and practicalities",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02407-4/fulltext?rss=yes",
+          "source": "The Lancet",
+          "section": "vertical-thinking",
+          "author": "The Lancet",
+          "published": "2026-11-28T00:00:00+00:00",
+          "summary": "Chronic obstructive pulmonary disease (COPD) is predicted to affect an estimated 600 million people worldwide by 2050, an increase of 23% compared with 2020.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "90ed7fadcef7",
+          "title": "[Comment] Izalontamab brengitecan in metastatic breast cancer: is innovation all innovative?",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02160-4/fulltext?rss=yes",
+          "source": "The Lancet",
+          "section": "vertical-thinking",
+          "author": "Elisabeth G E de Vries, Madeline Pe, Dario Trapani",
+          "published": "2026-11-28T00:00:00+00:00",
+          "summary": "Approximately two-thirds of patients with breast cancer have hormone receptor-positive, human epidermal growth factor receptor 2-negative (HR+/HER2–) disease, for which chemotherapy is generally used in the metastatic setting after endocrine-based treatment options, including targeted agents, have been unsuccessful.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
+        },
         {
           "id": "caccca95b105",
           "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America",
@@ -249,34 +277,6 @@
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0/",
           "words": 33
-        },
-        {
-          "id": "5c35ee55b188",
-          "title": "[Editorial] Multiple sclerosis: beyond controlling relapses",
-          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02345-7/fulltext?rss=yes",
-          "source": "The Lancet",
-          "section": "vertical-thinking",
-          "author": "The Lancet",
-          "published": "2026-11-21T00:00:00+00:00",
-          "summary": "Few neurological diseases have seen a transformation in diagnosis and treatment as remarkable as multiple sclerosis. A chronic, heterogeneous autoimmune condition, it typically begins in early adulthood and affects over 3 million people, with women roughly three times more likely to be affected than men.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "2d2808e8d586",
-          "title": "[Comment] Remibrutinib: a high-efficacy disease-modifying drug for relapsing multiple sclerosis?",
-          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02240-3/fulltext?rss=yes",
-          "source": "The Lancet",
-          "section": "vertical-thinking",
-          "author": "Gilles Edan, Emmanuelle Le Page",
-          "published": "2026-11-21T00:00:00+00:00",
-          "summary": "Bruton's tyrosine kinase (BTK) inhibitors directly modulate the functions of B lymphocytes and myeloid cells (notably macrophages and microglia) and thus target both the adaptive and innate mechanisms that contribute to the immunopathology of multiple sclerosis on either side of the blood–brain barrier.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 43
         }
       ]
     },
@@ -601,6 +601,34 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
+          "id": "bf7e4a001509",
+          "title": "evaluation of putative adipose tissue browning in amyotrophic lateral sclerosis: an MRI and adipokine study",
+          "url": "https://www.nature.com/articles/s41598-026-66373-9",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-27T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "99ba11f282c8",
+          "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+          "url": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Megan Molteni",
+          "published": "2026-11-26T19:00:00+00:00",
+          "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
           "id": "32bcc412cc5f",
           "title": "Clip density and rebleeding after indirect clipping for colonic diverticular bleeding: an exploratory single-center cohort study",
           "url": "https://www.nature.com/articles/s41598-026-82774-2",
@@ -615,9 +643,9 @@
           "words": 0
         },
         {
-          "id": "67788a657580",
-          "title": "Platelet inflammasome-related changes and hypercoagulability are associated with retinal vein occlusion",
-          "url": "https://www.nature.com/articles/s41598-026-80761-1",
+          "id": "0fcf813096fe",
+          "title": "Predictors and an exploratory nomogram for conversion to total hip arthroplasty after acetabular posterior wall fractures fixation",
+          "url": "https://www.nature.com/articles/s41598-026-82157-7",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -627,20 +655,6 @@
           "license": "",
           "license_url": "",
           "words": 0
-        },
-        {
-          "id": "0c2c9ae8f644",
-          "title": "STAT+: FDA approves Cogent’s drug for rare stomach cancer",
-          "url": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Elaine Chen",
-          "published": "2026-11-25T20:44:15+00:00",
-          "summary": "Cogent Biosciences won FDA clearance for its stomach cancer treatment, in combination with a much older drug from Pfizer called Sutent.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
         },
         {
           "id": "2c6e6214af59",
@@ -655,34 +669,6 @@
           "license": "",
           "license_url": "",
           "words": 24
-        },
-        {
-          "id": "824546698936",
-          "title": "Houston Methodist’s Rural Remote Monitoring Expansion Shows Why Workflow is Critical",
-          "url": "https://medcitynews.com/2026/11/houston-methodists-rural-remote-monitoring-expansion-shows-why-workflow-is-critical/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Jenna Congdon",
-          "published": "2026-11-24T23:32:07+00:00",
-          "summary": "New technology, for example, remote monitoring, has potential to improve patient care and expand access.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 15
-        },
-        {
-          "id": "09c70ea6bbb9",
-          "title": "What One Women’s Health Advocate Is Watching After the Midterms",
-          "url": "https://medcitynews.com/2026/11/what-one-womens-health-advocate-is-watching-after-the-midterms/",
-          "source": "MedCity News",
-          "section": "medical-trends",
-          "author": "Marissa Plescia",
-          "published": "2026-11-24T21:39:45+00:00",
-          "summary": "A women’s health advocate sees opportunities for bipartisan progress in the new Congress, particularly around maternal health, breast cancer and menopause.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
         },
         {
           "id": "a6ce6c799899",
@@ -755,46 +741,46 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "5287fd907cbd",
-          "title": "Private dentists too expensive for millions, watchdog warns",
-          "url": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko?at_medium=RSS&at_campaign=rss",
+          "id": "bed4c6c48e35",
+          "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-26T14:19:32+00:00",
-          "summary": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
+          "published": "2026-11-27T00:20:10+00:00",
+          "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 17
         },
         {
-          "id": "155c774d1f68",
-          "title": "Contraceptive pill usage in Great Britain fell drastically in last decade, research finds",
-          "url": "https://www.theguardian.com/society/2026/nov/26/contraceptive-pill-usage-in-great-britain-fell-drastically-in-last-decade-research-finds",
-          "source": "The Guardian – Health",
-          "section": "related-articles",
-          "author": "Hannah Al-Othman",
-          "published": "2026-11-26T13:00:51+00:00",
-          "summary": "Survey published in Lancet reveals ‘hormonal hesitancy’ on the rise – with implants and injections also increasingly spurned The number of young women using hormonal contraception fell drastically in the past decade, with social media fuelling the “hormonal hesitancy” phenomenon.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 40
-        },
-        {
-          "id": "015bdac5833f",
-          "title": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
-          "url": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss",
+          "id": "428bd2fd34ad",
+          "title": "My partner has ME and it's kept her in bed for five years",
+          "url": "https://www.bbc.co.uk/news/videos/cq8r7yld3jzlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-26T11:23:54+00:00",
-          "summary": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
+          "published": "2026-11-26T23:00:19+00:00",
+          "summary": "ME: Campaigners warn people 'can die' without changes to services",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 20
+          "words": 10
+        },
+        {
+          "id": "bd0aa0117ec4",
+          "title": "Hospitals in England brace for flu spike with admissions highest for time of year since pre-Covid",
+          "url": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Denis Campbell Health policy editor",
+          "published": "2026-11-26T18:27:49+00:00",
+          "summary": "NHS chief says hospital bosses should consider asking staff and visitors to wear masks as winter pressures build Hospitals are bracing for a “horrible spike” in flu in the coming days as winter starts to bite, the head of the NHS in England has said.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "3e44a71fc7f6",
@@ -826,7 +812,7 @@
         },
         {
           "id": "316b1b2ff5f6",
-          "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+          "title": "How American Thanksgiving took root — and evolved — in Liberia",
           "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
           "source": "NPR – Health",
           "section": "related-articles",
