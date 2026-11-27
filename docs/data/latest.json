@@ -5,54 +5,50 @@
     "date": "2026-11-27",
     "date_long": "Friday, 27 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-27T07:20+05:30",
+    "generated_at": "2026-11-27T22:21+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 48,
+    "total_articles": 49,
     "reading_minutes": 6,
     "source_count": 27,
     "full_text_count": 0,
     "per_section": {
       "vertical-thinking": 10,
       "medicine": 7,
-      "surgery": 6,
+      "surgery": 7,
       "gastroenterology": 8,
-      "medical-trends": 7,
-      "lectures": 2,
+      "medical-trends": 8,
+      "lectures": 1,
       "related-articles": 8
     },
     "keywords": [
       {
         "term": "health",
-        "count": 10
+        "count": 13
       },
       {
         "term": "disease",
         "count": 8
       },
       {
-        "term": "patients",
-        "count": 7
-      },
-      {
-        "term": "treatment",
-        "count": 6
-      },
-      {
         "term": "risk",
-        "count": 6
+        "count": 7
       },
       {
         "term": "surgery",
         "count": 6
       },
       {
-        "term": "medicine",
+        "term": "treatment",
         "count": 5
       },
       {
-        "term": "study",
+        "term": "patients",
+        "count": 5
+      },
+      {
+        "term": "medicine",
         "count": 5
       },
       {
@@ -64,55 +60,59 @@
         "count": 4
       },
       {
-        "term": "breast cancer",
-        "count": 3
+        "term": "clinical",
+        "count": 4
       },
       {
-        "term": "colorectal cancer",
-        "count": 3
+        "term": "breast cancer",
+        "count": 2
+      },
+      {
+        "term": "south africa",
+        "count": 2
       }
     ],
     "markets": [
       {
         "label": "USD/EUR",
         "group": "Currencies",
-        "display": "0.9112",
-        "change_pct": -0.36,
+        "display": "0.9127",
+        "change_pct": 0.16,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/GBP",
         "group": "Currencies",
-        "display": "0.7631",
-        "change_pct": -0.34,
+        "display": "0.7621",
+        "change_pct": -0.13,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "92.45",
-        "change_pct": 0.23,
+        "display": "93.00",
+        "change_pct": 0.59,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/JPY",
         "group": "Currencies",
-        "display": "159.26",
-        "change_pct": -0.04,
+        "display": "159.54",
+        "change_pct": 0.18,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,655.00",
-        "change_pct": -0.15,
+        "display": "60,155.00",
+        "change_pct": -0.57,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,699.03",
-        "change_pct": -0.04,
+        "display": "1,675.36",
+        "change_pct": -0.93,
         "source": "CoinGecko"
       }
     ]
@@ -167,18 +167,46 @@
           "words": 38
         },
         {
-          "id": "caccca95b105",
-          "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America",
-          "url": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
+          "id": "3a661da4f0ef",
+          "title": "The stories we’re grateful for this year",
+          "url": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss",
           "source": "STAT – Research",
           "section": "vertical-thinking",
-          "author": "Marin Wolf, Jonathan Saltzman,and and Scooty Nickerson — Boston Globe",
-          "published": "2026-11-26T12:00:00+00:00",
-          "summary": "Boston is supposed to be the medical capital of America. Yet many don’t have primary care access, hurting their ability to get treatments, screenings, and medical advice.",
+          "author": "O. Rose Broderick",
+          "published": "2026-11-27T15:49:05+00:00",
+          "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 27
+          "words": 20
+        },
+        {
+          "id": "a088a1f649c7",
+          "title": "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them",
+          "url": "https://www.statnews.com/2026/11/27/pregnancy-eating-disorders-expanded-doctor-screening-needed/?utm_campaign=rss",
+          "source": "STAT – Research",
+          "section": "vertical-thinking",
+          "author": "Gabriela Galvin",
+          "published": "2026-11-27T09:30:00+00:00",
+          "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "441a2146f94d",
+          "title": "Wastewater sequencing enables scalable measles surveillance",
+          "url": "https://www.nature.com/articles/s41591-026-04761-4",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "",
+          "published": "2026-11-27T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 27 November 2026; doi:10.1038/s41591-026-04761-4 Integrated clinical and wastewater monitoring during the 2024–2025 outbreaks of measles in South Africa enabled high-resolution tracking of virus spread and evolution.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
         },
         {
           "id": "6106d689463a",
@@ -193,34 +221,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "f06045383a9c",
-          "title": "Performance of intracortical microelectrode arrays in people with implanted brain–computer interfaces over a 20-year period",
-          "url": "https://www.nature.com/articles/s41591-026-04530-3",
-          "source": "Nature Medicine",
-          "section": "vertical-thinking",
-          "author": "Shaomin Zhang",
-          "published": "2026-11-26T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 26 November 2026; doi:10.1038/s41591-026-04530-3 Utah arrays recorded stable spiking activity for up to 7.3 years, with modest signal decline on average and sustained movement decoding in the majority of arrays analyzed, demonstrating the long-term feasibility of intracortical brain–computer interfaces.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 43
-        },
-        {
-          "id": "e0e914f70865",
-          "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
-          "url": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
-          "source": "STAT – Research",
-          "section": "vertical-thinking",
-          "author": "O. Rose Broderick",
-          "published": "2026-11-25T21:28:53+00:00",
-          "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
         },
         {
           "id": "91e31718767d",
@@ -251,20 +251,6 @@
           "words": 14
         },
         {
-          "id": "7faaa3389df7",
-          "title": "Giant-Cell Arteritis",
-          "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2605238?af=R&rss=currentIssue",
-          "source": "NEJM",
-          "section": "vertical-thinking",
-          "author": "Frank Buttgereit and Cristina Ponte",
-          "published": "2026-11-25T10:00:01+00:00",
-          "summary": "New England Journal of Medicine, Volume 395, Issue 21, Page 2133-2148, November 26, 2026.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
-        },
-        {
           "id": "7e8a2c574485",
           "title": "A step towards modelling amyotrophic lateral sclerosis in primates",
           "url": "https://elifesciences.org/articles/113568",
@@ -277,6 +263,20 @@
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0/",
           "words": 33
+        },
+        {
+          "id": "645a9e9f150e",
+          "title": "Catheter-Directed Thrombolysis in Intermediate-High–Risk Pulmonary Embolism",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2608012?af=R&rss=currentIssue",
+          "source": "NEJM",
+          "section": "vertical-thinking",
+          "author": "Josef Kroupa Martin Radvan Jan Mrozek Martin Sluka Stepan Jirous Ota Hlinomaz Milan Pliva Jan Pudil Hana Voberkova Karolina Bartoskova Martin Poloczek Martin Kamenik Michal Brabec Eva Lichnerova Martin Hutyra Ivo Bernat Martin Novak Johana Horakova Lucie Jelinkova Tomas Knize Petr Tousek Cyril Stechovsky Filip Varhanik Zdenek Coufal Jiri Jarkovsky and Viktor Kocka",
+          "published": "2026-08-31T12:49:00+00:00",
+          "summary": "New England Journal of Medicine, Volume 395, Issue 21, Page 2087-2097, November 26, 2026.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
         }
       ]
     },
@@ -286,46 +286,46 @@
       "kicker": "The Clinic",
       "articles": [
         {
-          "id": "a9c09dec821c",
-          "title": "Common supplements rival antibiotics in treating severe gum disease",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm",
+          "id": "b72bf8e079d1",
+          "title": "Breathing less oxygen tripled lifespan in mice with a deadly brain disorder",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261125045304.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-26T11:43:30+00:00",
-          "summary": "A combination of omega-3 and low-dose aspirin produced results comparable to antibiotics when used alongside standard treatment for severe gum disease, with benefits persisting long after supplementation ended. The surprising discovery could offer an alternative for some patients while reducing reliance on antibiotics.",
+          "published": "2026-11-27T09:38:19+00:00",
+          "summary": "Oxygen is essential for life, but too much of it can become dangerously toxic, particularly in people with certain neurological and mitochondrial disorders.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 43
+          "words": 23
         },
         {
-          "id": "700edacb0bba",
-          "title": "Loneliness is making us sick, but we may be treating it all wrong",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261124055906.htm",
+          "id": "4724ea6a9ac4",
+          "title": "One type of physical activity is linked to a 20% higher dementia risk",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-26T11:32:30+00:00",
-          "summary": "Loneliness can be surprisingly deadly, with previous research linking it to a roughly 30% increase in the risk of premature death. However, a new study warns that treating loneliness as a medical condition could distract from its deeper social causes.",
+          "published": "2026-11-27T08:45:06+00:00",
+          "summary": "A massive study has revealed that exercising for pleasure and performing physical labor at work may have surprisingly different implications for brain health.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 40
+          "words": 23
         },
         {
-          "id": "e206cf2f9bf0",
-          "title": "Too much of this common nutrient could be accelerating blood vessel aging",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm",
+          "id": "0c52435abf93",
+          "title": "A fat-burning molecule has an unexpected benefit for your muscles",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-26T03:53:48+00:00",
-          "summary": "Researchers have uncovered a kidney protein that may hold an important key to vascular aging and longevity. The protein helps prevent excess phosphate from accumulating in the blood and gradually turning flexible blood vessels rigid.",
+          "published": "2026-11-27T04:42:17+00:00",
+          "summary": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage. The molecule, already available as a dietary supplement, could open new avenues for treating muscle deterioration associated with type 2 diabetes.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 35
+          "words": 41
         },
         {
           "id": "fb666164e8ac",
@@ -391,6 +391,20 @@
       "kicker": "The Theatre",
       "articles": [
         {
+          "id": "821e35728c0d",
+          "title": "Records broken as the industry comes together at Lab Innovations 2026",
+          "url": "https://www.news-medical.net/news/20261127/Records-broken-as-the-industry-comes-together-at-Lab-Innovations-2026.aspx",
+          "source": "News-Medical – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-27T06:26:00+00:00",
+          "summary": "The UK and Ireland’s laboratory community came together in record numbers at the NEC, Birmingham, on November 4 and 5 to hear from the industry’s leading experts, learn about the newest innovations and discuss the defining scientific challenges of the day.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 41
+        },
+        {
           "id": "ef80c79cfd29",
           "title": "Mother and three children undergo life-saving heart surgeries within months",
           "url": "https://www.news-medical.net/news/20261126/Mother-and-three-children-undergo-life-saving-heart-surgeries-within-months.aspx",
@@ -419,20 +433,6 @@
           "words": 23
         },
         {
-          "id": "0be9f1c92c32",
-          "title": "New hormone therapy cuts early breast cancer recurrence risk",
-          "url": "https://www.news-medical.net/news/20261125/New-hormone-therapy-cuts-early-breast-cancer-recurrence-risk.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-26T04:18:00+00:00",
-          "summary": "A new type of hormone therapy significantly reduced the risk of invasive breast cancer recurrence or death in patients with early-stage, hormone receptor (HR)-positive, HER2-negative breast cancer compared with standard treatments, according to findings from a large international phase 3 clinical trial co-led by investigators…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
           "id": "1ca1c9af87d4",
           "title": "Study supports shorter pancreatic neuroendocrine tumor follow-up",
           "url": "https://medicalxpress.com/news/2026-11-shorter-pancreatic-neuroendocrine-tumor.html",
@@ -445,6 +445,20 @@
           "license": "",
           "license_url": "",
           "words": 35
+        },
+        {
+          "id": "187d6987f46f",
+          "title": "'I'm amazed every day': Woman marks one year with a pig kidney",
+          "url": "https://medicalxpress.com/news/2026-11-im-amazed-day-woman-year.html",
+          "source": "Medical Xpress – Surgery",
+          "section": "surgery",
+          "author": "",
+          "published": "2026-11-23T22:20:06+00:00",
+          "summary": "A New Hampshire woman has now lived for one year with a kidney from a gene-edited pig, the longest any patient is known to have done so.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
         },
         {
           "id": "d2a5a797d17a",
@@ -496,6 +510,20 @@
           "words": 26
         },
         {
+          "id": "661763885170",
+          "title": "Fast-tracking Elastography for MASLD Screening: Should the Gatekeeper Stay?",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07869-8/fulltext?rss=yes",
+          "source": "Gastroenterology (AGA)",
+          "section": "gastroenterology",
+          "author": "W. Ray Kim, John B. Wong",
+          "published": "2026-11-26T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
           "id": "b12e3c714df4",
           "title": "Biomarker assays for risk assessment and early detection of pancreatic cancer: opportunities and challenges",
           "url": "https://www.nature.com/articles/s41575-026-01281-x",
@@ -508,6 +536,20 @@
           "license": "",
           "license_url": "",
           "words": 40
+        },
+        {
+          "id": "d10e393bc142",
+          "title": "Uncertainty in the extraction of the primary dichotomous outcome may affect the conclusion on FMT for IBS",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07868-6/fulltext?rss=yes",
+          "source": "Gastroenterology (AGA)",
+          "section": "gastroenterology",
+          "author": "Shufa Tan, Shuwen Ning, Chen Xu",
+          "published": "2026-11-26T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
         },
         {
           "id": "cdf15bf2ec09",
@@ -536,34 +578,6 @@
           "license": "",
           "license_url": "",
           "words": 31
-        },
-        {
-          "id": "ee9ca8e213ae",
-          "title": "Acute Pancreatitis Reporting Across CFTR Modulators: A Regimen-Specific Pharmacovigilance Analysis",
-          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07830-3/fulltext?rss=yes",
-          "source": "Gastroenterology (AGA)",
-          "section": "gastroenterology",
-          "author": "Arkadeep Dhali, Saikat Mandal, Dushyant Singh Dahiya, Guruprasad Aithal",
-          "published": "2026-11-25T00:00:00+00:00",
-          "summary": "Acute pancreatitis (AP) is an established complication of cystic fibrosis (CF), occurring predominantly in individuals with preserved or partially preserved pancreatic function.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
-        },
-        {
-          "id": "69281251ec47",
-          "title": "Cost-effectiveness of risk-based screening for colorectal cancer using prior fecal hemoglobin levels",
-          "url": "https://www.gastrojournal.org/article/S0016-5085(26)07829-7/fulltext?rss=yes",
-          "source": "Gastroenterology (AGA)",
-          "section": "gastroenterology",
-          "author": "Danica M.N. van den Berg, Lucie de Jonge, Esther Toes-Zoutendijk, Iris Lansdorp-Vogelaar",
-          "published": "2026-11-25T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
         },
         {
           "id": "e55a8afafd5e",
@@ -601,9 +615,37 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
-          "id": "bf7e4a001509",
-          "title": "evaluation of putative adipose tissue browning in amyotrophic lateral sclerosis: an MRI and adipokine study",
-          "url": "https://www.nature.com/articles/s41598-026-66373-9",
+          "id": "aa1ae8a767b8",
+          "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+          "url": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Elaine Chen",
+          "published": "2026-11-27T16:00:54+00:00",
+          "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "9d3c136eca82",
+          "title": "STAT+: Here are some health AI conversation starters for the holidays",
+          "url": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss",
+          "source": "STAT",
+          "section": "medical-trends",
+          "author": "Brittany Trang",
+          "published": "2026-11-27T14:54:22+00:00",
+          "summary": "In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "2a18f4b92e10",
+          "title": "In vitro biomechanical evaluation of screw number in titanium plate fixation of rib fractures",
+          "url": "https://www.nature.com/articles/s41598-026-81852-9",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -615,41 +657,13 @@
           "words": 0
         },
         {
-          "id": "99ba11f282c8",
-          "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
-          "url": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
-          "source": "STAT",
-          "section": "medical-trends",
-          "author": "Megan Molteni",
-          "published": "2026-11-26T19:00:00+00:00",
-          "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "32bcc412cc5f",
-          "title": "Clip density and rebleeding after indirect clipping for colonic diverticular bleeding: an exploratory single-center cohort study",
-          "url": "https://www.nature.com/articles/s41598-026-82774-2",
+          "id": "806dc99a82ba",
+          "title": "Data driven disease dynamics models",
+          "url": "https://www.nature.com/articles/s41598-026-75876-4",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
-          "published": "2026-11-26T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "0fcf813096fe",
-          "title": "Predictors and an exploratory nomogram for conversion to total hip arthroplasty after acetabular posterior wall fractures fixation",
-          "url": "https://www.nature.com/articles/s41598-026-82157-7",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-26T00:00:00+00:00",
+          "published": "2026-11-27T00:00:00+00:00",
           "summary": "",
           "full_html": null,
           "license": "",
@@ -669,6 +683,20 @@
           "license": "",
           "license_url": "",
           "words": 24
+        },
+        {
+          "id": "824546698936",
+          "title": "Houston Methodist’s Rural Remote Monitoring Expansion Shows Why Workflow is Critical",
+          "url": "https://medcitynews.com/2026/11/houston-methodists-rural-remote-monitoring-expansion-shows-why-workflow-is-critical/",
+          "source": "MedCity News",
+          "section": "medical-trends",
+          "author": "Jenna Congdon",
+          "published": "2026-11-24T23:32:07+00:00",
+          "summary": "New technology, for example, remote monitoring, has potential to improve patient care and expand access.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
         },
         {
           "id": "a6ce6c799899",
@@ -706,32 +734,18 @@
       "kicker": "The Lecture Hall",
       "articles": [
         {
-          "id": "73b89de97ce4",
-          "title": "Why government is slow — and how to fix it | Li Hongyi",
-          "url": "http://go.ted.com/LiHongyi",
-          "source": "TED Talks (health & science)",
-          "section": "lectures",
-          "author": "",
-          "published": "2026-11-23T15:47:30+00:00",
-          "summary": "Government is slow at solving problems — and technologist Li Hongyi wants to fix that. In a quick talk, he introduces his experimental team in the Singaporean government, which visits schools, hospitals, fire stations and communities with one goal: to find problems and prototype solutions.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
           "id": "ed4b299ba199",
-          "title": "Sunday Pick: How to challenge your self-limiting beliefs with Shawn Achor | from ReThinking with Adam Grant",
+          "title": "How gratitude rewires your brain | Christina Costa (re-release)",
           "url": "https://audiocollective.ted.com/",
           "source": "TED Talks (health & science)",
           "section": "lectures",
           "author": "",
-          "published": "2026-11-15T07:00:00+00:00",
-          "summary": "Your beliefs about yourself and the world have a big impact on your mental health, relationships, and success.",
+          "published": "2026-11-27T09:04:00+00:00",
+          "summary": "When a psychologist who studies well-being ends up with a brain tumor, what happens when she puts her own research into practice?",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 18
+          "words": 22
         }
       ]
     },
@@ -741,60 +755,74 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "bed4c6c48e35",
-          "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-27T00:20:10+00:00",
-          "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "428bd2fd34ad",
-          "title": "My partner has ME and it's kept her in bed for five years",
-          "url": "https://www.bbc.co.uk/news/videos/cq8r7yld3jzlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-26T23:00:19+00:00",
-          "summary": "ME: Campaigners warn people 'can die' without changes to services",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 10
-        },
-        {
-          "id": "bd0aa0117ec4",
-          "title": "Hospitals in England brace for flu spike with admissions highest for time of year since pre-Covid",
-          "url": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
+          "id": "62f26cde5009",
+          "title": "Parents urged to vaccinate children for flu as hospital cases surge in England",
+          "url": "https://www.theguardian.com/society/2026/nov/27/parents-urged-to-vaccinate-children-for-flu-as-hospital-cases-surge-in-england",
           "source": "The Guardian – Health",
           "section": "related-articles",
-          "author": "Denis Campbell Health policy editor",
-          "published": "2026-11-26T18:27:49+00:00",
-          "summary": "NHS chief says hospital bosses should consider asking staff and visitors to wear masks as winter pressures build Hospitals are bracing for a “horrible spike” in flu in the coming days as winter starts to bite, the head of the NHS in England has said.",
+          "author": "Kevin Rawlinson and agency",
+          "published": "2026-11-27T15:52:57+00:00",
+          "summary": "Pharmacies being asked to administer jabs to children for first time amid NHS pre-Christmas vaccination push Parents are being urged to make sure their children are vaccinated against flu before Christmas amid a surge in hospitalisations, with pharmacies being asked to administer them for the…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "3e44a71fc7f6",
-          "title": "Can the International Criminal Court survive Trump’s attacks – and hold world leaders to account?",
-          "url": "https://theconversation.com/can-the-international-criminal-court-survive-trumps-attacks-and-hold-world-leaders-to-account-297530",
-          "source": "The Conversation",
+          "id": "b1acc5148d56",
+          "title": "Concern over maternity unit move prompts extra paramedic funding",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y12vgkxyxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
           "section": "related-articles",
-          "author": "Justin Bergman, International Affairs Editor, The Conversation",
-          "published": "2026-11-26T11:10:07+00:00",
-          "summary": "The trial of former president of the Philippines, Rodrigo Duterte, comes at a precarious moment for the International Criminal Court, as the US ramps up its efforts to undermine the institution.",
+          "author": "",
+          "published": "2026-11-27T13:53:16+00:00",
+          "summary": "Ambulance chief concerned by extra pressure on area that already has \"poor ambulance performance\"'.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 31
+          "words": 14
+        },
+        {
+          "id": "4536bdf66122",
+          "title": "What's behind the surge in severe flu cases?",
+          "url": "https://www.bbc.co.uk/news/videos/cwq6e8pez0j7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
+          "section": "related-articles",
+          "author": "",
+          "published": "2026-11-27T13:23:13+00:00",
+          "summary": "A surge in severe cases of flu has prompted health officials in England to urge those most at risk to get vaccinated as soon as possible.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "5f46bc8e8eae",
+          "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+          "source": "NPR – Health",
+          "section": "related-articles",
+          "author": "Allison Aubrey",
+          "published": "2026-11-27T10:00:00+00:00",
+          "summary": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "5f988667e680",
+          "title": "Russia wants to build a new security framework to end the war. This is why it won’t work",
+          "url": "https://theconversation.com/russia-wants-to-build-a-new-security-framework-to-end-the-war-this-is-why-it-wont-work-296813",
+          "source": "The Conversation",
+          "section": "related-articles",
+          "author": "Dilnoza Ubaydullaeva, Lecturer - National Security College, Australian National University",
+          "published": "2026-11-27T01:19:26+00:00",
+          "summary": "Vladimir Putin wants to counter NATO with his own security pact, but there are reasons to be sceptical.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
         },
         {
           "id": "8dd40f75030c",
@@ -809,20 +837,6 @@
           "license": "",
           "license_url": "",
           "words": 24
-        },
-        {
-          "id": "316b1b2ff5f6",
-          "title": "How American Thanksgiving took root — and evolved — in Liberia",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "Ari Daniel",
-          "published": "2026-11-25T14:14:34+00:00",
-          "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
         },
         {
           "id": "70297038444c",
