@@ -2,10 +2,10 @@
   "edition": {
     "name": "The Daily Differential",
     "tagline": "Think deep. Diagnose wide.",
-    "date": "2026-11-27",
-    "date_long": "Friday, 27 November 2026",
+    "date": "2026-11-28",
+    "date_long": "Saturday, 28 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-27T22:21+05:30",
+    "generated_at": "2026-11-28T07:01+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -29,38 +29,38 @@
       },
       {
         "term": "disease",
-        "count": 8
+        "count": 7
       },
       {
         "term": "risk",
-        "count": 7
+        "count": 6
       },
       {
         "term": "surgery",
         "count": 6
       },
       {
-        "term": "treatment",
-        "count": 5
-      },
-      {
         "term": "patients",
         "count": 5
       },
       {
-        "term": "medicine",
+        "term": "treatment",
         "count": 5
       },
       {
-        "term": "online november",
-        "count": 4
+        "term": "clinical",
+        "count": 5
       },
       {
         "term": "published online",
         "count": 4
       },
       {
-        "term": "clinical",
+        "term": "online november",
+        "count": 4
+      },
+      {
+        "term": "people",
         "count": 4
       },
       {
@@ -68,7 +68,7 @@
         "count": 2
       },
       {
-        "term": "south africa",
+        "term": "medicine published",
         "count": 2
       }
     ],
@@ -104,30 +104,30 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,155.00",
-        "change_pct": -0.57,
+        "display": "60,087.00",
+        "change_pct": -0.94,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,675.36",
-        "change_pct": -0.93,
+        "display": "1,667.19",
+        "change_pct": -1.89,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Robot-assisted surgery",
+    "term": "Telesurgery",
     "pos": "noun",
     "domain": "Surgery",
-    "definition": "Surgery in which the operator controls instruments through a console, gaining tremor filtering, magnified 3D vision and articulated wrists.",
+    "definition": "Surgery performed by a surgeon who is geographically distant from the patient, using robotic systems and low-latency networks.",
     "source": "The Daily Differential glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 27",
-    "definition": "edit · refresh · view Word of the day for November 27 Lancashire hotpot n (uncountable) A stew of lamb or mutton and onions topped with sliced potatoes baked in a pot; (countable) a dish of this.",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261127000000/en",
+    "word": "Word of the day for November 28",
+    "definition": "edit · refresh · view Word of the day for November 28 birl v (Scotland) (transitive) To cause (something) to rotate quickly; to spin.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261128000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -195,6 +195,20 @@
           "words": 23
         },
         {
+          "id": "7f3a718f1531",
+          "title": "New drugs for tuberculosis are put to the test",
+          "url": "https://www.nature.com/articles/d41591-026-00060-0",
+          "source": "Nature Medicine",
+          "section": "vertical-thinking",
+          "author": "Karen O’Leary",
+          "published": "2026-11-27T00:00:00+00:00",
+          "summary": "Nature Medicine, Published online: 27 November 2026; doi:10.1038/d41591-026-00060-0 A phase 2 platform trial tests a plethora of drug combinations that incorporate new agents ganfeborole and BTZ-043 and identifies two regimens for further clinical development.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
           "id": "441a2146f94d",
           "title": "Wastewater sequencing enables scalable measles surveillance",
           "url": "https://www.nature.com/articles/s41591-026-04761-4",
@@ -207,20 +221,6 @@
           "license": "",
           "license_url": "",
           "words": 30
-        },
-        {
-          "id": "6106d689463a",
-          "title": "Integrated wastewater and clinical genomic surveillance for high-resolution tracking of measles virus evolution and transmission",
-          "url": "https://www.nature.com/articles/s41591-026-04754-3",
-          "source": "Nature Medicine",
-          "section": "vertical-thinking",
-          "author": "Mukhlid Yousif",
-          "published": "2026-11-26T00:00:00+00:00",
-          "summary": "Nature Medicine, Published online: 26 November 2026; doi:10.1038/s41591-026-04754-3 Whole-genome sequencing and phylogenetic analyses of wastewater and surveillance samples during the 2024−2025 measles outbreak in South Africa reveal previously undetected inter-provincial spread and transmission links, suggesting that wastewater-integrated whole-genome surveillance can improve measles monitoring and control…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         },
         {
           "id": "91e31718767d",
@@ -643,9 +643,9 @@
           "words": 21
         },
         {
-          "id": "2a18f4b92e10",
-          "title": "In vitro biomechanical evaluation of screw number in titanium plate fixation of rib fractures",
-          "url": "https://www.nature.com/articles/s41598-026-81852-9",
+          "id": "f673ea1c4408",
+          "title": "Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+          "url": "https://www.nature.com/articles/s41586-026-11411-9",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -657,9 +657,9 @@
           "words": 0
         },
         {
-          "id": "806dc99a82ba",
-          "title": "Data driven disease dynamics models",
-          "url": "https://www.nature.com/articles/s41598-026-75876-4",
+          "id": "2a18f4b92e10",
+          "title": "In vitro biomechanical evaluation of screw number in titanium plate fixation of rib fractures",
+          "url": "https://www.nature.com/articles/s41598-026-81852-9",
           "source": "Nature – Medical Research",
           "section": "medical-trends",
           "author": "",
@@ -755,18 +755,32 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "62f26cde5009",
-          "title": "Parents urged to vaccinate children for flu as hospital cases surge in England",
-          "url": "https://www.theguardian.com/society/2026/nov/27/parents-urged-to-vaccinate-children-for-flu-as-hospital-cases-surge-in-england",
-          "source": "The Guardian – Health",
+          "id": "9b59404c77e9",
+          "title": "Should I get a flu vaccine now?",
+          "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Health",
           "section": "related-articles",
-          "author": "Kevin Rawlinson and agency",
-          "published": "2026-11-27T15:52:57+00:00",
-          "summary": "Pharmacies being asked to administer jabs to children for first time amid NHS pre-Christmas vaccination push Parents are being urged to make sure their children are vaccinated against flu before Christmas amid a surge in hospitalisations, with pharmacies being asked to administer them for the…",
+          "author": "",
+          "published": "2026-11-28T01:03:11+00:00",
+          "summary": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 22
+        },
+        {
+          "id": "28574049554a",
+          "title": "Psychosomatic illness diagnoses must be handled with great care | Letters",
+          "url": "https://www.theguardian.com/society/2026/nov/27/psychosomatic-illness-diagnoses-must-be-handled-with-great-care",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Guardian Staff",
+          "published": "2026-11-27T17:25:29+00:00",
+          "summary": "Willemina Rietsema, a GP, says no explanation doesn’t mean no physical illness, it just means we haven’t found one (yet).",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
         },
         {
           "id": "b1acc5148d56",
@@ -775,26 +789,12 @@
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-27T13:53:16+00:00",
+          "published": "2026-11-27T17:11:58+00:00",
           "summary": "Ambulance chief concerned by extra pressure on area that already has \"poor ambulance performance\"'.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 14
-        },
-        {
-          "id": "4536bdf66122",
-          "title": "What's behind the surge in severe flu cases?",
-          "url": "https://www.bbc.co.uk/news/videos/cwq6e8pez0j7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Health",
-          "section": "related-articles",
-          "author": "",
-          "published": "2026-11-27T13:23:13+00:00",
-          "summary": "A surge in severe cases of flu has prompted health officials in England to urge those most at risk to get vaccinated as soon as possible.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         },
         {
           "id": "5f46bc8e8eae",
