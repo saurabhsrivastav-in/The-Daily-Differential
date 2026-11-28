@@ -5,18 +5,18 @@
     "date": "2026-11-28",
     "date_long": "Saturday, 28 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-28T07:01+05:30",
+    "generated_at": "2026-11-28T21:13+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 49,
+    "total_articles": 47,
     "reading_minutes": 6,
     "source_count": 27,
     "full_text_count": 0,
     "per_section": {
       "vertical-thinking": 10,
       "medicine": 7,
-      "surgery": 7,
+      "surgery": 5,
       "gastroenterology": 8,
       "medical-trends": 8,
       "lectures": 1,
@@ -25,19 +25,19 @@
     "keywords": [
       {
         "term": "health",
-        "count": 13
+        "count": 10
       },
       {
         "term": "disease",
         "count": 7
       },
       {
-        "term": "risk",
+        "term": "drug",
         "count": 6
       },
       {
-        "term": "surgery",
-        "count": 6
+        "term": "people",
+        "count": 5
       },
       {
         "term": "patients",
@@ -48,19 +48,19 @@
         "count": 5
       },
       {
-        "term": "clinical",
+        "term": "risk",
         "count": 5
-      },
-      {
-        "term": "published online",
-        "count": 4
       },
       {
         "term": "online november",
         "count": 4
       },
       {
-        "term": "people",
+        "term": "published online",
+        "count": 4
+      },
+      {
+        "term": "clinical",
         "count": 4
       },
       {
@@ -104,15 +104,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,087.00",
-        "change_pct": -0.94,
+        "display": "59,245.00",
+        "change_pct": -1.22,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,667.19",
-        "change_pct": -1.89,
+        "display": "1,644.58",
+        "change_pct": -1.54,
         "source": "CoinGecko"
       }
     ]
@@ -286,46 +286,46 @@
       "kicker": "The Clinic",
       "articles": [
         {
-          "id": "b72bf8e079d1",
-          "title": "Breathing less oxygen tripled lifespan in mice with a deadly brain disorder",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261125045304.htm",
+          "id": "0e3483613beb",
+          "title": "Scientists may have discovered the hidden root cause of allergies",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261128014255.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-27T09:38:19+00:00",
-          "summary": "Oxygen is essential for life, but too much of it can become dangerously toxic, particularly in people with certain neurological and mitochondrial disorders.",
+          "published": "2026-11-28T13:58:25+00:00",
+          "summary": "Scientists are challenging decades of medical thinking with a surprising hypothesis that allergies may begin with an energy failure inside the body's protective barrier cells rather than an overactive immune system.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 31
         },
         {
-          "id": "4724ea6a9ac4",
-          "title": "One type of physical activity is linked to a 20% higher dementia risk",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+          "id": "9e20a2be2f9d",
+          "title": "Yale scientists may have found a shortcut to the anti-aging benefits of eating less",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261128010416.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-27T08:45:06+00:00",
-          "summary": "A massive study has revealed that exercising for pleasure and performing physical labor at work may have surprisingly different implications for brain health.",
+          "published": "2026-11-28T13:44:12+00:00",
+          "summary": "Yale researchers have discovered that moderate calorie restriction reduces an immune protein linked to aging and chronic inflammation, apparently independently of weight loss. Blocking this protein could potentially mimic some of the benefits of eating less and help people stay healthier for longer.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 43
         },
         {
-          "id": "0c52435abf93",
-          "title": "A fat-burning molecule has an unexpected benefit for your muscles",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
+          "id": "356fb02882fb",
+          "title": "MIT scientists discover a hidden switch that helps colon cancer spread",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261126063326.htm",
           "source": "ScienceDaily – Health & Medicine",
           "section": "medicine",
           "author": "",
-          "published": "2026-11-27T04:42:17+00:00",
-          "summary": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage. The molecule, already available as a dietary supplement, could open new avenues for treating muscle deterioration associated with type 2 diabetes.",
+          "published": "2026-11-28T13:20:15+00:00",
+          "summary": "Scientists have discovered a hidden biological pathway that allows colon cancer to spread and found that a high-fat diet can amplify its activity in mice. Blocking this pathway could offer a powerful new strategy for preventing potentially deadly metastasis.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 41
+          "words": 39
         },
         {
           "id": "fb666164e8ac",
@@ -403,34 +403,6 @@
           "license": "",
           "license_url": "",
           "words": 41
-        },
-        {
-          "id": "ef80c79cfd29",
-          "title": "Mother and three children undergo life-saving heart surgeries within months",
-          "url": "https://www.news-medical.net/news/20261126/Mother-and-three-children-undergo-life-saving-heart-surgeries-within-months.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-26T14:34:28+00:00",
-          "summary": "Annette Wagner and three of her six children share a bond unlike most families: matching six-inch scars from open-heart surgery.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "ce4486e62129",
-          "title": "Why breast augmentation looks so different in Brazil and the US",
-          "url": "https://www.news-medical.net/news/20261126/Why-breast-augmentation-looks-so-different-in-Brazil-and-the-US.aspx",
-          "source": "News-Medical – Surgery",
-          "section": "surgery",
-          "author": "",
-          "published": "2026-11-26T11:28:00+00:00",
-          "summary": "Researchers compare breast surgery practices in Brazil and the US, from implant size and surface to fat grafting, muscle slings and mesh reinforcement.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
         },
         {
           "id": "1ca1c9af87d4",
@@ -615,6 +587,34 @@
       "kicker": "Frontiers & Phrases",
       "articles": [
         {
+          "id": "a6ad9ede9f3d",
+          "title": "‘Population-based screening reveals high prevalence of T-CUS in healthy adults presenting with and without MBL’",
+          "url": "https://www.nature.com/articles/s41408-026-01666-w",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-28T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "2ad8dfef4723",
+          "title": "Evaluation of performance of piezoelectric bone conduction device",
+          "url": "https://www.nature.com/articles/s41598-026-81117-5",
+          "source": "Nature – Medical Research",
+          "section": "medical-trends",
+          "author": "",
+          "published": "2026-11-28T00:00:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
           "id": "aa1ae8a767b8",
           "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
           "url": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss",
@@ -641,34 +641,6 @@
           "license": "",
           "license_url": "",
           "words": 21
-        },
-        {
-          "id": "f673ea1c4408",
-          "title": "Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
-          "url": "https://www.nature.com/articles/s41586-026-11411-9",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-27T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "2a18f4b92e10",
-          "title": "In vitro biomechanical evaluation of screw number in titanium plate fixation of rib fractures",
-          "url": "https://www.nature.com/articles/s41598-026-81852-9",
-          "source": "Nature – Medical Research",
-          "section": "medical-trends",
-          "author": "",
-          "published": "2026-11-27T00:00:00+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
         },
         {
           "id": "2c6e6214af59",
@@ -755,46 +727,60 @@
       "kicker": "Further Reading",
       "articles": [
         {
-          "id": "9b59404c77e9",
-          "title": "Should I get a flu vaccine now?",
-          "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+          "id": "50db1820f538",
+          "title": "Swinney insists Scotland's NHS is safe despite hospital scandal",
+          "url": "https://www.bbc.co.uk/news/articles/c6p3ev43lkk3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-28T01:03:11+00:00",
-          "summary": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+          "published": "2026-11-28T14:43:12+00:00",
+          "summary": "The first minister urged people to attend medical appointments after a leaked report highlighted avoidable deaths at NHS Grampian.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 22
+          "words": 19
         },
         {
-          "id": "28574049554a",
-          "title": "Psychosomatic illness diagnoses must be handled with great care | Letters",
-          "url": "https://www.theguardian.com/society/2026/nov/27/psychosomatic-illness-diagnoses-must-be-handled-with-great-care",
+          "id": "87ff2f93521e",
+          "title": "US regulators eye kratom as overdose deaths mount",
+          "url": "https://www.theguardian.com/us-news/2026/nov/28/kratom-synthetic-drug-overdoses-addiction-regulators",
           "source": "The Guardian – Health",
           "section": "related-articles",
-          "author": "Guardian Staff",
-          "published": "2026-11-27T17:25:29+00:00",
-          "summary": "Willemina Rietsema, a GP, says no explanation doesn’t mean no physical illness, it just means we haven’t found one (yet).",
+          "author": "Edward Helmore",
+          "published": "2026-11-28T14:00:41+00:00",
+          "summary": "Kratom advocates say a ‘critical distinction’ should be made between natural and chemically enhanced versions of drug The US government is paying more attention to kratom after the apparent overdose deaths of young people, but advocates say the synthetic drug hurting people is not the…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 20
+          "words": 45
         },
         {
-          "id": "b1acc5148d56",
-          "title": "Concern over maternity unit move prompts extra paramedic funding",
-          "url": "https://www.bbc.co.uk/news/articles/cq5y12vgkxyxo?at_medium=RSS&at_campaign=rss",
+          "id": "13cee4157322",
+          "title": "‘I thought I could outsmart biology’: more and more women are freezing their eggs – but what happens next?",
+          "url": "https://www.theguardian.com/society/2026/nov/28/more-women-freezing-eggs-ivf-what-happens-next",
+          "source": "The Guardian – Health",
+          "section": "related-articles",
+          "author": "Wendy Syfret",
+          "published": "2026-11-28T12:00:38+00:00",
+          "summary": "The procedure has never been more popular, with high-profile women such as Alexandria Ocasio-Cortez publicly getting in on the act. But outcomes vary.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "705773d0c2f9",
+          "title": "Pharmacies get new powers to swap prescriptions during shortages",
+          "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Health",
           "section": "related-articles",
           "author": "",
-          "published": "2026-11-27T17:11:58+00:00",
-          "summary": "Ambulance chief concerned by extra pressure on area that already has \"poor ambulance performance\"'.",
+          "published": "2026-11-28T06:00:11+00:00",
+          "summary": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 14
+          "words": 26
         },
         {
           "id": "5f46bc8e8eae",
@@ -823,20 +809,6 @@
           "license": "",
           "license_url": "",
           "words": 18
-        },
-        {
-          "id": "8dd40f75030c",
-          "title": "Public health specialist discusses the aftermath of the munitions detonation in Iowa",
-          "url": "https://www.npr.org/2026/11/26/nx-s1-6053950/public-health-specialist-discusses-the-aftermath-of-the-munitions-detonation-in-iowa",
-          "source": "NPR – Health",
-          "section": "related-articles",
-          "author": "A Martínez",
-          "published": "2026-11-26T09:42:38+00:00",
-          "summary": "NPR's A Martinez speaks with public health specialist Will Sander of the University of Illinois Urbana-Champaign about the aftermath of the Iowa munitions detonation.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
         },
         {
           "id": "70297038444c",
